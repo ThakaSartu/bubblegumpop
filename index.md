@@ -239,7 +239,7 @@
   
   <div class="content">
 <div class="animated-visual-01">
-      <img src="https://i.ytimg.com/vi/G-fxhbQBnGM/maxresdefault.jpg" width="320" alt="">
+      <img src="https://i.ytimg.com/vi/G-fxhbQBnGM/maxresdefault.jpg" width="100%" alt="">
     </div>
    </div>
   </div>
