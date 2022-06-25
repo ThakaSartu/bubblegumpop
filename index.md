@@ -12,10 +12,9 @@
 }
 
 .container{
-    width: 1000px;
+width: 100%;
     position: relative;
     display: flex;
-    justify-content: space-between;
 }
 
 .container .card{
