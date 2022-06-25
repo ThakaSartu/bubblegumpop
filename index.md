@@ -92,7 +92,27 @@ width: 100%;
            
 </style>
 
-
+<div class="storyBox">
+        <div class="card">
+            <div class="face face1">
+                <div class="storycontent">
+                        <div class="bookCover">
+  <img style="float:right; width:25%; h " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lectus ligula, venenatis sit amet sapien in, tristique congue urna. Nunc semper magna ut erat faucibus, non tempor nibh euismod. Nullam vel leo eget magna mattis accumsan quis nec sem. Donec
+    gravida arcu eget accumsan placerat..</p>
+</div>
+                </div>
+            </div>
+            <div class="face face2">
+                <div class="storycontent">
+                           <p>Aesop's Fables is a collection of tales by the Greek storyteller Aesop. Most of the tales included here were translated and edited by Reverend George Fyler Townsend (1814-1900) in England and published under the title, Aesop's Fables. <audio controls="" style="width:99%;">
+            <source src="https://etc.usf.edu/lit2go/audio/mp3/aesops-fables-001--the-ant-and-the-grasshopper.366.mp3" type="audio/mpeg">
+            <source src="https://etc.usf.edu/lit2go/audio/ogg/aesops-fables-001--the-ant-and-the-grasshopper.366.ogg" type="audio/ogg">
+            The embedded audio player requires a modern internet browser. You should visit <a href="https://browsehappy.com/">Browse Happy</a> and update your internet browser today!
+          </audio></p>
+        <a href="https://etc.usf.edu/lit2go/35/aesops-fables/">Read More##LiT_To_Go##</a>
+                </div>
+            </div>
 <iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/530053938&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/372194633&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lourbanovevo-hd" title="lourbanoVEVO HD" target="_blank" style="color: #cccccc; text-decoration: none;">lourbanoVEVO HD</a> · <a href="https://soundcloud.com/lourbanovevo-hd/la-modelo-ozuna-ft-cardi-b-version-original" title="La Modelo - Ozuna Ft. Cardi B (Version Original)" target="_blank" style="color: #cccccc; text-decoration: none;">La Modelo - Ozuna Ft. Cardi B (Version Original)</a></div>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/579369501&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
