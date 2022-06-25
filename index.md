@@ -234,56 +234,7 @@
 }	
   
 </style>
-<div class="main">
-  <h1>Image rollover effects</h1>
-  
-  <div class="content">
-    
-    <div class="animated-visual-01">
-      <img src="https://i.ytimg.com/vi/G-fxhbQBnGM/maxresdefault.jpg" width="320" alt="">
-    </div>
-
-    <div class="animated-visual-02">
-      <img src="https://i.pinimg.com/originals/dd/68/c0/dd68c0e8d14fe11b65977d6b2b1b3bf8.jpg" width="320" alt="">
-    </div>
-
-    <div class="animated-visual-03">
-      <img src="https://i.pinimg.com/originals/dd/68/c0/dd68c0e8d14fe11b65977d6b2b1b3bf8.jpg" width="320" alt="">
-    </div>
-
-    <div class="animated-visual-04">
-      <img src="https://i.pinimg.com/originals/dd/68/c0/dd68c0e8d14fe11b65977d6b2b1b3bf8.jpg" width="320" alt="">
-    </div>
-
-    <div class="animated-visual-05">
-      <img src="https://i.pinimg.com/originals/dd/68/c0/dd68c0e8d14fe11b65977d6b2b1b3bf8.jpg" width="100%" alt="">
-    </div>
-    
-  </div>
-  
-  <footer>
-    <p style="color: #fff;">Crédit photo <a href="https://unsplash.com/photos/PC_lbSSxCZE" target="_blank">Unsplash</a></p>
-    <br>
-    <a href="https://sophiesophie.fr" target="_blank">sophiesophie.fr</a>
-    </footer>
-</div>
-<div class='some-page-wrapper'>
-  <div class='row'>
-    <div class='column'>
-      <div class='animated-visual-03'>
-        <img src="https://i.pinimg.com/750x/b8/7a/8c/b87a8ce6ad2dedee9e21d5386af9b3ba.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-    <div class='column'>
-      <div class='green-column'>
-            <div class="animated-visual-03">
-      <img src="https://i.pinimg.com/originals/dd/68/c0/dd68c0e8d14fe11b65977d6b2b1b3bf8.jpg" width="100%" alt="">
-    </div>
-       
-      </div>
-    </div>
-  </div>
-</div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/843505996&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/843506050&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 ## Welcome to GitHub Pages
 
