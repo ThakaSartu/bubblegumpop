@@ -2,24 +2,24 @@
   
 
 
-.container{
+.storyBox{
 width: 100%;
     position: relative;
     display: flex;
 }
 
-.container .card{
+.storyBox .card{
     position: relative;
     cursor: pointer;
 }
 
-.container .card .face{
+.storyBox .card .face{
     width: 100%;
     height: 200px;
     transition: 0.5s;
 }
 
-.container .card .face.face1{
+.storyBox .card .face.face1{
     position: relative;
     background: #333;
     display: flex;
@@ -29,25 +29,25 @@ width: 100%;
     transform: translateY(100px);
 }
 
-.container .card:hover .face.face1{
+.storyBox .card:hover .face.face1{
     background: #ff0057;
     transform: translateY(0);
 }
 
-.container .card .face.face1 .content{
+.storyBox .card .face.face1 .content{
     opacity: 0.2;
     transition: 0.5s;
 }
 
-.container .card:hover .face.face1 .content{
+.storyBox .card:hover .face.face1 .content{
     opacity: 1;
 }
 
-.container .card .face.face1 .content img{
+.storyBox .card .face.face1 .content img{
     max-width: 100px;
 }
 
-.container .card .face.face1 .content h3{
+.storyBox .card .face.face1 .content h3{
     margin: 10px 0 0;
     padding: 0;
     color: #fff;
@@ -55,7 +55,7 @@ width: 100%;
     font-size: 1.5em;
 }
 
-.container .card .face.face2{
+.storyBox .card .face.face2{
     position: relative;
     background: #fff;
     display: flex;
@@ -67,16 +67,16 @@ width: 100%;
     transform: translateY(-100px);
 }
 
-.container .card:hover .face.face2{
+.storyBox .card:hover .face.face2{
     transform: translateY(0);
 }
 
-.container .card .face.face2 .content p{
+.storyBox .card .face.face2 .content p{
     margin: 0;
     padding: 0;
 }
 
-.container .card .face.face2 .content a{
+.storyBox .card .face.face2 .content a{
     margin: 15px 0 0;
     display:  inline-block;
     text-decoration: none;
@@ -86,14 +86,14 @@ width: 100%;
     border: 1px solid #333;
 }
 
-.container .card .face.face2 .content a:hover{
+.storyBox .card .face.face2 .content a:hover{
     background: #333;
     color: #fff;
 }
   
 </style>  
 
-<div class="container">
+<div class="storyBox">
         <div class="card">
             <div class="face face1">
                 <div class="content">
