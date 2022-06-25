@@ -1,15 +1,6 @@
 <style>
   
- body{
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    background: #333;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: consolas;
-}
+
 
 .container{
 width: 100%;
