@@ -234,11 +234,15 @@
 }	
   
 </style>
-
+<div class="main">
+  <h1>Image rollover effects</h1>
+  
+  <div class="content">
 <div class="animated-visual-01">
       <img src="https://i.ytimg.com/vi/G-fxhbQBnGM/maxresdefault.jpg" width="320" alt="">
     </div>
-
+   </div>
+  </div>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/843506050&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 ## Welcome to GitHub Pages
