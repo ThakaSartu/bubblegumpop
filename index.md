@@ -29,7 +29,7 @@ width: 100%;
 }
 
 .storyBox .card:hover .face.face1{
-    background: #ff0057;
+    background: #45FF00;
     transform: translateY(0);
 }
 
