@@ -103,7 +103,7 @@ width: 100%;
             </div>
             <div class="face face2">
                 <div class="content">
-                    <p>Aesop's Fables is a collection of tales by the Greek storyteller Aesop. Most of the tales included here were translated and edited by Reverend George Fyler Townsend (1814-1900) in England and published under the title, Aesop's Fables. Townsend's translations were influential on many subsequent collections of fables. Some of the tales included here were taken from the book How to Tell Stories to Children and Some Stories To Tell, by Sara Cone Bryant and published in London in 1918. In some cases, we have included both Townsend's version and Bryant's version of the same tale.</p>
+                    <p>Aesop's Fables is a collection of tales by the Greek storyteller Aesop. Most of the tales included here were translated and edited by Reverend George Fyler Townsend (1814-1900) in England and published under the title, Aesop's Fables. Townsend's translations were influential on many subsequent collections of fables. Some of the tales included here were taken from the book How to Tell Stories to Children and Some Stories To Tell, by Sara Cone Bryant and published in London in 1918. </p>
                         <a href="https://etc.usf.edu/lit2go/35/aesops-fables/">Read More##LiT_To_Go##</a>
                 </div>
             </div>
