@@ -97,8 +97,11 @@ width: 100%;
         <div class="card">
             <div class="face face1">
                 <div class="storycontent">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
-                    <h3>Design</h3>
+                        <div class="bookCover">
+  <img style="float:right; width:25%; h " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec lectus ligula, venenatis sit amet sapien in, tristique congue urna. Nunc semper magna ut erat faucibus, non tempor nibh euismod. Nullam vel leo eget magna mattis accumsan quis nec sem. Donec
+    gravida arcu eget accumsan placerat..</p>
+</div>
                 </div>
             </div>
             <div class="face face2">
