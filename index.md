@@ -15,7 +15,7 @@ img {
   
 h2 {
 font-size: 30px;
-font-family: monospace;
+font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
  padding: 0px;
  font-weight: 900;
  margin: 0px;
@@ -43,10 +43,11 @@ text-align: left;
  0 0 92px #0fa,
  0 0 102px #0fa,
  0 0 151px #0fa;
+ font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
  float: left;
  font-size: 75px;
  line-height: 60px;
- padding-top: 4px;
+ padding-top: 7px;
  padding-right: 8px;
  padding-left: 3px;
 }
@@ -62,6 +63,7 @@ text-align: left;
  0 0 92px #0fa,
  0 0 102px #0fa,
  0 0 151px #0fa;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 } 
   
 .storyBox {
