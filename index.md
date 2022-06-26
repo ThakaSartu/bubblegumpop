@@ -14,8 +14,8 @@ img {
 }
   
 h2 {
-font-size: 20px;
-font-family: system-ui;
+font-size: 30px;
+font-family: monospace;
 color: #fff;
  padding: 0px;
  font-weight: 900;
@@ -290,24 +290,7 @@ When the fashion for breakdancing decreased it the whole culture seemed trashed 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/871426135&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/308016226&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1149243178&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/169170570&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alinabaraz" title="Alina Baraz" target="_blank" style="color: #cccccc; text-decoration: none;">Alina Baraz</a> · <a href="https://soundcloud.com/alinabaraz/alina-baraz-galimatias-fantasy-1" title="Alina Baraz &amp; Galimatias - Fantasy" target="_blank" style="color: #cccccc; text-decoration: none;">Alina Baraz &amp; Galimatias - Fantasy</a></div>
-<div class="storyBox">
-        <div class="card">
-            <div class="face face1">
-                <div class="storycontent">
-                        <div class="bookCover">
-  <img style="float:right; width:25%; h " src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
-
-</div>
-                </div>
-            </div>
-            <div class="face face2">
-                <div class="storycontent">
-                    <p>Aesop's Fables is a collection of tales by the Greek storyteller Aesop. Most of the tales included here were translated and edited by Reverend George Fyler Townsend (1814-1900) in England and published under the title, Aesop's Fables. Townsend's translations were influential on many subsequent collections of fables. Some of the tales included here were taken from the book How to Tell Stories to Children and Some Stories To Tell, by Sara Cone Bryant and published in London in 1918. </p>
-                        <a href="https://etc.usf.edu/lit2go/35/aesops-fables/">Read More##LiT_To_Go##</a>
-                </div>
-            </div>
-     
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/169170570&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/223118835&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/982907785&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1039579195&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
