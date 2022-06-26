@@ -259,9 +259,6 @@ When the fashion for breakdancing decreased it the whole culture seemed trashed 
 </div>
 <a href="http://www.hiphoparea.com/breakdance"> Taken from hiphoparea.cOm </a>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/AVZyNqDjgnI" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<iframe src="https://player.vimeo.com/video/11938213?h=4fd886812d&color=c2c2c2&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<iframe src="https://player.vimeo.com/video/56406342?h=9188207402&color=c2c2c2&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
 
 <div class="storyBox">
         <div class="card">
