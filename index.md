@@ -7,7 +7,7 @@
 }
 
 img {
- padding: 3px;
+ padding: 0px;
  margin: 0px;
  width: 100%; 
  border-bottom: 1px solid #c9ff23;
@@ -16,7 +16,6 @@ img {
 h2 {
 font-size: 30px;
 font-family: monospace;
-color: #fff;
  padding: 0px;
  font-weight: 900;
  margin: 0px;
@@ -154,7 +153,7 @@ text-align: left;
   color: #fff;
 }
 .twoPanelSpread {
-  margin: 15px;
+  margin: 0px;
   background-color: #00db46; /* For browsers that do not support gradients */
   background-image: linear-gradient(to right, #e66250, #ff80cc);
 }
