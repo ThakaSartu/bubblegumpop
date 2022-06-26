@@ -1,13 +1,8 @@
 <style>
   body {
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
+
   background-color: #010a00;
   background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-size: 1rem;
