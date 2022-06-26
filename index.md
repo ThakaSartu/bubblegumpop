@@ -216,7 +216,7 @@ a:hover {
 One day my blog will `RETURN` `true` when run from the command line 
 </span>
 ## Hole To Another Universe 
-
+<img style="float:right; width:100%; height:100%;" alt="##iTS_THA_ONE_HUNNiD_EMOJi" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
