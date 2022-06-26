@@ -2,8 +2,7 @@
   body {
   background-color: #010a00;
   background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family: monospace;
   font-size: 1rem;
 }
 
@@ -11,11 +10,10 @@ img {
  padding: 3px;
  margin: 0px;
  width: 100%; 
- border: 1px solid #c9ff23;
-
+ border-bottom: 1px solid #c9ff23;
 }
   
-h2{
+h2 {
 font-size: 20px;
 font-family: system-ui;
 color: #fff;
@@ -33,7 +31,6 @@ color: #fff;
     0 0 100px #0ff,
     0 0 150px #0ff;
 text-align: left;
-
 } 
  
 .firstcharacter {
