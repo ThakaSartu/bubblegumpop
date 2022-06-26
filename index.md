@@ -15,7 +15,26 @@ img {
 
 }
   
- 
+h2{
+font-size: 20px;
+font-family: system-ui;
+color: #fff;
+ padding: 0px;
+ font-weight: 900;
+ margin: 0px;
+ color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #0ff,
+    0 0 80px #0ff,
+    0 0 90px #0ff,
+    0 0 100px #0ff,
+    0 0 150px #0ff;
+text-align: left;
+
+} 
  
 .firstcharacter {
  color: #fff;
