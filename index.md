@@ -22,7 +22,7 @@ img {
   
 h2 {
 font-size: 90px;
-font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+font-family: "Lucida Console", Terminal, monospace;
 color: #fff;
 font-weight: 900;
 padding: 0px;
