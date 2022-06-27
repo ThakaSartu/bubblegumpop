@@ -14,12 +14,14 @@ img {
 }
   
 h2 {
-font-size: 30px;
+font-size: 90px;
 font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
- padding: 0px;
- font-weight: 900;
- margin: 0px;
- color: #fff;
+color: #fff;
+font-weight: 900;
+padding: 0px;
+margin: 0px;
+text-align: left;
+font-variant-caps: small-caps;	
   text-shadow:
     0 0 5px #fff,
     0 0 10px #fff,
@@ -29,7 +31,7 @@ font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, mon
     0 0 90px #0ff,
     0 0 100px #0ff,
     0 0 150px #0ff;
-text-align: left;
+
 } 
  
 .firstcharacter {
