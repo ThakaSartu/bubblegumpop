@@ -226,7 +226,7 @@ a:hover {
   padding: 50px;
 	 clear: both;
   margin: 0px;
-  border-bottom: 5px dashed #c9ff23;
+  border-bottom: 0px dashed #c9ff23;
   font-size: 20px;
   color: white;
 font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -240,10 +240,9 @@ background: rgb(255, 108, 35); /* Fallback for older browsers without RGBA-suppo
 }
         
 </style>
-<span class="neonText">
-One day my blog will `RETURN` `true` when run from the command line 
-</span>
+
 ## Hole To Another Universe 
+<img style="float:left;width:50%;" src="https://images.eil.com/large_image/ANITA_BAKER_CAUGHT%2BUP%2BIN%2BTHE%2BRAPTURE-695540.jpg" />
 <div class="divAlbumReview">
  <img style="float:left;width:50%;" src="https://i.discogs.com/nokYmhZh4gUe1NYfMaUzKoCZ059Svbyhr9exCbGlRKQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDg0/NzAtMTQwMDc5NTEy/OC03NDgxLmpwZWc.jpeg" /> 
   
@@ -382,4 +381,6 @@ When the fashion for breakdancing decreased it the whole culture seemed trashed 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1039579195&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/843505996&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/843506050&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-## Welcome to GitHub Pages
+<span class="neonText">
+One day my blog will `RETURN` `true` when run from the command line 
+</span>
