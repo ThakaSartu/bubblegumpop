@@ -1,5 +1,12 @@
 <style>
-  body {
+
+	
+* {
+margin: 0;
+padding: 0;
+}	
+	
+body {
   background-color: #010a00;
   background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
   font-family: monospace;
