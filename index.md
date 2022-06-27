@@ -216,7 +216,6 @@ a:hover {
 	background-image: url("https://m.media-amazon.com/images/I/41QKR5BJVZL.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: red;
   padding: 50px;
 	 clear: both;
   margin: 0px;
