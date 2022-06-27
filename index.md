@@ -17,7 +17,7 @@ img {
  padding: 0px;
  margin: 0px;
  width: 100%; 
- border-bottom: 5px dashed #c9ff23;
+ border-bottom: 0px dashed #c9ff23;
 }
   
 h2 {
