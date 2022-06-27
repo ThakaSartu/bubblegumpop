@@ -243,7 +243,7 @@ One day my blog will `RETURN` `true` when run from the command line
   <img style="float:right;width:50%;" src="https://i.discogs.com/PploTmKY_FiBuPtziQo78sOn3tIsoxqXHh2d8nz5YMk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDg0/NzAtMTQwMDc5NTEy/OC03MDE4LmpwZWc.jpeg" />
  <p class="pdivAlbumReview"> 
  
-Caught Up (Millie Jackson album)
+<span class="firstcharacter">Caught Up (Millie Jackson album)</span>
 From Wikipedia, the free encyclopedia
 Jump to navigationJump to search
 Caught Up
