@@ -209,13 +209,91 @@ text-align: left;
 a:hover {
   color: #c9ff23;
 }        
-        
+
+  .divAlbumReview  {
+	background-image: url("https://m.media-amazon.com/images/I/41QKR5BJVZL.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: red;
+  padding: 50px;
+  margin: 0px;
+  border-bottom: 5px dashed #c9ff23;
+  font-size: 20px;
+  color: white;
+font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  
+}
+
+.pdivAlbumReview {
+
+background: rgb(255, 108, 35); /* Fallback for older browsers without RGBA-support */
+    background: rgba(255, 108, 35, 0.5);
+}
         
 </style>
 <span class="neonText">
 One day my blog will `RETURN` `true` when run from the command line 
 </span>
 ## Hole To Another Universe 
+<div class="divAlbumReview">
+ <img src="https://i.discogs.com/nokYmhZh4gUe1NYfMaUzKoCZ059Svbyhr9exCbGlRKQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDg0/NzAtMTQwMDc5NTEy/OC03NDgxLmpwZWc.jpeg" /> 
+  
+  <img src="https://i.discogs.com/PploTmKY_FiBuPtziQo78sOn3tIsoxqXHh2d8nz5YMk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDg0/NzAtMTQwMDc5NTEy/OC03MDE4LmpwZWc.jpeg" />
+ <p class="pdivAlbumReview"> 
+ 
+Caught Up (Millie Jackson album)
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Caught Up
+Caughtup.jpg
+Studio album by Millie Jackson
+Released	1974
+Recorded	1973-1974
+Studio	Muscle Shoals Sound Studio, Sheffield, Alabama
+Criteria Studios, Miami, Florida
+Genre	Deep soul
+Length	35:59
+Label	Spring
+Producer	Brad Shapiro
+Millie Jackson chronology
+I Got To Try It One Time
+(1974)	Caught Up
+(1974)	Still Caught Up
+(1975)
+ 
+Professional ratings
+Review scores
+Source	Rating
+Allmusic	 [1]
+Christgau's Record Guide	A–[2]
+Caught Up is the fourth album by R&B musician Millie Jackson. It includes the hit singles, "(If Loving You Is Wrong) I Don't Want to Be Right", "The Rap" and "I'm Through Trying to Prove My Love to You." A concept album, Caught Up follows the story of a woman having an affair with a married man. Side A features Jackson singing from the mistress' point of view and Side B is told from the wife's point of view.
+
+Track listing
+Side A
+"(If Loving You Is Wrong) I Don't Want to Be Right" (Homer Banks, Carl Hampton, Raymond Jackson) – 3:56
+"The Rap" (Millie Jackson) – 5:53
+"(If Loving You Is Wrong) I Don't Want to Be Right (Reprise)" (Homer Banks, Carl Hampton, Raymond Jackson) - 1:13
+"All I Want is a Fighting Chance" (Millie Jackson, King Sterling) – 2:37
+"I'm Tired of Hiding" (Phillip Mitchell, Billy Clements) – 3:51
+Side B
+"It's All Over but the Shouting" (Millie Jackson, King Sterling) – 2:51
+"So Easy Going, So Hard Coming Back" (Phillip Mitchell) – 4:07
+"I'm Through Trying to Prove My Love to You" (Bobby Womack) – 5:48
+"Summer (The First Time)" (Bobby Goldsboro) – 5:43
+Personnel
+Millie Jackson - vocals, concept
+Barry Beckett - keyboards
+David Hood - bass
+Roger Hawkins - drums
+Jimmy Johnson - guitar
+Mike Lewis - orchestration
+Tom Roady, Brad Shapiro - percussion
+Technical
+   David Wiseltier - cover design</p>
+   <iframe width="100%" height="315" src="https://www.youtube.com/embed/mutUj7oMBzE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+ </div>
+<a src="https://youtu.be/u58ljXHvFzM" > <img style=" width:100%;" alt="##BARRY_WHiTE##CANT_GET_ENOUGH" src="https://images.genius.com/b0666620c6c7378c1e9fe5c38d0d453d.1000x1000x1.jpg" /></a>
+<a src="https://www.cssfontstack.com/monospace"> CSS font styling tool for  ##READABiLiTY </a>
 <img style="float:right; width:100%; height:100%;" alt="##iTS_THA_ONE_HUNNiD_EMOJi" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
 <div class='twoPanelSpread'>
   <div class='row'>
