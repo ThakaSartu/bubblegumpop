@@ -321,7 +321,34 @@ transform: scale(1.05);
 
 ## Hole To Another Universe
 <a href="https://youtu.be/yJcks5n43hs" alt="I_WONT_BACK_DOWN_GIVE_HIM_HIS_THUNDAH##DET_WUZ_MUNI_LOWNG> <img src="https://media.pitchfork.com/photos/5c9112047741b65a56c6c4f5/1:1/w_600/ChemicalBrothers_NoGeography.jpg" /><a/>
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/CB_MAH_PACKSHOT_ART.webp" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/ELLIE%23%23JAPANESEcover.jpg " alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://e.snmc.io/i/300/s/ffbf35c9df5d3c5aadb7c3da00936c81/1669098" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://e.snmc.io/i/300/s/ffbf35c9df5d3c5aadb7c3da00936c81/1669098 " alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
  ![image](https://user-images.githubusercontent.com/93835618/145619309-c586a8c5-0759-422b-a02a-25186dab3289.png)
 
 <h2 class="neonText"> Its been 563 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h2> 
