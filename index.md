@@ -9,7 +9,15 @@ padding: 0;
 body {
   background-color: #010a00;
   background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
-  font-family: monospace;
+  font-family:  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace, 
+    BlinkMacSystemFont, 
+    "Segoe UI", 
+    Roboto, 
+    Oxygen-Sans, 
+    Ubuntu, 
+    Cantarell, 
+    "Helvetica Neue", 
+    sans-serif;
   font-size: 1rem;
 }
 
@@ -22,7 +30,15 @@ img {
   
 h2 {
 font-size: 90px;
-font-family: "Lucida Console", Terminal, monospace;
+font-family:  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace, 
+    BlinkMacSystemFont, 
+    "Segoe UI", 
+    Roboto, 
+    Oxygen-Sans, 
+    Ubuntu, 
+    Cantarell, 
+    "Helvetica Neue", 
+    sans-serif;
 color: #fff;
 font-weight: 900;
 padding: 0px;
@@ -52,7 +68,15 @@ font-variant-caps: small-caps;
  0 0 92px #0fa,
  0 0 102px #0fa,
  0 0 151px #0fa;
- font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+ font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace, 
+    BlinkMacSystemFont, 
+    "Segoe UI", 
+    Roboto, 
+    Oxygen-Sans, 
+    Ubuntu, 
+    Cantarell, 
+    "Helvetica Neue", 
+    sans-serif;
  float: left;
  font-size: 75px;
  line-height: 60px;
@@ -468,7 +492,7 @@ When the fashion for breakdancing decreased it the whole culture seemed trashed 
                 </div>
             </div>
                 
-<iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/530053938&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe src="https://archive.org/embed/msdos_Simpsons_Arcade_Game_The_1991" width="100%" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/372194633&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/579369501&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/871426135&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
