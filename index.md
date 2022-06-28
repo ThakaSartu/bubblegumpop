@@ -24,7 +24,7 @@ body {
 iframe {
     margin: none;
     padding: none;
-    background: blue; /* this is just to make the frames easier to see */
+    background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_car.jpg");
     border: none;
 }
 	
