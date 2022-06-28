@@ -8,7 +8,7 @@ padding: 0;
 	
 body {
   background-color: #010a00;
-  background-image: url("https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_city.jpg?itok=MJSd2yw9");
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg");
     font-family:  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace, 
     BlinkMacSystemFont, 
     "Segoe UI", 
@@ -201,10 +201,12 @@ font-variant-caps: small-caps;
   background: #333;
   color: #fff;
 }
+	
+	
 .twoPanelSpread {
-  margin: 0px;
-  background-color: #00db46; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, #e66250, #ff80cc);
+ margin: 0px;
+ padding: 0px;
+ background: transparent url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif) center repeat;
 }
 
 .row {
