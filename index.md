@@ -1,180 +1,202 @@
 <style>
 
-	
-	
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-        font-family: "Lucida Console", -apple-system, Monaco, "Bitstream Vera Sans Mono",  Terminal, monospace, 
-    BlinkMacSystemFont, 
-    "Segoe UI", 
-    Roboto, 
-    Oxygen-Sans, 
-    Ubuntu, 
-    Cantarell, 
-    "Helvetica Neue", 
+	html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-family: "Lucida Console", -apple-system, Monaco,
+    "Bitstream Vera Sans Mono", Terminal, monospace, BlinkMacSystemFont,
+    "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue",
     sans-serif;
-	
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
 }
-body {
-	line-height: 1.5;
-	color: white
+
+ol,
+ul {
+  list-style: none;
 }
-ol, ul {
-	list-style: none;
+blockquote,
+q {
+  quotes: none;
 }
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
 }
 table {
-	border-collapse: collapse;
-	border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
-	
+
 * {
-margin: 0;
-padding: 0;
-}	
-	
+  margin: 0;
+  padding: 0;
+}
+
 body {
   color: white;
   background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg");
-    font-family:  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace, 
-    BlinkMacSystemFont, 
-    "Segoe UI", 
-    Roboto, 
-    Oxygen-Sans, 
-    Ubuntu, 
-    Cantarell, 
-    "Helvetica Neue", 
-    sans-serif;
-  
+  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
+    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  line-height: 1.5;
 }
-	
+
 iframe {
-    margin: none;
-    padding: none;
-    background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_car.jpg");
-    border: none;
+  margin: 0px;
+  padding: 0px;
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_car.jpg");
+  border: none;
 }
 
 p.story {
-	
-	
-	background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif");
-	
-	
-	}
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif");
+}
 img {
- padding: 0px;
- margin: 0px;
- width: 100%; 
- }
-  	
-h2, h1, h3 {
-color: white;
-background: transparent url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif) center repeat;
-font-family:  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace, 
-    BlinkMacSystemFont, 
-    "Segoe UI", 
-    Roboto, 
-    Oxygen-Sans, 
-    Ubuntu, 
-    Cantarell, 
-    "Helvetica Neue", 
-    sans-serif;
-font-weight: 900;
-padding: 0px;
-margin: 0px;
-text-align: left;
-font-variant-caps: small-caps;	
-  text-shadow:
-    0 0 5px #fff,
-    0 0 10px #fff,
-    0 0 20px #fff,
-    0 0 40px #0ff,
-    0 0 80px #0ff,
-    0 0 90px #0ff,
-    0 0 100px #0ff,
-    0 0 150px #0ff;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+}
 
-} 
- 
+h2,
+h1,
+h3 {
+  color: white;
+  background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
+    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-weight: 900;
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  font-variant-caps: small-caps;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}
+
 .firstcharacter {
- color: #fff;
- text-shadow:
- 0 0 7px #fff,
- 0 0 10px #fff,
- 0 0 21px #fff,
- 0 0 42px #0fa,
- 0 0 82px #0fa,
- 0 0 92px #0fa,
- 0 0 102px #0fa,
- 0 0 151px #0fa;
- font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace, 
-    BlinkMacSystemFont, 
-    "Segoe UI", 
-    Roboto, 
-    Oxygen-Sans, 
-    Ubuntu, 
-    Cantarell, 
-    "Helvetica Neue", 
-    sans-serif;
- float: left;
- font-size: 75px;
- line-height: 60px;
- padding-top: 7px;
- padding-right: 8px;
- padding-left: 3px;
+  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
+    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  float: left;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 7px;
+  padding-right: 8px;
+  padding-left: 3px;
 }
 
 .neonText {
- color: #fff;
- text-shadow:
- 0 0 7px #fff,
- 0 0 10px #fff,
- 0 0 21px #fff,
- 0 0 42px #0fa,
- 0 0 82px #0fa,
- 0 0 92px #0fa,
- 0 0 102px #0fa,
- 0 0 151px #0fa;
- font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace, 
-    BlinkMacSystemFont, 
-    "Segoe UI", 
-    Roboto, 
-    Oxygen-Sans, 
-    Ubuntu, 
-    Cantarell, 
-    "Helvetica Neue", 
-    sans-serif;
-} 
-  
+  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
+    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
 .storyBox {
   width: 100%;
   position: relative;
@@ -263,12 +285,13 @@ font-variant-caps: small-caps;
   background: #333;
   color: #fff;
 }
-	
-	
+
 .twoPanelSpread {
- margin: 0px;
- padding: 0px;
- background: transparent url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif) center repeat;
+  margin: 0px;
+  padding: 0px;
+  background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
 }
 
 .row {
@@ -286,40 +309,36 @@ font-variant-caps: small-caps;
   overflow: hidden;
 }
 
-
 .leftColumn {
-  background-color: #2470FF;
+  background-color: #2470ff;
   width: 100%;
 }
 
 .leftColumn img {
-  
-    flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden
-  
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
 }
 
 .rightColumn {
   background-color: #c9ff23;
 }
-.rightColumn img { 
- 
-    flex-shrink: 0;
-    min-width: 100%;
-    min-height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden
+.rightColumn img {
+  flex-shrink: 0;
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
 }
 a:hover {
   color: #c9ff23;
-}        
+}
 
 .divAlbumReview {
   background-image: url("https://m.media-amazon.com/images/I/41QKR5BJVZL.jpg");
@@ -336,54 +355,78 @@ a:hover {
 }
 
 .pdivAlbumReview {
-  background: rgb(
-    255,
-    108,
-    35
-  ); /* Fallback for older browsers without RGBA-support */
   background: rgba(255, 108, 35, 0.5);
 }
 
-   
-	
 .broken-width {
   width: 100%;
 }
 
 .right-width {
-   min-width: 100%;
+  min-width: 100%;
 }
 
-audio
-{
--webkit-transition:all 0.5s linear;
--moz-transition:all 0.5s linear;
--o-transition:all 0.5s linear;
-transition:all 0.5s linear;
--moz-box-shadow: 2px 2px 4px 0px #006773;
--webkit-box-shadow:  2px 2px 4px 0px #006773;
-box-shadow: 2px 2px 4px 0px #006773;
--moz-border-radius:7px 7px 7px 7px ;
--webkit-border-radius:7px 7px 7px 7px ;
-border-radius:7px 7px 7px 7px ;
+audio {
+  -webkit-transition: all 0.5s linear;
+  -moz-transition: all 0.5s linear;
+  -o-transition: all 0.5s linear;
+  transition: all 0.5s linear;
+  -moz-box-shadow: 2px 2px 4px 0px #006773;
+  -webkit-box-shadow: 2px 2px 4px 0px #006773;
+  box-shadow: 2px 2px 4px 0px #006773;
+  -moz-border-radius: 7px 7px 7px 7px;
+  -webkit-border-radius: 7px 7px 7px 7px;
+  border-radius: 7px 7px 7px 7px;
 }
 
-audio:hover, audio:focus, audio:active
-{
--webkit-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
--moz-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
-box-shadow: 15px 15px 20px rgba(0,0, 0, 0.4);
--webkit-transform: scale(1.05);
--moz-transform: scale(1.05);
-transform: scale(1.05);
+audio:hover,
+audio:focus,
+audio:active {
+  -webkit-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
+  box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.4);
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  transform: scale(1.05);
 }
+
+#row_image {
+  display: flex;
+  border: 5px solid #ccc;
+  background: #666;
+  max-width: 100%;
+  padding: 50px;
+  max-height: 100%;
+  background-image: url("https://www.whosampled.com/static/track_images_100/mr11753_2010108_73251697983.jpg");
+  background-repeat: repeat;
+}
+	
 	
 	
 </style>
 
 ## Hole To Another Universe
 <a href="https://youtu.be/DFMEBquxeO8" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_rainbow/bd_rainbow_example1.jpg" /> </a>
-<div class="row_image">
+<div id="row_image">
+
+ <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/img355.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BuBBLEGUMPOP_CSS4DANCE411.PNG" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BuBBLEGUMPOP_CSS4DANCE411a.PNG" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div >
 
 <a href="https://www.youtube.com/c/TapeDeckWreck" target="_blank"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Capture.PNG" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" > </a>
 
@@ -496,12 +539,13 @@ transform: scale(1.05);
     </div>
   </div>
 </div>
- ![image](https://user-images.githubusercontent.com/93835618/145619309-c586a8c5-0759-422b-a02a-25186dab3289.png)
+<img src="https://fordcobraengines.com/wp-content/uploads/2015/04/IMG_4180-e1463598105418.jpg" alt="COYOTE_CRATE_ENGINE" >
+	
 
 
 <h2 class="neonText"> 
  Its been 774 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h2> 
-<p> Her mother mother Erika Renee Kelly was kidnapped on Feb 2,2020. A local Atlanta Matt Field bragged about it on Facebook stating "I_SOLD_HER. I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as [ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with [Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the [Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at [Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us/) and worked hard to get a new 9-5.
+<p> <span class="firstcharacter">Her mother mother Erika Renee Kelly was kidnapped on Feb 2,2020. A local Atlanta Matt Field bragged about it on Facebook stating "I_SOLD_HER.</span> I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as [ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with [Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the [Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at [Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us/) and worked hard to get a new 9-5.
  
 Constancia did not like me or Coral living with her and Akeeva so they undercut me with accusations of erratic behavior and started thier own dfacs case accusing me of schizophrenia. I had no income and was repeatedly denied foodstamps and welfare by a woman named ##DANIELLE_MASHONGA_and_her_colleage##MANESSA_WARNER... ##Coral would ask <h2>##Where_is_mommy?!?</h2>I told her that Matt stole and raped her and she needs our help, so we have to keep looking. Constancia and Akeeva constantly defended Matt. He is a known pedophile and child and adult rapist in the Atlanta art community. I did not know this. We shopped at the same record store and he often offered me work. I loath rapist. I loath pedophilia. Once I learned of his ways I distanced myself. So ##Erikas_mother_and_sisters_DEFENDING_HIM, struck me as bizarre. "##Its_just_a_white_boy_joke##He_didnt_sell_her. [DFACS](https://dfcs.georgia.gov/) stalked me on Facebook and indirectly accused me of ##CHILD_MOLESTATION for a video where we were playing with a wand style muscle massager, it was innocent.  They [forcibly removed Coral](https://www.youtube.com/watch?v=AmYdIZhahrQ) saying that I was saying ["inappropriate things"](https://www.youtube.com/watch?v=9sCE3HhjSbY) and violating her by saying that her mom had been raped and kidnapped. I learned that telling Coral the ugly truth was the best way to keep a solid trust filled relationship with her.
  
