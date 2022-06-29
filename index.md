@@ -340,7 +340,7 @@ transform: scale(1.05);
     </div>
   </div>
 </div>
-<a href="https://youtu.be/yJcks5n43hs" alt="I_WONT_BACK_DOWN_GIVE_HIM_HIS_THUNDAH##DET_WUZ_MUNI_LOWNG> <img src="https://media.pitchfork.com/photos/5c9112047741b65a56c6c4f5/1:1/w_600/ChemicalBrothers_NoGeography.jpg" /><a/>
+<a href="https://youtu.be/yJcks5n43hs" alt="I_WONT_BACK_DOWN_GIVE_HIM_HIS_THUNDAHDET_WUZ_MUNI_LOWNG > <img src="https://media.pitchfork.com/photos/5c9112047741b65a56c6c4f5/1:1/w_600/ChemicalBrothers_NoGeography.jpg" /><a/>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
