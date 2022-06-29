@@ -528,15 +528,11 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 
 
 <a href="https://youtu.be/R2rct18-iSM" target="_blank">
-<img src="https://previews-te.wetransfer.net/file/wetransfer/j1oc/sx7o7n0024o62tetf20211209185240/sfnjkna05umtp18ng20211209203353?height=2048&source=spaceship&width=2048&s=c2447d9751e86f043f5382d310516d51daeacf2c&Expires=1639085661&Signature=cn9UJSzK5KY117oGH7W-f8hEDJQuQ2-44NXG8b06Jkc63lRkAmezfU~X3Pd-tJaB2a9JGKBOfIPYyw7nzQTzEGfg70LeJw3PzsWBuO6J6miNOzZ2rQkArS42BJg1N7s-8FOld3X~RK1Qp94iUtSh~74RMhqdZlA08BgDkR4Ktn11TIDYEV~E-zeOlNQWeurMSzsnOgX0ldCYvOinaTNNN-5Jc-6aDh-WSYWy8cu-lM6yOTAPxzy-fkeQ66GGq25PoNKBfhXa25kQytCOM2EaeHqlNbCuEB5yn8LE32HoqsLWch0VmgFIsJDsGGWxst0c2ePQ8C6tSl9khPC-k8~Kgg__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ" alt="an image" title="The title of this image"/>
- </a>
- <a href="https://youtu.be/hiFcIHGWEoA" target="_blank">
-<img src="https://previews-te.wetransfer.net/file/wetransfer/p1oc/sx7o7n0024o62tetf20211209185240/sqhqb6utjxe38qgr920211209204127?height=2048&source=spaceship&width=2048&s=617c137d21b7ba5d6ec7b66f8be27f007d12b87d&Expires=1639086148&Signature=Xh1bE3ypIDs1Z0fmxwTTZDxd-wPARlXc8B1NmGtSx2Irxu8bD~-Z4cR0aJbg6aLRvXSr1BdFySgKzz5HGCzogsZTrCkNrDMhr3Sg3wPqDd3h0uPQflqHUlduZI-tajdLK4~T5ksn~IdAyPPdMXjUrPmgLMC8oXk1Fzp-4Q-Uyh198PmZjk28FoGwI53uotvxlG8WuIeW4uudUbil-M3jmABdw2e8B6TbyedJdD-APCT54va2p78~PAY0EAOeFKV2nR~DTu9Z-N6Ef0Hig7XPaZ8LDhQmH0im8Hyng3iktwTMUSNyLqQCzDuROqxpRTXzRBauqZmJfkN9BMejm27kOg__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ" alt="an image" title="The title of this image"/>
+<img src="https://m.media-amazon.com/images/I/51I6d3hyr0L._SX355_.jpg" alt="an image" title="The title of this image"/>
  </a>
 
-<img src="https://previews-te.wetransfer.net/file/wetransfer/p1oc/sx7o7n0024o62tetf20211209185240/s5h3kpkljjeo4134l20211209185320?height=2048&source=spaceship&width=2048&s=7c2d8359b221cc60d37994c95878ff3e98537aac&Expires=1639079610&Signature=gzehJ~JE8AD1B8490aoh37~af0IyNGj4htu~qFgBg8b5NmJoS-FWWZyEcVMBL4PHOAuy27WjrD~wqBIb0ozmB0a5E3DSOg-8veRlmaqGo~IINLMG1BqHtUmWu0SlZSawoDGL5n5Qv80qpiWA~C1Ggnr9v6Dj23s54Gdc~v56XYj~Xiea-DyGPvLu0cwsjGy9bnAfvbIPrOzCgi0e0i1P7tD9ABz1C3BKFlxnfPpRlXQhBqZMAoLm6QXzrri1WgkEG5yWrQ-W3bIhyLY7Fh9A~tltHQxhCmR8rTNXi8-qhnB52pA~9mD-Sy8moizSaW1evJX1in~fEHPTQZnwMH8IDA__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ" >
-
-â€œEverything should be done in love.â€ â€” 1 Corinthians 16:14
+## Everything should be done in love.
+### - 1 Corinthians 16:14
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/795229738&color=%2300ff7c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <div class='twoPanelSpread'>
