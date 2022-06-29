@@ -384,6 +384,25 @@ transform: scale(1.05);
 ## Hole To Another Universe
 <a href="https://youtu.be/DFMEBquxeO8" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_rainbow/bd_rainbow_example1.jpg" /> </a>
 <div class="row_image">
+
+<a href="https://www.youtube.com/c/TapeDeckWreck" target="_blank"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Capture.PNG" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" > </a>
+
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://imageio.forbes.com/specials-images/imageserve/605910426b54abc90fcd1a1b/Audio-cassettes-have-spiked-during-the-pandemic/960x0.jpg?format=jpg&width=960" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://imageio.forbes.com/specials-images/imageserve/605910426b54abc90fcd1a1b/Audio-cassettes-have-spiked-during-the-pandemic/960x0.jpg?format=jpg&width=960" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row_image">
  <img src="https://i.scdn.co/image/ab67616d0000b273b029b7c6ee626bdcd432545e" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
  <img src="https://www.covercentury.com/covers/dreamcast/s/dc_sonicadventure.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
 
