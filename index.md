@@ -402,11 +402,27 @@ audio:active {
 }
 	
 	
-	
+	/* IMAN_FRUM_SOMALiA_MY_MOMMA */
 </style>
 
 ## Hole To Another Universe
 <a href="https://youtu.be/DFMEBquxeO8" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_rainbow/bd_rainbow_example1.jpg" /> </a>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/NATURALMYSTIC45a.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bob-marley-natural-mystic-12-hear-lee-perry-roots-dub-reggae-daddy-kool_9210518.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div id="row_image">
+<a href="https://youtu.be/DFMEBquxeO8" target="_blank" ><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/VAliD_CSS_ERiKA_THANKS_SO_MUCH_FOR_THE_MEMORIES_AND_SUPPORT_IN_TELEPATHYTHE_oTHER_night.PNG" /> </a>
 <div id="row_image">
 
  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/img355.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
