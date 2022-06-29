@@ -330,6 +330,20 @@ transform: scale(1.05);
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/vsco5cfd9f85d1d95.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYaHOLE_TO_ANOTHER_UNIVERSE_IS_OUR_FANART_FROM_THE_SQUARE_ENIX_GAME_LIFE_IS_STRANGE" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/vsco5cfd9f85d1d95.jpg" alt="HOLE_TO_ANOTHER_UNIVERSE_IS_MY_FANART_FROM_THE_SQUARE_ENIX_GAME_LIFE_IS_STRANGE" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
         <img src="https://m.media-amazon.com/images/I/51D0Q9RDFSL.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
       </div>
     </div>
