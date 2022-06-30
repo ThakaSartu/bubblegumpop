@@ -130,6 +130,11 @@ table {
   padding: 0;
 }
 	
+.main_content {
+ background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+    box-shadow: rgb(163,163,163) 5px 5px, rgba(187,187,187, 0.3) 10px 10px, rgba(204,204,204, 0.2) 15px 15px, rgba(221,221,221, 0.1) 20px 20px, rgba(238,238,238, 0.05) 25px 25px;
+}
 	
 body {
   color: white;
@@ -410,6 +415,7 @@ background: #666;
 </style>
 
 ## Hole To Another Universe
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1297575751&color=%23cbcbcb&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <img src="https://www.graffiti.org/atl/sever_totem2_hense_b12df1_b.jpg" >
 <img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fc456bce1ebb64f08283bf2/vsco5fc456bd41267.jpg" >				
 <img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fc458d2e1ebb64f08283c10/vsco5fc458d330a8d.jpg" >
