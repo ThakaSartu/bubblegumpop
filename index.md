@@ -166,9 +166,9 @@ h3 {
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     center repeat;
-  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
+  font-family: "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif, -apple-system, Monaco, 
     "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, ;
   font-weight: 900;
   padding: 0px;
   margin: 0px;
@@ -409,6 +409,7 @@ background: #666;
 </style>
 
 ## Hole To Another Universe
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/390462771&color=%238c8c8c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
