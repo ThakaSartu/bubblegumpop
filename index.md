@@ -459,7 +459,7 @@ Producer – Holland & Dozier (tracks: A1, A3 to B6)
 "1st pressings" of this release are “MM 643 Mono” or MS 643 Stereo”, they have a full color front artwork with no border only a top white banner with Stereo text. Back cover states copyright 1966 in lower left corner.
 
 Reissues have copyright 1966 info in middle of back panel and have full front framing white border with Stereo in text on top.</p>
-   <iframe width="100%" height="315" src="https://www.youtube.com/embed/mutUj7oMBzE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/bpL1TTxffO0" title="YouTube video player"  allowfullscreen></iframe>
  </div>
 [HUMA](https://www.pinterest.com/pin/7107311903800054/)
 <a href="https://youtu.be/DFMEBquxeO8" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_rainbow/bd_rainbow_example1.jpg" /> </a>
