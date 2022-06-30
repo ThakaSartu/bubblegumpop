@@ -390,15 +390,14 @@ audio:active {
   transform: scale(1.05);
 }
 
-#row_image {
-  display: flex;
-  border: 5px solid #ccc;
-  background: #666;
+#row_image  {
+border: 5px solid #ccc;
+background: #666;
   max-width: 100%;
   padding: 50px;
-   background-image: url("https://www.whosampled.com/static/track_images_100/mr11753_2010108_73251697983.jpg");
+  background-image: url("https://www.whosampled.com/static/track_images_100/mr11753_2010108_73251697983.jpg");
   background-repeat: repeat;
-}
+	}
 	
 	
 	/* IMAN_FRUM_SOMALiA_MY_MOMMA */
@@ -438,11 +437,12 @@ audio:active {
     </div>
   </div>
 </div>
-<div id="row_image">
-<a href="https://youtu.be/DFMEBquxeO8" target="_blank" ><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/VAliD_CSS_ERiKA_THANKS_SO_MUCH_FOR_THE_MEMORIES_AND_SUPPORT_IN_TELEPATHYTHE_oTHER_night.PNG" /> </a>
+
+<a href="https://youtu.be/DFMEBquxeO8" target="_blank" ><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/VAliD_CSS_ERiKA_THANKS_SO_MUCH_FOR_THE_MEMORIES_AND_SUPPORT_IN_TELEPATHYTHE_oTHER_night.PNG" > </a>
+
 <div id="row_image">
 
- <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/img355.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/img355.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
 
 </div>
 <div class='twoPanelSpread'>
@@ -478,11 +478,10 @@ audio:active {
     </div>
   </div>
 </div>
-<div class="row_image">
+
  <img src="https://i.scdn.co/image/ab67616d0000b273b029b7c6ee626bdcd432545e" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
  <img src="https://www.covercentury.com/covers/dreamcast/s/dc_sonicadventure.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
 
-</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
