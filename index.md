@@ -295,7 +295,7 @@ h3 {
   margin: 0px;
   padding: 0px;
   background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    url(https://media3.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.gif?cid=ecf05e47rvlxlacjxpdakk7cvxwscyzzuba10oqqwwvaycg9&rid=giphy.gif&ct=s)
     center repeat;
 }
 
