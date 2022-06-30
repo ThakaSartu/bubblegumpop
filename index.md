@@ -409,7 +409,7 @@ background: #666;
 </style>
 
 ## Hole To Another Universe
-<img src="https://image.mux.com/PGOOiwAeilQVjxkir5zVjtZnFGdamPR2/thumbnail.jpg?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ0IiwiZXhwIjoxNjcyNDE4MzA0LCJraWQiOiJzQzVXMDBPTzc3cEswMnQzb0NVeE9mb25MdURNdUpoS255Iiwic3ViIjoiUEdPT2l3QWVpbFFWanhraXI1elZqdFpuRkdkYW1QUjIiLCJ0aW0iOjAsIndpZCI6IjE5MjAifQ.wmFUr8SgOmXwIeIg3YI3xxYHHt_TOP9uQFWzrq9ZCA24bD64JCJOuQ79Pijap3EXGxM_uMphtZXlmKc5XBA7V8wPc72z1AxljanU66mNmS_91h1LcJSr7mwIKzwZsWGfOIirWu2gOXjPWBHz52LW0mPEhWIGqaJ33wpyw-AYlkfrYINW65l-7ihfmKVCVH8u5keyS43GGyERVsyexVgE2XO0rQ7L9Yee6L24S_rX1pZT1H7CI9V6yyIX6ciukHLrunvyJTMv46J_4AWPryBdMYZey9KlTlI4L5-IJZKRcuTjo2qGeUMe2jUQcuEhiq5eup4BcOWKiTbhAuixfyjsPA" >
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/60218c77ef098d3a41bfa7ad/vsco60218c793112f.jpg" >
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1208259943&color=%236c3f42&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/747778534&color=%236c3f42&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/390462771&color=%238c8c8c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
