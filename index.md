@@ -396,8 +396,7 @@ audio:active {
   background: #666;
   max-width: 100%;
   padding: 50px;
-  max-height: 100%;
-  background-image: url("https://www.whosampled.com/static/track_images_100/mr11753_2010108_73251697983.jpg");
+   background-image: url("https://www.whosampled.com/static/track_images_100/mr11753_2010108_73251697983.jpg");
   background-repeat: repeat;
 }
 	
@@ -859,3 +858,17 @@ When the fashion for breakdancing decreased it the whole culture seemed trashed 
 <span class="neonText">
 One day my blog will `RETURN` `true` when run from the command line 
 </span>
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>     		
