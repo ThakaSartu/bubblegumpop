@@ -184,7 +184,7 @@ h3 {
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
 }
 
-h2, h1 {
+h2 {
 font-weight: 900;
 font-family:   "Helvetica Neue", sans-serif, "Lucida Console", Terminal;
 padding: 0px;
@@ -308,7 +308,7 @@ text-transform: uppercase;
 .twoPanelSpread {
   margin: 0px;
   padding: 0px;
-  background: url(https://media3.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.gif?cid=ecf05e47rvlxlacjxpdakk7cvxwscyzzuba10oqqwwvaycg9&rid=giphy.gif  https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+  background: url(https://media3.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.gif?cid=ecf05e47rvlxlacjxpdakk7cvxwscyzzuba10oqqwwvaycg9&rid=giphy.gif  )
     center repeat;
 }
 
