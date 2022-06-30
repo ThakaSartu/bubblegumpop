@@ -409,8 +409,63 @@ background: #666;
 </style>
 
 ## Hole To Another Universe
+
+<div class="divAlbumReview" style="background-image: url( https://i.slkimg.com/isv1/artist/v5aa5fa46a24672bf/168214/1290171/web/3/center/5,0/300x300.jpg); no-repeat center center fixed" >
+ <img style="float:left;width:50%;" src="https://i.discogs.com/FXr1dApzVjeUrr1_Zvd8EfnrH2llviPnYdRWS3nGeFA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE3/MjEtMTYyNjU5NjYx/NS02NTMyLmpwZWc.jpeg" /> 
+  
+  <img style="float:right;width:50%;" src="https://i.discogs.com/l6EPHxxFytxo2nyj9SOhUPaaKusc6l41wE7EdtN9BvQ/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTE3/MjEtMTYyNjU5NjYx/NS02MjQ2LmpwZWc.jpeg" />
+ <p class="pdivAlbumReview"> 
+ 
+<span class="firstcharacter">The Supremes – I Hear A Symphony
+Label:	Motown – M5-147V1</span>
+From DiSCOGS, the free encyclopedia
+	 
+
+Format:	
+Vinyl, LP, Album, Reissue
+Country:	US
+Released:	1981
+Genre:	Funk / Soul, Pop
+Style:	Rhythm & Blues, Soul
+A1		Stranger In Paradise
+Composed By [Music] – Alexander Borodin
+Written-By – George Forrest, Robert Craig Wright
+A2		Yesterday
+Producer – Norman Whitfield
+Written-By – Lennon-McCartney
+A3		I Hear A Symphony
+Written-By – Holland-Dozier-Holland
+A4		Unchained Melody
+Written-By – Alex North, Hy Zaret
+A5		With A Song In My Heart
+Written-By – Rodgers & Hart
+A6		Without A Song
+Written-By – Billy Rose, Edward Eliscu, Vincent Youmans
+B1		My World Is Empty Without You
+Written-By – Holland-Dozier-Holland
+B2		A Lover's Concerto
+Written-By – Denny Randell, Sandy Linzer
+B3		Any Girl In Love (Knows What I'm Going Through)
+Written-By – Holland-Dozier-Holland
+B4		Wonderful, Wonderful
+Written-By – Ben Raleigh, Sherman Edwards
+B5		Everything Is Good About You
+Written-By – Edward Holland, Jr., James Dean (3)
+B6		He's All I Got
+Written-By – Holland-Dozier-Holland
+Backing Vocals – Florence Ballard, Mary Wilson
+Lead Vocals – Diana Ross
+Producer – Holland & Dozier (tracks: A1, A3 to B6)
+"1st pressings" of this release are “MM 643 Mono” or MS 643 Stereo”, they have a full color front artwork with no border only a top white banner with Stereo text. Back cover states copyright 1966 in lower left corner.
+
+Reissues have copyright 1966 info in middle of back panel and have full front framing white border with Stereo in text on top.</p>
+   <iframe width="100%" height="315" src="https://www.youtube.com/embed/mutUj7oMBzE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+ </div>
 [HUMA](https://www.pinterest.com/pin/7107311903800054/)
 <a href="https://youtu.be/DFMEBquxeO8" target="_blank" ><img src="https://www.typedifferent.com/fonts/bd_rainbow/bd_rainbow_example1.jpg" /> </a>
+<img src="https://thesource.com/wp-content/uploads/2022/02/AB3A9173-700x400.jpg" alt="####KALI_IS_MY_WIFE_AS_WELL_MUNA_is_STILL_MUNI##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+
+<img src="https://i.ytimg.com/vi/WaLr2R2Dxuc/maxresdefault.jpg" alt="####KALI_IS_MY_WIFE_AS_WELL_MUNA_is_STILL_MUNI##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
 <a href="https://youtu.be/Qw-HQxpewWI" alt="DEAR_SAATU##_ITS_TIME_FOR_A_DEEP_SURPRISE" ><img src="https://f4.bcbits.com/img/a4167468696_10.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" > </a>
 
 <div class='twoPanelSpread'>
