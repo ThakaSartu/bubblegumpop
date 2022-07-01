@@ -423,19 +423,12 @@ background: #666;
 </style>
 
 ## Hole To Another Universe
-<img src="https://kenrockwell.com/nikon/df/D3S_0444-1200.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-<img src="https://kenrockwell.com/nikon/df/top-oblique-black-1200.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-<img src="https://kenrockwell.com/nikon/df/D3S_0450-1200.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-<img src="https://kenrockwell.com/nikon/df/D3S_0462-1200.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-<img src="https://kenrockwell.com/nikon/images1/58mm-f14-g/IMG_0023-on-nikon-df.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/zrY8TPi0kIs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <video controls width="100%">
-
     <source src="https://mirkoreisser.de/wp-content/uploads/2022/03/NFT_DAIMforUkraine_ArtistForUkraine_2022_Preview.mp4"
             type="video/mp4">
-
     Sorry, your browser doesn't support embedded videos.
 </video>
-
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
