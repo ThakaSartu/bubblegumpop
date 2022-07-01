@@ -423,7 +423,30 @@ background: #666;
 </style>
 
 ## Hole To Another Universe
+<video controls width="100%">
 
+
+
+    <source src="https://mirkoreisser.de/wp-content/uploads/2022/03/NFT_DAIMforUkraine_ArtistForUkraine_2022_Preview.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/canon_5554c002_rf_5_2mm_f_2_8l_dual_1633518555_1665911.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://static.bhphoto.com/images/multiple_images/images500x500/1633518955_IMG_1616416.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 <img src="https://i.discogs.com/4fW7p6CcV1euzfubea03VC9oD3x2tqASxnfjOdeMItI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDk5/MzUyLTE0OTE1OTE2/NzEtODIwMS5qcGVn.jpeg" >
 <div class='twoPanelSpread'>
   <div class='row'>
