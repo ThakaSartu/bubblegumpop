@@ -185,11 +185,11 @@ h3 {
 
 h2 {
 font-weight: 900;
-font-family:   "Helvetica Neue", sans-serif, "Lucida Console", Terminal;
+font-family: "Helvetica Neue", sans-serif, "Lucida Console", Terminal;
 padding: 0px;
 margin: 0px;
 text-align: left;
-text-transform: uppercase;
+
 }
 .firstcharacter {
   color: #fff;
@@ -417,39 +417,26 @@ background: #666;
 	}
 	
 /* GiTHUB_LOGO##TEAM_SPiRiT!!! */
-#github {
-  font-size: 70em;
-  background-color: #18191f;
-  color: #fff;
-  box-shadow: 2px 2px 2px #00000080, 10px 1px 12px #00000080,
-    2px 2px 10px #00000080, 2px 2px 3px #00000080, inset 2px 2px 10px #00000080,
-    inset 2px 2px 10px #00000080, inset 2px 2px 10px #00000080,
-    inset 2px 2px 10px #00000080;
-  border-radius: 29px;
-  padding: 11px 19px;
-  margin: 0 40px;
-  animation: animate 3s linear infinite;
-  text-shadow: 0 0 50px #0072ff, 0 0 100px #0072ff, 0 0 150px #0072ff,
-    0 0 200px #0072ff;
 
-#github {
-  animation-delay: 0.1s;
-}
-
-@keyframes animate {
-  from {
-    filter: hue-rotate(0deg);
-  }
-  to {
-    filter: hue-rotate(360deg);
-  }
-}
-	
 	/* IMAN_FRUM_SOMALiA_MY_MOMMA */
 	
 </style>
 
 ## Hole To Another Universe
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Mulatto_%22Bitch_from_Da_Souf%22.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.genius.com/e340ddf6971616a68049fecc163ec30c.1000x1000x1.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -741,7 +728,7 @@ Reissues have copyright 1966 info in middle of back panel and have full front fr
 
 
 <h2 class="neonText"> Its been 774 days since I have seen our daughter ##CORAL_IRIS_KELLY##SELASSIE ~> </h2> 
-<span class="firstcharacter">Her mother Erika Renee Kelly was kidnapped from ##EAST_ATLANTA##GEORGiA on Feb 2,2020. A local Atlanta man named Matt Field bragged about it on Facebook stating "I_SOLD_HER.</span> 
+<span class="firstcharacter">Her mother Erika Renee Kelly was kidnapped from ##EAST_ATLANTA##GEORGiA on Feb 2,2020. A local Atlanta man named Matt Field bragged about it on Facebook stating "I_SOLD_HER".</span> 
 <p>I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as [ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with [Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the [Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at [Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us) and worked hard to get a new 9-5.
  
 Constancia did not like me or Coral living with her and Akeeva so they undercut me with accusations of erratic behavior and started thier own dfacs case accusing me of schizophrenia. I had no income and was repeatedly denied foodstamps and welfare by a woman named ##DANIELLE_MASHONGA_and_her_colleage##MANESSA_WARNER... ##Coral would ask </p>
