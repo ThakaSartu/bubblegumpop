@@ -415,7 +415,34 @@ background: #666;
   background-image: url("https://www.whosampled.com/static/track_images_100/mr11753_2010108_73251697983.jpg");
   background-repeat: repeat;
 	}
+
 	
+.gallery {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  border-radius: 50%;
+  box-shadow:
+    inset 0 0 50px #fff,
+    inset 20px 0 80px ##FFF300,
+    inset -20px 0 80px #0AFF00,
+    inset 20px 0 300px ##FFF300,
+    inset -20px 0 300px #0AFF00,
+    0 0 50px #fff,
+    -10px 0 80px #FFF300,
+    10px 0 80px #0AFF00;
+  
+}
+.image {
+  width: 100px;
+  flex: 1 0 auto;
+}
+.featured-image {
+  flex: 0 0 100%;
+}
+
 /* GiTHUB_LOGO##TEAM_SPiRiT!!! */
 
 	/* IMAN_FRUM_SOMALiA_MY_MOMMA */
@@ -423,6 +450,19 @@ background: #666;
 </style>
 
 ## Hole To Another Universe
+
+
+
+<div class="gallery">
+  <img class="image featured-image" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SENORKAOS.jpg" alt="">
+  <img class="image" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SENORKAOS.jpg" alt="">
+  <img class="image" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SENORKAOS.jpg" alt="">
+  <img class="image" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SENORKAOS.jpg" alt="">
+</div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1298232526&color=%23e0dad0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/8583021&color=%23d4cacd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9ENMHp4DKEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Jf63Wv6Atl8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zrY8TPi0kIs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <video controls width="100%">
