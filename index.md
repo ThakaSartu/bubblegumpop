@@ -130,10 +130,6 @@ table {
   padding: 0;
 }
 	
-.main_content {
- 
-    box-shadow: rgb(163,163,163) 5px 5px, rgba(187,187,187, 0.3) 10px 10px, rgba(204,204,204, 0.2) 15px 15px, rgba(221,221,221, 0.1) 20px 20px, rgba(238,238,238, 0.05) 25px 25px;
-}
 	
 body {
   color: white;
@@ -452,7 +448,20 @@ background: #666;
 ## Hole To Another Universe
 
 
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://m.media-amazon.com/images/I/81lNOB9LbfL._SS500_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://direct.rhapsody.com/imageserver/images/alb.304480118/500x500.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 <div class="gallery">
   <img class="image featured-image" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SENORKAOS.jpg" alt="">
   <img class="image" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SENORKAOS.jpg" alt="">
