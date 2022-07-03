@@ -489,13 +489,61 @@ background: #666;
 </style>
 
 ## Hole To Another Universe
+
 ## NEON_TEXT_TESTS_QUE
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=UAi1e7AoEWA"> <img src="https://www.victoriassecret.com/p/760x1013/tif/b2/9c/b29c194106fa4be6940fd09bc7a08f05/1117127818M2_OM_B.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/UAi1e7AoEWA"> <img src="https://www.victoriassecret.com/p/760x1013/tif/78/64/7864d0e0f2e442e0a91ef4864fdfff81/1117127818M2_OM_F.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=UAi1e7AoEWA"> <img src="https://i.etsystatic.com/20347400/r/il/e67d19/2868035079/il_794xN.2868035079_ol8q.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/UAi1e7AoEWA"> <img src="https://i.etsystatic.com/20347400/r/il/e67d19/2868035079/il_794xN.2868035079_ol8q.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+
+
+
 <div class="container">
   <h1 class="neonText"> 404 </h1>
   <h2 class="neonText">2005 - 2020</h2>
 </div>
+<div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://bglh-marketplace.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-06-at-6.12.57-PM.png" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://bglh-marketplace.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-06-at-6.12.57-PM.png" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://bglh-marketplace.com/wp-content/uploads/2016/12/Screen-Shot-2016-12-06-at-6.12.57-PM.png" alt="##DANCE411_IS_MY_HAREM##AND_ALL_THE_ONES_PRE_ERIKA_AND_POST_PROSTITUTION##TRIBAL_RIGHTS_ACT">
 <h2 class="neonText> PSYCHOLOGICAL_SEPARATION_USING_PADDING </h2> I need to separate post and days cleanly... [padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding-top) [border](https://developer.mozilla.org/en-US/docs/Web/CSS/border-top)
-## HTML5 Video (w3SCHOOLS_eXAMPLE) [Bare_Bones_HTML5 Video_Embed](https://www.w3schools.com/html/html5_video.asp) [iFRAMES_HAVE_BEEN_DEPRECATED_FOR_YEARS](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe), IDK##Why_YouTube_and_ViMEO##iNSiST_OWN_USiNG_DEM_TiNGS?!?! My shit bout tah be clean! As I read the article <FRAME> not <iFRAME> is deprecated but the HTML5 <em> video </em> tag appears much more useful for my purposes. {% highlight html %} <video width="320" height="240" controls>
+## HTML5 Video (w3SCHOOLS_eXAMPLE) [Bare_Bones_HTML5 Video_Embed](https://www.w3schools.com/html/html5_video.asp) [iFRAMES_HAVE_BEEN_DEPRECATED_FOR_YEARS](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe), IDK##Why_YouTube_and_ViMEO##iNSiST_OWN_USiNG_DEM_TiNGS?!?! My shit bout tah be clean! As I read the article <FRAME> not <iFRAME> is deprecated but the HTML5 <em> video </em> tag appears much more useful for my purposes.
+	   {% highlight html %} <video width="320" height="240" controls>
       <source src="movie.mp4" type="video/mp4">
       <source src="movie.ogg" type="video/ogg">
       <-- Your browser does not support the video tag. -->
@@ -512,8 +560,60 @@ background: #666;
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-KKbdErJkiY" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zsCD5XCu6CM" title="YouTube video player" frameborder="0"allowfullscreen></iframe> 
  ## ##LiNKiN_PARK_NAWT_LiNKEDiN_ERiKA 
-![##JUiCY_J_STAY_TRiPPY_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/fXulQ42j0vcu/4BhlKL2x3VAUETOiIIfEhGNtZefX9o0witXLjFGq.jpg)
 
+															      <div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://i.pinimg.com/736x/eb/ac/4e/ebac4e41a7ddf7460dba012f67b69765.jpg" alt="Girl in a jacket" > https://www.youtube.com/watch?v=H5O9rd9NuMg&t=2s
+https://www.youtube.com/watch?v=Ttb8tcdE0PA&t=786s
+https://www.youtube.com/watch?v=x827FWFWGi8
+https://www.youtube.com/watch?v=ecFE-WOJLxA
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://i.pinimg.com/736x/eb/ac/4e/ebac4e41a7ddf7460dba012f67b69765.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+															      
+![##JUiCY_J_STAY_TRiPPY_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/fXulQ42j0vcu/4BhlKL2x3VAUETOiIIfEhGNtZefX9o0witXLjFGq.jpg)
+[ ##voyeurism##_OUT_IN_THe_OPEN_ON_YOUTUBE##MY_FAMILY_HAS_THIS_ISSUE## :^( ](https://www.youtube.com/watch?v=oETVDKbThcE)
+<a href="https://youtu.be/C6fEKP_tlC8"> <img class="bwtocolor" src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="##ELLA_FITZGERALD##_and_##LOUiE_ARMSTROG##" > </a>
+<span class="neonText">
+ ##WH0L34LBUM##PORGY&BESS##LOUiS&ELLA##JAZZ##VOCAL##SOUNDTRACK##!
+ ##CLICK_THE_IMAGE_OF_AFFECTION_TO_WATCH##ROMANCE##
+ <> span </span>
+<a href="https://www.youtube.com/watch?v=YIdrZxaP-gE"> <img class="bwtocolor" src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/porgy_and_bess_still_splash.jpg" alt="##DORTHY_DANDRIDGE##_and_##SIDNEY_POTIER##" > </a>
+
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=ARtRsMnTqQc"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+<div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://youtu.be/NZ3kfDBAJWc"> 
+<img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/ea067fa2ad50680d5a38a2503aab94d1473f7925/img/IMG_3904_800x.jpg" alt="Porgy & Bess" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/-DR6cXAa-Ek"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/porgy-and-bess-w-louis-armstrong.jpg" alt="##ELLA_FITZGERALD##_and_##LOUiE_ARMSTROG##" > </a>
+ </div>
+ </div>
 
 <div class='some-page-wrapper'>
   <div class='row'>
@@ -728,6 +828,10 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
       </div>
     </div>
   </div>
+[The U.S. National Archives *FLiCKRACCT* ](https://www.flickr.com/photos/35740357@N03/)
+<span class="neonText">
+ #somalisong #Oromogirl#quxubesero
+</span>
 <a herf="https://www.youtube.com/watch?v=mmkdRG7MQm4" >  < img src="https://www.game-ost.com/static/covers_soundtracks/1/6/16259_729679.jpg" > </a>
 <a href="https://music.amontobin.com/album/out-from-out-where" alt="##AMON_TOBiNs##BANDCAMP##PURCHASE_HERE_SO_HE_CAN_BUY_A_SMOOTHIE" >< img src="https://f4.bcbits.com/img/a0191890494_10.jpg" alt="Out From Out Where by Amon Tobin" ></a>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197308361&color=%23d4d4cc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
@@ -755,7 +859,334 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 </div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1298232526&color=%23e0dad0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/8583021&color=%23d4cacd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<div id="neonText">
+<span class="neonText"> Can Class Action Lawsuits Be Brought in Sexual Abuse Cases? </span>
+ </div>
+ 
+<span class="firstcharacter">When</span>there are multiple individuals affected by the single or group of abusers in sexual crimes, it is sometimes possible to initiate a class action lawsuit when the statute of limitations does not pass. It is important that the victims band together and provide incontrovertible evidence to increase the strength of the claim.
+<ul>
+ <li><a href="https://www.hg.org/legal-articles/can-class-action-lawsuits-be-brought-in-sexual-abuse-cases-49735">DEAR_SARTU##DEAR_ERIKA##DEAR_MUNA##DEAR_LEELAHBAELAH##DEAR_LAREN##DEAR_LAURA##DEAR_RIHANNA##DEAT_SUMMER</a></li>
+ <li><a href="##HOW_CAN_I_SAY_THIS##LETS_FIGHT_##DFACS##TO##GET_##CoRAL_aka_LARoC##BACK">https://www.hg.org/legal-articles/prostitution-in-the-united-states-30997</a></li>
+ <li><a href="THE_##CRIME_SCENE##INSTAGRAM##ACCOUNT####MUNA_and_RASHARD##MISSING_PERSONS_DETAILS##WE_HAVE_SO_MUCH##PROOF##">https://www.instagram.com/muna_and_rashard/?hl=en</a></li>
+</ul>
+ <div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <img src="https://i.pinimg.com/564x/cc/72/61/cc7261bf1160fe8cdfb95aaf88d4c8c1.jpg" alt="Girl in a jacket" >
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <img src="https://i.pinimg.com/564x/cc/72/61/cc7261bf1160fe8cdfb95aaf88d4c8c1.jpg" alt="Girl in a jacket" >
+ </div>
+ </div>
+ </div>
+</div>
+<a href="https://www.veoh.com/watch/v142164131xC426T7A">ANIME##_THIS_IS_HOW_MY_ASSASINATION_ATTEMPTS_GO##THAT_WAS_SARTU##</a>
+<a href="https://www.statista.com/statistics/960103/ranking-of-most-used-online-video-platforms-in-sweden/"> Which platforms do you use to watch online video?</a>
+https://copperhead.co/#training --> 
+<p><a href="https://vimeo.com/84199397">She is Somalia</a> from <a href="https://vimeo.com/dominikaplonska">DOMINIKA PŁOŃSKA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/35480886?h=ea1b39ee19&color=ffffff&title=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/35480886">Somalia - Nomad Girl</a> from <a href="https://vimeo.com/augustinpictures">Augustin Pictures</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div style="padding:66.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/49901085?h=26cfd6d52c&color=c9ff23" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/49901085">Somalia</a> from <a href="https://vimeo.com/user6295957">jan grarup</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div><img src="https://apod.nasa.gov/apod/image/1803/Cycle-Panel-1024px.jpg">
 
+<center>
+<b> Phases of the Moon </b> <br> 
+
+<b>Image Credit &
+<a href="lib/about_apod.html#srapply">Copyright</a>: </b>
+
+<a href="http://www.jfgout.com">Jean-Francois Gout</a>,
+<a href="http://www.pbase.com/polakis/">Tom Polakis</a>
+
+</center> <p> 
+
+<b> Explanation: </b> 
+
+<a href="ap171203.html">Look at the Moon</a>
+every night and its visible sunlit portion gradually changes.
+
+<a href="https://svs.gsfc.nasa.gov/4604">In phases progressing</a>
+from New Moon to Full Moon to New Moon again,
+a lunar cycle or lunation is completed in about 29.5 days.
+
+Top left to bottom right, these frames show the range of
+lunar phases for 25 consecutive nights beginning on January 18,
+following an
+<a href="https://www.youtube.com/watch?v=iLTgUvGLxxA">almost
+complete lunation</a>.
+
+They skip the 2 days just after and 2 days before
+<a href="http://www.astrophoto.fr/new_moon_2013july8.html">New Moon</a>,
+when the lunar phase is at best a narrow crescent, close to the Sun
+and <a href="ap080411.html">really hard to see</a>.
+
+Of course, mostly clear Arizona night skies and a little help from
+a friend were required to complete this lunar cycle project,
+imaging in early evening for the first half and
+late evening and early morning for the second half of the lunation.
+
+For extra credit, the cycle was centered on the Full Moon of January 31.
+
+That was the second Full Moon in January, when the Moon was near lunar
+orbit perigee and took on reddish hues during a
+<a href="https://www.nasa.gov/feature/
+super-blue-blood-moon-coming-jan-31">total lunar eclipse</a>.
+
+</div>
+<div><img src="https://apod.nasa.gov/apod/image/2009/PairsMoonPace.jpg">
+
+<center>
+<b> Moon Pairs and the Synodic Month </b> <br>
+
+<b>Image Credit &
+<a href="lib/about_apod.html#srapply">Copyright</a>: </b>
+
+<a href="https://greenflash.photo/about-me/">Marcella Giulia Pace</a>
+
+</center> <p> 
+
+<b> Explanation: </b> 
+
+<a href="https://moon.nasa.gov/observe-the-moon-night/about/overview/">Observe the Moon</a> each night and
+its visible sunlit portion will gradually change.
+
+<a href="https://svs.gsfc.nasa.gov/Gallery/moonphase.html">In phases progressing</a>
+from New Moon to Full Moon to New Moon again, a lunar cycle or
+<a href="http://astropixels.com/ephemeris/moon/synodicmonth2001.html">synodic month</a>
+is completed in about 29.5 days.
+
+They look full, but top left to bottom right these panels do
+show the range of lunar phases for a complete
+<a href="https://greenflash.photo/portfolio/august-2019-all-moon-phases-in-a-month/">synodic month during August 2019</a>
+from Ragusa, Sicily, Italy, planet Earth.
+
+For this lunar cycle project the panels organize
+images of the lunar phases in pairs.
+
+Each individual image is paired with another image separated by
+about 15 days, or approximately half a synodic month.
+
+As a result the opposite sunlit portions complete the
+lunar disk and the shadow line at the boundary of lunar night and day, the
+terminator, steadily marches across the Moon's
+<a href="http://lroc.sese.asu.edu/posts/293">familiar nearside</a>.
+
+For extra credit, what lunar phase would you pair with the Moon tonight?
+
+</div>
+<div><img src="https://apod.nasa.gov/apod/image/1505/AuroraNorway_Richardsen_1080.jpg" > 
+<b> An Unexpected Aurora over Norway </b> <br> 
+<b> Image Credit & Copyright: </b> 
+<a href="http://trichardsen.smugmug.com/About-me">Tommy Richardsen</a>
+ <p> 
+
+<b> Explanation: </b> 
+Sometimes the sky lights up unexpectedly.
+
+A trip to northern Norway to photograph 
+<a href="http://www.nasa.gov/mission_pages/sunearth/news/gallery/aurora-index.html"
+>auroras</a> was not going as well as hoped.
+It was now past midnight in 
+<a href="http://en.wikipedia.org/wiki/Nordreisa">Steinsvik</a>, 
+<a href="http://en.wikipedia.org/wiki/Troms">Troms</a>, in northern 
+<a href="http://en.wikipedia.org/wiki/Norway">Norway</a>, and the date was 2014 February 8. 
+
+Despite 
+<a href="http://spaceweather.com/archive.php?view=1&day=08&month=02&year=2014"
+>recent activity</a> on the Sun, the skies were 
+<a href="http://www.shizarium.ru/wp-content/gallery/animals5/34520-114759-ba1d04b3a7e17d10d0a272533ca71316.jpg">disappointing</a>.
+Therefore, the astrophotographer began packing up to go.
+
+His brother began searching for a missing lens cap.
+
+When the sky suddenly exploded with 
+<a href="ap141103.html">spectacular aurora</a>.
+
+Reacting quickly, 
+<a href="http://www.tommyrichardsen.com/Store/Nightscapes/i-27DK9gn"
+>a sequence</a> detailing dramatic 
+<a href="http://www.webexhibits.org/causesofcolor/4D.html">green</a> curtains was captured, 
+with the bright Moon near the image center, and the lens-cap seeking brother on the far right. 
+The <a href="ap110328.html">auroral flare</a> lasted only a few minutes, 
+but the memory of this event, the photographer speculates, will last much longer. 
+
+</div>
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <img src="https://apod.nasa.gov/apod/image/9701/pillars3_hst.jpg" alt="Girl in a jacket" >
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <img src="https://apod.nasa.gov/apod/image/9701/pillars3_hst.jpg" alt="Girl in a jacket" >
+ </div>
+ </div>
+ </div>
+<a href="https://slate.com/technology/2017/03/did-the-cia-really-astrally-project-to-mars-in-1984.html">##DID_THE_CIA##ASTRAL_PROJECT_TO_MARS</a>
+<a href="https://comicbook.com/irl/news/cia-documents-leak-extrasensory-perception-mind-telepathy-reveal/">##EXTRA_SENSORY_PERCEPTION##</a>
+<a href="https://www.vice.com/en/article/7k9qag/how-to-escape-the-confines-of-time-and-space-according-to-the-cia">##RAVEN_AT_VICE_KNOWS_PSYCHIC_SHIT##</a>
+<a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologs/cryptolog_85.pdf">##NSA_TYPESHIT_wit_DAH_SOViETS</a>
+<a href="https://jamesaconrad.com/TK/US-government-interest-in-telekinesis-and-psychokinesis.html">##PSYCHIC_ARMY##ALEX_JONES_and_DAVID_ICK_KNOW_ALL_ABOUT_IT</a>
+<a href="https://youtu.be/tWpQNexUZUQ">##LETHAL_ENFORCERS_2##GUN_FIGHTERS##</a><a href="https://youtu.be/6nwA8oPkaSg">##FORZA5_STi</a><a href="https://www.youtube.com/embed/O9MIvIVWq3E">##SQUARE_ENIX_KNOWS_THAKA_WANTS##A_DRIVING_GAME##</a> <a href="https://en.wikipedia.org/wiki/Stargate_Project">##STARGATE_PROJECT##</a>
+<a href="https://www.californiapsychics.com/blog/psychic-tools-abilities/benefits-reading-remote-viewing-psychic.html">The Benefits of Reading with a Remote Viewing Psychic</a><a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000700620001-2.pdf">##PARAPSYCHOLOGY_COMMUNiCATiON_BARRiERS</a>
+<a href="https://www.gaia.com/article/what-is-remote-viewing">What is Remote Viewing?</a>
+<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080050-9.pdf">##TELEPATHY_COULD_BE_REAL##</a> <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000300420008-1.pdf"> ##PSYCHIC_MAGNIFICATION## </a><a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R003300190006-0.pdf">##NONiNVASiVE_BRAiN_WORK##</a>
+<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400030001-0.pdf"> EXPERIMENTAL DREAM TELEPATHY-CLAIRVOYANCE AND GEOMAGNETIC ACTIVITY (MICHAEL PERSINGER) </a> <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000300180001-1.pdf"> ##EFFORTS_TO_IMPROVE_REMOTE_VIEWING##</a>
+<a href="https://www.cia.gov/readingroom/docs/NSA-RDP96X00790R000100040012-1.pdf"> ##TELEKINESIS## </a>
+<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000400100005-8.pdf"> PARAPSYCHOLOGY ##THE_ANGLOS_-->VS<--_THE_LATiNS##</a>
+<a href="https://www.cia.gov/readingroom/freedom-information-act-5-usc-%C2%A7552"> ##THE_SOCIAL_MEDIA_COMPANIES_VIOLATED##THE_FREEDOM_OF_INFORMATION_ACT_IN_SUPRESSING
+ THE_SEARCH_FOR_THAKA_BEKELE_SELASSIE_aka_RASHARD_IMAN_KELLY_AHMEDs_FAMILY##</a>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/pZ7Cc-OVTGg" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8BCwDA67CqY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+ <a href="http://www.wefunkradio.com/"> #### TUNE_IN --> WeFunK_RADIO [##STREAMING## </a>
+<a href="http://www.wefunkradio.com/show/498/play_aa"> WeFunk_RADIO_BACK_EPISODE --> EPISODE_498] </a>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kg3bXR-JyVs" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<div>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <img src="https://i.ibb.co/bHzN2nZ/DEHi-Ji-A-LOVELY-Open-Mi-C.png" alt="Girl in a jacket" >
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <img src="https://i.ibb.co/bHzN2nZ/DEHi-Ji-A-LOVELY-Open-Mi-C.png" alt="Girl in a jacket" >
+ </div>
+ </div>
+ <div class='column'>
+ <div class='blue-column'>
+ <img src="https://i.ibb.co/bHzN2nZ/DEHi-Ji-A-LOVELY-Open-Mi-C.png" alt="Girl in a jacket" >
+ </div>
+ </div> 
+ </div>
+ 
+
+Desolate, alone, tearfully searching, suddenly blinded by a tall dark and dreadlocked beauty. She painted a perfect picture around a perfect face and frame. She didn't bother to learn about his past cause she's caught up in this moment of visual bliss.
+
+She took him in knowing fully well that she's not the only flower he's sippin nectar from. She's misguided by her mixed up illusions of love. Either she's watched too many fake ass love/drama movies, read too many romance novels, watched her parents in a disfunctional relationship spiraling down hill (thinking that's just how it is), or she just doesn't know what a real man is.
+
+When the two of them make love (have sex), her mind is blown into the clouds, she returns to Atlantis, her spirit uplifted. Ready she is to plan their future garden, ignoring the weeds mixed in with the seed.
+
+He drops hints of annoyance, never goes out of his way any more for her cause she's caught. Another fish in his sea. So she gives him space thinking absense makes the heart grow fonder. If you let someone go, and then they return, they belong to you, right?
+
+Late at night her fingers wonder over the buttons on the phone, dialing his number, wanting some of what she's been missing some of his good "love".
+
+He answers and quickly agrees at this late hour to come and give her a dosed of his medicine so that she may dream lovely dream. She no longer tossing and turning in bed. Twenty five minutes is all he needs and he will be there. Preperation begins. Mad dash to shower, shave (its winter so legs sometimes are forgotten with out the sun), light candles and incense, sheets fresh, madina oil dabed in all the right places, for this "her man" that is on his way.
+
+Confusion
+
+He KNOWS it's just sex, "we just kicking it, just chillin, connnecting even", he thinks in his head as he drives to her house. He imagines the hurting he's gonna put on her, giving her what she wants, right?
+
+On the other end she's confusing and equating the feeling she gets when he's inside of her, the movement his body makes in sync with her's, the sweet and soft kisses of passion (lust), the eagerness of his return to her temple, with L-O-V-E.
+
+Who is wrong in this situation, her assumptions or his free mind state? No boundaries were set, no plan. Many women fall into this catagory of believing love and sex go hand in hand. While Men, if not told directly what the intent is, will think nothing of having sex without commitment. The answer to all of this I believe is communication in the very begging, and waiting to explore the sexual realms of each other. Spirituallity should be the basis for all relationships, but as of right now 8 out of 10 times it's sex, in my researched, experienced opinion.
+
+Lets start listening as well as speaking our hearts, instead of painting false pictures of clear situations. Love yourself and your divine mate will apear before your eyes, with no searching involved. But you must me ready physically, mentally, culturally, and spiritually.
+
+just my view on thangs - Dehejia
+
+
+ </div>
+
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <img src="https://i.ibb.co/wJvpMx2/DEHi-Ji-A-LOVELY.png" alt="Girl in a jacket" >
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <img src="https://i.ibb.co/wJvpMx2/DEHi-Ji-A-LOVELY.png" alt="Girl in a jacket" >
+ </div>
+ </div>
+ </div>
+Desolate, alone, tearfully searching, suddenly blinded by a tall dark and dreadlocked beauty. She painted a perfect picture around a perfect face and frame. She didn't bother to learn about his past cause she's caught up in this moment of visual bliss.
+
+She took him in knowing fully well that she's not the only flower he's sippin nectar from. She's misguided by her mixed up illusions of love. Either she's watched too many fake ass love/drama movies, read too many romance novels, watched her parents in a disfunctional relationship spiraling down hill (thinking that's just how it is), or she just doesn't know what a real man is.
+
+When the two of them make love (have sex), her mind is blown into the clouds, she returns to Atlantis, her spirit uplifted. Ready she is to plan their future garden, ignoring the weeds mixed in with the seed.
+
+He drops hints of annoyance, never goes out of his way any more for her cause she's caught. Another fish in his sea. So she gives him space thinking absense makes the heart grow fonder. If you let someone go, and then they return, they belong to you, right?
+
+Late at night her fingers wonder over the buttons on the phone, dialing his number, wanting some of what she's been missing some of his good "love".
+
+He answers and quickly agrees at this late hour to come and give her a dosed of his medicine so that she may dream lovely dream. She no longer tossing and turning in bed. Twenty five minutes is all he needs and he will be there. Preperation begins. Mad dash to shower, shave (its winter so legs sometimes are forgotten with out the sun), light candles and incense, sheets fresh, madina oil dabed in all the right places, for this "her man" that is on his way.
+
+Confusion
+
+He KNOWS it's just sex, "we just kicking it, just chillin, connnecting even", he thinks in his head as he drives to her house. He imagines the hurting he's gonna put on her, giving her what she wants, right?
+
+On the other end she's confusing and equating the feeling she gets when he's inside of her, the movement his body makes in sync with her's, the sweet and soft kisses of passion (lust), the eagerness of his return to her temple, with L-O-V-E.
+
+Who is wrong in this situation, her assumptions or his free mind state? No boundaries were set, no plan. Many women fall into this catagory of believing love and sex go hand in hand. While Men, if not told directly what the intent is, will think nothing of having sex without commitment. The answer to all of this I believe is communication in the very begging, and waiting to explore the sexual realms of each other. Spirituallity should be the basis for all relationships, but as of right now 8 out of 10 times it's sex, in my researched, experienced opinion.
+
+Lets start listening as well as speaking our hearts, instead of painting false pictures of clear situations. Love yourself and your divine mate will apear before your eyes, with no searching involved. But you must me ready physically, mentally, culturally, and spiritually.
+
+just my view on thangs - Dehejia 
+</div>
+
+
+<a href="https://board.okayplayer.com/okp.php?az=show_mesg&forum=20&topic_id=7575&mesg_id=7589&page=" >###OKAY_PLAYER_SLUM_VILLAGE_ENTRY_BY_MY_DEPARTED_FRIEND##ALPHONSO_GREGORY##</a>
+Check it my flow be 3 parts like a Trinity
+But me be one man rolling through Infinity\
+I walk miles and miles through Slum Villages
+Looking for MC�s to start scrimmages\ But they
+styles is all Tainted so when I came with the realness
+they all fainted\ They hearts are weak like heart attack patients\
+My flows like blood they just couldn�t take it\
+The blood I pump its turns to acid burning you Kats
+with my hot classics\ I call you Kats XBOX�s
+because your games can fit in my pocket\ Moving through
+engines like a piston my style you can call it mad Precision\
+I�m built Ford tough but I�m Focused\ No smoking mirrors no hocus-pocus
+My flows no joke like the city of Detroit wrote this\ Writing rhymes heavy like
+T3, Baatin, and Elzhi\ I be the rhyme synthesizer I size up rhymes to make
+them liver so when I cut ya it feels like the barber\
+My competition had them all wishing that I would quite this game because I got them
+all looking lame like kids walking cripple my girl she got big nipples and she
+throws fits when she thinks she got a big pimple those holes in her face are called
+dimples\ Most of you Kats got holes in your rhymes and that�s why the XBOX is
+Mine
+
+
+
+"Thoughts and dreams drip from your mouth, onto my tongue, down my throat to my heart"-symphonygoddess
+
+"I wish I wasn't me sometimes"-BiLal
+
+"The slowest melodies coated me, soothing rhythms stoked the fire in my belly, music was the lamb that made a loin out of me"-esthero
+
+Po'ADDiX http://www.geocities.com/sb202us/index.htm 
+
+"Thoughts and dreams drip from your mouth, onto my tongue, down my throat to my heart"-symphonygoddess
+
+"I wish I wasn't me sometimes"-BiLal
+
+
+
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <img src="https://lh4.googleusercontent.com/vcr_xIzszUWnLC0ed3ONKnIrRQ9WKyQS-SmwPyRGHGBAPa1Ujiws2G7QH_4R8u2cXq5bSJ9WPIncccXCdmgqqBd30CMlfu9rfKHoms4W0sR3dgSgpXNF2mHyvBMDQacn1NpLWrYW" alt="Girl in a jacket" >
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <img src="https://lh4.googleusercontent.com/vcr_xIzszUWnLC0ed3ONKnIrRQ9WKyQS-SmwPyRGHGBAPa1Ujiws2G7QH_4R8u2cXq5bSJ9WPIncccXCdmgqqBd30CMlfu9rfKHoms4W0sR3dgSgpXNF2mHyvBMDQacn1NpLWrYW" alt="Girl in a jacket" >
+ </div>
+ </div>
+ </div>
+</div>
+
+##_TOKIMONSTA##IS_COMING##IN_Ah_BOUT_10_DAYS_OR_LESS
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/9ENMHp4DKEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Jf63Wv6Atl8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zrY8TPi0kIs" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
@@ -796,6 +1227,38 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-01%2012.48.33%20AM.png" >
 
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-01%2012.49.16%20AM.png" >
+	
+ https://youtu.be/QaR843im04A
+ <div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=7TRStCd7qYU"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://www.youtube.com/watch?v=rOGWygPcv78"> <img src="https://github.com/ThakaRashard/holetoanotheruniverse/blob/gh-pages/img/vsco5cfd9f85d1d95.jpg?raw=true" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+ 
+ 
+ <div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=ARtRsMnTqQc"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -932,7 +1395,34 @@ Reissues have copyright 1966 info in middle of back panel and have full front fr
     </div>
   </div>
 </div>
-
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="mdBOwOG" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/mdBOwOG">
+  NEON TEXT </a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<h2> [Hook: Rell]
+Came up out the darkness, searching for light
+I know home is where my heart is
+And now nothing seems right
+I tried to make peace and cut my losses
+And carry on somehow
+But I've come much too far, man
+Too late to turn back now, here I go again
+Here I go again
+Here I go again
+Here I go again
+</h2>
+<h2> SHAKE THAT LOAD OFF
+</h2>
+<h2> SHAKE THAT LOAD OFF
+</h2>
+<h2> SHAKE THAT LOAD OFF
+</h2>
+<h2> SHAKE THAT LOAD OFF
+</h2>
+<h2> SHAKE THAT LOAD OFF
+</h2>
 
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -974,6 +1464,80 @@ Reissues have copyright 1966 info in middle of back panel and have full front fr
 
 <a href="https://www.youtube.com/c/TapeDeckWreck" target="_blank"> <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Capture.PNG" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" > </a>
 
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=UAi1e7AoEWA"> <img src="https://i.pinimg.com/564x/7c/12/0f/7c120fcfaba943300a402cd1d86e99ed.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/UAi1e7AoEWA"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+
+
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=UAi1e7AoEWA"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/UAi1e7AoEWA"> <img src="https://i.pinimg.com/originals/54/a5/60/54a5602868bda61c73bad1c97c3448d5.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+https://i.pinimg.com/originals/54/a5/60/54a5602868bda61c73bad1c97c3448d5.jpg
+https://i.pinimg.com/originals/9f/9d/d3/9f9dd385a413b293272ced8d44757bcf.jpg
+https://i.pinimg.com/originals/b1/a5/31/b1a531387792bd946642e80ac2a1487d.jpg
+<a href="https://youtu.be/UAi1e7AoEWA"> <img class="bwtocolor" src="https://i.pinimg.com/originals/9f/9d/d3/9f9dd385a413b293272ced8d44757bcf.jpg" alt="##SARTU_I_WANT_TO_SEE_EVERYONE_WE_CAN_MEET_UP_TOGETHER_AND_DIP_OFF_SOMEWHERE_WHEN_EVERYONE_GETS_THIER_HELLO_IN" > </a>
+
+
+
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=UAi1e7AoEWA"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/UAi1e7AoEWA"> <img src="https://i.pinimg.com/originals/b1/a5/31/b1a531387792bd946642e80ac2a1487d.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+
+
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <a href="https://www.youtube.com/watch?v=ARtRsMnTqQc"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <a href="https://youtu.be/ZmPfxMBNilg"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/WEenNWEE.jpg" alt="Girl in a jacket" > </a>
+ </div>
+ </div>
+ </div>
+</div>
+[Spiderman Cartoon-1967 Season 1 Episode 19]([https://youtu.be/aBzotaBgoRo)
+[THiNKiNG_OF_YOU##SARTU##ZEE##UNDASTAND_DAH_ZEE_AND_YOU_WILL_INDEED_UNDASTANYND_HUH##](https://youtu.be/9iUE4F9UHok)
+<span class="neonText">
+ ##SAATUZEE_WILL_YOU_MARRY_ME?!
+</span>
+[DELiRiUM:BY::##ELLiE_GOULDING## ##FAV_TRACK## ## ](https://youtu.be/cLWv0f2Tt8E) 
+[DiSCOGS:##ENTRY](https://www.discogs.com/release/8118343-Ellie-Goulding-Delirium)
 </div>
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -1375,11 +1939,13 @@ One day my blog will `RETURN` `true` when run from the command line
             src="http://jigsaw.w3.org/css-validator/images/vcss"
             alt="Valid CSS!" />
     </a>
-</p>
-<p>
+
 <a href="http://jigsaw.w3.org/css-validator/check/referer">
     <img style="border:0;width:88px;height:31px"
         src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
         alt="Valid CSS!" />
     </a>
-</p>     		
+</p>    
+		<span class="neonText">
+ #BELL_LABS####SAATU_IS_MY_WIFE##ASWELL_AS_ERIKA_MUNA_QUXUBE_AND_LAUREN_LAURA_TOO_AND_HEATHER
+</span>
