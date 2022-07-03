@@ -489,6 +489,29 @@ background: #666;
 </style>
 
 ## Hole To Another Universe
+<h2 class="neonText"> EDiTABLE_on_TOP## </h2>
+<div class="row">
+    <div class="column">
+      <div class="blue-column">
+        <img src="https://mirkoreisser.de/wp-content/uploads/2022/03/DAIMforUkraine_ArtistsForUkraine_2-scaled.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
+      </div>
+    </div>
+    <div class="column">
+      <div class="green-column">
+        <img src="https://mirkoreisser.de/wp-content/uploads/2022/03/DAIMforUkraine_ArtistsForUkraine_2-scaled.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
+      </div>
+    </div>
+ <div class="column">
+      <div class="blue-column">
+        <img src="https://mirkoreisser.de/wp-content/uploads/2022/03/DAIMforUkraine_ArtistsForUkraine_2-scaled.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
+      </div>
+    </div>	
+  </div>
+<video controls width="100%">
+    <source src="https://mirkoreisser.de/wp-content/uploads/2022/03/NFT_DAIMforUkraine_ArtistForUkraine_2022_Preview.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
 <iframe id="reddit-embed" src="https://www.redditmedia.com/r/IdiotsInCars/comments/rcaitc/new_to_the_sub_thought_id_enter_with_a_banger/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="620" width="100%" scrolling="no"></iframe>
 
 ![DREEZY_IS_HIS_WIFE](https://i.scdn.co/image/ab67616d0000b273a02c33fd1684b4292e4724ca)
@@ -667,7 +690,7 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
     </div>
   </div>
 <a herf="https://www.youtube.com/watch?v=mmkdRG7MQm4" >  < img src="https://www.game-ost.com/static/covers_soundtracks/1/6/16259_729679.jpg" > </a>
-<a href="https://music.amontobin.com/album/out-from-out-where" alt="##AMON_TOBiN's##BANDCAMP##PURCHASE_HERE_SO_HE_CAN_BUY_A_SMOOTHIE" >< img src="https://f4.bcbits.com/img/a0191890494_10.jpg" alt="Out From Out Where by Amon Tobin"</a>
+<a href="https://music.amontobin.com/album/out-from-out-where" alt="##AMON_TOBiNs##BANDCAMP##PURCHASE_HERE_SO_HE_CAN_BUY_A_SMOOTHIE" >< img src="https://f4.bcbits.com/img/a0191890494_10.jpg" alt="Out From Out Where by Amon Tobin" ></a>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197308361&color=%23d4d4cc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/34769516&color=%23c8acac&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/34769517&color=%23ff0000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
