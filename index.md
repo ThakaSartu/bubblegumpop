@@ -485,12 +485,32 @@ background: #666;
 /* GiTHUB_LOGO##TEAM_SPiRiT!!! */
 
 	/* IMAN_FRUM_SOMALiA_MY_MOMMA */
-	
+.pinupGallery {
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+   object-fit: contain;
+}
+.pinupImage {
+  width: 100px;
+  flex: 1 0 auto;
+}
+.featured-pinupImage {
+  flex: 0 0 100%;
+}	
 </style>
 
 ## Hole To Another Universe
 
-## NEON_TEXT_TESTS_QUE
+## DEAR_SAAATU##OH_HOW_I_MISS_YOU ##
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://i.pinimg.com/750x/3b/ff/81/3bff81a1208ad9bcdeb4a6db3faa2267.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/3b/ff/81/3bff81a1208ad9bcdeb4a6db3faa2267.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/3b/ff/81/3bff81a1208ad9bcdeb4a6db3faa2267.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/3b/ff/81/3bff81a1208ad9bcdeb4a6db3faa2267.jpg" alt="">
+</div>
 <div class='some-page-wrapper'>
  <div class='row'>
  <div class='column'>
