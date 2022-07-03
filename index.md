@@ -167,7 +167,7 @@ h1,
 h3 {
   color: white;
   background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-white.gif)
     center repeat;
   font-family: "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif, -apple-system, Monaco, 
     "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
