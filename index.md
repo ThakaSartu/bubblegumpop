@@ -500,11 +500,57 @@ background: #666;
 .featured-pinupImage {
   flex: 0 0 100%;
 }	
+	
+/* General presentation stuff */
+.post-content {
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+img {
+	max-width: 100%;
+}
+
+/* Set content grid so it respects order values */
+.post-content {
+	display: grid;
+}
+
+/*
+Style image if there is an image right after the heading
+Use order to put it above the heading
+Relative position for absolute caption
+*/
+.post-content h1 + .kg-image-card {
+	margin: 0 -24px;
+	order: -1;
+	position: relative;
+}
+
+/* Style image's caption if there is an image right after the heading */
+.post-content h1 + .kg-image-card figcaption {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding: 1rem 1rem 1.2rem;
+	opacity: 0.5;
+	background: white;
+}
 </style>
 
 ## Hole To Another Universe
 
 ## DEAR_SAAATU##OH_HOW_I_MISS_YOU ##
+<div class="post-content">
+	<h1>Post title</h1>
+	<!-- {{content}} would be here, example rendered below -->
+	<figure class="kg-card kg-image-card kg-card-hascaption">
+		<img src="https://www.cultofmac.com/wp-content/uploads/2016/08/tumblr_o860yvcIUg1rnoexwo1_1280.jpg" class="kg-image">
+		<figcaption>Photo by <a href="#">Harley-Davidson</a> / <a href="#">Unsplash</a></figcaption>
+	</figure>
+	<p>Main post content... lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, repellat molestiae iure repudiandae explicabo labore harum eum recusandae a voluptatibus nesciunt qui commodi magnam, quaerat quis fuga veritatis molestias esse.</p>
+</div>
 <iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&color=ff0179" width="600" height="1300" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/396000267">Untitled</a> from <a href="https://vimeo.com/user4243921">opo1988</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <div class="pinupGallery">
