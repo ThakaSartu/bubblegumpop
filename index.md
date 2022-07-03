@@ -489,6 +489,20 @@ background: #666;
 </style>
 
 ## Hole To Another Universe
+![##JUiCY_J_STAY_TRiPPY_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/fXulQ42j0vcu/4BhlKL2x3VAUETOiIIfEhGNtZefX9o0witXLjFGq.jpg)
+<div class='some-page-wrapper'>
+  <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="https://thakarashard.github.io/hole_to_another_universe_blog/img/future-the-wizrd.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        <img src="https://thakarashard.github.io/hole_to_another_universe_blog/img/future-the-wizrd.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
 <h2 class="neonText"> EDiTABLE_on_TOP## </h2>
 <div class="row">
     <div class="column">
@@ -526,17 +540,17 @@ background: #666;
 <div class="row">
     <div class="column">
       <div class="blue-column">
-        <img src="https://i.pinimg.com/564x/65/5b/a4/655ba4cb6e341f9fda1a7bdddd2077df.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
+        <img src="https://i.pinimg.com/750x/37/a7/21/37a721ea1aa585febee94082f1236931.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
       </div>
     </div>
     <div class="column">
       <div class="green-column">
-        <img src="https://i.pinimg.com/564x/65/5b/a4/655ba4cb6e341f9fda1a7bdddd2077df.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
+        <img src="https://i.pinimg.com/750x/37/a7/21/37a721ea1aa585febee94082f1236931.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
       </div>
     </div>
  <div class="column">
       <div class="blue-column">
-        <img src="https://i.pinimg.com/564x/65/5b/a4/655ba4cb6e341f9fda1a7bdddd2077df.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
+        <img src="https://i.pinimg.com/750x/37/a7/21/37a721ea1aa585febee94082f1236931.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
       </div>
     </div>	
   </div>
