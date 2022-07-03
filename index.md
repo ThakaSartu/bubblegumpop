@@ -642,19 +642,6 @@ https://www.youtube.com/watch?v=ecFE-WOJLxA
  </div>
  </div>
 
-<div class='some-page-wrapper'>
-  <div class='row'>
-    <div class='column'>
-      <div class='blue-column'>
-        <img src="https://media.pitchfork.com/photos/5c38fedb98bca5110aacd7af/1:1/w_600/Future%20Hndrxx%20Presents:%20The%20WIZRD_Future.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-    <div class='column'>
-      <div class='green-column'>
-        <img src="https://preview.redd.it/4dt6i5dvt9r21.png?auto=webp&s=6a22aa8fbbf7e67bdcf5d89f49d5e63d407e3e6c" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
 <h2 class="neonText"> EDiTABLE_on_TOP## </h2>
 <div class="row">
     <div class="column">
@@ -673,16 +660,10 @@ https://www.youtube.com/watch?v=ecFE-WOJLxA
       </div>
     </div>	
   </div>
-<video controls width="100%">
-    <source src="https://mirkoreisser.de/wp-content/uploads/2022/03/NFT_DAIMforUkraine_ArtistForUkraine_2022_Preview.mp4"
-            type="video/mp4">
-    Sorry, your browser doesn't support embedded videos.
-</video>
-<iframe id="reddit-embed" src="https://www.redditmedia.com/r/IdiotsInCars/comments/rcaitc/new_to_the_sub_thought_id_enter_with_a_banger/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="620" width="100%" scrolling="no"></iframe>
 
-![DREEZY_IS_HIS_WIFE](https://i.scdn.co/image/ab67616d0000b273a02c33fd1684b4292e4724ca)
+<a alt="DREEZY_IS_HIS_WIFE" href="https://i.scdn.co/image/ab67616d0000b273a02c33fd1684b4292e4724ca"  target="_blank" > <img src="https://i.scdn.co/image/ab67616d0000b273a02c33fd1684b4292e4724ca" > </a>
 
-<iframe height="300" style="width: 100%;" scrolling="no" title="Pure CSS 3D Synthesizer (mousedown for rotation)" src="https://codepen.io/suez/embed/GJKRPN?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="300px" style="width: 100%;" scrolling="no" title="Pure CSS 3D Synthesizer (mousedown for rotation)" src="https://codepen.io/suez/embed/GJKRPN?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/suez/pen/GJKRPN">
   Pure CSS 3D Synthesizer (mousedown for rotation)</a> by Nikolay Talanov (<a href="https://codepen.io/suez">@suez</a>)
   on <a href="https://codepen.io">CodePen</a>.
