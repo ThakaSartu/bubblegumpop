@@ -167,7 +167,7 @@ h1,
 h3 {
   color: white;
   background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-grey.gif)
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
     center repeat;
   font-family: "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif, -apple-system, Monaco, 
     "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
@@ -547,14 +547,14 @@ background: #666;
       <source src="movie.mp4" type="video/mp4">
       <source src="movie.ogg" type="video/ogg">
       <-- Your browser does not support the video tag. -->
-    </video> {% endhighlight %} <em> Now i get it, [##ACCESSABILITY](https://www.w3.org/WAI/fundamentals/accessibility-intro/)they can access more users using an iframe... HTML5 is not going to be healthy with people accessing the content from older computers in poor regions where they may only have access to, for example Windows2000 and Internet Explorer 6... So, I need to do more research. Most people are on Mobile phones, however blog lovers often have a desktop, tablet, or laptop for reading and viewing information. ### HTML5 tEST -> [ALL_ABOUT_Que] https://youtu.be/wGAQNzCXX-c <video width="320" height="240" controls>
-        <source src="https://youtu.be/wGAQNzCXX-c">
+    </video> {% endhighlight %} <em> Now i get it, [##ACCESSABILITY](https://www.w3.org/WAI/fundamentals/accessibility-intro/)they can access more users using an iframe... HTML5 is not going to be healthy with people accessing the content from older computers in poor regions where they may only have access to, for example Windows2000 and Internet Explorer 6... So, I need to do more research. Most people are on Mobile phones, however blog lovers often have a desktop, tablet, or laptop for reading and viewing information. ### HTML5 tEST -> [ALL_ABOUT_Que] https://youtu.be/wGAQNzCXX-c <video width="50%" height="50%" controls>
+        <source src="[https://youtu.be/wGAQNzCXX-c](https://mirkoreisser.de/wp-content/uploads/2022/03/NFT_DAIMforUkraine_ArtistForUkraine_2022_Preview.mp4)">
       </video>
  ### SorryBabeDat_SHiTBROKE = [YouTube](did their research) Here is ya song... Thanks for making my day <3 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Zh25aap8gH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ## Eric is helping me here [Eric_Meyer](https://github.com/meyerweb) got me interested in webdesign years ago with what I call his [ Nautilus design](https://meyerweb.com/eric/css/edge/complexspiral/glassy.html). I have always enjoyed graphic arts. After my mother and I were kidnapped, the home I grew up in with her sister and her kidnapper was stocked high with [National Geographic Magazines ](https://lifeasahuman.com/2015/media-tech/media/why-i-save-old-national-geographic-magazines/) and [ Watchtower and AWAKE Magazines](https://vatican.com/The-Americas-Watchtower-Magazines%e2%80%92-Jehovah-Witness/6633/502/4583/g17Watchtower%20Magazines-%20Jehovah%20Witness'e16'1/295/) and being from ##LOS_ANGELES I had a lot of exposure to [graffiti art](https://www.graffiti.org/) and my brothers were [Graffiti Writers](http://www.at149st.com/history.html). So when I got my first exposure to the web in 1997, I wanted in, but had no Idea what to do. After two to three years of infreaquent browsing due to the rarity and scarcity of computers, much less computers with internet connections [SCAD opened its library to the public](https://www.scad.edu/life/buildings-and-facilities/jen-library) and while I wanted to go for graphic design, my foster parents could not affor it. It was about $100,000 for a ##GRAPHIC_DESIGN_DEGREE. ##WiLLiE_KELLY_JR_MY_KIDNAPPER only made around $35,000 a year. Even if he would pay for college it was not even worth asking and SCAD had noprograms for local residents. Eric's Design looked incredible on the library's [Bondi Blue First Generation iMACS](https://everymac.com/systems/apple/imac/specs/imac_ab.html). That machine was like $1,300 so I could never get one on my own... I struggled to get [The Original Playstation in 1995](https://www.britannica.com/topic/PlayStation), it was only $300. I have never had a new computer of my own. I did use them in corporate... I in someways worked for new computers for years while dealing with ##East_AFRICAN_ISSUES. THis codeblock will according to Eric, make my site more readable across more platforms >>> {% highlight css %} /* <-- Begin #ERiC_MEYERS_CSS_TOOLS */ /* <-- Begin #ERiC_MEYERS_CSS_TOOL */ /* http://meyerweb.com/eric/tools/css/reset/ v2.0 | 20110126 License: none (public domain) */ html { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; } /* HTML5 display-role reset for older browsers */ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section { display: block; } body { line-height: 1; } ol, ul { list-style: none; } blockquote, q { quotes: none; } blockquote:before, blockquote:after, q:before, q:after { content: '' ; content: none; } table { border-collapse: collapse; border-spacing: 0; } /* <-- end #ERiC_MEYERS_CSS_RESET_TOOL */ {% endhighlight %} 
  
  # Saturday, November 27th  
     <p>&#x1F525 &#x1F525 &#x1F525 &#x1F525 &#x1F525 </p>
-
+<img src="http://static1.squarespace.com/static/56858337cbced60d3b293aef/568d70177086d7180fc3bbe5/5e7be917ca3a9d59fc74689c/1655723593702/Albumism_OlDirtyBastard_ReturnToThe36Chambers_MainImage_2x1.jpg" >
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HqylXv4Usn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
  ## SOMETYPE_OF_WAY_I_WILL_END_UP_SOMEWHERE_I_BELONG(damn... #iym_hella_emo_today) 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-KKbdErJkiY" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
@@ -1949,3 +1949,9 @@ One day my blog will `RETURN` `true` when run from the command line
 		<span class="neonText">
  #BELL_LABS####SAATU_IS_MY_WIFE##ASWELL_AS_ERIKA_MUNA_QUXUBE_AND_LAUREN_LAURA_TOO_AND_HEATHER
 </span>
+		{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##############################################
+{% endhighlight %}
