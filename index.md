@@ -546,10 +546,11 @@ Relative position for absolute caption
 	<h1>Post title</h1>
 	<!-- {{content}} would be here, example rendered below -->
 	<figure class="kg-card kg-image-card kg-card-hascaption">
-		<img src="https://www.cultofmac.com/wp-content/uploads/2016/08/tumblr_o860yvcIUg1rnoexwo1_1280.jpg" class="kg-image">
+		<iframe alt="THANKS_SARTU" src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&color=ff0179" width="600" height="1300" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> 
 		<figcaption>Photo by <a href="#">Harley-Davidson</a> / <a href="#">Unsplash</a></figcaption>
 	</figure>
-	<p>Main post content... lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, repellat molestiae iure repudiandae explicabo labore harum eum recusandae a voluptatibus nesciunt qui commodi magnam, quaerat quis fuga veritatis molestias esse.</p>
+	<p>The Ethiopian wolf, Africa’s only wolf species, is under threat.
+The Ethiopian wolf is the rarest and most endangered canid in the world — with only about 450 individuals remaining. They are restricted to seven isolated mountain enclaves in the highlands, and the two remaining strongholds for this iconic species occur in Bale Mountains National Park and Simien Mountains National Park.</p>
 </div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QHIUvE-IUvI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/y74cRJjDJtE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
