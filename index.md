@@ -300,6 +300,47 @@ text-align: left;
   color: #fff;
 }
 
+	
+.some-page-wrapper {
+  margin: 15px;
+  background-color: ##23b2ff;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+.double-column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 2;
+  overflow: hidden;
+}
+
+.blue-column {
+  background-color: #23ff32;
+  
+}
+
+.green-column {
+    
+    background-color: #c9ff23;
+}	
+	/* ------------------------------------------- */	
+	
+	
 .twoPanelSpread {
   margin: 0px;
   padding: 0px;
