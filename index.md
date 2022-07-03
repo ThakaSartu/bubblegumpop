@@ -151,9 +151,11 @@ iframe {
   border: none;
 }
 
-p.story {
+p
+{
   background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif");
 }
+	
 img {
   padding: 0px;
   margin: 0px;
@@ -488,14 +490,35 @@ background: #666;
 
 ## Hole To Another Universe
 <iframe id="reddit-embed" src="https://www.redditmedia.com/r/IdiotsInCars/comments/rcaitc/new_to_the_sub_thought_id_enter_with_a_banger/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="620" width="100%" scrolling="no"></iframe>
-<amp-iframe width=100% height=620 sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" layout="responsive" resizable frameborder="0" src="https://www.redditmedia.com/r/IdiotsInCars/comments/rcaitc/new_to_the_sub_thought_id_enter_with_a_banger/?ref_source=embed&amp;ref=share&amp;embed=true&amp;theme=dark"> <amp-img layout="fill" src="https://rebed.redditmedia.com/assets/03657792c480fd6bbb7bef821c859742.svg" placeholder></amp-img> <div overflow>Click to expand</div> </amp-iframe>
-![DREEZY_IS_HIS_WIFE](https://previews-te.wetransfer.net/file/wetransfer/p1oc/sx7o7n0024o62tetf20211209185240/sjzxd9o4v1b8x4pbh20211209191816?height=2048&source=spaceship&width=2048&s=e898eadaf2e90a6453b4e4cbd3b3ca3e5a67f8b9&Expires=1639081101&Signature=gUqZ2nQT9AKhOkEhyhRIcNqv660GLaaX~fV1PKJconQndLf4wCn7t7C2SDpAof4UjYgsmgvocIvcHtl60XPDsRWox3cKI3dqB0VRgCMJAKqCxmK1TLzzX3K2mexfmiUjj~KhFQ2CvQrqwAP34BfM99PZG0BRbPmPtGxdRGSfjhcte9jpTRR-ID8Mu2Eu7nZvO80~G7dBy9lOCpSUhvbZt1ji4ZZcVFUugIPf-A3yciSWAmTd8-DGOrPyRyEw-w-m0wc8nY2d~iOPyF7ZnbZjyuQ6fQbe6p2m3AvqxJ5wnasqgg3jgcWO4cCIa539F~Rp-djjg9Z42aOGp2PzofrViw__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ)
+
+![DREEZY_IS_HIS_WIFE](https://i.scdn.co/image/ab67616d0000b273a02c33fd1684b4292e4724ca)
+
 <iframe height="300" style="width: 100%;" scrolling="no" title="Pure CSS 3D Synthesizer (mousedown for rotation)" src="https://codepen.io/suez/embed/GJKRPN?default-tab=css%2Cresult&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/suez/pen/GJKRPN">
   Pure CSS 3D Synthesizer (mousedown for rotation)</a> by Nikolay Talanov (<a href="https://codepen.io/suez">@suez</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
-<img src="https://previews-te.wetransfer.net/file/wetransfer/p1oc/sx7o7n0024o62tetf20211209185240/s5h3kpkljjeo4134l20211209185320?height=2048&source=spaceship&width=2048&s=7c2d8359b221cc60d37994c95878ff3e98537aac&Expires=1639079610&Signature=gzehJ~JE8AD1B8490aoh37~af0IyNGj4htu~qFgBg8b5NmJoS-FWWZyEcVMBL4PHOAuy27WjrD~wqBIb0ozmB0a5E3DSOg-8veRlmaqGo~IINLMG1BqHtUmWu0SlZSawoDGL5n5Qv80qpiWA~C1Ggnr9v6Dj23s54Gdc~v56XYj~Xiea-DyGPvLu0cwsjGy9bnAfvbIPrOzCgi0e0i1P7tD9ABz1C3BKFlxnfPpRlXQhBqZMAoLm6QXzrri1WgkEG5yWrQ-W3bIhyLY7Fh9A~tltHQxhCmR8rTNXi8-qhnB52pA~9mD-Sy8moizSaW1evJX1in~fEHPTQZnwMH8IDA__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ" >
+
+<h2 class="neonText"> EDiTABLE_on_TOP## </h2>
+<div class="row">
+    <div class="column">
+      <div class="blue-column">
+        <img src="https://i.pinimg.com/564x/65/5b/a4/655ba4cb6e341f9fda1a7bdddd2077df.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
+      </div>
+    </div>
+    <div class="column">
+      <div class="green-column">
+        <img src="https://i.pinimg.com/564x/65/5b/a4/655ba4cb6e341f9fda1a7bdddd2077df.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
+      </div>
+    </div>
+ <div class="column">
+      <div class="blue-column">
+        <img src="https://i.pinimg.com/564x/65/5b/a4/655ba4cb6e341f9fda1a7bdddd2077df.jpg" alt="##MY_HAS_BEEN_SPOTTED_ON_8TH_STREET_IN_LOS_ANGELES##PROSTITUTED##SHE_IS_MISSING">
+      </div>
+    </div>	
+  </div>
+
+
 <h2 class="neonText"> EDiTABLE_on_TOP## </h2>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/511197930&color=%231eff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/littledragon" title="Little Dragon" target="_blank" style="color: #cccccc; text-decoration: none;">Little Dragon</a> · <a href="https://soundcloud.com/littledragon/lover-chanting" title="Lover Chanting" target="_blank" style="color: #cccccc; text-decoration: none;">Lover Chanting</a></div>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/542645481&color=%231eff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/littledragon" title="Little Dragon" target="_blank" style="color: #cccccc; text-decoration: none;">Little Dragon</a> · <a href="https://soundcloud.com/littledragon/lover-chanting_jayda-g-remix" title="Lover Chanting (Jayda G Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Lover Chanting (Jayda G Remix)</a></div>
