@@ -547,7 +547,7 @@ Relative position for absolute caption
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45724e1ebb64f08283bf6/vsco5fc457261e48c.jpg?w=494&dpr=1"alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45724e1ebb64f08283bf6/vsco5fc457261e48c.jpg?w=494&dpr=1" alt="Girl in a jacket" >
       </div>
     </div>
     <div class='panelColumn'>
@@ -561,16 +561,31 @@ Relative position for absolute caption
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <img src="https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/canon_5554c002_rf_5_2mm_f_2_8l_dual_1633518555_1665911.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+        <img src="https://i.discogs.com/XcQ4mmfG_TqfEuTztYQSCDpucZSVKdvDWb7BtCdroaA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjk5/NDI2LTE1MTM3MTA0/NTYtNjA4MC5qcGVn.jpeg" alt="Girl in a jacket" >
       </div>
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-        <img src="https://static.bhphoto.com/images/multiple_images/images500x500/1633518955_IMG_1616416.jpg" alt="Girl in a jacket" >
+        <img src="https://1.bp.blogspot.com/-juCnXjGLs_I/Xnlln2ceYjI/AAAAAAABWrQ/BPDRsc9j3B0InVUrlmm948S3QBjXKDneACLcBGAsYHQ/s1600/Deltron%2B3030%2BCMJ%2BNew%2BMusic%2BMonthly%2B2001%2BJanuary_000057.jpg" alt="Girl in a jacket" >
       </div>
     </div>
   </div>
 </div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45724e1ebb64f08283bf6/vsco5fc457261e48c.jpg?w=494&dpr=1"alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45724e1ebb64f08283bf6/vsco5fc457261e48c.jpg?w=494&dpr=1" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="post-content">
 	<h1>Post title</h1>
 	<!-- {{content}} would be here, example rendered below -->
@@ -581,7 +596,7 @@ Relative position for absolute caption
 	<p>The Ethiopian wolf, Africa’s only wolf species, is under threat.
 The Ethiopian wolf is the rarest and most endangered canid in the world — with only about 450 individuals remaining. They are restricted to seven isolated mountain enclaves in the highlands, and the two remaining strongholds for this iconic species occur in Bale Mountains National Park and Simien Mountains National Park.</p>
 </div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QHIUvE-IUvI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/QHIUvE-IUvI" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/y74cRJjDJtE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/uozhx1xeTDg" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <div class="post-content">
@@ -593,7 +608,7 @@ The Ethiopian wolf is the rarest and most endangered canid in the world — with
 	</figure>
 	<p>Main post content... lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, repellat molestiae iure repudiandae explicabo labore harum eum recusandae a voluptatibus nesciunt qui commodi magnam, quaerat quis fuga veritatis molestias esse.</p>
 </div>
-<iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&color=ff0179" width="600" height="1300" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 <p><a href="https://vimeo.com/396000267">Untitled</a> from <a href="https://vimeo.com/user4243921">opo1988</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <div class="pinupGallery">
   <img class="pinupImage featured-pinupImage" src="https://i.pinimg.com/750x/3b/ff/81/3bff81a1208ad9bcdeb4a6db3faa2267.jpg" alt="">
