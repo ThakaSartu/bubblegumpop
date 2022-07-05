@@ -527,15 +527,15 @@ Relative position for absolute caption
 	position: relative;
 }
 
+
 /* Style image's caption if there is an image right after the heading */
 .post-content h1 + .kg-image-card figcaption {
-	position: absolute;
 	bottom: 0;
 	left: 0;
 	right: 0;
 	padding: 1rem 1rem 1.2rem;
 	opacity: 0.5;
-	background-image: url("https://www.transparenttextures.com/patterns/3px-tile.png");
+	background: white;
 }
 </style>
 
