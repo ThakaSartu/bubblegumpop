@@ -600,7 +600,8 @@ The Ethiopian wolf is the rarest and most endangered canid in the world — with
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45724e1ebb64f08283bf6/vsco5fc457261e48c.jpg?w=494&dpr=1" alt="Girl in a jacket" >
+	
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb251d78313c14000007/vsco5fc4bb27bbd2e.jpg?w=555&dpr=1" alt="Girl in a jacket" >
       </div>
     </div>
   </div>
