@@ -486,7 +486,7 @@ background: #666;
 
 	/* IMAN_FRUM_SOMALiA_MY_MOMMA */
 .pinupGallery {
-  width: 60%;
+  width: 100%;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
@@ -590,7 +590,7 @@ Relative position for absolute caption
 	<h1>Post title</h1>
 	<!-- {{content}} would be here, example rendered below -->
 	<figure class="kg-card kg-image-card kg-card-hascaption">
-		<iframe alt="THANKS_SARTU" src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&color=ff0179" width="600" height="1300" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> 
+		<iframe alt="THANKS_SARTU" src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&color=ff0179" max-width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> 
 		<figcaption>Photo by <a href="#">Harley-Davidson</a> / <a href="#">Unsplash</a></figcaption>
 	</figure>
 	<p>The Ethiopian wolf, Africa’s only wolf species, is under threat.
