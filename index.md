@@ -346,7 +346,7 @@ text-align: left;
 .twoPanelSpread {
   margin: 0px;
   padding: 0px;
-  background: url(https://media3.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.gif?cid=ecf05e47rvlxlacjxpdakk7cvxwscyzzuba10oqqwwvaycg9&rid=giphy.gif  )
+  background: url( https://i.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.webp )
     center repeat;
 }
 
