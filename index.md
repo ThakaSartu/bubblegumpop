@@ -575,7 +575,7 @@ Relative position for absolute caption
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45724e1ebb64f08283bf6/vsco5fc457261e48c.jpg?w=494&dpr=1"alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/CHECKING_MY_EGO_AT_THE_DOOR.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
       </div>
     </div>
     <div class='panelColumn'>
