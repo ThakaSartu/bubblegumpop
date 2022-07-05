@@ -544,18 +544,19 @@ Relative position for absolute caption
 ## DEAR_SAAATU##OH_HOW_I_MISS_YOU ##
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/90375686&color=%23c9c7ca&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/johnedwardsullivan" title="John E. Sullivan" target="_blank" style="color: #cccccc; text-decoration: none;">John E. Sullivan</a> · <a href="https://soundcloud.com/johnedwardsullivan/tommy-wright-iii-ft-princess" title="Tommy Wright III Ft. Princess Loko- Still Pimpin" target="_blank" style="color: #cccccc; text-decoration: none;">Tommy Wright III Ft. Princess Loko- Still Pimpin</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/83443834&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/verycherry34" title="verycherry34" target="_blank" style="color: #cccccc; text-decoration: none;">verycherry34</a> · <a href="https://soundcloud.com/verycherry34/get-low-lil-jon" title="Get Low- Lil Jon" target="_blank" style="color: #cccccc; text-decoration: none;">Get Low- Lil Jon</a></div>
+
+
 <div class="post-content">
 	<h1>My Conversation with a Human Trafficker</h1>
-	<!-- {{content}} would be here, example rendered below -->
 	<figure class="kg-card kg-image-card kg-card-hascaption">
-
-		<iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe><script src="https://player.vimeo.com/api/player.js"></script>
-		<figcaption><h2>THAKA_aka_RASHARD's SCREENCAPTURE <a href="https://vimeo.com/396000267"></a> / <a href="https://vimeo.com/396000267">Unsplash</a> </a> </figcaption>
+<iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="100%" height="1920" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Untitled"></iframe>
+		<figcaption>ScreenCapture by <a href="#">Thaka##Rashard</a> / <a href="#">Selassie##Kelly</a></figcaption>
 	</figure>
-		<p>The Ethiopian wolf, Africa’s only wolf species, is under threat.
+			<p>The Ethiopian wolf, Africa’s only wolf species, is under threat.
 The Ethiopian wolf is the rarest and most endangered canid in the world — with only about 450 individuals remaining. They are restricted to seven isolated mountain enclaves in the highlands, and the two remaining strongholds for this iconic species occur in Bale Mountains National Park and Simien Mountains National Park.</p>
 	<p>Main post content... lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, repellat molestiae iure repudiandae explicabo labore harum eum recusandae a voluptatibus nesciunt qui commodi magnam, quaerat quis fuga veritatis molestias esse.</p>
 </div>
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_woefU5WRVk" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://player.vimeo.com/video/34994054?h=f303c16d3d&color=ff0179&title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/sLZYxhYqm7E" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
