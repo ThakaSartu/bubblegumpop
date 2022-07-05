@@ -171,7 +171,7 @@ h3 {
     center repeat;
   font-family: "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif, -apple-system, Monaco, 
     "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, ;
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell;
   font-weight: 900;
   padding: 0px;
   margin: 0px;
@@ -542,6 +542,9 @@ Relative position for absolute caption
 ## Hole To Another Universe
 
 ## DEAR_SAAATU##OH_HOW_I_MISS_YOU ##
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Dt3Aj9p5KUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1224769615&color=%2392f8fa&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/luvenchanting" title="Enchanting" target="_blank" style="color: #cccccc; text-decoration: none;">Enchanting</a> · <a href="https://soundcloud.com/luvenchanting/take-it-back" title="Take It Back" target="_blank" style="color: #cccccc; text-decoration: none;">Take It Back</a></div>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/gnsqvz9iIlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://www.roadandtrack.com/new-cars/news/a33293/how-to-make-a-dodge-challenger-hellcat-quicker-than-a-demon/"> <img src="https://hips.hearstapps.com/roa.h-cdn.co/assets/17/17/2560x1280/landscape-1493049234-dg016-065clq9tv22m8qdnc5i2cto9dvkunr6.jpg?resize=980:*" > </a>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1224900766&color=%23de8b80&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kaliii" title="Kali" target="_blank" style="color: #cccccc; text-decoration: none;">Kali</a> · <a href="https://soundcloud.com/kaliii/track-1" title="Standards" target="_blank" style="color: #cccccc; text-decoration: none;">Standards</a></div>
 <iframe src="https://archive.org/embed/arcade_nbajamte" width="" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
@@ -600,13 +603,14 @@ The Ethiopian wolf is the rarest and most endangered canid in the world — with
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/CHECKING_MY_EGO_AT_THE_DOOR.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb251d78313c14000007/vsco5fc4bb27bbd2e.jpg?w=555&dpr=1" alt="Girl in a jacket" >
       </div>
     </div>
+	  
     <div class='panelColumn'>
       <div class='rightColumn'>
-	
-        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb251d78313c14000007/vsco5fc4bb27bbd2e.jpg?w=555&dpr=1" alt="Girl in a jacket" >
+	      <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/CHECKING_MY_EGO_AT_THE_DOOR.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+	        
       </div>
     </div>
   </div>
