@@ -546,18 +546,7 @@ Relative position for absolute caption
 <iframe src="https://player.vimeo.com/video/34994054?h=f303c16d3d&color=ff0179&title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/sLZYxhYqm7E" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/F01fzPwBwc4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-<div class="post-content">
-	<h1>Post title</h1>
-	<!-- {{content}} would be here, example rendered below -->
-	<figure class="kg-card kg-image-card kg-card-hascaption">
 
-		<div style="padding:216.7% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Untitled"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-		<figcaption><h2>THAKA_aka_RASHARD's SCREENCAPTURE <a href="https://vimeo.com/396000267"></a> / <a href="https://vimeo.com/396000267">Unsplash</a> </a> </figcaption>
-	</figure>
-	<p>The Ethiopian wolf, Africa’s only wolf species, is under threat.
-The Ethiopian wolf is the rarest and most endangered canid in the world — with only about 450 individuals remaining. They are restricted to seven isolated mountain enclaves in the highlands, and the two remaining strongholds for this iconic species occur in Bale Mountains National Park and Simien Mountains National Park.</p>
-	<p>Main post content... lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, repellat molestiae iure repudiandae explicabo labore harum eum recusandae a voluptatibus nesciunt qui commodi magnam, quaerat quis fuga veritatis molestias esse.</p>
-</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
