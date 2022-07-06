@@ -629,7 +629,11 @@ https://melaniedaveid.com/
 <iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="100%" height="1920" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Untitled"></iframe>
 		<figcaption>ScreenCapture by <a href="#">Thaka##Rashard</a> / <a href="#">Selassie##Kelly</a></figcaption>
 	</figure>
-			<p>The Ethiopian wolf, Africa’s only wolf species, is under threat.
+	<p> <a href="THE_##CRIME_SCENE##INSTAGRAM##ACCOUNT####MUNA_and_RASHARD##MISSING_PERSONS_DETAILS##WE_HAVE_SO_MUCH##PROOF##">https://www.instagram.com/muna_and_rashard/?hl=en</a>	
+<a href="https://www.veoh.com/watch/v142164131xC426T7A">ANIME##_THIS_IS_HOW_MY_ASSASINATION_ATTEMPTS_GO##THAT_WAS_SARTU##</a>
+<a href="https://www.statista.com/statistics/960103/ranking-of-most-used-online-video-platforms-in-sweden/"> Which platforms do you use to watch online video?</a>
+	</p>
+	<p>The Ethiopian wolf, Africa’s only wolf species, is under threat.
 The Ethiopian wolf is the rarest and most endangered canid in the world — with only about 450 individuals remaining. They are restricted to seven isolated mountain enclaves in the highlands, and the two remaining strongholds for this iconic species occur in Bale Mountains National Park and Simien Mountains National Park.</p>
 	<p>Main post content... lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, repellat molestiae iure repudiandae explicabo labore harum eum recusandae a voluptatibus nesciunt qui commodi magnam, quaerat quis fuga veritatis molestias esse.</p>
 </div>
@@ -900,19 +904,9 @@ In the DFACS meeting, puzzled I told Mashonga the truth, I cant find work, my re
 In early October I saw Coral, in Pasadena, ##California, with a grown man wearing fishnet stockings... Shes 9. I was shot with a poison dart one day later, my skateboard stolen and my foot began to swell larger that a shoe could fit... I was rushed to the emergency room and ##UCLA ##Cut_my_foot_to_the_bone_to_drain_the_infection...
 <a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a><a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a> <a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a><a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a>
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/651386804?h=79c650eb04" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<div class='some-page-wrapper'>
-  <div class='row'>
-    <div class='column'>
-      <div class='blue-column'>
-        <img src="https://thakarashard.github.io/hole_to_another_universe_blog/img/future-the-wizrd.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-    <div class='column'>
-      <div class='green-column'>
-        <img src="https://thakarashard.github.io/hole_to_another_universe_blog/img/future-the-wizrd.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
+	
+	[THE_HACKER_ODYESSEY_et_SUM_PDF_LiBRARAAAY](https://vdoc.pub/documents/the-best-of-2600-a-hacker-odyssey-74jetbvnnlh0#)
+
 <div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
@@ -965,7 +959,6 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
       <div class='green-column'>
         <img src="https://i.pinimg.com/564x/8a/6f/62/8a6f6232a31191619856168f186f0904.jpg" alt="Girl in a jacket" >
       </div>
-
     </div>
   </div>
 	  <div class='row'>
@@ -1001,36 +994,10 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
       </div>
     </div>	
   </div>
-<a href="https://solecollector.com/"> <em>##SOUL_COLLECTOR_IS_IN_THE_BUILDING</em></a>
- <div class='row'>
-    <div class='column'>
-      <div class='blue-column'>
-        <img src="https://images.solecollector.com/complex/images/c_crop,h_893,w_1074,x_3,y_75/c_fill,dpr_2.0,f_auto,fl_lossy,q_auto,w_800/oivtkfz2vwgpdfzccpwr/air-jordan-4-retro-infrared-dh6927-061-pair" alt="Girl in a jacket" >
-      </div>
-    </div>
-    <div class='column'>
-      <div class='green-column'>
-        <img src="https://images.solecollector.com/complex/images/c_crop,h_893,w_1074,x_3,y_75/c_fill,dpr_2.0,f_auto,fl_lossy,q_auto,w_800/oivtkfz2vwgpdfzccpwr/air-jordan-4-retro-infrared-dh6927-061-pair" alt="Girl in a jacket" >
-      </div>
-    </div>
-    </div>	
-  </div>
-<div class='some-page-wrapper'>
-  <div class='row'>
-    <div class='column'>
-      <div class='blue-column'>
-        <img src="https://64.media.tumblr.com/ff4b9748e86291fc148f3274f1f0b439/tumblr_oca4e4ONzW1qm622lo1_400.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-    <div class='column'>
-      <div class='green-column'>
-        <img src="https://64.media.tumblr.com/ff4b9748e86291fc148f3274f1f0b439/tumblr_oca4e4ONzW1qm622lo1_400.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
-[The U.S. National Archives *FLiCKRACCT* ](https://www.flickr.com/photos/35740357@N03/)
+
+[The U.S. National Archives ](https://www.flickr.com/photos/35740357@N03/)
 <span class="neonText">
- #somalisong #Oromogirl#quxubesero
+ #somalisong #Oromogirl #quxubesero
 </span>
 <a herf="https://www.youtube.com/watch?v=mmkdRG7MQm4" >  < img src="https://www.game-ost.com/static/covers_soundtracks/1/6/16259_729679.jpg" > </a>
 <a href="https://music.amontobin.com/album/out-from-out-where" alt="##AMON_TOBiNs##BANDCAMP##PURCHASE_HERE_SO_HE_CAN_BUY_A_SMOOTHIE" >< img src="https://f4.bcbits.com/img/a0191890494_10.jpg" alt="Out From Out Where by Amon Tobin" ></a>
@@ -1083,6 +1050,7 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
  </div>
  </div>
 </div>
+<a href="THE_##CRIME_SCENE##INSTAGRAM##ACCOUNT####MUNA_and_RASHARD##MISSING_PERSONS_DETAILS##WE_HAVE_SO_MUCH##PROOF##">https://www.instagram.com/muna_and_rashard/?hl=en</a>	
 <a href="https://www.veoh.com/watch/v142164131xC426T7A">ANIME##_THIS_IS_HOW_MY_ASSASINATION_ATTEMPTS_GO##THAT_WAS_SARTU##</a>
 <a href="https://www.statista.com/statistics/960103/ranking-of-most-used-online-video-platforms-in-sweden/"> Which platforms do you use to watch online video?</a>
 https://copperhead.co/#training --> 
