@@ -507,9 +507,7 @@ background: #666;
 	margin: 0 auto;
 }
 
-img {
-	max-width: 100%;
-}
+/* img {	max-width: 100%; }  ###MAY_BE_BREAKING_SOME_SOME_IMAGES */
 
 /* Set content grid so it respects order values */
 .post-content {
@@ -543,8 +541,7 @@ Relative position for absolute caption
 
 ## DEAR_SAAATU##OH_HOW_I_MISS_YOU ##
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/TG1CQF18uxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/vsfzAvOrjrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vsfzAvOrjrc" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -769,7 +766,7 @@ The Ethiopian wolf is the rarest and most endangered canid in the world — with
       <-- Your browser does not support the video tag. -->
     </video> {% endhighlight %} <em> Now i get it, [##ACCESSABILITY](https://www.w3.org/WAI/fundamentals/accessibility-intro/)they can access more users using an iframe... HTML5 is not going to be healthy with people accessing the content from older computers in poor regions where they may only have access to, for example Windows2000 and Internet Explorer 6... So, I need to do more research. Most people are on Mobile phones, however blog lovers often have a desktop, tablet, or laptop for reading and viewing information. ### HTML5 tEST -> [ALL_ABOUT_Que] https://youtu.be/wGAQNzCXX-c 
 	
-<video width="50%" height="50%" controls>
+<video width="50%" height="50%" style="clear:left; float: left" controls>
         <source src="https://mirkoreisser.de/wp-content/uploads/2022/03/NFT_DAIMforUkraine_ArtistForUkraine_2022_Preview.mp4">
       </video>
 
@@ -779,9 +776,11 @@ The Ethiopian wolf is the rarest and most endangered canid in the world — with
     <p>&#x1F525 &#x1F525 &#x1F525 &#x1F525 &#x1F525 </p>
 <img src="http://static1.squarespace.com/static/56858337cbced60d3b293aef/568d70177086d7180fc3bbe5/5e7be917ca3a9d59fc74689c/1655723593702/Albumism_OlDirtyBastard_ReturnToThe36Chambers_MainImage_2x1.jpg" >
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/HqylXv4Usn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
- ## SOMETYPE_OF_WAY_I_WILL_END_UP_SOMEWHERE_I_BELONG(damn... #iym_hella_emo_today) 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/-KKbdErJkiY" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/zsCD5XCu6CM" title="YouTube video player" frameborder="0"allowfullscreen></iframe> 
+	
+## SOMETYPE_OF_WAY_I_WILL_END_UP_SOMEWHERE_I_BELONG(damn... #iym_hella_emo_today) 
+	
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/-KKbdErJkiY" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/zsCD5XCu6CM" title="YouTube video player" frameborder="0" allowfullscreen></iframe> 
  ## ##LiNKiN_PARK_NAWT_LiNKEDiN_ERiKA 
 <div class='some-page-wrapper'>
   <div class='row'>
@@ -800,7 +799,6 @@ https://www.youtube.com/watch?v=ecFE-WOJLxA
     </div>
   </div>
 															      
-![##JUiCY_J_STAY_TRiPPY_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/fXulQ42j0vcu/4BhlKL2x3VAUETOiIIfEhGNtZefX9o0witXLjFGq.jpg)
 [ ##voyeurism##_OUT_IN_THe_OPEN_ON_YOUTUBE##MY_FAMILY_HAS_THIS_ISSUE## :^( ](https://www.youtube.com/watch?v=oETVDKbThcE)
 <a href="https://youtu.be/C6fEKP_tlC8"> <img class="bwtocolor" src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="##ELLA_FITZGERALD##_and_##LOUiE_ARMSTROG##" > </a>
 <span class="neonText">
