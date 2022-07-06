@@ -783,8 +783,7 @@ The Ethiopian wolf is the rarest and most endangered canid in the world — with
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-KKbdErJkiY" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zsCD5XCu6CM" title="YouTube video player" frameborder="0"allowfullscreen></iframe> 
  ## ##LiNKiN_PARK_NAWT_LiNKEDiN_ERiKA 
-
-															      <div class='some-page-wrapper'>
+<div class='some-page-wrapper'>
   <div class='row'>
     <div class='column'>
       <div class='blue-column'>
@@ -800,7 +799,6 @@ https://www.youtube.com/watch?v=ecFE-WOJLxA
       </div>
     </div>
   </div>
-</div>
 															      
 ![##JUiCY_J_STAY_TRiPPY_IMAGE_TAKEN_FROM_DiSCOGS](https://pixelfed-tokyo.sgp1.digitaloceanspaces.com/public/m/_v2/362683957004104159/4f8b684e5-e9314a/fXulQ42j0vcu/4BhlKL2x3VAUETOiIIfEhGNtZefX9o0witXLjFGq.jpg)
 [ ##voyeurism##_OUT_IN_THe_OPEN_ON_YOUTUBE##MY_FAMILY_HAS_THIS_ISSUE## :^( ](https://www.youtube.com/watch?v=oETVDKbThcE)
@@ -837,8 +835,6 @@ https://www.youtube.com/watch?v=ecFE-WOJLxA
  <a href="https://youtu.be/-DR6cXAa-Ek"> <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/porgy-and-bess-w-louis-armstrong.jpg" alt="##ELLA_FITZGERALD##_and_##LOUiE_ARMSTROG##" > </a>
  </div>
  </div>
-
-<h2 class="neonText"> EDiTABLE_on_TOP## </h2>
 <div class="row">
     <div class="column">
       <div class="blue-column">
@@ -864,8 +860,6 @@ https://www.youtube.com/watch?v=ecFE-WOJLxA
   Pure CSS 3D Synthesizer (mousedown for rotation)</a> by Nikolay Talanov (<a href="https://codepen.io/suez">@suez</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
-
-<h2 class="neonText"> EDiTABLE_on_TOP## </h2>
 <div class="row">
     <div class="column">
       <div class="blue-column">
@@ -883,11 +877,6 @@ https://www.youtube.com/watch?v=ecFE-WOJLxA
       </div>
     </div>	
   </div>
-
-
-<h2 class="neonText"> EDiTABLE_on_TOP## </h2>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/511197930&color=%231eff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/littledragon" title="Little Dragon" target="_blank" style="color: #cccccc; text-decoration: none;">Little Dragon</a> · <a href="https://soundcloud.com/littledragon/lover-chanting" title="Lover Chanting" target="_blank" style="color: #cccccc; text-decoration: none;">Lover Chanting</a></div>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/542645481&color=%231eff00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/littledragon" title="Little Dragon" target="_blank" style="color: #cccccc; text-decoration: none;">Little Dragon</a> · <a href="https://soundcloud.com/littledragon/lover-chanting_jayda-g-remix" title="Lover Chanting (Jayda G Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Lover Chanting (Jayda G Remix)</a></div>
 <a href="https://youtu.be/R2rct18-iSM" target="_blank">
 <img src="https://previews-te.wetransfer.net/file/wetransfer/j1oc/sx7o7n0024o62tetf20211209185240/sfnjkna05umtp18ng20211209203353?height=2048&source=spaceship&width=2048&s=c2447d9751e86f043f5382d310516d51daeacf2c&Expires=1639085661&Signature=cn9UJSzK5KY117oGH7W-f8hEDJQuQ2-44NXG8b06Jkc63lRkAmezfU~X3Pd-tJaB2a9JGKBOfIPYyw7nzQTzEGfg70LeJw3PzsWBuO6J6miNOzZ2rQkArS42BJg1N7s-8FOld3X~RK1Qp94iUtSh~74RMhqdZlA08BgDkR4Ktn11TIDYEV~E-zeOlNQWeurMSzsnOgX0ldCYvOinaTNNN-5Jc-6aDh-WSYWy8cu-lM6yOTAPxzy-fkeQ66GGq25PoNKBfhXa25kQytCOM2EaeHqlNbCuEB5yn8LE32HoqsLWch0VmgFIsJDsGGWxst0c2ePQ8C6tSl9khPC-k8~Kgg__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ" alt="an image" title="The title of this image"/>
   </a>
@@ -903,7 +892,7 @@ In the DFACS meeting, puzzled I told Mashonga the truth, I cant find work, my re
  
 In early October I saw Coral, in Pasadena, ##California, with a grown man wearing fishnet stockings... Shes 9. I was shot with a poison dart one day later, my skateboard stolen and my foot began to swell larger that a shoe could fit... I was rushed to the emergency room and ##UCLA ##Cut_my_foot_to_the_bone_to_drain_the_infection...
 <a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a><a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a> <a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a><a href="https://vimeo.com/396000267" target="_blank" >WHiTESUPREMACY</a>
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/651386804?h=79c650eb04" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/651386804?h=79c650eb04" width="100%" height="360" frameborder="0" allowfullscreen></iframe>
 	
 	[THE_HACKER_ODYESSEY_et_SUM_PDF_LiBRARAAAY](https://vdoc.pub/documents/the-best-of-2600-a-hacker-odyssey-74jetbvnnlh0#)
 
@@ -1053,12 +1042,7 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 <a href="THE_##CRIME_SCENE##INSTAGRAM##ACCOUNT####MUNA_and_RASHARD##MISSING_PERSONS_DETAILS##WE_HAVE_SO_MUCH##PROOF##">https://www.instagram.com/muna_and_rashard/?hl=en</a>	
 <a href="https://www.veoh.com/watch/v142164131xC426T7A">ANIME##_THIS_IS_HOW_MY_ASSASINATION_ATTEMPTS_GO##THAT_WAS_SARTU##</a>
 <a href="https://www.statista.com/statistics/960103/ranking-of-most-used-online-video-platforms-in-sweden/"> Which platforms do you use to watch online video?</a>
-https://copperhead.co/#training --> 
-<p><a href="https://vimeo.com/84199397">She is Somalia</a> from <a href="https://vimeo.com/dominikaplonska">DOMINIKA PŁOŃSKA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/35480886?h=ea1b39ee19&color=ffffff&title=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/35480886">Somalia - Nomad Girl</a> from <a href="https://vimeo.com/augustinpictures">Augustin Pictures</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<div style="padding:66.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/49901085?h=26cfd6d52c&color=c9ff23" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/49901085">Somalia</a> from <a href="https://vimeo.com/user6295957">jan grarup</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 <div><img src="https://apod.nasa.gov/apod/image/1803/Cycle-Panel-1024px.jpg">
 
 <center>
