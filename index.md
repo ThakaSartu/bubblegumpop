@@ -829,6 +829,52 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
 "I wish I wasn't me sometimes"-BiLal
 
 
+	
+	
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/564x/7c/12/0f/7c120fcfaba943300a402cd1d86e99ed.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/originals/54/a5/60/54a5602868bda61c73bad1c97c3448d5.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/originals/b1/a5/31/b1a531387792bd946642e80ac2a1487d.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>		
+	
 
 <div class='some-page-wrapper'>
  <div class='row'>
