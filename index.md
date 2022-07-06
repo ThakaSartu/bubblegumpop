@@ -875,12 +875,6 @@ https://www.youtube.com/watch?v=ecFE-WOJLxA
       </div>
     </div>	
   </div>
-<a href="https://youtu.be/R2rct18-iSM" target="_blank">
-<img src="https://previews-te.wetransfer.net/file/wetransfer/j1oc/sx7o7n0024o62tetf20211209185240/sfnjkna05umtp18ng20211209203353?height=2048&source=spaceship&width=2048&s=c2447d9751e86f043f5382d310516d51daeacf2c&Expires=1639085661&Signature=cn9UJSzK5KY117oGH7W-f8hEDJQuQ2-44NXG8b06Jkc63lRkAmezfU~X3Pd-tJaB2a9JGKBOfIPYyw7nzQTzEGfg70LeJw3PzsWBuO6J6miNOzZ2rQkArS42BJg1N7s-8FOld3X~RK1Qp94iUtSh~74RMhqdZlA08BgDkR4Ktn11TIDYEV~E-zeOlNQWeurMSzsnOgX0ldCYvOinaTNNN-5Jc-6aDh-WSYWy8cu-lM6yOTAPxzy-fkeQ66GGq25PoNKBfhXa25kQytCOM2EaeHqlNbCuEB5yn8LE32HoqsLWch0VmgFIsJDsGGWxst0c2ePQ8C6tSl9khPC-k8~Kgg__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ" alt="an image" title="The title of this image"/>
-  </a>
-  <a href="https://youtu.be/hiFcIHGWEoA" target="_blank">
-<img src="https://previews-te.wetransfer.net/file/wetransfer/p1oc/sx7o7n0024o62tetf20211209185240/sqhqb6utjxe38qgr920211209204127?height=2048&source=spaceship&width=2048&s=617c137d21b7ba5d6ec7b66f8be27f007d12b87d&Expires=1639086148&Signature=Xh1bE3ypIDs1Z0fmxwTTZDxd-wPARlXc8B1NmGtSx2Irxu8bD~-Z4cR0aJbg6aLRvXSr1BdFySgKzz5HGCzogsZTrCkNrDMhr3Sg3wPqDd3h0uPQflqHUlduZI-tajdLK4~T5ksn~IdAyPPdMXjUrPmgLMC8oXk1Fzp-4Q-Uyh198PmZjk28FoGwI53uotvxlG8WuIeW4uudUbil-M3jmABdw2e8B6TbyedJdD-APCT54va2p78~PAY0EAOeFKV2nR~DTu9Z-N6Ef0Hig7XPaZ8LDhQmH0im8Hyng3iktwTMUSNyLqQCzDuROqxpRTXzRBauqZmJfkN9BMejm27kOg__&Key-Pair-Id=APKAIRLQFERKGUWFG7GQ" alt="an image" title="The title of this image"/>
-  </a>
 <h2 class="neonText"> Its been a day since I have seen our daughter ##CORAL_IRIS_KELLY. </h2> 
 Her mother mother Erika Renee Kelly was kidnapped on Feb 2,2020. A local Atlanta Matt Field bragged about it on Facebook stating "I_SOLD_HER. I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as [ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with [Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the [Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at [Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us/) and worked hard to get a new 9-5.
  
@@ -962,7 +956,8 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
     </div>
   </div>
 </div>
-
+<img src="https://www.game-ost.com/static/covers_soundtracks/1/6/16259_729679.jpg">
+<img src="https://f4.bcbits.com/img/a0191890494_10.jpg" alt="Out From Out Where by Amon Tobin">
 
  <div class='row'>
     <div class='column'>
@@ -1041,7 +1036,8 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 <a href="https://www.veoh.com/watch/v142164131xC426T7A">ANIME##_THIS_IS_HOW_MY_ASSASINATION_ATTEMPTS_GO##THAT_WAS_SARTU##</a>
 <a href="https://www.statista.com/statistics/960103/ranking-of-most-used-online-video-platforms-in-sweden/"> Which platforms do you use to watch online video?</a>
 
-<div><img src="https://apod.nasa.gov/apod/image/1803/Cycle-Panel-1024px.jpg">
+<div>
+<img src="https://apod.nasa.gov/apod/image/1803/Cycle-Panel-1024px.jpg">
 
 <center>
 <b> Phases of the Moon </b> <br> 
@@ -1087,7 +1083,7 @@ orbit perigee and took on reddish hues during a
 super-blue-blood-moon-coming-jan-31">total lunar eclipse</a>.
 
 </div>
-<div><img src="https://apod.nasa.gov/apod/image/2009/PairsMoonPace.jpg">
+<img src="https://apod.nasa.gov/apod/image/2009/PairsMoonPace.jpg">
 
 <center>
 <b> Moon Pairs and the Synodic Month </b> <br>
@@ -1127,8 +1123,8 @@ terminator, steadily marches across the Moon's
 
 For extra credit, what lunar phase would you pair with the Moon tonight?
 
-</div>
-<div><img src="https://apod.nasa.gov/apod/image/1505/AuroraNorway_Richardsen_1080.jpg" > 
+
+<img src="https://apod.nasa.gov/apod/image/1505/AuroraNorway_Richardsen_1080.jpg" > 
 <b> An Unexpected Aurora over Norway </b> <br> 
 <b> Image Credit & Copyright: </b> 
 <a href="http://trichardsen.smugmug.com/About-me">Tommy Richardsen</a>
@@ -1164,7 +1160,6 @@ with the bright Moon near the image center, and the lens-cap seeking brother on 
 The <a href="ap110328.html">auroral flare</a> lasted only a few minutes, 
 but the memory of this event, the photographer speculates, will last much longer. 
 
-</div>
 <div class='some-page-wrapper'>
  <div class='row'>
  <div class='column'>
