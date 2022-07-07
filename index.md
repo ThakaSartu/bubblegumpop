@@ -891,7 +891,7 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="Girl in a jacket" >
+        <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc4b3191d78313c14000005/vsco5fc4b35d36f40.jpg" alt="Girl in a jacket" >
       </div>
     </div>
   </div>
@@ -900,7 +900,7 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
-        <img src="https://raw.githubusercontent.com/ThakaRashard/holetoanotheruniverse/gh-pages/img/SAA2%23%23SARTUZEE%23%23ART.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+        <img src="https://akns-images.eonline.com/eol_images/Entire_Site/20191026/rs_634x951-191126075307-Normani-634.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
       </div>
     </div>
     <div class='panelColumn'>
