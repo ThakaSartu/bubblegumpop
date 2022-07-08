@@ -546,6 +546,67 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+	
+	
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/564x/7c/12/0f/7c120fcfaba943300a402cd1d86e99ed.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc4b3191d78313c14000005/vsco5fc4b35d36f40.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://akns-images.eonline.com/eol_images/Entire_Site/20191026/rs_634x951-191126075307-Normani-634.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/originals/54/a5/60/54a5602868bda61c73bad1c97c3448d5.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/originals/b1/a5/31/b1a531387792bd946642e80ac2a1487d.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/oct-digital-cover-11-12-1573592748.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>		
+<div class='some-page-wrapper'>
+ <div class='row'>
+ <div class='column'>
+ <div class='blue-column'>
+ <img src="https://lh4.googleusercontent.com/vcr_xIzszUWnLC0ed3ONKnIrRQ9WKyQS-SmwPyRGHGBAPa1Ujiws2G7QH_4R8u2cXq5bSJ9WPIncccXCdmgqqBd30CMlfu9rfKHoms4W0sR3dgSgpXNF2mHyvBMDQacn1NpLWrYW" alt="Girl in a jacket" >
+ </div>
+ </div>
+ <div class='column'>
+ <div class='green-column'>
+ <img src="https://lh4.googleusercontent.com/vcr_xIzszUWnLC0ed3ONKnIrRQ9WKyQS-SmwPyRGHGBAPa1Ujiws2G7QH_4R8u2cXq5bSJ9WPIncccXCdmgqqBd30CMlfu9rfKHoms4W0sR3dgSgpXNF2mHyvBMDQacn1NpLWrYW" alt="Girl in a jacket" >
+ </div>
+ </div>
+ </div>
+</div>
+<img src="https://assets.vogue.com/photos/5f9089a160138c079b7b38d5/16:9/w_1280,c_limit/00_social.jpg">
 <div class="pinupGallery">
   <img class="pinupImage featured-pinupImage" src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/bd2087144034631.62851b973d0ff.jpg" alt="">
   <img class="pinupImage" src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/bd2087144034631.62851b973d0ff.jpg" alt="">
@@ -905,67 +966,6 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
 "I wish I wasn't me sometimes"-BiLal
 
 
-	
-	
-
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://i.pinimg.com/564x/7c/12/0f/7c120fcfaba943300a402cd1d86e99ed.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc4b3191d78313c14000005/vsco5fc4b35d36f40.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
-</div>	
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://akns-images.eonline.com/eol_images/Entire_Site/20191026/rs_634x951-191126075307-Normani-634.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://i.pinimg.com/originals/54/a5/60/54a5602868bda61c73bad1c97c3448d5.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
-</div>	
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://i.pinimg.com/originals/b1/a5/31/b1a531387792bd946642e80ac2a1487d.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
-</div>		
-	
-
-<div class='some-page-wrapper'>
- <div class='row'>
- <div class='column'>
- <div class='blue-column'>
- <img src="https://lh4.googleusercontent.com/vcr_xIzszUWnLC0ed3ONKnIrRQ9WKyQS-SmwPyRGHGBAPa1Ujiws2G7QH_4R8u2cXq5bSJ9WPIncccXCdmgqqBd30CMlfu9rfKHoms4W0sR3dgSgpXNF2mHyvBMDQacn1NpLWrYW" alt="Girl in a jacket" >
- </div>
- </div>
- <div class='column'>
- <div class='green-column'>
- <img src="https://lh4.googleusercontent.com/vcr_xIzszUWnLC0ed3ONKnIrRQ9WKyQS-SmwPyRGHGBAPa1Ujiws2G7QH_4R8u2cXq5bSJ9WPIncccXCdmgqqBd30CMlfu9rfKHoms4W0sR3dgSgpXNF2mHyvBMDQacn1NpLWrYW" alt="Girl in a jacket" >
- </div>
- </div>
- </div>
-</div>
 
 ##_TOKIMONSTA##IS_COMING##IN_Ah_BOUT_10_DAYS_OR_LESS
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/9ENMHp4DKEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
