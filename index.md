@@ -548,9 +548,9 @@ Relative position for absolute caption
 ```
 <img src="https://www.vibe.com/wp-content/uploads/2018/02/donuts570-1518104684.jpg" >
 <img src="https://www.graffiti.org/atl/viper_totem2_4038f9c_o.jpg" alt="##ATLANTA_GRAFFiTi##IS_HERE_TO_STAY" >	
-	<audio controls>
-  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/audio/Imaginary_Playmates128kbps_RNE_and_ANGELA.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
+<audio controls class="broken-width">
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/audio/Imaginary_Playmates128kbps_RNE_and_ANGELA.mp3" type="audio/mp3" />
+  Your browser does not support the <code>audio</code> element.
 </audio>
 
 <div class='twoPanelSpread'>
