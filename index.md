@@ -541,9 +541,9 @@ Relative position for absolute caption
 
     display: flex;
      align-items: stretch; 
-    /* flex-flow: row nowrap; */ 
+     flex-flow: row nowrap;  
     flex-direction: row; 
-    flex-wrap: wrap; 
+    flex-wrap: nowrap; 
     justify-content: center;
     align-content: stretch;
     height: 100%;
@@ -575,7 +575,7 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-
+[CSS performance optimization](https://developer.mozilla.org/en-US/docs/Learn/Performance/CSS)
 [HTML_CSS_RENDERiNG_PERFORMANCE_BASiCS](https://developer.mozilla.org/en-US/docs/Web/Performance/Fundamentals)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%2312bad0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 [FoNT_FALLBACK](https://medium.com/swlh/full-text-styling-with-a-single-line-of-css-838e8c666f4d)
