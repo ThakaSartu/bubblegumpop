@@ -535,6 +535,35 @@ Relative position for absolute caption
 	opacity: 0.5;
 	background: white;
 }
+	
+/* FLEX_BOX_FOR_3_IMAGES */
+.flex-container {
+
+    display: flex;
+     align-items: stretch; 
+    /* flex-flow: row nowrap; */ 
+    flex-direction: row; 
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-content: stretch;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+
+  }
+
+  .flex-container > div{
+   
+    border: 1px solid #c9ff23;
+    border-radius: 1px;
+    padding: 8px;
+  }
+
+
+
+
+	
+	
 </style>
 
 ## Hole To Another Universe
