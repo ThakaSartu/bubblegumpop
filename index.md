@@ -546,6 +546,17 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<iframe src="https://gcp-embeds.datpiff.com/mixtape/26747/" width="100%" height="270" frameborder="0"></iframe>
+<img src="https://www.graffiti.org/sfb/dashdkrip_refa1.jpg" >
+<p> Dash R.I.P. by Refa1
+
+I rocked this Burner(Freestyle)...for a lil' homie who was Murdered (2005) by the gang drama in Oakland. His Name was "Dash"DK-crew. This Kid was a young 16 yr old aspiring Writer/Artist Who's life was stolen by the ignorance of the white power mind- control media. That same media which possesses the latino gangs of Oakland through self hatred. I felt that it was necessary to give him a royal burial because his potential was cut off...no one knows what this young man could've been. When we as a community don't take responsibility for our children and each other, we are cutting our futures short. Our potential is to be living free and moving in harmony with the universe. This slave system is working to murder and steal our future,we can not allow that to take place. Stand up for your people, Love them, Respect them and defend our future. Lil' Dash's spirit lives on... Rest in Power young warrior, be one with the Sun.
+-Refa TNS ...East Side Oakland</p>
+<img src="https://www.graffiti.org/sfb/05204.jpg">
+<img src="https://www.graffiti.org/sfb/zore_skew_krash_king_oakland.jpg">
+<img src="https://www.graffiti.org/sfb/apex_sfb2005b.jpg">
+
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
