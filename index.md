@@ -575,7 +575,8 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-10%204.21.33%20AM.png">
+<img src="https://www.adbranch.com/wp-content/uploads/chrysler_dodge_charger_1970-610x307.jpg">
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
