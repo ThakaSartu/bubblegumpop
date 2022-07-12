@@ -133,15 +133,10 @@ table {
 	
 body {
   color: white;
-	 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg) no-repeat center center fixed; 
-  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop_rszd.jpg) no-repeat center center fixed; 
+  font-family:Monaco, "Bitstream Vera Sans Mono",
+    "Lucida Console", Terminal, "Helvetica Neue", sans-serif;
   line-height: 1.5;
-   -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 }
 
 iframe {
@@ -166,9 +161,8 @@ h2,
 h1,
 h3 {
   color: white;
-  background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
-    center repeat;
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
   font-family: "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif, -apple-system, Monaco, 
     "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
     Roboto, Oxygen-Sans, Ubuntu, Cantarell;
@@ -193,9 +187,8 @@ text-align: left;
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
     0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
-  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-family:  Monaco, "Bitstream Vera Sans Mono",
+    "Lucida Console", Terminal, "Helvetica Neue", sans-serif;
   float: left;
   font-size: 75px;
   line-height: 60px;
@@ -346,7 +339,7 @@ text-align: left;
 .twoPanelSpread {
   margin: 0px;
   padding: 0px;
-  background: url( https://i.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.webp )
+  background: url( https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/810MATRiX.webp )
     center repeat;
 }
 
