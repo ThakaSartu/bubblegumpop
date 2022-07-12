@@ -157,32 +157,28 @@ img {
   width: 100%;
 }
 
-h2,
 h1,
-h3 {
-  color: white;
+h2,
+h3,
+h4,
+h5,
+h6 {
 background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
-  font-family: "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif, -apple-system, Monaco, 
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell;
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.01) 35%, rgba(0,212,255,1) 100%);
+  color: white;
+   font-family: Monaco, "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif;
   font-weight: 900;
-  padding: 0px;
+  padding: 10px;
   margin: 0px;
   text-align: left;
   font-variant-caps: small-caps;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-}
 
-h2 {
-font-weight: 900;
-font-family: "Helvetica Neue", sans-serif, "Lucida Console", Terminal;
-padding: 0px;
-margin: 0px;
-text-align: left;
 
 }
+
+
 .firstcharacter {
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
@@ -568,6 +564,12 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://i.discogs.com/1IzD5ds-JbCqVhiQlYiJWyZybmK9DQSa9fcF8boCkbU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTI3/MTgtMTM5ODQyMDQy/OC02MTEzLmpwZWc.jpeg" alt="">
+  <img class="pinupImage" src="https://i.discogs.com/1IzD5ds-JbCqVhiQlYiJWyZybmK9DQSa9fcF8boCkbU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTI3/MTgtMTM5ODQyMDQy/OC02MTEzLmpwZWc.jpeg" alt="">
+  <img class="pinupImage" src="https://i.discogs.com/1IzD5ds-JbCqVhiQlYiJWyZybmK9DQSa9fcF8boCkbU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTI3/MTgtMTM5ODQyMDQy/OC02MTEzLmpwZWc.jpeg" alt="">
+  <img class="pinupImage" src="https://i.discogs.com/1IzD5ds-JbCqVhiQlYiJWyZybmK9DQSa9fcF8boCkbU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTI3/MTgtMTM5ODQyMDQy/OC02MTEzLmpwZWc.jpeg" alt="">
+</div>
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-10%204.21.33%20AM.png">
 <img src="https://www.adbranch.com/wp-content/uploads/chrysler_dodge_charger_1970-610x307.jpg">
 <div class='twoPanelSpread'>
