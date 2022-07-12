@@ -577,8 +577,8 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
- <h1>##FAiTH_EVANS::Faith ~> 1995</h1>
-    <img src="https://i.discogs.com/pXb0uVC6PCIaenCP9lI8CJNGHeA93lk9gY02joOkmNE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM4/NzgtMTUyNDY3MzQz/MS02NDAxLmpwZWc.jpeg" alt="Lights" style="width:100%">
+<h1>##FAiTH_EVANS::Faith ~> 1995</h1>
+<img src="https://i.discogs.com/pXb0uVC6PCIaenCP9lI8CJNGHeA93lk9gY02joOkmNE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM4/NzgtMTUyNDY3MzQz/MS02NDAxLmpwZWc.jpeg" alt="##FAiTH_EVANS::Faith ~> 1995">
 <div class="pinupGallery">
   <img class="pinupImage featured-pinupImage" src="https://i.discogs.com/1IzD5ds-JbCqVhiQlYiJWyZybmK9DQSa9fcF8boCkbU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTI3/MTgtMTM5ODQyMDQy/OC02MTEzLmpwZWc.jpeg" alt="">
   <img class="pinupImage" src="https://i.discogs.com/1IzD5ds-JbCqVhiQlYiJWyZybmK9DQSa9fcF8boCkbU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTI3/MTgtMTM5ODQyMDQy/OC02MTEzLmpwZWc.jpeg" alt="">
