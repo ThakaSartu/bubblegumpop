@@ -577,8 +577,108 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+
+[##ALPHARETTA_WORKiN##KiDNAPPED_BUT_WORKiN](https://www.youtube.com/watch?v=DFMEBquxeO8)
+<div>
+ <h1>California Penal Code Section 261 PC: Rape</h1>
+                                <div class="description">
+                                    <p>
+                                        <strong>1. Definition and Elements of the Crime</strong>
+                                    </p>
+                                    <img src="photos/code-261.jpg" alt="rape" class="rightphoto">
+                                    <p>
+                                        <a href="/sex-crimes.html">Rape</a> is one of the most serious felony offenses that a person can be charged with in California. Rape is a criminal offense under <a href="/sex-crimes.html">California Penal Code Section 261 PC</a> and involves nonconsensual sexual intercourse by means of threats, force or fraud. Rape under California Penal Code Section 261 PC requires that that defendant is not married to the victim. However, it is still illegal to rape a spouse under <a href="/sex-crimes.html">California Penal Code Section 262 PC</a> and that offense carries the same elements and penalties as non-spousal rape.
+                                    </p>
+                                    <p>The crime of rape contains the following elements, all of which must be proven beyond a reasonable doubt:</p>
+                                    <ol start="1" type="1">
+                                        <li>The defendant had sexual intercourse with a woman (or man).</li>
+                                        <li>They were not married at the time of the intercourse.</li>
+                                        <li>The other party did not consent to the intercourse.</li>
+                                        <li>The defendant accomplished the intercourse by using one or more of the following <ol start="1" type="a">
+                                                <li>Force</li>
+                                                <li>Violence</li>
+                                                <li>Duress</li>
+                                                <li>Menace</li>
+                                                <li>Fear of immediate bodily injury (to the victim or someone else)</li>
+                                                <li>Threat of future retaliation</li>
+                                                <li>Threatening to use the authority of a public office to incarcerate, arrest or deport someone.</li>
+                                            </ol>
+                                        </li>
+                                    </ol>
+                                    <p>Sexual intercourse means any penetration, no matter how slight, of the vagina or genitalia by a penis.</p>
+                                    <p>To consent a person must act freely and voluntarily and know the nature of the act. A person who initially consents to an act of intercourse may change his or her mind during the act. If the victim does so the act of intercourse then becomes nonconsensual if:</p>
+                                    <ol start="1" type="1">
+                                        <li>The victim communicated to the defendant that he or she objected to the act of intercourse and attempted to stop the act</li>
+                                        <li>The victim communicated the objection through words or acts that a reasonable person would have understood as showing a lack of consent</li>
+                                        <li>AND the defendant forcibly continued the act of intercourse despite the objection.</li>
+                                    </ol>
+                                    <p>A person will be deemed unable to give consent if they are too intoxicated to give consent, if they are unable to consent due to a mental or physical incapacity that the defendant was aware of, and if he or she was asleep or unconscious.</p>
+                                    <p>
+                                        <strong>2. Examples</strong>
+                                    </p>
+                                    <p>A woman goes to a psychiatrist for treatment for depression. The psychiatrist convinces that woman that the only thing that will cure her condition is sexual intercourse with him. The psychiatrist could be prosecuted for rape by means of fraud, as he fraudulently convinced the victim that the sexual act was for a professional purpose.</p>
+                                    <p>
+                                        <strong>3. Related Offenses</strong>
+                                    </p>
+                                    <p>Other similar or related offenses include:</p>
+                                    <ol start="1" type="1">
+                                        <li>
+                                            <a href="/sex-crimes.html">Sexual Battery</a> - <a href="/sex-crimes.html">California Penal Code Section 243.4 PC</a>
+                                        </li>
+                                        <li>
+                                            <a href="/sex-crimes.html">Statutory Rape</a> &ndash; <a href="/sex-crimes.html">California Penal Code Section 261.5 PC</a>
+                                        </li>
+                                        <li>
+                                            <a href="/sex-crimes.html">Oral Copulation by Force</a> &ndash; <a href="/sex-crimes.html">California Penal Code Section 288(a) PC</a>
+                                        </li>
+                                        <li>
+                                            <a href="/sex-crimes.html">Forcible Penetration with a Foreign Objection</a> &ndash; <a href="/sex-crimes.html">California Penal Code Section 289 PC</a>
+                                        </li>
+                                        <li>
+                                            <a href="/sex-crimes.html">Sodomy</a> &ndash; <a href="/sex-crimes.html">California Penal Code Section 286 PC</a>
+                                        </li>
+                                    </ol>
+                                    <p>
+                                        <strong>4. Defenses to Rape</strong>
+                                    </p>
+                                    <p>The defendant would not guilty of rape if he actually and reasonably believed that the person consented to the intercourse. Consent can often be a tricky issue that can be open to a number of reasonable interpretations.</p>
+                                    <p>In addition, this is an area in which a victim may bring <a href="/legal-defense-false-accusations.html">false accusations</a> in order to get a defendant in trouble. The crime of rape will often leave no evidence and thus must often rely solely on the testimony of the alleged victim. </p>
+                                    <p>
+                                        <strong>5. Penalties</strong>
+                                    </p>
+                                    <p>Rape is a felony offense that can be punished by up to eight years in prison. In addition, there could be an additional three to five years in prison if the victim sustains great bodily injury or a possible strike under California&rsquo;s Three Strikes Law. If the victim is a minor under 18, the defendant can be sentenced to up to 11 years in prison, and if the victim is under 14, the prison sentence would increase to 13 years.</p>
+                                    <p>Additionally a conviction for rape would trigger a lifetime sex offender registration requirement.</p>
+                                    <p>
+                                        <strong>6. Criminal Defense for Rape Cases</strong>
+                                    </p>
+                                    <p>Rape is a very serious felony that can result in lengthy prison sentences if convicted. As a result, it is crucial that you consult with an experienced Los Angeles criminal defense attorney if you or a loved one have been accused of this crime. As a former Deputy District Attorney with over 14 years of prosecutorial experience, <a href="/michael-e-kraut-managing-attorney.html">Los Angeles Criminal Defense Attorney Michael Kraut</a> is highly experienced at handling serious, felony-level sex offenses. Mr. Kraut understands the sensitive nature of these types of charges and works with his clients to ensure the absolute best defense possible. </p>
+                                    <p>For more information about rape offenses, and to schedule your free consultation, contact <a href="/michael-e-kraut-managing-attorney.html">Los Angeles Criminal Defense Attorney Michael Kraut</a> at the <a href="/">Kraut Law Group</a> located at 6255 Sunset Boulevard, Suite 1520, Los Angeles, CA 90028. Mr. Kraut can be reached 24/7 at 888-334-6344 or 323-464-6453. </p>
+                                </div>	
+	
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1>##FAiTH_EVANS::Faith ~> 1995</h1>
-<img src="https://i.discogs.com/pXb0uVC6PCIaenCP9lI8CJNGHeA93lk9gY02joOkmNE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM4/NzgtMTUyNDY3MzQz/MS02NDAxLmpwZWc.jpeg" alt="##FAiTH_EVANS::Faith ~> 1995">
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/FAiTH199ORiGCOVER.jpg" alt="##FAiTH_EVANS::Faith1995">
 <div class="pinupGallery">
   <img class="pinupImage featured-pinupImage" src="https://i.discogs.com/1IzD5ds-JbCqVhiQlYiJWyZybmK9DQSa9fcF8boCkbU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTI3/MTgtMTM5ODQyMDQy/OC02MTEzLmpwZWc.jpeg" alt="">
   <img class="pinupImage" src="https://i.discogs.com/1IzD5ds-JbCqVhiQlYiJWyZybmK9DQSa9fcF8boCkbU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTI3/MTgtMTM5ODQyMDQy/OC02MTEzLmpwZWc.jpeg" alt="">
