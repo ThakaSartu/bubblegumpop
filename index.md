@@ -134,7 +134,7 @@ table {
 body {
   color: white;
 	 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop_rszd.jpg) no-repeat center center fixed; 
-  font-family:Monaco, "Bitstream Vera Sans Mono",
+  font-family: Monaco, "Bitstream Vera Sans Mono",
     "Lucida Console", Terminal, "Helvetica Neue", sans-serif;
   line-height: 1.5;
 }
@@ -142,13 +142,26 @@ body {
 iframe {
   margin: 0px;
   padding: 0px;
-  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_car.jpg");
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_car_rzd.jpg");
   border: none;
 }
 
-p
-{
-  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif");
+p {
+   padding: 15px;
+  display: block;
+color: white;
+  font-size: 1.5rem;
+  background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(0,0,0,1) 0%, rgba(30,24,121,0.7517401392111369) 100%);
+  font-family: Monaco,"Lucida Console",  "Bitstream Vera Sans Mono", Terminal,
+    monospace, "Helvetica Neue", sans-serif;
+  letter-spacing: 1px;
+  word-spacing: 1.5px;
+  font-weight: 500;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+
 }
 	
 img {
@@ -163,8 +176,8 @@ h3,
 h4,
 h5,
 h6 {
-background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.01) 35%, rgba(0,212,255,1) 100%);
+background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(0,0,0,1) 0%, rgba(30,24,121,0.5127610208816705) 100%);
   color: white;
    font-family: Monaco, "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif;
   font-weight: 900;
@@ -197,7 +210,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.01) 35%, rg
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
     0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
-  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
+  font-family: Monaco, "Bitstream Vera Sans Mono",
     "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
     Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
@@ -564,6 +577,8 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+ <h1>##FAiTH_EVANS::Faith ~> 1995</h1>
+    <img src="https://i.discogs.com/pXb0uVC6PCIaenCP9lI8CJNGHeA93lk9gY02joOkmNE/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjM4/NzgtMTUyNDY3MzQz/MS02NDAxLmpwZWc.jpeg" alt="Lights" style="width:100%">
 <div class="pinupGallery">
   <img class="pinupImage featured-pinupImage" src="https://i.discogs.com/1IzD5ds-JbCqVhiQlYiJWyZybmK9DQSa9fcF8boCkbU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTI3/MTgtMTM5ODQyMDQy/OC02MTEzLmpwZWc.jpeg" alt="">
   <img class="pinupImage" src="https://i.discogs.com/1IzD5ds-JbCqVhiQlYiJWyZybmK9DQSa9fcF8boCkbU/rs:fit/g:sm/q:90/h:530/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MTI3/MTgtMTM5ODQyMDQy/OC02MTEzLmpwZWc.jpeg" alt="">
