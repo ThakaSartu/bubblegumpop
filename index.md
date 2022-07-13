@@ -199,7 +199,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(0,0,0,1) 0%, rgba
   font-family:  Monaco, "Bitstream Vera Sans Mono",
     "Lucida Console", Terminal, "Helvetica Neue", sans-serif;
   float: left;
-  font-size: 75px;
+  font-size: 40px;
   line-height: 60px;
   padding-top: 7px;
   padding-right: 8px;
@@ -577,6 +577,12 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202841862&color=%23245450&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/dfmu" title="DFMU" target="_blank" style="color: #cccccc; text-decoration: none;">DFMU</a></div>
+<div class="flex-container">
+    <div class="item1">                        <img src="https://i.pinimg.com/originals/19/fe/df/19fedfd365b09b8f2df81cbc324d068a.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/originals/19/fe/df/19fedfd365b09b8f2df81cbc324d068a.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/originals/19/fe/df/19fedfd365b09b8f2df81cbc324d068a.jpg" /></div>
+</div>
 [UPDATED_LESSON_PLANS::](https://thakarashard.github.io/homeschool/)
 ## We need to change society’s mindset
 Then understand that commercial sex, in all its forms, is a deeply exploitative industry and that human bodies are not merchandise.</p>
@@ -586,7 +592,7 @@ Then understand that commercial sex, in all its forms, is a deeply exploitative 
 <p>We must adopt the Abolition Model of law (also called the Equality Model or Nordic Model) to reduce demand by punishing sex buyers—NOT those who are sold for sex. It offers protection and social services to those being sold, as well.
 This approach dramatically reduces demand for prostitution and puts pimps and traffickers out of business. Stopping the demand is the key to abolition. </p> 
 - <a href="https://exoduscry.com/abolitionist/success/">EXODUS&deg;CRY
-<span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+<span class="firstcharacter">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
 
 
 <div class="pinupGallery">
