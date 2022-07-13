@@ -577,7 +577,7 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-[UPDATED_LESSON_PLANS::LAURA_PLEASE_TELL_MUNA_TO_SEE_WiT_FAM](https://thakarashard.github.io/homeschool/)
+[UPDATED_LESSON_PLANS::](https://thakarashard.github.io/homeschool/)
 ## We need to change society’s mindset
 Then understand that commercial sex, in all its forms, is a deeply exploitative industry and that human bodies are not merchandise.</p>
 
