@@ -578,6 +578,13 @@ Relative position for absolute caption
 4 # UNiVERSE##############################################
 ```
 
+<p class="firstcharacter"> We need to change society’s mindset To understand that commercial sex, in all its forms, is a deeply exploitative industry and that human bodies are not merchandise.</p>
+
+
+## The Abolition Model
+<p>We must adopt the Abolition Model of law (also called the Equality Model or Nordic Model) to reduce demand by punishing sex buyers—NOT those who are sold for sex. It offers protection and social services to those being sold, as well.</p>
+
+<p>This approach dramatically reduces demand for prostitution and puts pimps and traffickers out of business. Stopping the demand is the key to abolition. </p>
 <span class="firstcharacter">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
 
 
@@ -654,7 +661,10 @@ Its conditionality is the death of one’s wife. The younger sister or relative 
   <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg" alt="">
   <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/sartu_57f2dae7-08fa-4bd1-80aa-02ab63c8cb90-wm202103norm2.jpg" alt="">
 </div>
+
 [##ALPHARETTA_WORKiN##KiDNAPPED_BUT_WORKiN](https://www.youtube.com/watch?v=DFMEBquxeO8)
+[Ch 10 Battered woman & rape trauma syndromes, and post traumatic stress disorder](https://quizlet.com/241966460/ch-10-battered-woman-rape-trauma-syndromes-and-post-traumatic-stress-disorder-flash-cards/)
+[Rape Trauma Intro - ViDE0](https://www.youtube.com/watch?v=CnM45g-_bkA)
 <div>
  <h1>California Penal Code Section 261 PC: Rape</h1>
                                 <div class="description">
