@@ -578,14 +578,15 @@ Relative position for absolute caption
 4 # UNiVERSE##############################################
 ```
 [UPDATED_LESSON_PLANS::LAURA_PLEASE_TELL_MUNA_TO_SEE_WiT_FAM](https://thakarashard.github.io/homeschool/)
-<p class="firstcharacter"> We need to change society’s mindset To understand that commercial sex, in all its forms, is a deeply exploitative industry and that human bodies are not merchandise.</p>
+## We need to change society’s mindset
+Then understand that commercial sex, in all its forms, is a deeply exploitative industry and that human bodies are not merchandise.</p>
 
 
 ## The Abolition Model
-<p>We must adopt the Abolition Model of law (also called the Equality Model or Nordic Model) to reduce demand by punishing sex buyers—NOT those who are sold for sex. It offers protection and social services to those being sold, as well.</p>
-
-<p>This approach dramatically reduces demand for prostitution and puts pimps and traffickers out of business. Stopping the demand is the key to abolition. </p>
-<span class="firstcharacter">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+<p>We must adopt the Abolition Model of law (also called the Equality Model or Nordic Model) to reduce demand by punishing sex buyers—NOT those who are sold for sex. It offers protection and social services to those being sold, as well.
+This approach dramatically reduces demand for prostitution and puts pimps and traffickers out of business. Stopping the demand is the key to abolition. </p> 
+- <a href="https://exoduscry.com/abolitionist/success/">EXODUS&deg;CRY
+<span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
 
 
 <div class="pinupGallery">
@@ -671,9 +672,9 @@ Its conditionality is the death of one’s wife. The younger sister or relative 
                                     <p>
                                         <strong>1. Definition and Elements of the Crime</strong>
                                     </p>
-                                    <img src="photos/code-261.jpg" alt="rape" class="rightphoto">
+                                  
                                     <p>
-                                        <a href="/sex-crimes.html">Rape</a> is one of the most serious felony offenses that a person can be charged with in California. Rape is a criminal offense under <a href="/sex-crimes.html">California Penal Code Section 261 PC</a> and involves nonconsensual sexual intercourse by means of threats, force or fraud. Rape under California Penal Code Section 261 PC requires that that defendant is not married to the victim. However, it is still illegal to rape a spouse under <a href="/sex-crimes.html">California Penal Code Section 262 PC</a> and that offense carries the same elements and penalties as non-spousal rape.
+                                        <a href="https://www.rainn.org/articles/statutes-limitations-sex-crimes">Rape</a> is one of the most serious felony offenses that a person can be charged with in California. Rape is a criminal offense under <a href="https://www.hg.org/legal-articles/federal-sex-crimes-explained-39372">California Penal Code Section 261 PC</a> and involves nonconsensual sexual intercourse by means of threats, force or fraud. Rape under California Penal Code Section 261 PC requires that that defendant is not married to the victim. However, it is still illegal to rape a spouse under <a href="https://www.youtube.com/watch?v=cJMewvxBz38">California Penal Code Section 262 PC</a> and that offense carries the same elements and penalties as non-spousal rape.
                                     </p>
                                     <p>The crime of rape contains the following elements, all of which must be proven beyond a reasonable doubt:</p>
                                     <ol start="1" type="1">
