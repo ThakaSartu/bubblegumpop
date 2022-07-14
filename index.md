@@ -578,6 +578,13 @@ Relative position for absolute caption
 4 # UNiVERSE##############################################
 ```
 
+<div class="pinupGallery">
+  <img class="pinupImage " src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="">
+  <img class="pinupImage " src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="">
+   <img class="pinupImage  featured-pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="##OJ_TASHI___DAH_DEC_IS_READY_FOR_EXTRACTION">
+</div>
 <div class="flex-container">
    
     <div class="item1">                        <img src="https://i.pinimg.com/originals/1d/d6/44/1dd644b591892ea3930d13791ecb19d8.jpg" /></div>
