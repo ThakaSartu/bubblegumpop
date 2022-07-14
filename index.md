@@ -577,6 +577,7 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271399277&color=%231e1e1e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <div class="pinupGallery">
   <img class="pinupImage " src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BEACHb.jpg" alt="">
   <img class="pinupImage" src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BEACHb.jpg" alt="">
@@ -587,6 +588,9 @@ Relative position for absolute caption
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202779021&color=%23ff0000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/wicked" title="Wicked" target="_blank" style="color: #cccccc; text-decoration: none;">Wicked</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1126236493&color=%23140d05&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202841862&color=%23245450&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<div class="flex-container">
+   
     <div class="item1">                        <img src="https://i.pinimg.com/originals/19/fe/df/19fedfd365b09b8f2df81cbc324d068a.jpg" /></div>
     <div class="item2">                        <img src="https://i.pinimg.com/originals/19/fe/df/19fedfd365b09b8f2df81cbc324d068a.jpg" /></div>
     <div class="item3">                        <img src="https://i.pinimg.com/originals/19/fe/df/19fedfd365b09b8f2df81cbc324d068a.jpg" /></div>
