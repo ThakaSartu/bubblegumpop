@@ -151,8 +151,8 @@ p {
   display: block;
 color: white;
   font-size: 1.5rem;
-  background: rgb(131,58,180);
-background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(0,0,0,1) 0%, rgba(30,24,121,0.7517401392111369) 100%);
+background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,0.9979578267477204) 8%, rgba(153,153,153,0.5085961246200608) 46%);
   font-family: Monaco,"Lucida Console",  "Bitstream Vera Sans Mono", Terminal,
     monospace, "Helvetica Neue", sans-serif;
   letter-spacing: 1px;
@@ -176,8 +176,8 @@ h3,
 h4,
 h5,
 h6 {
-background: rgb(131,58,180);
-background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(0,0,0,1) 0%, rgba(30,24,121,0.5127610208816705) 100%);
+background: rgb(0,0,0);
+background: linear-gradient(272deg, rgba(0,0,0,0.9979578267477204) 8%, rgba(153,153,153,0.5085961246200608) 46%);
   color: white;
    font-family: Monaco, "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif;
   font-weight: 900;
@@ -585,8 +585,24 @@ Relative position for absolute caption
 </style>
 
 ## Hole To Another Universe
-
-## DEAR_SAAATU##OH_HOW_I_MISS_YOU ##
+## DEAR_SArTU## (◕‿◕✿) ## 
+<form name="form1">
+              <select name="menu1" ondblclick="P7_JumpMenu(this,0)" class="jumpmenu">
+                <option value="#~" selected="">SELECT A POEM</option>
+                <option value="volumetwo/untitled.htm~">Untitled</option>
+                <option value="volumetwo/lovs_sex.htm~">Love and Sex</option>
+                <option value="volumetwo/rain.htm~">Rain</option>
+                <option value="volumetwo/blood.htm~">My Blood on this Paper</option>
+                <option value="volumetwo/bottled.htm~">Bottled</option>
+                <option value="volumetwo/domesticbreakdown.htm~">Domestic Breakdown</option>
+                <option value="volumetwo/fantasy1.htm~">Fantasy pt1</option>
+                <option value="volumetwo/greatlinks.htm~">Great Links</option>
+                <option value="volumetwo/masses.htm~">Sumthin 4 tha Masses</option>
+                <option value="volumetwo/momgreat.htm~">My Mom Lost a Great one</option>
+                <option value="volumetwo/moonlight.htm~">Moon Light</option>
+              </select>
+              <input type="button" name="Button1" value="Go" onclick="P7_JumpMenuGo('menu1',0)" class="jumpmenu">
+            </form>
 ```
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
@@ -595,8 +611,22 @@ Relative position for absolute caption
 ```
 
 <div class="pinupGallery">
-  <img class="pinupImage " src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="">
-  <img class="pinupImage " src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+   <img class="pinupImage featured-pinupImage " src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+</div>
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad9d1d7831210900000b/vsco5fc4ad9e91733.jpg?w=304&dpr=2">
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/982696330&color=%23e84c88&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="400" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/411406869&color=%23586891&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5ca3a7dab908617c746af8e8/vsco5ca3a7dc46e9a.jpg?w=425&dpr=2">
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5cf61cbc52aad8210f45cbac/vsco5cf61cbdcfc94.jpg?w=425&dpr=2">
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5d01a5209407001786d32302/960x720/vsco5d01a522dbd05.jpg">
+<a href="https://www.lexilogos.com/keyboard/amharic.htm">Amharic   አማርኛ MULTiLiNGUAL_KEYBOARD</a> <a href="https://cssgradient.io/">CSS GradiEnT TooL</a>
+<div class="pinupGallery">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="">
   <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="">
   <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="">
    <img class="pinupImage  featured-pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/958x960/vsco5f2baa8ba100d.jpg" alt="##OJ_TASHI___DAH_DEC_IS_READY_FOR_EXTRACTION">
@@ -837,7 +867,7 @@ Its conditionality is the death of one’s wife. The younger sister or relative 
   </div>
 </div>	
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/I_HAVE_NOT_LOGGED_IN_IN_OVER_TWO_WEEKS.PNG">	
-<p>  <span class="firstcharacter">PiNTEREST LocksOutFATHERS"</span> 
+<p>  <span class="firstcharacter">PiNTEREST LocksOutFATHERS</span> 
 It has been over two weeks since I have logged in. I found Sartu, my kidnapped wife from Ethiopia via ##ALPHARETTA. The previous time I found her she exclaimed "That's My Husband!!", and the captors refused to let her go. Im at a point in my life where I have gathered my life partners. The truth is that is too much power. I went to ##DANCE411 in Atlanta for sometime between parenting, working as a ##DevOps_ENGiNEER, and ##JiUJiTSU. A group of women that are blowing up the RnB Chitlin_Circuit of today chose me as thier dance husband... My from my understanding 4th cousin Muna and 8th cousin Sartu from ##ETHiO_SOMOLiA and about 10 other women decided we would start a business to support our artistic endevors and care for our children. They were all kidnapped with our children and sold into a ##PROSTiTUTION_MARKET_in_SOUTHERN_CALiFORNiA... We have relationships outdoors, but the pimps rape them systematically for use in a global ##SEX_TOURiSM_TRADE. The Human traffickers stole and steal everything I reaccquire to get on the internet. And when I travel to use computers at local librays in #LOS_ANGELES_COUNTY, I am severely stalked, attacked, poisoned with chemical weapons and randomly aharrassed. I was using pinterest to serve up internet content for our large families spiritual needs. Those of us from Africa are Muslims, and we had a semi-healthy stint with Jehovahs Witnesses. So we are a very spiritually minded family. However many of the pimps are anti god that we are dealing with... People on the late night show and everything are involved. Long story short.. Pinterest was our watering hole. I could post content bulletin board #style, and interact with my wives and children in passing as we wait for my old job JPL to step in   the CIA/FBi/US_MARSHALLS and other services in law enforcement has helped us contact since Erikas dissapearance was taken in by the ##DEKALB_COUNTY_SHRIFFs office and they told me to post constantly to stay visible... People dissapear when the dont post in this era of ##ECONOMIC_ASSASINATION_of_FATHERS_FOR_THE_PURPOSE_OF_PROSTITUTITUING_HEALTHY_FAMiLiES
 	
 	
