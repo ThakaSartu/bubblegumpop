@@ -577,6 +577,13 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://i.pinimg.com/originals/1d/d6/44/1dd644b591892ea3930d13791ecb19d8.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/originals/1d/d6/44/1dd644b591892ea3930d13791ecb19d8.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/originals/1d/d6/44/1dd644b591892ea3930d13791ecb19d8.jpg" /></div>
+</div>
 https://www.youtube.com/watch?v=-qFqp_E9rA4
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271399277&color=%231e1e1e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <div class="pinupGallery">
