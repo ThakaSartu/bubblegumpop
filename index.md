@@ -199,12 +199,28 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(0,0,0,1) 0%, rgba
   font-family:  Monaco, "Bitstream Vera Sans Mono",
     "Lucida Console", Terminal, "Helvetica Neue", sans-serif;
   float: left;
-  font-size: 40px;
+  font-size: 80px;
   line-height: 60px;
   padding-top: 7px;
   padding-right: 8px;
   padding-left: 3px;
 }
+
+firstcharacterDisplay {
+
+	  color: #fff;
+  text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
+    0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
+  font-family:  Monaco, "Bitstream Vera Sans Mono",
+    "Lucida Console", Terminal, "Helvetica Neue", sans-serif;
+  float: left;
+  font-size: 40px;
+  line-height: 60px;
+  padding-top: 7px;
+  padding-right: 8px;
+  padding-left: 3px;
+	
+}	
 	
 .neonText {
   color: #fff;
@@ -619,7 +635,7 @@ Then understand that commercial sex, in all its forms, is a deeply exploitative 
 <p>We must adopt the Abolition Model of law (also called the Equality Model or Nordic Model) to reduce demand by punishing sex buyers—NOT those who are sold for sex. It offers protection and social services to those being sold, as well.
 This approach dramatically reduces demand for prostitution and puts pimps and traffickers out of business. Stopping the demand is the key to abolition. </p> 
 - <a href="https://exoduscry.com/abolitionist/success/">EXODUS&deg;CRY
-<span class="firstcharacter">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+<span class="firstcharacterDisplay">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
 
 
 <div class="pinupGallery">
