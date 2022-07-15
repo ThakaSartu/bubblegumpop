@@ -609,12 +609,12 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-<a href="https://www.youtube.com/watch?v=HdOhwPovkHI" target="_blank" ><img="https://i.discogs.com/QT0SBV7dCsjz-_FLTsuhV-xF_LH4m6zAQLzMU-JIOoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTkw/OS0xMzMyMzA1NjM3/LmpwZWc.jpeg" alt=" Ice Cube Featuring Das EFX – Check Yo Self"> </a>
+<a href="https://www.youtube.com/watch?v=HdOhwPovkHI" target="_blank" ><img src="https://i.discogs.com/QT0SBV7dCsjz-_FLTsuhV-xF_LH4m6zAQLzMU-JIOoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTkw/OS0xMzMyMzA1NjM3/LmpwZWc.jpeg" alt=" Ice Cube Featuring Das EFX – Check Yo Self"> </a>
 
+<a href="https://edex.adobe.com/teaching-resources/vbbcdf96b"> Graphic Design 1 Curriculum :: ADOBE_LABS EDUCATIONAL_RESOURCES </a> <a href="https://edex.adobe.com/teaching-resources/design-a-poster-to-share-an-important-memory"> Design a poster to share an important memory </a> 
 
 <a href="https://edex.adobe.com/teaching-resources/create-a-web-page-about-protest-music-throughout-history"> <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2021/f2c7bf32-544a-4e2a-a4c6-657280638a5a/1146x0/webp/18401fc3-e5e1-4e59-b2b8-580c2521f83d.jpg"> </a> 
 
-<a href="https://edex.adobe.com/teaching-resources/vbbcdf96b"> Graphic Design 1 Curriculum :: ADOBE_LABS EDUCATIONAL_RESOURCES </a> <a href="https://edex.adobe.com/teaching-resources/design-a-poster-to-share-an-important-memory"> Design a poster to share an important memory </a> 
 <a href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal"> <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2022/fdf92f31-48de-40d4-ab33-22bfa58d8e44/1146x0/webp/d2c4815f-6d98-4b80-976a-bc351fd752ed.png" alt="Make a website to share a SMART goal"> </a>
 
 <a href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal" > Make a website to share a SMART goal </a> <a href="https://www.youtube.com/watch?v=zgZ52M4a_R0"> All Eyez On Me || 2pac </a>
