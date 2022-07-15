@@ -609,6 +609,19 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class="pinupGallery">
+  <img class="pinupImage" src="https://media2.metrotimes.com/metrotimes/imager/u/blog/2386584/musickash.jpg" alt="">
+  <img class="pinupImage  " src="https://media2.metrotimes.com/metrotimes/imager/u/blog/2386584/musickash.jpg" alt="">
+   <img class="pinupImage featured-pinupImage " src="https://media2.metrotimes.com/metrotimes/imager/u/blog/2386584/musickash.jpg" alt="">
+</div>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/saatuCODEpen.PNG" >
+<div class="pinupGallery">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+   <img class="pinupImage featured-pinupImage " src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -1039,6 +1052,23 @@ Its conditionality is the death of one’s wife. The younger sister or relative 
     <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" /></div>
     <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" /></div>
 </div>
+[Ernesto Chahoud presents TAITU - Soul-fuelled Stompers from 1960s-1970s ##Ethiopia](http://ethio-pain-music.blogspot.com/2019/03/va-ernesto-chahoud-presents-taitu-soul.html)
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+  <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
+</div>
+
+[... my passion for ethiopian music ...](http://ethio-pain-music.blogspot.com/)
+<img src="https://1.bp.blogspot.com/-ZrDobIRXCXA/XEhSBzIl0rI/AAAAAAAAFxw/xVfWAPpmtEEzVd7JVwQl3i3FpnlMsuCQgCLcBGAs/s640/%25E1%2589%25B3%25E1%258B%25B0%25E1%2588%25B0%2B%25E1%258B%2593%25E1%2588%2588%25E1%2588%2599%2B%2Bmissing%2Balbum.jpg">
+<img src="https://burodestruct.net/sites/default/files/bd_edding_hiphop_arte_teaser2.gif">
+<img src="https://www.graffiti.org/trains/2006trains/t493fw.jpg">
+<img src="https://www.graffiti.org/trains/2006trains/kem_sever.jpg">
+[Scientists Prove That Telepathic Communication Is Within Reach](https://www.smithsonianmag.com/innovation/scientists-prove-that-telepathic-communication-is-within-reach-180952868/)
+```
+echo "An international research team develops a way to say “hello” with your mind"
+```
 <iframe src="https://gcp-embeds.datpiff.com/mixtape/1021737/" width="100%" height="270" frameborder="0"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202841862&color=%23211f21&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293177372&color=%23a09c94&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
