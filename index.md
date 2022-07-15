@@ -609,8 +609,16 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<a href="https://edex.adobe.com/teaching-resources/create-a-web-page-about-protest-music-throughout-history"> <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2021/f2c7bf32-544a-4e2a-a4c6-657280638a5a/1146x0/webp/18401fc3-e5e1-4e59-b2b8-580c2521f83d.jpg"> </a>
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/913758367&color=%2374a474&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alimohammedbirra" title="Ali Mohammed Birra" target="_blank" style="color: #cccccc; text-decoration: none;">Ali Mohammed Birra</a> · <a href="https://soundcloud.com/alimohammedbirra/eshurruru" title="Eshurruru" target="_blank" style="color: #cccccc; text-decoration: none;">Eshurruru</a></div> <a href="https://www.youtube.com/watch?v=TiS8PomD78w"> <span class="firstcharacter">Learn Afaan Oromoo Through English</span></a>
+<a href="https://edex.adobe.com/teaching-resources/vbbcdf96b"> Graphic Design 1 Curriculum :: ADOBE_LABS EDUCATIONAL_RESOURCES </a> <a href="https://edex.adobe.com/teaching-resources/design-a-poster-to-share-an-important-memory"> Design a poster to share an important memory </a> 
+
+<a href="https://www.youtube.com/watch?v=zgZ52M4a_R0"> All Eyez On Me || 2pac </a>
+
+<a href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal"> <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2022/fdf92f31-48de-40d4-ab33-22bfa58d8e44/1146x0/webp/d2c4815f-6d98-4b80-976a-bc351fd752ed.png" alt="Make a website to share a SMART goal"> </a>
+
+<a href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal" > Make a website to share a SMART goal </a>
+<a href="https://www.youtube.com/watch?v=TiS8PomD78w"> <span class="firstcharacter">Learn Afaan Oromoo Through English</span></a>
 <a href="https://www.pewresearch.org/fact-tank/2020/12/07/polygamy-is-rare-around-the-world-and-mostly-confined-to-a-few-regions "> Polygamy is rare around the world and mostly confined to a few regions</a>
 <a href="https://www.momjunction.com/articles/polyamorous-relationship-rules-and-types_00784080">Polyamorous Relationship Rules, Types And How It Work </a>
 <a href="https://www.them.us/story/what-is-polyamory-according-to-queer-relationship-experts">What Is Polyamory? Queer Relationship Experts Explain Everything You Need to Know</a>   <a href="https://advocacy4oromia.org/article/three-types-of-oromo-marriage/"> <span class="firstcharacter">Three Types of Oromo Marriage  </span></a>
