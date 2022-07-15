@@ -214,7 +214,7 @@ firstcharacterDisplay {
   font-family:  Monaco, "Bitstream Vera Sans Mono",
     "Lucida Console", Terminal, "Helvetica Neue", sans-serif;
   float: left;
-  font-size: 40px;
+  font-size: 45px;
   line-height: 60px;
   padding-top: 7px;
   padding-right: 8px;
@@ -611,21 +611,18 @@ Relative position for absolute caption
 ```
 <a href="https://www.youtube.com/watch?v=HdOhwPovkHI" target="_blank" ><img="https://i.discogs.com/QT0SBV7dCsjz-_FLTsuhV-xF_LH4m6zAQLzMU-JIOoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTkw/OS0xMzMyMzA1NjM3/LmpwZWc.jpeg" alt=" Ice Cube Featuring Das EFX – Check Yo Self"> </a>
 
-<a href="https://www.youtube.com/watch?v=LcF2KUJVdLE" alt="DEAR_SARTU_THANKS_FOR_SEX____YOU_ARE_STILL_SERVING_MUNA_VOLUNTARILY__MUNA_YOUR_SLAVE_NEEDS_HELP_GETTING_TO_HER_HUSBAND___CAUSE_YOU_SAID_YOU_DEAYiD">  <span class="firstcharacter">It Was A Good Day</span> </a>
-<a href="https://edex.adobe.com/teaching-resources/create-a-web-page-about-protest-music-throughout-history"> <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2021/f2c7bf32-544a-4e2a-a4c6-657280638a5a/1146x0/webp/18401fc3-e5e1-4e59-b2b8-580c2521f83d.jpg"> </a>
+
+<a href="https://edex.adobe.com/teaching-resources/create-a-web-page-about-protest-music-throughout-history"> <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2021/f2c7bf32-544a-4e2a-a4c6-657280638a5a/1146x0/webp/18401fc3-e5e1-4e59-b2b8-580c2521f83d.jpg"> </a> 
 
 <a href="https://edex.adobe.com/teaching-resources/vbbcdf96b"> Graphic Design 1 Curriculum :: ADOBE_LABS EDUCATIONAL_RESOURCES </a> <a href="https://edex.adobe.com/teaching-resources/design-a-poster-to-share-an-important-memory"> Design a poster to share an important memory </a> 
-
-<a href="https://www.youtube.com/watch?v=zgZ52M4a_R0"> All Eyez On Me || 2pac </a>
-
 <a href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal"> <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2022/fdf92f31-48de-40d4-ab33-22bfa58d8e44/1146x0/webp/d2c4815f-6d98-4b80-976a-bc351fd752ed.png" alt="Make a website to share a SMART goal"> </a>
 
-<a href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal" > Make a website to share a SMART goal </a>
+<a href="https://edex.adobe.com/teaching-resources/make-a-website-to-share-a-smart-goal" > Make a website to share a SMART goal </a> <a href="https://www.youtube.com/watch?v=zgZ52M4a_R0"> All Eyez On Me || 2pac </a>
 <a href="https://www.youtube.com/watch?v=TiS8PomD78w"> <span class="firstcharacter">Learn Afaan Oromoo Through English</span></a>
 <a href="https://www.pewresearch.org/fact-tank/2020/12/07/polygamy-is-rare-around-the-world-and-mostly-confined-to-a-few-regions "> Polygamy is rare around the world and mostly confined to a few regions</a>
 <a href="https://www.momjunction.com/articles/polyamorous-relationship-rules-and-types_00784080">Polyamorous Relationship Rules, Types And How It Work </a>
 <a href="https://www.them.us/story/what-is-polyamory-according-to-queer-relationship-experts">What Is Polyamory? Queer Relationship Experts Explain Everything You Need to Know</a>   <a href="https://advocacy4oromia.org/article/three-types-of-oromo-marriage/"> <span class="firstcharacter">Three Types of Oromo Marriage  </span></a>
-<img href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Polyamory_flag_with_infinity_heart.svg/1280px-Polyamory_flag_with_infinity_heart.svg.png">
+<img href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Polyamory_flag_with_infinity_heart.svg/1280px-Polyamory_flag_with_infinity_heart.svg.png"> <a href="https://www.youtube.com/watch?v=LcF2KUJVdLE" alt="DEAR_SARTU_THANKS_FOR_SEX____YOU_ARE_STILL_SERVING_MUNA_VOLUNTARILY__MUNA_YOUR_SLAVE_NEEDS_HELP_GETTING_TO_HER_HUSBAND___CAUSE_YOU_SAID_YOU_DEAYiD">  <span class="firstcharacterDisplay">It Was A Good Day</span> </a>
 <a href="https://psychcentral.com/health/polyamorous-relationship">Throuple, Quad, and Vee: All About Polyamorous Relationships</a>
 <a href="https://www.psychologytoday.com/us/basics/polyamory"> Polyamory
 Consensual Nonmonogamy</a>
