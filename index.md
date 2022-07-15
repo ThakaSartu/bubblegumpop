@@ -609,6 +609,7 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<a href="https://www.youtube.com/watch?v=LcF2KUJVdLE" alt="DEAR_SARTU_THANKS_FOR_SEX____YOU_ARE_STILL_SERVING_MUNA_VOLUNTARILY__MUNA_YOUR_SLAVE_NEEDS_HELP_GETTING_TO_HER_HUSBAND___CAUSE_YOU_SAID_YOU_DEAYiD">  <span class="firstcharacter">It Was A Good Day</span> </a>
 <a href="https://edex.adobe.com/teaching-resources/create-a-web-page-about-protest-music-throughout-history"> <img src="https://cdn.edex.adobe.com/v3/uploads/resourceFile/2021/f2c7bf32-544a-4e2a-a4c6-657280638a5a/1146x0/webp/18401fc3-e5e1-4e59-b2b8-580c2521f83d.jpg"> </a>
 
 <a href="https://edex.adobe.com/teaching-resources/vbbcdf96b"> Graphic Design 1 Curriculum :: ADOBE_LABS EDUCATIONAL_RESOURCES </a> <a href="https://edex.adobe.com/teaching-resources/design-a-poster-to-share-an-important-memory"> Design a poster to share an important memory </a> 
