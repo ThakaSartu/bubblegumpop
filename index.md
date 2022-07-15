@@ -585,7 +585,7 @@ Relative position for absolute caption
 </style>
 
 ## Hole To Another Universe
-## DEAR_SArTU## (◕‿◕✿) ## 
+# DEAR_SArTU## (◕‿◕✿) ## 
 <form name="form1">
               <select name="menu1" ondblclick="P7_JumpMenu(this,0)" class="jumpmenu">
                 <option value="#~" selected="">SELECT A POEM</option>
@@ -609,6 +609,15 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<img href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Polyamory_flag_with_infinity_heart.svg/1280px-Polyamory_flag_with_infinity_heart.svg.png">
+<a href="https://psychcentral.com/health/polyamorous-relationship">Throuple, Quad, and Vee: All About Polyamorous Relationships</a>
+<a href="https://www.psychologytoday.com/us/basics/polyamory"> Polyamory
+Consensual Nonmonogamy</a>
+<a href="https://www.webmd.com/sex/what-is-polyamory#:~:text=Polyamorous%20people%20have%20multiple%20loving,relationships%20at%20the%20same%20time.">What is Polyamory?</a>
+<a href="http://www.west-africa-brief.org/content/en/polygamy-remains-common-and-mostly-legal-west-africa">Polygamy remains common and mostly legal in West Africa</a>
+<a href="https://www.scaringilaw.com/blog/2020/january/polygamy-religion-and-the-law/">Polygamy, Religion, and the Law</a>
+<a href="https://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1015&context=twlj">Tribal Marriages, Same-Sex Unions, and an Interstate Recognition</a>
+Conundrum
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/I_HAVE_NOT_LOGGED_IN_IN_OVER_TWO_WEEKS.PNG">	
 <p>  <span class="firstcharacter">PiNTEREST LocksOutFATHERS</span> 
 It has been over two weeks since I have logged in. I found Sartu, my kidnapped wife from Ethiopia via ##ALPHARETTA. The previous time I found her she exclaimed "That's My Husband!!", and the captors refused to let her go. Im at a point in my life where I have gathered my life partners. The truth is that is too much power. I went to ##DANCE411 in Atlanta for sometime between parenting, working as a ##DevOps_ENGiNEER, and ##JiUJiTSU. A group of women that are blowing up the RnB Chitlin_Circuit of today chose me as their dance husband... My from my understanding 4th cousin Muna and 8th cousin Sartu from ##ETHiO_SOMOLiA and about 10 other women decided we would start a business to support our artistic endevors and care for our children. They were all kidnapped with our children and sold into a ##PROSTiTUTION_MARKET_in_SOUTHERN_CALiFORNiA... As their husband I am blackballed from most work and denied sex... My wives are raped or punched in the face if they show me amorous attention, so we keep safe distace. We are from East Africa and our tribe was documented in <a href="https://www.nationalgeographic.com">NaTionaLGeoGRAPHiC</a>when a reader responed in a letter to  <a href="https://www.nationalgeographic.com/magazine/article/amazon-encounter-explorer-photographer">this article about telepathic experiances in Ethiopia, the reader was sent to  to research this telepathic tribe in south america.. If I remember correctly</a>  We have relationships outdoors, but the pimps rape them systematically for use in a global ##SEX_TOURiSM_TRADE. The Human traffickers stole and steal everything I reaccquire to get on the internet. And when I travel to use computers at local librays in #LOS_ANGELES_COUNTY, I am severely stalked, attacked, poisoned with chemical weapons and randomly aharrassed. I was using pinterest to serve up internet content for our large families spiritual needs. Those of us from <a href="https://advocacy4oromia.org/services/human-rights/">Africa are Muslims</a>, and we had a semi-healthy stint with Jehovahs Witnesses. So we are a very spiritually minded family. However many of the pimps are anti god that we are dealing with... People on the late night show and everything are involved. Long story short.. Pinterest was our watering hole. I could post content bulletin board #style, and interact with my wives and children in passing as we wait for my old job JPL to step in   the CIA/FBi/US_MARSHALLS and other services in law enforcement has helped us contact since Erikas dissapearance was taken in by the ##DEKALB_COUNTY_SHRIFFs office and they told me to post constantly to stay visible... People dissapear when the dont post in this era of ##ECONOMIC_ASSASINATION_of_FATHERS_FOR_THE_PURPOSE_OF_PROSTITUTITUING_HEALTHY_FAMiLiES
