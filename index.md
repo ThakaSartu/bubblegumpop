@@ -609,6 +609,71 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+## FORGiVEN <a href="https://www.youtube.com/watch?v=S0qrinhNnOM" > U_WERE_WORKING_AH_WAY_OUt </a>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad731d78312109000009/vsco5fc4ad74da87e.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4ad731d78312109000009/vsco5fc4ad74da87e.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb3e1d78313c1400000b/vsco5fc4bb3f86cf5.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4bb3e1d78313c1400000b/vsco5fc4bb3f86cf5.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fcc5f451d78311b8f000000/vsco5fcc5f47c6ce6.jpg" />
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fe7f7f11d78315e3b000005/vsco5fe7f7f26887a.jpg" />
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fe7f86a1d78315e3b00000b/vsco5fe7f86be15e5.jpg" />
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/600b63321d78311648000005/vsco600b633fe3aa7.jpg" />
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/6013262d0642135a0a000001/vsco6013263180a86.jpg" />
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/6015f9e351b6c34285767faf/vsco6015f9e6a7056.jpg" />
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/601f45b3485d0f256e247a03/vsco601f45b50b040.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" />
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/601f458d485d0f256e247a02/vsco601f459043d7e.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/602344b024abe1271400000a/vsco602344b184700.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/6023446224abe12714000007/vsco6023446470916.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 <img href="https://images.fashionmodeldirectory.com/images/models/1719/header_image.jpg" alt="HI_CORAL_HERE_IS_A_PICTURE_OF_YaJiDAH_IMAN_JACKSON_MEYU_JABDU_NINE_CYNTHIA_ZAC_TASHI_KINGSTON_MASON" >
 <a href="https://www.youtube.com/watch?v=nUmv36XP1xw" target="_blank" ><img src="https://i.discogs.com/7uBztSSsrqD5a2qhNSUXhQMFPTr8eQDR3_JeydvRDwQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NzAx/OS0xMzg0NjMxOTA4/LTYxMzMuanBlZw.jpeg" alt="
 Method Man & Redman  Da Rockwilder  Tear It Off"> 
