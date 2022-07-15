@@ -609,7 +609,34 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc455dbe1ebb64f08283be7/vsco5fc455dd2e51e.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc455dbe1ebb64f08283be7/vsco5fc455dd2e51e.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45624e1ebb64f08283beb/vsco5fc456260068e.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45624e1ebb64f08283beb/vsco5fc456260068e.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 ## FORGiVEN <a href="https://www.youtube.com/watch?v=S0qrinhNnOM" > U_WERE_WORKING_AH_WAY_OUt </a>
 
 <div class='twoPanelSpread'>
