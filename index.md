@@ -609,6 +609,12 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://s3.amazonaws.com/storage.lifetributes.com/Tributes/5110628/Albums/506573/Muna-Ahmed-16073839.jpg" /></div>
+    <div class="item2">                        <img src="https://s3.amazonaws.com/storage.lifetributes.com/Tributes/5110628/Albums/506573/Muna-Ahmed-16073839.jpg" /></div>
+    <div class="item3">                        <img src="https://s3.amazonaws.com/storage.lifetributes.com/Tributes/5110628/Albums/506573/Muna-Ahmed-16073839.jpg" /></div>
+</div>
 <div class="pinupGallery">
   <img class="pinupImage" src="https://media2.metrotimes.com/metrotimes/imager/u/blog/2386584/musickash.jpg" alt="">
   <img class="pinupImage  " src="https://media2.metrotimes.com/metrotimes/imager/u/blog/2386584/musickash.jpg" alt="">
