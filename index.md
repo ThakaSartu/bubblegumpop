@@ -613,9 +613,12 @@ Relative position for absolute caption
    
     <div class="item1">                        
 <a href="https://www.youtube.com/watch?v=2HlOo0wwGQo" ><img src="https://i.discogs.com/sts3_Gp8xhVFQd03KjmWlIHLRoV7HVt-lpittXHtNrQ/rs:fit/g:sm/q:90/h:600/w:442/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDcx/MTUtMTQ4NjYyOTI0/Ni04NzY5LmpwZWc.jpeg" > </a></div>
-    <div class="item2">                        
-<a href="https://www.youtube.com/watch?v=2HlOo0wwGQo" ><img src="https://i.discogs.com/sts3_Gp8xhVFQd03KjmWlIHLRoV7HVt-lpittXHtNrQ/rs:fit/g:sm/q:90/h:600/w:442/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDcx/MTUtMTQ4NjYyOTI0/Ni04NzY5LmpwZWc.jpeg" > </a></div>
-    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" /></div>
+    <div class="item2">
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" />
+</div>
+    <div class="item3">    
+	<a href="https://www.youtube.com/watch?v=2HlOo0wwGQo" ><img src="https://i.discogs.com/sts3_Gp8xhVFQd03KjmWlIHLRoV7HVt-lpittXHtNrQ/rs:fit/g:sm/q:90/h:600/w:442/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDcx/MTUtMTQ4NjYyOTI0/Ni04NzY5LmpwZWc.jpeg" > </a>
+	</div>
 </div>
 <div class='twoPanelSpread'>
   <div class='row'>
