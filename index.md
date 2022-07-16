@@ -630,8 +630,8 @@ Relative position for absolute caption
 4 # UNiVERSE##############################################
 ```
 
-	<a href="https://youtu.be/rcsR7rwbd1U" ><img src="https://ia902901.us.archive.org/19/items/ShiritsuJusticeGakuenLegionofHeroesPS1SLPS01240NTSCJ/000_Shiritsu_Justice_Gakuen_Legion_of_Heroes_PS1_SLPS01240_NTSC-J_front_insert_preview.jpg" > </a>
-	</div>
+<a href="https://youtu.be/rcsR7rwbd1U" ><img src="https://ia902901.us.archive.org/19/items/ShiritsuJusticeGakuenLegionofHeroesPS1SLPS01240NTSCJ/000_Shiritsu_Justice_Gakuen_Legion_of_Heroes_PS1_SLPS01240_NTSC-J_front_insert_preview.jpg" > </a>
+	
 <div class="flex-container">
    
     <div class="item1">                        
