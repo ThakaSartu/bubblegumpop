@@ -599,6 +599,28 @@ Relative position for absolute caption
   column-count: 3;
 }
 
+.sixpanel {
+  align-items: stretch;
+  /* flex-flow: row nowrap; */
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: stretch;
+  height: 100%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.sixpanel > div {
+  border: 1px solid #c9ff23;
+  
+}
+
+img {
+ 
+   object-fit: contain;
+  max-width: 100%;
+}
 
 	
 	
@@ -629,6 +651,18 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+<div class="sixpanel">
+   
+    <div class="item1">                        <img src="https://i.pinimg.com/originals/30/0a/92/300a92c7e7b078919d44e313781df6f4.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/originals/30/0a/92/300a92c7e7b078919d44e313781df6f4.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/originals/30/0a/92/300a92c7e7b078919d44e313781df6f4.jpg" /></div>
+  
+     
+    <div class="item1">                        <img src="https://i.pinimg.com/originals/2e/fa/30/2efa30ab8f68040158a8a16e9c87c385.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/originals/2e/fa/30/2efa30ab8f68040158a8a16e9c87c385.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/originals/2e/fa/30/2efa30ab8f68040158a8a16e9c87c385.jpg" /></div>
+</div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1019432902&color=%23292f2d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <a href="https://youtu.be/rcsR7rwbd1U" ><img src="https://ia902901.us.archive.org/19/items/ShiritsuJusticeGakuenLegionofHeroesPS1SLPS01240NTSCJ/000_Shiritsu_Justice_Gakuen_Legion_of_Heroes_PS1_SLPS01240_NTSC-J_front_insert_preview.jpg" > </a>
 <iframe src="https://archive.org/embed/streetfighteriiinewgenerationallaboutstreetfighteriiithecharacters" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
