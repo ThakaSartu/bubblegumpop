@@ -1507,15 +1507,15 @@ but the memory of this event, the photographer speculates, will last much longer
 
 <p>He answers and quickly agrees at this late hour to come and give her a dosed of his medicine so that she may dream lovely dream. She no longer tossing and turning in bed. Twenty five minutes is all he needs and he will be there. Preperation begins. Mad dash to shower, shave (its winter so legs sometimes are forgotten with out the sun), light candles and incense, sheets fresh, madina oil dabed in all the right places, for this "her man" that is on his way.</p>
 
-	<h2>Confusion</h2>
-## Confusion 
-He KNOWS it's just sex, "we just kicking it, just chillin, connnecting even", he thinks in his head as he drives to her house. He imagines the hurting he's gonna put on her, giving her what she wants, right? </p>
+<h2>Confusion</h2>
 
-On the other end she's confusing and equating the feeling she gets when he's inside of her, the movement his body makes in sync with her's, the sweet and soft kisses of passion (lust), the eagerness of his return to her temple, with L-O-V-E. </p>
+<p> He KNOWS it's just sex, "we just kicking it, just chillin, connnecting even", he thinks in his head as he drives to her house. He imagines the hurting he's gonna put on her, giving her what she wants, right? </p>
 
-Who is wrong in this situation, her assumptions or his free mind state? No boundaries were set, no plan. Many women fall into this catagory of believing love and sex go hand in hand. While Men, if not told directly what the intent is, will think nothing of having sex without commitment. The answer to all of this I believe is communication in the very begging, and waiting to explore the sexual realms of each other. Spirituallity should be the basis for all relationships, but as of right now 8 out of 10 times it's sex, in my researched, experienced opinion. </p>
+<p> On the other end she's confusing and equating the feeling she gets when he's inside of her, the movement his body makes in sync with her's, the sweet and soft kisses of passion (lust), the eagerness of his return to her temple, with L-O-V-E. </p>
 
-Lets start listening as well as speaking our hearts, instead of painting false pictures of clear situations. Love yourself and your divine mate will apear before your eyes, with no searching involved. But you must me ready physically, mentally, culturally, and spiritually. </p>
+<p> Who is wrong in this situation, her assumptions or his free mind state? No boundaries were set, no plan. Many women fall into this catagory of believing love and sex go hand in hand. While Men, if not told directly what the intent is, will think nothing of having sex without commitment. The answer to all of this I believe is communication in the very begging, and waiting to explore the sexual realms of each other. Spirituallity should be the basis for all relationships, but as of right now 8 out of 10 times it's sex, in my researched, experienced opinion. </p>
+
+<p> Lets start listening as well as speaking our hearts, instead of painting false pictures of clear situations. Love yourself and your divine mate will apear before your eyes, with no searching involved. But you must me ready physically, mentally, culturally, and spiritually. </p>
 
  
 <span class="firstcharacterDisplay">just my view on thangs - </span>
@@ -1524,9 +1524,7 @@ Lets start listening as well as speaking our hearts, instead of painting false p
 
 </div>
 
-<p>
-<a href="https://board.okayplayer.com/okp.php?az=show_mesg&forum=20&topic_id=7575&mesg_id=7589&page=" >###OKAY_PLAYER_SLUM_VILLAGE_ENTRY_BY_MY_DEPARTED_FRIEND##ALPHONSO_GREGORY##</a>
-</p>
+
 ##_TOKIMONSTA##IS_COMING##IN_Ah_BOUT_10_DAYS_OR_LESS
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/9ENMHp4DKEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Jf63Wv6Atl8" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
