@@ -609,6 +609,30 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class="flex-container">
+   
+    <div class="item1">                        
+<a href="https://www.youtube.com/watch?v=2HlOo0wwGQo" ><img src="https://i.discogs.com/sts3_Gp8xhVFQd03KjmWlIHLRoV7HVt-lpittXHtNrQ/rs:fit/g:sm/q:90/h:600/w:442/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDcx/MTUtMTQ4NjYyOTI0/Ni04NzY5LmpwZWc.jpeg" > </a></div>
+    <div class="item2">                        
+<a href="https://www.youtube.com/watch?v=2HlOo0wwGQo" ><img src="https://i.discogs.com/sts3_Gp8xhVFQd03KjmWlIHLRoV7HVt-lpittXHtNrQ/rs:fit/g:sm/q:90/h:600/w:442/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4MDcx/MTUtMTQ4NjYyOTI0/Ni04NzY5LmpwZWc.jpeg" > </a></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" /></div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/DJ_Shadow_%26_Cut_Chemist%27s_Brainfreeze_Album_cover.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://songswave.com/album-images/vol32/1348/1348570/3218818-big/Brainfreeze-2-picture.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310504386&color=%23debe94&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe> 
+<a href="https://www.youtube.com/watch?v=ftPBD5fio8o" ><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/WDAS_LOGO.PNG" > </a>
 <img src="https://ia803009.us.archive.org/18/items/FinalFantasyVIIIPS1SLPS018803NTSCJ/000_Final_Fantasy_VIII_PS1_SLPS01880~3_NTSC-J_front_insert_preview.jpg" >
 <div class="flex-container">
    
