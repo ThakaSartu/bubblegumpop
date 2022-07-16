@@ -578,6 +578,26 @@ Relative position for absolute caption
   }
 
 
+.genius {
+  padding: 15px;
+  display: block;
+  color: white;
+  font-size: 1.5rem;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0.9979578267477204) 8%,
+    rgba(153, 153, 153, 0.5085961246200608) 46%
+  );
+  font-family: "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue",
+    sans-serif;
+  letter-spacing: 1px;
+  word-spacing: 1.5px;
+  font-weight: 500;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  column-count: 3;
+}
 
 
 	
@@ -1455,33 +1475,6 @@ but the memory of this event, the photographer speculates, will last much longer
  </div>
  </div> 
  </div>
- 
-
-Desolate, alone, tearfully searching, suddenly blinded by a tall dark and dreadlocked beauty. She painted a perfect picture around a perfect face and frame. She didn't bother to learn about his past cause she's caught up in this moment of visual bliss.
-
-She took him in knowing fully well that she's not the only flower he's sippin nectar from. She's misguided by her mixed up illusions of love. Either she's watched too many fake ass love/drama movies, read too many romance novels, watched her parents in a disfunctional relationship spiraling down hill (thinking that's just how it is), or she just doesn't know what a real man is.
-
-When the two of them make love (have sex), her mind is blown into the clouds, she returns to Atlantis, her spirit uplifted. Ready she is to plan their future garden, ignoring the weeds mixed in with the seed.
-
-He drops hints of annoyance, never goes out of his way any more for her cause she's caught. Another fish in his sea. So she gives him space thinking absense makes the heart grow fonder. If you let someone go, and then they return, they belong to you, right?
-
-Late at night her fingers wonder over the buttons on the phone, dialing his number, wanting some of what she's been missing some of his good "love".
-
-He answers and quickly agrees at this late hour to come and give her a dosed of his medicine so that she may dream lovely dream. She no longer tossing and turning in bed. Twenty five minutes is all he needs and he will be there. Preperation begins. Mad dash to shower, shave (its winter so legs sometimes are forgotten with out the sun), light candles and incense, sheets fresh, madina oil dabed in all the right places, for this "her man" that is on his way.
-
-Confusion
-
-He KNOWS it's just sex, "we just kicking it, just chillin, connnecting even", he thinks in his head as he drives to her house. He imagines the hurting he's gonna put on her, giving her what she wants, right?
-
-On the other end she's confusing and equating the feeling she gets when he's inside of her, the movement his body makes in sync with her's, the sweet and soft kisses of passion (lust), the eagerness of his return to her temple, with L-O-V-E.
-
-Who is wrong in this situation, her assumptions or his free mind state? No boundaries were set, no plan. Many women fall into this catagory of believing love and sex go hand in hand. While Men, if not told directly what the intent is, will think nothing of having sex without commitment. The answer to all of this I believe is communication in the very begging, and waiting to explore the sexual realms of each other. Spirituallity should be the basis for all relationships, but as of right now 8 out of 10 times it's sex, in my researched, experienced opinion.
-
-Lets start listening as well as speaking our hearts, instead of painting false pictures of clear situations. Love yourself and your divine mate will apear before your eyes, with no searching involved. But you must me ready physically, mentally, culturally, and spiritually.
-
-just my view on thangs - Dehejia
-
-
  </div>
 
 <div class='some-page-wrapper'>
@@ -1497,33 +1490,41 @@ just my view on thangs - Dehejia
  </div>
  </div>
  </div>
-Desolate, alone, tearfully searching, suddenly blinded by a tall dark and dreadlocked beauty. She painted a perfect picture around a perfect face and frame. She didn't bother to learn about his past cause she's caught up in this moment of visual bliss.
+<div class="genius">
+  ## LOVE_and_SEX
+<h1 class="neonText"> LOVE_and_SEX </h1>
+<p> <span class="firstcharacter">Desolate</span>, alone, tearfully searching, suddenly blinded by a tall dark and dreadlocked beauty. She painted a perfect picture around a perfect face and frame. She didn't bother to learn about his past cause she's caught up in this moment of visual bliss. </p>
 
-She took him in knowing fully well that she's not the only flower he's sippin nectar from. She's misguided by her mixed up illusions of love. Either she's watched too many fake ass love/drama movies, read too many romance novels, watched her parents in a disfunctional relationship spiraling down hill (thinking that's just how it is), or she just doesn't know what a real man is.
+<p>She took him in knowing fully well that she's not the only flower he's sippin nectar from. She's misguided by her mixed up illusions of love. Either she's watched too many fake ass love/drama movies, read too many romance novels, watched her parents in a disfunctional relationship spiraling down hill (thinking that's just how it is), or she just doesn't know what a real man is.</p>
 
-When the two of them make love (have sex), her mind is blown into the clouds, she returns to Atlantis, her spirit uplifted. Ready she is to plan their future garden, ignoring the weeds mixed in with the seed.
+<p>When the two of them make love (have sex), her mind is blown into the clouds, she returns to Atlantis, her spirit uplifted. Ready she is to plan their future garden, ignoring the weeds mixed in with the seed.</p>
 
-He drops hints of annoyance, never goes out of his way any more for her cause she's caught. Another fish in his sea. So she gives him space thinking absense makes the heart grow fonder. If you let someone go, and then they return, they belong to you, right?
+<p>He drops hints of annoyance, never goes out of his way any more for her cause she's caught. Another fish in his sea. So she gives him space thinking absense makes the heart grow fonder. If you let someone go, and then they return, they belong to you, right?</p>
 
-Late at night her fingers wonder over the buttons on the phone, dialing his number, wanting some of what she's been missing some of his good "love".
+<p>Late at night her fingers wonder over the buttons on the phone, dialing his number, wanting some of what she's been missing some of his good "love".</p>
 
-He answers and quickly agrees at this late hour to come and give her a dosed of his medicine so that she may dream lovely dream. She no longer tossing and turning in bed. Twenty five minutes is all he needs and he will be there. Preperation begins. Mad dash to shower, shave (its winter so legs sometimes are forgotten with out the sun), light candles and incense, sheets fresh, madina oil dabed in all the right places, for this "her man" that is on his way.
+<p>He answers and quickly agrees at this late hour to come and give her a dosed of his medicine so that she may dream lovely dream. She no longer tossing and turning in bed. Twenty five minutes is all he needs and he will be there. Preperation begins. Mad dash to shower, shave (its winter so legs sometimes are forgotten with out the sun), light candles and incense, sheets fresh, madina oil dabed in all the right places, for this "her man" that is on his way.</p>
 
-Confusion
+	<h2>Confusion</h2>
+## Confusion 
+He KNOWS it's just sex, "we just kicking it, just chillin, connnecting even", he thinks in his head as he drives to her house. He imagines the hurting he's gonna put on her, giving her what she wants, right? </p>
 
-He KNOWS it's just sex, "we just kicking it, just chillin, connnecting even", he thinks in his head as he drives to her house. He imagines the hurting he's gonna put on her, giving her what she wants, right?
+On the other end she's confusing and equating the feeling she gets when he's inside of her, the movement his body makes in sync with her's, the sweet and soft kisses of passion (lust), the eagerness of his return to her temple, with L-O-V-E. </p>
 
-On the other end she's confusing and equating the feeling she gets when he's inside of her, the movement his body makes in sync with her's, the sweet and soft kisses of passion (lust), the eagerness of his return to her temple, with L-O-V-E.
+Who is wrong in this situation, her assumptions or his free mind state? No boundaries were set, no plan. Many women fall into this catagory of believing love and sex go hand in hand. While Men, if not told directly what the intent is, will think nothing of having sex without commitment. The answer to all of this I believe is communication in the very begging, and waiting to explore the sexual realms of each other. Spirituallity should be the basis for all relationships, but as of right now 8 out of 10 times it's sex, in my researched, experienced opinion. </p>
 
-Who is wrong in this situation, her assumptions or his free mind state? No boundaries were set, no plan. Many women fall into this catagory of believing love and sex go hand in hand. While Men, if not told directly what the intent is, will think nothing of having sex without commitment. The answer to all of this I believe is communication in the very begging, and waiting to explore the sexual realms of each other. Spirituallity should be the basis for all relationships, but as of right now 8 out of 10 times it's sex, in my researched, experienced opinion.
+Lets start listening as well as speaking our hearts, instead of painting false pictures of clear situations. Love yourself and your divine mate will apear before your eyes, with no searching involved. But you must me ready physically, mentally, culturally, and spiritually. </p>
 
-Lets start listening as well as speaking our hearts, instead of painting false pictures of clear situations. Love yourself and your divine mate will apear before your eyes, with no searching involved. But you must me ready physically, mentally, culturally, and spiritually.
+ 
+<span class="firstcharacterDisplay">just my view on thangs - </span>
+<span class="firstcharacter">Dehejia</span>
+</div>
 
-just my view on thangs - Dehejia 
 </div>
 
 
 <a href="https://board.okayplayer.com/okp.php?az=show_mesg&forum=20&topic_id=7575&mesg_id=7589&page=" >###OKAY_PLAYER_SLUM_VILLAGE_ENTRY_BY_MY_DEPARTED_FRIEND##ALPHONSO_GREGORY##</a>
+```
 Check it my flow be 3 parts like a Trinity
 But me be one man rolling through Infinity\
 I walk miles and miles through Slum Villages
@@ -1558,7 +1559,7 @@ Po'ADDiX http://www.geocities.com/sb202us/index.htm
 "Thoughts and dreams drip from your mouth, onto my tongue, down my throat to my heart"-symphonygoddess
 
 "I wish I wasn't me sometimes"-BiLal
-
+```
 
 
 ##_TOKIMONSTA##IS_COMING##IN_Ah_BOUT_10_DAYS_OR_LESS
