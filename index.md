@@ -673,7 +673,10 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-
+<span class="firstcharacterDisplay">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+<img src="https://www.boredpanda.com/blog/wp-content/uploads/2015/09/burning-man-festival-adults-babies-love-aleksandr-milov-ukraine-3.jpg" >
+## ሳቲዚ ጀብዱዚ ሙና ዐሪካ ላራ ከሊላ
+<img src="https://www.boredpanda.com/blog/wp-content/uploads/2015/09/burning-man-festival-adults-babies-love-aleksandr-milov-ukraine-3.jpg" >
 ## በምዕራብ ኦሮሚያ ሰላማዊ ዜጎች እየተገደሉ ያሉት ለምንድነው?
 [በምዕራብ ኦሮሚያ ሰላማዊ ዜጎች እየተገደሉ ያሉት ለምንድነው?](https://www.bbc.com/amharic/news-62170815)
 <div class="post-content">
@@ -839,8 +842,6 @@ end
 - level 1 item
   - level 2 item
   - level 2 item
-    - level 3 item
-    - level 3 item
 - level 1 item
   - level 2 item
   - level 2 item
