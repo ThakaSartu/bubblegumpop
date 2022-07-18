@@ -673,10 +673,10 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-<span class="firstcharacterDisplay">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+<span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
 <img src="https://www.boredpanda.com/blog/wp-content/uploads/2015/09/burning-man-festival-adults-babies-love-aleksandr-milov-ukraine-3.jpg" >
 ## ሳቲዚ ጀብዱዚ ሙና ዐሪካ ላራ ከሊላ
-<img src="https://www.boredpanda.com/blog/wp-content/uploads/2015/09/burning-man-festival-adults-babies-love-aleksandr-milov-ukraine-3.jpg" >
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/498365070&color=%2336100f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/odesza" title="ODESZA" target="_blank" style="color: #cccccc; text-decoration: none;">ሳቲዚ ጀብዱዚ ሙና ዐሪካ ላራ ከሊላ</a> · <a href="https://soundcloud.com/odesza/loyal" title="Loyal" target="_blank" style="color: #cccccc; text-decoration: none;">Loyal</a></div>
 ## በምዕራብ ኦሮሚያ ሰላማዊ ዜጎች እየተገደሉ ያሉት ለምንድነው?
 [በምዕራብ ኦሮሚያ ሰላማዊ ዜጎች እየተገደሉ ያሉት ለምንድነው?](https://www.bbc.com/amharic/news-62170815)
 <div class="post-content">
