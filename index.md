@@ -729,12 +729,7 @@ img {
     <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" /></div>
 </div>
 
-<div class="flex-container">
-   
-    <div class="item1">                        <img src="https://i.pinimg.com/750x/30/13/5b/30135bf01bdfabbb1e3bbaa88c83d817.jpg" /></div>
-    <div class="item2">                        <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" /></div>
-    <div class="item3">                        <img src="https://i.pinimg.com/750x/67/ac/78/67ac78499dfbe78dc9d80dcf67a99dcd.jpg" /></div>
-</div>
+
 
 ## በምዕራብ ኦሮሚያ ሰላማዊ ዜጎች እየተገደሉ ያሉት ለምንድነው?
 [በምዕራብ ኦሮሚያ ሰላማዊ ዜጎች እየተገደሉ ያሉት ለምንድነው?](https://www.bbc.com/amharic/news-62170815)
@@ -742,8 +737,13 @@ img {
 	<h1>Post title</h1>
 	<!-- {{content}} would be here, example rendered below -->
 	<figure class="kg-card kg-image-card kg-card-hascaption">
-		<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif" class="kg-image">
-		
+	<!-- 	<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif" class="kg-image"> -->
+		<div class="flex-container kg-image">
+   
+    <div class="item1">                        <img src="https://i.pinimg.com/750x/30/13/5b/30135bf01bdfabbb1e3bbaa88c83d817.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/750x/67/ac/78/67ac78499dfbe78dc9d80dcf67a99dcd.jpg" /></div>
+</div>
 		<figcaption>Photo by <a href="#">Sartu</a> / <a href="#">Ahmed-SelaSSiE</a></figcaption>
 	</figure>
 	<p>Sartu, thank you for you daily love and spousal support. Main post content... lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, repellat molestiae iure repudiandae explicabo labore harum eum recusandae a voluptatibus nesciunt qui commodi magnam, quaerat quis fuga veritatis molestias esse.</p>
