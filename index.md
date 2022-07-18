@@ -651,6 +651,40 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class="post-content">
+	<h1>Post title</h1>
+	<!-- {{content}} would be here, example rendered below -->
+	<figure class="kg-card kg-image-card kg-card-hascaption">
+		<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif" class="kg-image">
+		
+		<figcaption>Photo by <a href="#">Sartu</a> / <a href="#">Ahmed-SelaSSiE</a></figcaption>
+	</figure>
+	<p>Sartu, thank you for you daily love and spousal support. Main post content... lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, repellat molestiae iure repudiandae explicabo labore harum eum recusandae a voluptatibus nesciunt qui commodi magnam, quaerat quis fuga veritatis molestias esse.</p>
+</div>
+
+[ZEXOR_WAS_MURDERED_LOOKiNG_FOR_HiS_FAMiLY](https://forum.12ozprophet.com/topic/88098-rip-zexor/)
+<div class="post-content">
+	<h1>My Conversation with a Human Trafficker</h1>
+	<figure class="kg-card kg-image-card kg-card-hascaption">
+<iframe src="https://player.vimeo.com/video/396000267?h=9c3699c7fc&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="100%" height="1920" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Untitled"></iframe>
+		<figcaption>ScreenCapture by <a href="#">Thaka##Rashard</a> / <a href="#">Selassie##Kelly</a></figcaption>
+	</figure>
+	<p> <a href="https://www.instagram.com/muna_and_rashard/?hl=en">  THE_CRIME_SCENE_DETAiL_INSTAGRAM_MUNA_aka_MUNi_and_Thaka_aka_RASHARD, MISSING_PERSONS_DETAILS </a>	
+<a href="https://www.veoh.com/watch/v142164131xC426T7A">ANIME##_THIS_IS_HOW_MY_ASSASINATION_ATTEMPTS_GO##THAT_WAS_SARTU##</a>
+<a href="https://www.statista.com/statistics/960103/ranking-of-most-used-online-video-platforms-in-sweden/"> Which platforms do you use to watch online video?</a>
+	</p>
+	<p>The Ethiopian wolf, Africa’s only wolf species, is under threat.
+The Ethiopian wolf is the rarest and most endangered canid in the world — with only about 450 individuals remaining. They are restricted to seven isolated mountain enclaves in the highlands, and the two remaining strongholds for this iconic species occur in Bale Mountains National Park and Simien Mountains National Park.</p>
+	<p>Main post content... lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, repellat molestiae iure repudiandae explicabo labore harum eum recusandae a voluptatibus nesciunt qui commodi magnam, quaerat quis fuga veritatis molestias esse.</p>
+</div>
+
+# ##DEAR_WiLLOW
+### #I_WiSH_I_HAD__Over_ear_HEADPHONES_AND_A
+# SanSaCLiP+
+
+<span class="firstcharacter"> SartuS bizarre and nearly deadly affair with Travis</span>, left me without anything to access the internet and the cyberbullying from the social media companies has turned hundreds possibly thousands into "KEEP##THAKA_OFF_THE_INTERNET##ZOMBiES"! Im in the mood for this classic. Maybe I can get some studiotime with your dad someday as his DJ.
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/vMaJC4ZiahQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[RAiNY_DAYZ_FEAT.GHOSTFACE](https://www.youtube.com/watch?v=IGlJeDmq50Q)
 
 <div class="sixpanel">
    
@@ -663,7 +697,44 @@ img {
     <div class="item2">                        <img src="https://i.pinimg.com/originals/2e/fa/30/2efa30ab8f68040158a8a16e9c87c385.jpg" /></div>
     <div class="item3">                        <img src="https://i.pinimg.com/originals/2e/fa/30/2efa30ab8f68040158a8a16e9c87c385.jpg" /></div>
 </div>
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1019432902&color=%23292f2d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<img src="https://ftp.icm.edu.pl/packages/graffiti.old/boston/zelot_rath_turn_kem5_prey06.jpg" >
+<img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45b01e1ebb64f08283c31/vsco5fc45b027a916.jpg" >
+<img src="https://ftp.icm.edu.pl/packages/graffiti.old/boston/zealot_aves_mise_tint_boston_2006.jpg" >
+
+<img src="https://user-images.githubusercontent.com/93835618/178748448-e50c2f03-f7dc-4608-a4cd-683e714ad738.png">
+
+[CSS performance optimization](https://developer.mozilla.org/en-US/docs/Learn/Performance/CSS)
+[HTML_CSS_RENDERiNG_PERFORMANCE_BASiCS](https://developer.mozilla.org/en-US/docs/Web/Performance/Fundamentals)
+[A complete collection of web safe CSS font stacks](https://www.cssfontstack.com/monospace)
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
 <a href="https://youtu.be/rcsR7rwbd1U" ><img src="https://ia902901.us.archive.org/19/items/ShiritsuJusticeGakuenLegionofHeroesPS1SLPS01240NTSCJ/000_Shiritsu_Justice_Gakuen_Legion_of_Heroes_PS1_SLPS01240_NTSC-J_front_insert_preview.jpg" > </a>
 <div class="flex-container">
    
