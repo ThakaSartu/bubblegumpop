@@ -657,18 +657,13 @@ img {
 # DEAR_SArTU## (◕‿◕✿) ## 
 <form name="form1">
               <select name="menu1" ondblclick="P7_JumpMenu(this,0)" class="jumpmenu">
-                <option value="#~" selected="">SELECT A POEM</option>
-                <option value="volumetwo/untitled.htm~">Untitled</option>
-                <option value="volumetwo/lovs_sex.htm~">Love and Sex</option>
-                <option value="volumetwo/rain.htm~">Rain</option>
-                <option value="volumetwo/blood.htm~">My Blood on this Paper</option>
-                <option value="volumetwo/bottled.htm~">Bottled</option>
-                <option value="volumetwo/domesticbreakdown.htm~">Domestic Breakdown</option>
-                <option value="volumetwo/fantasy1.htm~">Fantasy pt1</option>
-                <option value="volumetwo/greatlinks.htm~">Great Links</option>
-                <option value="volumetwo/masses.htm~">Sumthin 4 tha Masses</option>
-                <option value="volumetwo/momgreat.htm~">My Mom Lost a Great one</option>
-                <option value="volumetwo/moonlight.htm~">Moon Light</option>
+                <option value="#~" selected="">HOLE2ANOTHERUNiVERSE_BLOG_ROLL</option>
+                <option value="https://thakarashard.github.io/homeschool">##HOLE_TO_ANOTHER_UNiVERSE::</option>
+                <option value="https://thakarashard.github.io/holetoanotheruniverse">##HOLE_TO_ANOTHER_UNiVERSE::##HOMESCHOOL_PLANS</option>
+                <option value="https://thakarashard.github.io/film1">##HOLE_TO_ANOTHER_UNiVERSE::##FiLM_STUDiES</option>
+                <option value="https://thakarashard.github.io/bubblegumpop">##HOLE_TO_ANOTHER_UNiVERSE::##BUBBLEGUMPOP</option>
+		<option value="https://thakarashard.github.io/bubblegumpop00">##HOLE_TO_ANOTHER_UNiVERSE::##BUBBLEGUMPOP00</option>
+
               </select>
               <input type="button" name="Button1" value="Go" onclick="P7_JumpMenuGo('menu1',0)" class="jumpmenu">
             </form>
