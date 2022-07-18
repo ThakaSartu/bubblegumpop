@@ -678,8 +678,59 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-<h1>CSS3 Column Layout (Simple)</h1>
 
+## በምዕራብ ኦሮሚያ ሰላማዊ ዜጎች እየተገደሉ ያሉት ለምንድነው?
+[በምዕራብ ኦሮሚያ ሰላማዊ ዜጎች እየተገደሉ ያሉት ለምንድነው?](https://www.bbc.com/amharic/news-62170815)
+<div class="post-content">
+	<h1>##MY_ASTRO_TWiN##LOVE_OF_MY_WIFE_LIFE</h1>
+	<!-- {{content}} would be here, example rendered below -->
+	<figure class="kg-card kg-image-card kg-card-hascaption">
+	<!-- 	<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif" class="kg-image"> -->
+		<div class="flex-container kg-image">
+   
+    <div class="item1">                        <img src="https://i.pinimg.com/750x/30/13/5b/30135bf01bdfabbb1e3bbaa88c83d817.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/750x/67/ac/78/67ac78499dfbe78dc9d80dcf67a99dcd.jpg" /></div>
+</div>
+		<figcaption>Photo by <a href="#">Sartu</a> / <a href="#">Ahmed-SelaSSiE</a></figcaption>
+	</figure>
+	<p>Sartu, thank you for you daily love and spousal support. Im listening to [Prepared, by Jill Scott](https://soundcloud.com/sexxsie/sets/jill-scott-prepared). Thats some SoundCloud bedroom DJs remix, so find it on her 2015 album Woman. The entire album is a good listen. Thank you verifying our telepathy. I will hold my position as the rackateering sex trafficking community is brought to justice. I cant wait to get married bro. I love you so much. It was super grounding when I got to look at you in your Jordans mispaird with a tight cuffed capri where you turned your head and exlaimed "That's my husband!!" I hope you dont feel guilty about porn... After your kidnapping you had to maintain life and entertain to keep from getting your heart sliced out by those organ harvesting pimps and porno directors. Its the soul that repairs the flesh. We had so many expectations romantically since neither of us has ever had a faithful in intimate matters significant others. Our friends even support us... But porn and human trafficking communities are criminal juggernauts and when they force you to do things you dont want to do like take a walk or visit your husband you cant. Your body is so wound up from brothel living, that penetration is sometimes a relief even during systematic rape and you know I can feel everything... When they prostituted you and Muna at Burningman, I wailed at the silver couple statue for  for an hour or more 3 days in a row... Im devastated... I want my wife back. Ishmel ahmed married the three of us and Erika and I were married in Alameda county. After daniell... Im tired, Ill write you later</p>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/09/03/20/img-0874.jpg?quality=75&width=640&auto=webp" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/09/03/20/img-0874.jpg?quality=75&width=640&auto=webp" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/UCf4vGZk0c6zGq-upYnO06mXNwlO9XSlyrNFCsRr-to/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzA2/NjQyLTE2NDU4NDA5/OTUtNDM1NC5qcGVn.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/UCf4vGZk0c6zGq-upYnO06mXNwlO9XSlyrNFCsRr-to/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzA2/NjQyLTE2NDU4NDA5/OTUtNDM1NC5qcGVn.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+	
+	
+	
+</div>
+
+[ZEXOR_WAS_MURDERED_LOOKiNG_FOR_HiS_FAMiLY](https://forum.12ozprophet.com/topic/88098-rip-zexor/)
+<h1>CAMEO_SPREAD_CSS3 Column Layout (Simple)</h1>
+## PiNTEREST_FUNCTiONALiTY
 <p>A simple column layout using CSS3 columns.  Started from https://cssdeck.com/labs/css-only-pinterest-style-columns-layout, but some issues fixed. Works in FF, Chrome, but not IE9.</p>
 
 <div id="cols">
@@ -690,7 +741,7 @@ img {
       <img src="https://i.pinimg.com/originals/48/8a/17/488a17453e0664da6540d7235c43b16c.jpg" />
   </div>
   <div class="item">
-      <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" />12.jpg
+      <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" />
   </div>
   <div class="item">
       <img src="https://i.pinimg.com/originals/21/73/30/217330e61964dd611b6c0fdc5fbb32c4.png" />
@@ -731,25 +782,6 @@ img {
 
 
 
-## በምዕራብ ኦሮሚያ ሰላማዊ ዜጎች እየተገደሉ ያሉት ለምንድነው?
-[በምዕራብ ኦሮሚያ ሰላማዊ ዜጎች እየተገደሉ ያሉት ለምንድነው?](https://www.bbc.com/amharic/news-62170815)
-<div class="post-content">
-	<h1>Post title</h1>
-	<!-- {{content}} would be here, example rendered below -->
-	<figure class="kg-card kg-image-card kg-card-hascaption">
-	<!-- 	<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif" class="kg-image"> -->
-		<div class="flex-container kg-image">
-   
-    <div class="item1">                        <img src="https://i.pinimg.com/750x/30/13/5b/30135bf01bdfabbb1e3bbaa88c83d817.jpg" /></div>
-    <div class="item2">                        <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" /></div>
-    <div class="item3">                        <img src="https://i.pinimg.com/750x/67/ac/78/67ac78499dfbe78dc9d80dcf67a99dcd.jpg" /></div>
-</div>
-		<figcaption>Photo by <a href="#">Sartu</a> / <a href="#">Ahmed-SelaSSiE</a></figcaption>
-	</figure>
-	<p>Sartu, thank you for you daily love and spousal support. Main post content... lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, repellat molestiae iure repudiandae explicabo labore harum eum recusandae a voluptatibus nesciunt qui commodi magnam, quaerat quis fuga veritatis molestias esse.</p>
-</div>
-
-[ZEXOR_WAS_MURDERED_LOOKiNG_FOR_HiS_FAMiLY](https://forum.12ozprophet.com/topic/88098-rip-zexor/)
 <div class="post-content">
 	<h1>My Conversation with a Human Trafficker</h1>
 	<figure class="kg-card kg-image-card kg-card-hascaption">
