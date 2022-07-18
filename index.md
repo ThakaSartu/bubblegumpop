@@ -623,30 +623,33 @@ img {
 
 
 	
-	
-	
 #cols {
   -webkit-column-count: 3;
-  -webkit-column-gap: 10px;
+  -webkit-column-gap: 0px;
   -moz-column-count: 3;
-  -moz-column-gap: 10px;
+  -moz-column-gap: 0px;
   column-count: 3;
-  column-gap: 10px;
+  column-gap: 0px;
 }
 
 .item {
-  background: white;
-  margin: 0 0 1px 0;
-  padding: 1px;
+  margin: 0 0 0px 0;
+  padding: 5px;
   text-align: center;
   -webkit-column-break-inside: avoid;
   -moz-column-break-inside: avoid;
   column-break-inside: avoid;
+  /*
+  border-radius: 25px;
+  border: 14px solid #73ad21;
+  */
 }
 
 .item img {
   max-width: 100%;
+  border-radius: 50%;
 }
+
 	
 </style>
 
@@ -684,7 +687,7 @@ img {
     <img src="https://i.pinimg.com/750x/30/13/5b/30135bf01bdfabbb1e3bbaa88c83d817.jpg" />
   </div>
   <div class="item">
-      <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" />
+      <img src="https://i.pinimg.com/originals/48/8a/17/488a17453e0664da6540d7235c43b16c.jpg" />
   </div>
   <div class="item">
       <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" />12.jpg
@@ -711,8 +714,6 @@ img {
       <img src="https://i.pinimg.com/originals/43/1b/7f/431b7f4709934085d5a48d620ca41b6c.jpg" />
   </div>
 </div>
-
-<p>Originally from <a href="https://cssdeck.com/labs/css-only-pinterest-style-columns-layout">https://cssdeck.com/labs/css-only-pinterest-style-columns-layout</a>. Works in FF 22, Chrome 28, and should work in IE10. IE9 requires polyfill.</p>
 
 <div class="flex-container">
    
