@@ -134,11 +134,11 @@ table {
 body {
   color: white;
 	 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop_rszd.jpg) no-repeat center center fixed; 
-  font-family: Monaco, "Bitstream Vera Sans Mono",
-    "Lucida Console", Terminal, "Helvetica Neue", sans-serif;
+  font-family: Verdana, Geneva, sans-serif;
   line-height: 1.5;
 }
 
+	h1 { font-family: Verdana, Geneva, sans-serif; font-size: 23px; font-style: italic; font-variant: small-caps; font-weight: 700; line-height: 23px; } h3 { font-family: Verdana, Geneva, sans-serif; font-size: 14px; font-style: italic; font-variant: small-caps; font-weight: 700; line-height: 15.4px; } p { font-family: Verdana, Geneva, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } blockquote { font-family: Verdana, Geneva, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } pre { font-family: Verdana, Geneva, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; }
 iframe {
   margin: 0px;
   padding: 0px;
@@ -153,8 +153,7 @@ color: white;
   font-size: 1.5rem;
 background: rgb(0,0,0);
 background: linear-gradient(90deg, rgba(0,0,0,0.9979578267477204) 8%, rgba(153,153,153,0.5085961246200608) 46%);
-  font-family: Monaco,"Lucida Console",  "Bitstream Vera Sans Mono", Terminal,
-    monospace, "Helvetica Neue", sans-serif;
+  font-family: Verdana, Geneva, sans-serif;
   letter-spacing: 1px;
   word-spacing: 1.5px;
   font-weight: 500;
@@ -622,7 +621,32 @@ img {
   max-width: 100%;
 }
 
+
 	
+	
+	
+#cols {
+  -webkit-column-count: 3;
+  -webkit-column-gap: 10px;
+  -moz-column-count: 3;
+  -moz-column-gap: 10px;
+  column-count: 3;
+  column-gap: 10px;
+}
+
+.item {
+  background: white;
+  margin: 0 0 1px 0;
+  padding: 1px;
+  text-align: center;
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+}
+
+.item img {
+  max-width: 100%;
+}
 	
 </style>
 
@@ -651,6 +675,89 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<h1>CSS3 Column Layout (Simple)</h1>
+
+<p>A simple column layout using CSS3 columns.  Started from https://cssdeck.com/labs/css-only-pinterest-style-columns-layout, but some issues fixed. Works in FF, Chrome, but not IE9.</p>
+
+<div id="cols">
+  <div class="item">
+    <img src="https://i.pinimg.com/750x/30/13/5b/30135bf01bdfabbb1e3bbaa88c83d817.jpg" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" />12.jpg
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/21/73/30/217330e61964dd611b6c0fdc5fbb32c4.png" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/b5/08/2c/b5082c604703959ad6ea7743aded2ebb.jpg" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/a0/d3/da/a0d3da0fa27141ab94594a0a8408c886.jpg" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/64/60/60/64606065a9868cb0510fd178c644ddea.png" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/20/63/ba/2063ba36c58a73677f846775d8cdbd53.png" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/4f/a3/ec/4fa3ec22c1de335f3ccec878705efe88.jpg" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/43/1b/7f/431b7f4709934085d5a48d620ca41b6c.jpg" />
+  </div>
+  
+  
+  
+ <div class="item">
+    <img src="https://i.pinimg.com/750x/30/13/5b/30135bf01bdfabbb1e3bbaa88c83d817.jpg" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" />12.jpg
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/21/73/30/217330e61964dd611b6c0fdc5fbb32c4.png" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/b5/08/2c/b5082c604703959ad6ea7743aded2ebb.jpg" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/a0/d3/da/a0d3da0fa27141ab94594a0a8408c886.jpg" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/64/60/60/64606065a9868cb0510fd178c644ddea.png" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/20/63/ba/2063ba36c58a73677f846775d8cdbd53.png" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/4f/a3/ec/4fa3ec22c1de335f3ccec878705efe88.jpg" />
+  </div>
+  <div class="item">
+      <img src="https://i.pinimg.com/originals/43/1b/7f/431b7f4709934085d5a48d620ca41b6c.jpg" />
+  </div>  
+  
+  
+  
+  
+</div>
+
+<p>Originally from <a href="https://cssdeck.com/labs/css-only-pinterest-style-columns-layout">https://cssdeck.com/labs/css-only-pinterest-style-columns-layout</a>. Works in FF 22, Chrome 28, and should work in IE10. IE9 requires polyfill.</p>
+
+
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://i.pinimg.com/750x/49/d1/b7/49d1b785e2e60a41ecdfa6d8e8138537.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/750x/49/d1/b7/49d1b785e2e60a41ecdfa6d8e8138537.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/750x/49/d1/b7/49d1b785e2e60a41ecdfa6d8e8138537.jpg" /></div>
+</div>
 
 <div class="flex-container">
    
