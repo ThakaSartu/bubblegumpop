@@ -662,7 +662,7 @@ img {
      align-items: stretch; 
     /* flex-flow: row nowrap; */ 
     flex-direction: row; 
-    flex-wrap: wrap; 
+    flex-wrap: nowrap; 
     justify-content: center;
     align-content: stretch;
     height: 100%;
@@ -702,6 +702,7 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_BDR_MONO.gif">
 <div class="flex-container-rounded">
    
     <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/GODSGiFT.png" /></div>
