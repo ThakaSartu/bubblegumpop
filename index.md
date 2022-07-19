@@ -673,6 +673,12 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+</div> 
      <a href="https://www.youtube.com/watch?v=NX7zS_GRX14"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/FRANKSKiv103BMORE.PNG" alt="">  </a>
 
 <div class="flex-container">
