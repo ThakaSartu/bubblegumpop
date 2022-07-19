@@ -673,6 +673,26 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/FRr-Hac5QeGdUQimz1WfDQ53Uo5VeOyKwOAejMi5n4g/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzc0/MTEtMTQ4MTI3MDY4/OS00MzQyLmpwZWc.jpeg" alt="">  </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+       <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/YWqTjELIBUeYdG7IFAZ0aAFiigxnYxd-F0VUyvkKFds/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0Nzc0/MTEtMTQ4MTI3MDY5/MC05NzQ4LmpwZWc.jpeg" alt="">  </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<img src="https://forum.12ozprophet.com/uploads/monthly_2019_03/57BE2680-B52D-4846-B37F-E66050657CF3.jpeg.00d62cd3a720a271411379552b898b0d.jpeg">
+<a href="https://forum.12ozprophet.com/topic/86973-rip-the-kodak-kidd/> The Kodak Kidd sent messages to people via handwritten notes on railcars called Monikers :: NO_MENTAL_PROBLEM_HE_WAS_AN_AMAZING_ARTIST</a>
 <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5cf2bb242868dc430eaac52f/vsco5cf2bb33e52d2.jpg" alt="">
 <a href="https://www.youtube.com/watch?v=OlLrn6AVV2s"> Deniece Williams – Free
 Genre:	Funk / Soul
