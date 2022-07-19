@@ -702,6 +702,14 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class="flex-container-rounded">
+   
+    <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/NO_SO_CHOOSY_SAUTUZEE.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/NO_SO_CHOOSY_SAUTUZEE.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/NO_SO_CHOOSY_SAUTUZEE.gif" /></div>
+</div>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/MUNiLONGAHMEDSELASSiEreverse.gif">
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/MUNiLONGAHMEDSELASSiEnormalish.gif">
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_BDR_MONO.gif">
 <div class="flex-container-rounded">
    
