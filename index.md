@@ -673,7 +673,57 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://soundcloud.com/munilong/baby-boo"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c8980d85e146a4710488602/vsco5c8980d9e3347.jpg" alt="">  </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+       <a href="https://soundcloud.com/munilong/baby-boo"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c8980d85e146a4710488602/vsco5c8980d9e3347.jpg" alt="">  </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<a href="https://soundcloud.com/munilong/baby-boo"><img  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5d03f25233151a2e37784775/vsco5d03f2540aad5.jpg" alt=""></a>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+       <a href="https://soundcloud.com/munilong/baby-boo"><img  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5d03f25233151a2e37784775/vsco5d03f2540aad5.jpg" alt=""></a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<a href="https://soundcloud.com/munilong/baby-boo"><img  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5efcddc17c5d392b66a67a9f/vsco5efcddc2ba12a.jpg?w=347&amp;dpr=1" alt="#MUNAAHMEDKELLY"></a>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://soundcloud.com/munilong/baby-boo"><img  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5efcddc17c5d392b66a67a9f/vsco5efcddc2ba12a.jpg?w=347&amp;dpr=1" alt="#MUNAAHMEDKELLY"></a>
+        
+        
+      </div>
+    </div>
+  </div>
+</div>
 
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/60215adb2b11d42d34eaf612/vsco60215adc89105.jpg?w=823&amp;dpr=1" alt="">
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/6024c93924abe16b75000004/vsco6024c9393f4ba.jpg" alt="">
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/6024cac524abe16b75000014/vsco6024cac48a86e.jpg">
 <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/602a32e27856a53613000011/vsco602a32e446803.jpg" >
 <div class='twoPanelSpread'>
   <div class='row'>
