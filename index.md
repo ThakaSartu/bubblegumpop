@@ -673,6 +673,24 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/F33bD6EYc8Au5sxdBO53CQ3guC8xQ5baCN8As05u6zI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU4/OC0xNDQ3MDEzNzAz/LTIzMzIuanBlZw.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/cbGK_bJKmqIOHkK02BhRFT5_KGdxAZ_2p-xvWWOHxCI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDU4/OC0xMjk4MjU0Mzkx/LmpwZWc.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<a href="https://www.youtube.com/watch?v=4JRdOZmomRA">Fat Boys Fat Boys>Fat Boys – Fat Boys
+Genre:	Hip Hop
+Style:	Boom Bap, Beatbox, Electro
+Year:	1984 </a> <a href="https://www.youtube.com/watch?v=77y41Oflkz4">Old Skool Electro Hip Hop Back to The 80's DJ MIx
 <div class="flex-container">
    
     <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
