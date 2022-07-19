@@ -654,6 +654,31 @@ img {
   border-radius: 50%;
 }
 
+	/* ROUNDED_CORNER_THEE_PANEL */
+
+  .flex-container-rounded {
+
+    display: flex;
+     align-items: stretch; 
+    /* flex-flow: row nowrap; */ 
+    flex-direction: row; 
+    flex-wrap: wrap; 
+    justify-content: center;
+    align-content: stretch;
+    height: 100%;
+    padding: 15px;
+    gap: 5px;
+    
+
+  }
+
+  .flex-container-rounded> div img{
+   
+    border: 1px solid #c9ff23; 
+    padding: 15px;
+     border-radius: 44px;
+    
+  }
 	
 </style>
 
@@ -677,6 +702,12 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class="flex-container-rounded">
+   
+    <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/GODSGiFT.png" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/NO_SO_CHOOSY_SAUTUZEE.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/CHAMPANE_KUSh.png" /></div>
+</div>
 <div class="post-content">
 	<h1>##DEAR_DANCE411##HOME::Odyssey</h1>
 	<!-- {{content}} would be here, example rendered below -->
