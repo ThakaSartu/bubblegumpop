@@ -673,6 +673,24 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<img  src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg" alt="#MSK_GRAFFITI">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45a54e1ebb64f08283c21/vsco5fc45a55b618b.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45a54e1ebb64f08283c21/vsco5fc45a55b618b.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
 <img class="disableSave-mobile css-6dp941" src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5f2baa8ad67ac92b20c0d9ca/vsco5f2baa8ba100d.jpg" alt="">
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5eff8b5714f6234b13faedae/vsco5eff8b5943f88.jpg" >
 <div class='twoPanelSpread'>
@@ -685,7 +703,7 @@ img {
     </div>
     <div class='panelColumn'>
       <div class='rightColumn'>
-       <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5f0079dbb8fa3d185a41854e/vsco5f0079e20e9f6.jpg alt="">  </a>
+       <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5f0079dbb8fa3d185a41854e/vsco5f0079e20e9f6.jpg" alt="">  </a>
         
       </div>
     </div>
