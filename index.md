@@ -673,6 +673,29 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+<img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/602a32e27856a53613000011/vsco602a32e446803.jpg" >
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+ <a href="https://soundcloud.com/munilong/baby-boo"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a3df1d78312109000001/vsco5fc4a3e1f0545.jpg" alt="THAKA_an_MUNA_SELASSiE" ></a>
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <a href="https://soundcloud.com/munilong/baby-boo"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a3df1d78312109000001/vsco5fc4a3e1f0545.jpg" alt="THAKA_an_MUNA_SELASSiE" ></a>
+      </div>
+    </div>
+  </div>
+</div>
+<a href="https://www.youtube.com/watch?v=-1K8rFKk7zc"> &#128293; RONNiE_LAWS::FLAME ~>HiFi_CLASSiC &#128293;</a>
+   <a href="https://www.youtube.com/watch?v=QMzuKKpncDg"> Put That Woman First·Jaheim::Still Ghetto℗ 2002 </a>             <a href="https://www.youtube.com/watch?v=U6Xs-dh83i4">JON_B::THEY_DONT_KNOW::1997</a> <a href="https://www.youtube.com/watch?v=0-EF60neguk">  Sinéad O'Connor - Nothing Compares 2 U (Official Music Video)
+</a> <a href="https://www.youtube.com/watch?v=v_r79eenvS4">ADD TO QUEUE
+                                                          Lisa Fischer - How can I ease the pain </a>                                                                                                       <a href="https://youtu.be/5s05nDKHPcY">Anita Baker - Fairy Tales::COMPOSiTiONS::1990</a> <a href="https://www.youtube.com/watch?v=WuCOVxqfAQs"> &#128123; GHOSTTOWN_DJs::MY_BOO &#128123;
+                                                                                                                          <img src="https://www.boredpanda.com/blog/wp-content/uploads/2015/09/burning-man-festival-adults-babies-love-aleksandr-milov-ukraine-5.jpg"> </a>
+                                                                                                                         
+                                                                                                                        
 <img src="https://www.boredpanda.com/blog/wp-content/uploads/2015/09/burning-man-festival-adults-babies-love-aleksandr-milov-ukraine-3.jpg" >
 ## ሳቲዚ ጀብዱዚ ሙና ዐሪካ ላራ ከሊላ
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/498365070&color=%2336100f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/odesza" title="ODESZA" target="_blank" style="color: #cccccc; text-decoration: none;">ሳቲዚ ጀብዱዚ ሙና ዐሪካ ላራ ከሊላ</a> · <a href="https://soundcloud.com/odesza/loyal" title="Loyal" target="_blank" style="color: #cccccc; text-decoration: none;">Loyal</a></div>
