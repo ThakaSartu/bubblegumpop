@@ -519,12 +519,15 @@ background: #666;
 }	
 	
 /* General presentation stuff */
+
 .post-content {
-	max-width: 100%;
+	max-width: 600px;
 	margin: 0 auto;
 }
 
-/* img {	max-width: 100%; }  ###MAY_BE_BREAKING_SOME_SOME_IMAGES */
+img {
+	max-width: 100%;
+}
 
 /* Set content grid so it respects order values */
 .post-content {
@@ -542,9 +545,9 @@ Relative position for absolute caption
 	position: relative;
 }
 
-
 /* Style image's caption if there is an image right after the heading */
 .post-content h1 + .kg-image-card figcaption {
+	position: absolute;
 	bottom: 0;
 	left: 0;
 	right: 0;
@@ -552,6 +555,7 @@ Relative position for absolute caption
 	opacity: 0.5;
 	background: white;
 }
+
 	
 /* FLEX_BOX_FOR_3_IMAGES */
 .flex-container {
@@ -673,7 +677,17 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class="post-content">
+	<h1>##DEAR_DANCE411##HOME::Odyssey</h1>
+	<!-- {{content}} would be here, example rendered below -->
+	<figure class="kg-card kg-image-card kg-card-hascaption">
+	<!-- 	<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif" class="kg-image"> -->
 
+		<img src="https://f4.bcbits.com/img/a3321951232_5.jpg" class="kg-image">
+		<figcaption>Photo by <a href="https://soundcloud.com/home-2001">HOME_oN_SOUNDCLOUD</a> / <a href="https://music.midwestcollective.us/album/odyssey">ODYSSEY_by_HOME</a></figcaption>
+	</figure>
+	<p>Dear Sartu, I hope the others are safe that were kidnapped. Im really scared. The assasins sit close now. One sign is if you see them put their CoronaBandana or those full face covering surgical mask on with sunglasses. They make a lot of money selling organs. But the thing that scares me is the penis cutting... I saw a man at the Hollywood block party where we crossed paths. Zendaya was there I wonder if she saw. Taylor may have seen too... I could not talk to them because of those nasty ass pimps... One that look like Pirates of the Caribbean sat next to me and did his best to get in with me... Much like Matt Field. Like romeo im workin the feild. The MontePiMPS will not kill me if I follow every instruction from <a href="https://www.jpl.nasa.gov/news/nasas-ecostress-sees-las-vegas-streets-turn-up-the-heat"> JPL check out Thewebsite, thats my job.</a> Im not a volunteer, I cant have money because Im already a target for getting my genetailia and heart stolen and Its so much less risk to simply live outside and use availible resources to stay alive... I feel like its still burning man, and Im really ready to rest </p>
+</div>
 
 <div class='twoPanelSpread'>
   <div class='row'>
