@@ -692,7 +692,7 @@ img {
 
 
 <img src="https://forum.12ozprophet.com/uploads/monthly_2019_03/57BE2680-B52D-4846-B37F-E66050657CF3.jpeg.00d62cd3a720a271411379552b898b0d.jpeg">
-<a href="https://forum.12ozprophet.com/topic/86973-rip-the-kodak-kidd/> The Kodak Kidd sent messages to people via handwritten notes on railcars called Monikers :: NO_MENTAL_PROBLEM_HE_WAS_AN_AMAZING_ARTIST</a>
+<a href="https://forum.12ozprophet.com/topic/86973-rip-the-kodak-kidd/"> The Kodak Kidd sent messages to people via handwritten notes on railcars called Monikers :: NO_MENTAL_PROBLEM_HE_WAS_AN_AMAZING_ARTIST</a>
 <img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5cf2bb242868dc430eaac52f/vsco5cf2bb33e52d2.jpg" alt="">
 <a href="https://www.youtube.com/watch?v=OlLrn6AVV2s"> Deniece Williams – Free
 Genre:	Funk / Soul
