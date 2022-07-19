@@ -677,6 +677,24 @@ img {
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
+     <a href="https://soundcloud.com/munilong/baby-boo"><img src="https://i.discogs.com/R0GFqbopkvI0D_UqL_IItkQBClhR_UGdshUBLXD9OI8/rs:fit/g:sm/q:90/h:446/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg5/MDgtMTQxNTUxMjM5/MC0zNzExLmpwZWc.jpeg" alt="">  </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+       <a href="https://soundcloud.com/munilong/baby-boo"><img src="https://i.discogs.com/R0GFqbopkvI0D_UqL_IItkQBClhR_UGdshUBLXD9OI8/rs:fit/g:sm/q:90/h:446/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzODg5/MDgtMTQxNTUxMjM5/MC0zNzExLmpwZWc.jpeg" alt="">  </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+<a href="https://www.youtube.com/watch?v=KsH63qJlIMM">Patti LaBelle - On My Own (Official Music Video) ft. Michael McDonald</a>< href="https://www.youtube.com/watch?v=trgt59mXtW8>
+<a href="https://www.youtube.com/watch?v=xDuVi1qCoGo"> &#128293; Donald Byrd – Love Has Come Around ~>HiFi_CLASSiC &#128293;</a> <a href="https://www.youtube.com/watch?v=pEONuPt-0eg"> &#128293; The Feelin's Love (Remastered) &#128293;</a>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
      <a href="https://soundcloud.com/munilong/baby-boo"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c8980d85e146a4710488602/vsco5c8980d9e3347.jpg" alt="">  </a>
         
       </div>
