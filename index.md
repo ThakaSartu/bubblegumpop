@@ -702,7 +702,24 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-
+## ERiKA##IS_MY_WIFE
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/ob3doxkOcP_XjkHZBFOJeHDDFu2wq0To5npbBle848k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzY4/Ny0xMTczMjIzODg2/LmpwZWc.jpeg" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/Rvep70VGLk0PvDc0LLi6Ja6S-gzhOoyByv_x50qiZNM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0NzY4/Ny0xMTczMjIzODk5/LmpwZWc.jpeg" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+ 
  <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/PE4rlQpIOWHFrNRa8axeYLpRldYjjBmI-oaijQZpNdY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjMz/NzUtMTYyMTAxMTE3/NS0zMzc1LmpwZWc.jpeg" alt=""> </a><a href="https://www.youtube.com/watch?v=WMl1xKJeuuQ">The POLiCE::A1 Message In A Bottle
 Written-By – Sting</a>
  <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/HLGuccWXu6YFak7GggMj-Izu-VMhaLtHSQ9k0WdrGdU/rs:fit/g:sm/q:90/h:546/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk0/NzMtMTM3ODc4NDc3/My04NDE3LmpwZWc.jpeg" alt=""> </a><a href="https://www.youtube.com/watch?v=WMl1xKJeuuQ">The Police – Synchronicity::9		Wrapped Around Your Finger	5:13</a>
