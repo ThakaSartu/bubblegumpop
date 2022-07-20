@@ -702,6 +702,39 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/WZxFPNXt4k5wDva04cN8NbrZDSkFDDxPoq1BWjAtwbQ/rs:fit/g:sm/q:90/h:467/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTEw/LTExNzIwODU0NTgu/anBlZw.jpeg" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/WZxFPNXt4k5wDva04cN8NbrZDSkFDDxPoq1BWjAtwbQ/rs:fit/g:sm/q:90/h:467/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTEw/LTExNzIwODU0NTgu/anBlZw.jpeg" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div> 
+## 4hero_is_a_miXTApe::BUT_THEY_GOT_GOOD_TASTE
+[MiNNiE_RiPERTON Les Fleur](https://www.youtube.com/watch?v=dzf5s5pQJSk)
+<a href="https://www.youtube.com/watch?v=VelLUPF5YEI"> <img src="https://i.discogs.com/Y1TpnlHXKXp5TSebPhNpAFcsT6DUbcUPRL2YXt6e98k/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNjcz/Ni0xNjExOTE4Mjg1/LTExNTMuanBlZw.jpeg"> Jill Scott ft. 4_HERO :: ANOTHER_DAY </a>
+```ruby
+Gotta Get Up (Another Day) Lyrics
+I don't want to go to work today
+I 'd rather stay home and play
+Video games- home, chill
+
+But I gotta get up
+I gotta gotta gotta gotta gotta gotta gotta gotta gotta get up
+Get up
+```
+
+
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
