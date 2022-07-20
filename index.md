@@ -702,6 +702,38 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://pbs.twimg.com/media/FROV9abUcAEYLfR?format=jpg&name=large" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=us9lmcFi0B8"><img src="https://pbs.twimg.com/media/FROV9abUcAEYLfR?format=jpg&name=large" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=MBiwYchLjRY"><img src="https://media.pitchfork.com/photos/5d56fec4652fbc0009b0810a/master/pass/Normani.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=MBiwYchLjRY"><img src="https://media.pitchfork.com/photos/5d56fec4652fbc0009b0810a/master/pass/Normani.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class='twoPanelSpread'>
   <div class='row'>
