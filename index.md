@@ -702,6 +702,28 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<img src="https://i.discogs.com/loqy34EsxRNaRfK5gf2f705HSEuEVZ4TmiocQJ5ade4/rs:fit/g:sm/q:90/h:470/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzM5/MjEtMTM3NzE2NDQw/NC0xMzI4LmpwZWc.jpeg"> <img src="https://i.discogs.com/KGqCk9NULqXFFsvakoJeX5xIkoX8bkrAmFihFxYOR3s/rs:fit/g:sm/q:90/h:460/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzM5/MjEtMTM4MDE4NzIy/NS0yMjA5LmpwZWc.jpeg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/FPA39qpqIelCnJsO3Wju1zqLeJYOcUXz8L7QBrwVefI/rs:fit/g:sm/q:90/h:498/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzM5/MjEtMTQ0MTU2ODU0/NS05MDA3LmpwZWc.jpeg" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/shP7nGAgLrq59FuMU4kmlVTklJBzGVT7Hc7MM0eNTnY/rs:fit/g:sm/q:90/h:500/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzM5/MjEtMTQ0MTU2ODUz/Ni03ODg1LmpwZWc.jpeg" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<a href="https://www.youtube.com/watch?v=-1K8rFKk7zc"> &#128293; RONNiE_LAWS::FLAME ~>HiFi_CLASSiC &#128293;</a>
+<img scr="https://i.discogs.com/C22SMg_ybOjmHSNL-ZtU8YUw7Qzzw1AxJsG9fLirmcs/rs:fit/g:sm/q:90/h:560/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwNzM5/MjEtMTM1NDM2MzEx/MC00Nzk3LmpwZWc.jpeg"> <a href="https://www.youtube.com/watch?v=aRABCGXEUXo"> </a>
+<img scr="https://i.discogs.com/VBRb8Ez-sKJKhqmN9GWZqBFDtF1ph_uUhJSKhDnFQqE/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODUy/NTItMTM4Njg0OTU3/MS0zMjMwLmpwZWc.jpeg">
 <div id="row_image">
  <img src="https://mirkoreisser.de/wp-admin/admin-ajax.php?action=kernel&p=image&src=WyJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8xMFwvTWlya28tUmVpc3Nlci1EQUlNX0ZpbmVBcnQtUHJpbnRzX21yZjMxNzU2LTY0OS5qcGciLFtbInR5cGUiLFsid2VicCIsIjg1Il1dXV0%3D&hash=41e376ca3b4a1a3be4163f0ca652ae78" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
  <img src="https://mirkoreisser.de/wp-admin/admin-ajax.php?action=kernel&p=image&src=WyJ3cC1jb250ZW50XC91cGxvYWRzXC8yMDE5XC8xMFwvTWlya28tUmVpc3Nlci1EQUlNX0ZpbmVBcnQtUHJpbnRzX21yZjMxNzU2LTY0OS5qcGciLFtbInR5cGUiLFsid2VicCIsIjg1Il1dXV0%3D&hash=41e376ca3b4a1a3be4163f0ca652ae78" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
