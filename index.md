@@ -725,6 +725,36 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+## SARTU_iS_GREAT_WiTH_COSMETiKs
+[Jumbo Marley Twist On Natural Hair | 4C HAIR | 3.5 HRS](https://www.youtube.com/watch?v=FNh-twGgHaM)
+[HOW TO: Jumbo Braided Bun! ( Rubber band method) | Type 4 Hair](https://www.youtube.com/watch?v=aYAD1YYdIOQ)
+<a href="https://www.youtube.com/watch?v=96cVEt1EWyI" ><img src="https://i.pinimg.com/originals/92/ee/27/92ee27bdab6f1b4ce1ce78e08fbdb6a4.gif"> </a>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FNh-twGgHaM" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+## Keke Wyatt – Soul Sista
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/P-ohcTIst4DdiPz5XLYQTPgtH1_15Z6_49B6kmztM7g/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODE5/NjEtMTQ4MTg0MTM2/NS02MzIwLmpwZWc.jpeg" alt=""> </a>
+        
+      </div>
+    </div>
+<div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.discogs.com/bc0Wl_w_qit2TlLk6choMcgnpT7mcZL-b0_H_st7t14/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyODE5/NjEtMTQ4MTg0MTM3/Ny02ODI2LmpwZWc.jpeg" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div> 
+## CRUiSiN_CALi_SOUNDS_4_PCH_US1::DATE_IDEAS
+[The Jones Girls - Nights Over Egypt ](https://www.youtube.com/watch?v=pzxwZ6wjDAM) [Remind Me · Patrice Rushen ·Straight From The Heart](https://www.youtube.com/watch?v=SOPp6EgpDrg)
+[Yearning For Your Love::By::THE_GAP_BAND](https://www.youtube.com/watch?v=afqzUbvi7D8) [The Jones Girls::Who Can I Run To?::1979](https://www.youtube.com/watch?v=JRpKQb9J-nU) [Keke Wyatt::NOTHiNG_iN_THiS_WORLD](https://www.youtube.com/watch?v=diEV1qC34Og) [Stephanie Mills-Two Hearts Featuring Teddy Pendergrass](https://www.youtube.com/watch?v=uJ7HN1nNdbc)
+[NEW_EDiTiON::Cool It Now (Official Video)](https://www.youtube.com/watch?v=RZUq6N7Gx1c) [NEW_EDiTiON::Mr. Telephone Man](https://www.youtube.com/watch?v=GsWrlzjxbPY) [BOBBY_BROWN::Every Little Step](https://www.youtube.com/watch?v=muDCggSpqpE) &#128293; [A1 Warm It Up (LP Version)
+Producer – Jermaine Dupri](https://www.youtube.com/watch?v=fwXfhQaBRZI) &#128293; [TLC - What About Your Friends (Official Video)](https://www.youtube.com/watch?v=92gHq1s6G-c) [Another Bad Creation - Iesha (Official Music Video)](https://www.youtube.com/watch?v=ZDPIK7Fz_g4) [SWV – You're The One
+Genre:	Funk / Soul
+Style:	RnB/Swing, Hip Hop
+Year:	1996](https://www.youtube.com/watch?v=Ua4fg2FQ6w8) [BRANDY::Sittin' Up In My Room from Waiting to Exhale - Original SoundtracK](https://www.youtube.com/watch?v=DGgANpSjoas) [702 - Steelo feat. Missy Elliott::1996](https://www.youtube.com/watch?v=LdvRwHhla6Q)
 
 <div class='twoPanelSpread'>
   <div class='row'>
