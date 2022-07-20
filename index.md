@@ -669,7 +669,7 @@ img {
     padding: 15px;
     gap: 5px;
     
-
+                /* ##IMGE_ROLLOVERS  */
   }
 
   .flex-container-rounded> div img{
@@ -679,7 +679,30 @@ img {
      border-radius: 44px;
     
   }
-	
+.rollover {
+  position: relative;
+  display: inline-block;
+}
+.rollover img {
+  transition: opacity .5s ease-in-out;
+  backface-visibility: hidden;
+}
+.rollover .first {
+  top: 0;
+  left: 0;
+}
+.rollover .second {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+.rollover:hover .first {
+  opacity: 0;
+}
+.rollover:hover .second {
+  opacity: 1;
+}	
 </style>
 
 ## Hole To Another Universe
@@ -702,6 +725,30 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
+  <img src="https://images.genius.com/eed3e5e0e3f7246c40c5aee31132f6ec.1000x1000x1.jpg" class="first">
+  <img src="http://images.genius.com/f8e5758a77059c73c237b10adbf3326b.1000x1000x1.jpg" class="second"
+</a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+<a href="https://soundcloud.com/iamhermusic/v1-05-focus?in=iamhermusic/sets/h-e-r-5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" class="rollover">
+  <img src="https://images.genius.com/eed3e5e0e3f7246c40c5aee31132f6ec.1000x1000x1.jpg" class="first">
+  <img src="http://images.genius.com/f8e5758a77059c73c237b10adbf3326b.1000x1000x1.jpg" class="second"
+</a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
