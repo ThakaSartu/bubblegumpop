@@ -1237,6 +1237,152 @@ style seulement pour la démo
     max-width: 100%;
     margin: 20px auto;
   }
+	/* Collage */
+	
+	
+@import "compass/css3";
+
+*, :before, :after{ box-sizing: border-box; }
+// FONTS
+$sans: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+
+// COLORS
+$orange: #c9ff23;
+$gray: #c9ff23;
+$gray-shine: #c9ff23;
+$white-off: #c9ff23;
+
+// REUSABLE STYLES
+.unstyled{ list-style: none; padding: 0; margin: 0;
+  a{ text-decoration: none; }
+}
+.list-inline{ overflow: hidden;
+  li{ float: left; }
+}
+
+// HEADER STYLES
+.header{
+  position: fixed;
+  left: 0; top: 0; bottom: 0;
+  width: 17.5em;
+  background: $gray;
+}
+
+.logo{
+  text-transform: lowercase;
+  font: 300 2em $sans;
+  text-align: center;
+  padding: 0; margin: 0;
+  
+  a{
+    display: block;
+    padding: 1em 0;
+    color: $white-off;
+    text-decoration: none;
+    transition: .15s linear color;
+    
+    &:hover{
+      color: #fff;
+      span{ color: $orange; }
+    }
+  }
+  
+  span{
+    font-weight: 700;
+    transition: .15s linear color;
+  }
+}
+
+// MAIN NAV
+.main-nav{
+  
+  ul{
+    border-top: solid 1px $gray-shine;
+  }
+  
+  li{
+    border-bottom: solid 1px $gray-shine;
+  }
+  
+  a{
+    padding: 1.1em 0;
+    color: $white-off;
+    font: 400 1.125em $sans;
+    text:{
+      align: center;
+      transform: lowercase;
+    }
+    
+    &:hover{
+      color: #fff;
+    }
+  }
+}
+
+// SOCIAL LINKS
+.social-links{
+  border-bottom: solid 1px $gray-shine;
+  
+  li{
+    width: 25%;
+    border-left: solid 1px $gray-shine;
+    &:first-child{ border: none; }
+  }
+  
+  a{
+    display: block;
+    height: 5.5em;
+    text-align: center;
+    color: $gray-shine;
+    font: 0.75em/5.5em $sans;
+    &:hover{
+      color: $white-off;
+    }
+  }
+}
+
+// HOVER SLIDE EFFECT
+.list-hover-slide{
+  
+  li{
+    position: relative;
+    overflow: hidden;
+  }
+  
+  a{
+    display: block;
+    position: relative;
+    z-index: 1;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+     background-image: url(" https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif");
+   
+    transition: .35s ease color;
+    
+    &:before{
+      content: '';
+      display: block;
+      z-index: -1;
+      position: absolute;
+      left: -100%; top: 0;
+      width: 100%; height: 100%;
+      border-right: solid 5px $orange;
+      background: $gray-shine;
+      transition: .35s ease left;
+    }
+    
+    &.is-current,
+    &:hover{
+      
+      &:before{
+        left: 0;
+      }
+    }
+  }
+}
+	
+	
+	
 </style>
 
 
@@ -1261,10 +1407,40 @@ style seulement pour la démo
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+## DEAR_SARTU::WOODSTOCK_OVER_I_WANNA_MAKE_LOVE_AGAIN :(
 
+  <div class="nav-wrap">
+    <nav class="main-nav" role="navigation">
+      <ul class="unstyled list-hover-slide">
+        <li><a href="#"></a></li>
+        <li><a href="#"></a></li>
+        <li><a href="#"></a></li>
+        <li><a href="#"></a></li>
+      </ul>
+    </nav>
+    <ul class="social-links list-inline unstyled list-hover-slide">
+      <li><a href="#">-</a></li>
+      <li><a href="#">-</a></li>
+      <li><a href="#">-</a></li>
+      <li><a href="#">-</a></li>
+    </ul>
+  </div>
+
+<div class="sixpanel">
+   
+    <div class="item1">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+  
+     
+    <div class="item1">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+</div>
 ## DEAR HAYAT and MUNA_aka_Muni
 I found a profile for Sartu on pinterst. Its like one of those modeling fan guys who download pics of young women he dont know. [Jb Smith ::GiRLY_PiC_REPO](https://www.pinterest.com/jbsmith374/melisza-mcpherson/)
 I also found her here, [Kash Doll & Tracy T Talk Their Relationship, Parenthood, Toxic Traits, The Grind & More | Big Facts](https://www.youtube.com/watch?v=c7k_OK4qJaA) . Wale made her sing "Single and Happy and she claims me outdoors all day long... They are controlling her image online and molesting her behind closed doors The prostitution community phrasing things like she is not married to me via the internet and as we all know the social media companies have all blocked me and many of my women and children have lost their user accounts mysteriously recently on pinterest. Those IT_DEV_GUYS_WITH_CATS have secrets sometimes, and prostitution affects that population in a different way than other office populations... There is little to no accountability for your websurfing if you work in engineering and they get seduced by prostitution and pedophillia. 
+
 [For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -1291,7 +1467,7 @@ puis créer une instance le MediaPlayer en passant la div.
 Les controls sont ajoutés dynamiquement.
 -->
   <div class="media-player">
-    <video class="made-player-video" poster="https://www.billboard.com/wp-content/uploads/2021/12/Cardi-B-Normani-cr-Jora-Frantzis-2021-billboard-pro-1260.jpg">
+    <video class="made-player-video" poster="https://www.okayplayer.com/wp-content/uploads/2021/07/normani-and-cardi-b-link-up-in-sensual-video-for-wild-side.jpg">
      <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
     
      <p>Your user agent does not support the HTML5 Video element.</p>
