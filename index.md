@@ -1261,7 +1261,7 @@ style seulement pour la démo
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-## Normani featuring my wife_Cardi_B::WiLDSiDE
+## Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE
 <div class="container">
 
   <!-- 
