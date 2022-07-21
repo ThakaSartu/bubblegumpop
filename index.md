@@ -1261,6 +1261,22 @@ style seulement pour la démo
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://images.genius.com/98174a20e3effb5007c870e603fdb074.1000x1000x1.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.genius.com/31103344bb92861eb01934e9c1b12b3e.600x600x1.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+[For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
 <iframe src="https://app.box.com/embed/s/dv3uzry52bg11r35lz20vlj9lx8th1yc?sortColumn=date&view=list" width="800" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 ## Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE
 <div class="container">
