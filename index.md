@@ -1407,6 +1407,13 @@ $white-off: #c9ff23;
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+## ONLiNE_TOOLS::ezGiF
+```ruby
+	I stumbled onto this making graphics for Me and Sartus family blog. I have learned some more video editing and a lot of techniques meme makers use to communicate. Go try it, that how I make Sartu's animated gifs 
+##FROM_SiTE ~> Ezgif.com is a simple online GIF maker and toolset for basic animated GIF editing.
+Here you can create, resize, crop, reverse, optimize, and apply some effects to GIFs.	
+```
+[EZGiF_ONLiNE_GiF_SUiTE](https://ezgif.com/)
 ## DEAR_SARTU::WOODSTOCK_OVER_I_WANNA_MAKE_LOVE_AGAIN :(
 
   <div class="nav-wrap">
