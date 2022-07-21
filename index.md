@@ -1264,6 +1264,25 @@ style seulement pour la démo
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+## GHOST_iN_THE_SHELL 1995 
+Since my family got kidnapped I have had to cope with messages and threast from gang leader Matt Field of the prostitution crew Red Eye Mob. The thing now that 2 years nearly have passed... No one talks to me, Im destitute and I get random glimpses of my wives and our chldren you. You start getting notices from random creepy people that you are not going to get your family back and may lose your penis
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/GHOST_IN_THE_SHELL_KIDNAPPED.PNG" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/sort/GHOST_IN_THE_SHELL_KIDNAPPED2.PNG" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+## GHOST_iN_THE_SHELL 1995 ^^^	
+[Toto - Rosanna (Official HD Video)](https://www.youtube.com/watch?v=qmOLtTGvsbM) [Men At Work - Down Under](https://www.youtube.com/watch?v=XfR9iY5y94s) [Toto - Africa (Official HD Video)](https://www.youtube.com/watch?v=FTQbiNvZqaY) &#128293; [Tears For Fears - Shout (Official Music Video)](https://www.youtube.com/watch?v=Ye7FKc1JQe4) &#128293;
+[Ghost in the Shell - English Trailer](https://www.youtube.com/watch?v=2uMNtOQOaLU)
 ## ONLiNE_TOOLS::ezGiF
 ```ruby
 	I stumbled onto this making graphics for Me and Sartus family blog. I have learned some more video editing and a lot of techniques meme makers use to communicate. Go try it, that how I make Sartu's animated gifs 
