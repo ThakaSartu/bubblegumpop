@@ -1,5 +1,391 @@
-<style>
 
+<script type="text/javascript">
+   /*
+    * MediaPlayer
+    */
+   var MediaPlayer = function(el) {
+
+     var self = this,
+       media_player = el,
+       video = el.querySelector('video'),
+       controls_bar,
+       play_button,
+       progress_bar,
+       progress_text,
+       sound_button,
+       sound_bar,
+       loading,
+       full_screen_button,
+       progressDrag = false,
+       soundDrag = false,
+       isClicking = false,
+       isInFullscreen = false,
+       click_timer,
+       show_controls_timer,
+       hide_controls_timer;
+
+     function createControls() {
+
+       var html = '<div class="media-player-controls"><button class="play-button"><i class="material-icons">play_arrow</i></button><progress class="progress-bar" min="0" max="100" value="0"></progress><span class="progress-text"></span><button class="sound-button"><i class="material-icons">volume_up</i></button><progress class="sound-bar" min="0" max="100" value="0"></progress><button class="fullscreen-button"><i class="material-icons">fullscreen</i></button></div>';
+
+       media_player.insertAdjacentHTML('beforeend', html);
+     }
+
+     function createLoader() {
+
+       var html = '<div class="media-player-loading"><div class="loader"><div class="circle"></div><div class="circle"></div><div class="circle"></div></div></div>';
+
+       media_player.insertAdjacentHTML('beforeend', html);
+     }
+
+     function showLoader() {
+       loading.style.display = 'block';
+     }
+
+     function hideLoader() {
+       loading.style.display = 'none';
+     }
+
+     function showControls() {
+
+       if (isClicking || controls_bar.style.opacity == 1) return false;
+
+       var opacity = 0,
+         current_time = 0,
+         duration = 300;
+
+       clearInterval(show_controls_timer);
+       show_controls_timer = setInterval(function() {
+         controls_bar.style.opacity = opacity;
+
+         opacity += .05;
+         current_time += 16;
+         if (opacity >= 1 && current_time >= duration) {
+           controls_bar.style.opacity = 1;
+           clearInterval(show_controls_timer);
+           return false;
+         }
+       }, 16);
+     }
+
+     function hideControls() {
+
+       if (isClicking || controls_bar.style.opacity == 0 || video.currentTime == video.duration || (video.currentTime == 0 && video.paused)) return false;
+
+       var opacity = 1,
+         current_time = 0,
+         duration = 300;
+
+       clearInterval(hide_controls_timer);
+       hide_controls_timer = setInterval(function() {
+         controls_bar.style.opacity = opacity;
+
+         opacity -= .05;
+         current_time += 16;
+         if (opacity <= 0 && current_time >= duration) {
+           controls_bar.style.opacity = 0;
+           clearInterval(hide_controls_timer);
+           return false;
+         }
+       }, 16);
+     }
+
+     function togglePlayPause() {
+
+       launch_click_timer();
+
+       if (video.paused || video.ended) {
+         play_button.innerHTML = '<i class="material-icons">pause</i>';
+         video.play();
+       } else {
+         play_button.innerHTML = '<i class="material-icons">play_arrow</i>';
+         video.pause();
+       }
+     }
+
+     function launch_click_timer() {
+       isClicking = true;
+       clearTimeout(click_timer);
+       click_timer = setTimeout(function() {
+         isClicking = false;
+       }, 500);
+     }
+
+     function stop() {
+       video.pause();
+       video.currentTime = 0;
+       play_button.innerHTML = '<i class="material-icons">play_arrow</i>';
+       showControls(false);
+     }
+
+     function updateProgress() {
+       var percentage = Math.floor((100 / video.duration) * video.currentTime);
+       progress_bar.value = percentage;
+       // progress_text.innerHTML = percentage + '%';
+       progress_text.innerHTML = formatTime(video.currentTime);
+     }
+
+     function setProgress(e) {
+       var offsetLeft = progress_bar.getBoundingClientRect().left;
+       var position = e.pageX - offsetLeft;
+       var percentage = 100 * position / progress_bar.clientWidth;
+
+       if (percentage > 100) {
+         percentage = 100;
+       }
+       if (percentage < 0) {
+         percentage = 0;
+       }
+
+       video.currentTime = video.duration * percentage / 100;
+     }
+
+     function goTo(time) {
+
+       if (time > video.duration) {
+         time = video.duration;
+       }
+
+       video.currentTime = time;
+     }
+
+     function toggleMute(e) {
+
+       launch_click_timer();
+
+       if (video.muted) {
+         video.muted = false;
+         updateVolume_controls(video.volume);
+       } else {
+         video.muted = true;
+         updateVolume_controls(0);
+       }
+     }
+
+     function updateVolume(e) {
+       var offsetLeft = sound_bar.getBoundingClientRect().left;
+       var position = e.pageX - offsetLeft;
+       var volume = position / sound_bar.clientWidth;
+
+       setVolume(volume);
+     }
+
+     function setVolume(volume) {
+
+       console.log(typeof e);
+
+       if (volume < .01) {
+         volume = 0;
+       }
+       if (video.muted) {
+         video.muted = false;
+       }
+
+       video.volume = volume;
+       updateVolume_controls(volume);
+     }
+
+     function formatTime(time) { // 360.121313 secs
+
+       // 1 heure = 3600 sec
+       var hours = Math.floor(time / 3600);
+       // 1 min = 60 sec
+       var minutes = Math.floor((time - (hours * 3600)) / 60);
+       var seconds = Math.floor(time - (hours * 3600) - (minutes * 60));
+
+       var result = hours < 10 ? '0' + hours : hours;
+       result += ':';
+       result += minutes < 10 ? '0' + minutes : minutes;
+       result += ':';
+       result += seconds < 10 ? '0' + seconds : seconds;
+       return result;
+     };
+
+     function updateVolume_controls(volume) {
+
+       if (volume == 0) {
+         sound_button.innerHTML = '<i class="material-icons">volume_off</i>';
+       } else if (volume < .5) {
+         sound_button.innerHTML = '<i class="material-icons">volume_down</i>';
+       } else {
+         sound_button.innerHTML = '<i class="material-icons">volume_up</i>';
+       }
+
+       sound_bar.value = volume * 100;
+     }
+
+     function init() {
+
+       createControls();
+       createLoader();
+
+       controls_bar = document.querySelector('.media-player-controls');
+       play_button = document.querySelector('.play-button');
+       stop_button = document.querySelector('.stop-button');
+       progress_bar = document.querySelector('.progress-bar');
+       progress_text = document.querySelector('.progress-text');
+       sound_button = document.querySelector('.sound-button');
+       sound_bar = document.querySelector('.sound-bar');
+       loading = document.querySelector('.media-player-loading');
+       full_screen_button = document.querySelector('.fullscreen-button');
+
+       // options
+       video.controls = false;
+       video.volume = .7;
+       sound_bar.value = 70;
+       progress_text.innerHTML = "00:00:00";
+
+       // Loader
+       video.addEventListener('waiting', showLoader);
+       video.addEventListener('canplay', hideLoader);
+       video.addEventListener('seeked', hideLoader);
+
+       // Show / Hide controls
+       video.addEventListener('loadedmetadata', showControls);
+       media_player.addEventListener('mouseenter', showControls);
+       media_player.addEventListener('mouseleave', hideControls);
+
+       // user Play / Pause
+       video.addEventListener('click', togglePlayPause);
+       play_button.addEventListener('click', togglePlayPause);
+
+       // progress
+       video.addEventListener('timeupdate', updateProgress);
+       // user change progress (drag, click)
+       progress_bar.addEventListener('mousedown', function(e) {
+         progressDrag = true;
+       });
+       document.addEventListener('mouseup', function(e) {
+         if (progressDrag) {
+           setProgress(e);
+           progressDrag = false;
+         }
+         if (soundDrag) {
+           soundDrag = false;
+           updateVolume(e);
+         }
+       });
+       document.addEventListener('mousemove', function(e) {
+         if (progressDrag) {
+           setProgress(e);
+         }
+         if (soundDrag) {
+           updateVolume(e);
+         }
+       });
+       progress_bar.addEventListener('click', updateProgress);
+
+       // video ended
+       video.addEventListener('ended', function() {
+         // replay ?                       
+         play_button.innerHTML = '<i class="material-icons">play_arrow</i>';
+         showControls();
+       });
+
+       // Mute
+       sound_button.addEventListener('click', toggleMute);
+       // Volume change
+       sound_bar.addEventListener('mousedown', function(e) {
+         soundDrag = true;
+       });
+       sound_bar.addEventListener('click', updateVolume);
+
+       // full screen
+       full_screen_button.addEventListener('click', function() {
+
+         if (video.webkitEnterFullscreen) {
+           video.webkitEnterFullscreen();
+         } else if (video.mozEnterFullscreen) {
+           video.mozEnterFullscreen();
+         } else {
+           // no support
+         }
+
+       });
+       video.addEventListener("mozfullscreenchange", function() {
+         isInFullscreen = document.mozFullScreen;
+       }, false);
+
+       video.addEventListener("webkitfullscreenchange", function() {
+         isInFullscreen = document.webkitIsFullScreen;
+       }, false);
+
+       // gestion du son en fullscreen
+       video.addEventListener('volumechange', function() {
+         if (isInFullscreen) {
+
+           var volume = video.muted ? 0 : video.volume;
+           sound_bar.value = volume * 100;
+
+           if (volume == 0) {
+             sound_button.innerHTML = '<i class="material-icons">volume_off</i>';
+           } else if (volume < .5) {
+             sound_button.innerHTML = '<i class="material-icons">volume_down</i>';
+           } else {
+             sound_button.innerHTML = '<i class="material-icons">volume_up</i>';
+           }
+         }
+       });
+     }
+
+     init();
+
+     return {
+       goTo: goTo,
+       hideControls: hideControls,
+       setVolume: setVolume,
+       showControls: showControls,
+       stop: stop,
+       toggleMute: toggleMute,
+       togglePlayPause: togglePlayPause,
+       version: '0.1.0'
+     }
+   }
+
+   /*
+    * Code
+    */
+   function initialize() {
+
+     var el = document.querySelector('.media-player'),
+       mediaPlayer = new MediaPlayer(el);
+
+     var play_test_button = document.querySelector('.play'),
+       goto_test_button = document.querySelector('.goto'),
+       stop_test_button = document.querySelector('.stop'),
+       mute_test_button = document.querySelector('.mute'),
+       volume_test_button = document.querySelector('.volume');
+
+     play_test_button.addEventListener('click', function() {
+       mediaPlayer.togglePlayPause();
+     });
+
+     goto_test_button.addEventListener('click', function() {
+       mediaPlayer.goTo(30);
+     });
+
+     stop_test_button.addEventListener('click', function() {
+       mediaPlayer.stop();
+     });
+
+     mute_test_button.addEventListener('click', function() {
+       mediaPlayer.toggleMute();
+     });
+
+     volume_test_button.addEventListener('click', function() {
+       mediaPlayer.setVolume(1);
+     });
+   }
+
+   document.addEventListener('DOMContentLoaded', initialize);	
+	
+	
+	
+</script>	
+
+
+<style>
+/*
 html,
 body,
 div,
@@ -129,7 +515,7 @@ table {
   margin: 0;
   padding: 0;
 }
-	
+ */ /* ##END_ERiC_MEYER_CSS_TOOL */	
 	
 body {
   color: white;
@@ -703,6 +1089,123 @@ img {
 .rollover:hover .second {
   opacity: 1;
 }	
+	
+.media-player {
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  background: transparent;
+}
+
+.media-player-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 64px;
+  background: rgba(122, 122, 122, .2);
+  border-radius: 2px;
+  opacity: 0;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  button {
+    width: 48px;
+    height: 48px;
+    margin: 10px 12px;
+    border: none;
+    background: transparent;
+    color: #eee;
+    outline: none;
+    cursor: pointer;
+  }
+  progress {
+    height: 24px;
+    line-height: 48px;
+    appearance: none;
+    -webkit-appearance: none;
+    margin: 1em auto;
+    padding: 2px;
+    border: 0 none;
+    background: transparent;
+    border-radius: 4px;
+    box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.5), 0px 1px 0px rgba(255, 255, 255, 0.2);
+  }
+  progress::-webkit-progress-bar {
+    background: transparent;
+  }
+  progress::-webkit-progress-value {
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: inset 0 -2px 4px rgba(0, 0, 0, 0.4), 0 2px 5px 0px rgba(0, 0, 0, 0.3);
+  }
+  span {
+    color: #eee;
+    padding-left: 12px;
+    height: 48px;
+    line-height: 48px;
+    width: auto;
+    margin: 10px 0 10px 12px;
+    padding: 0;
+  }
+  .sound-bar {
+    width: 100px;
+  }
+}
+
+.media-player-loading {
+  display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0);
+  z-index: 50;
+  .circle {
+    display: block;
+    float: left;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #eee;
+  }
+  .circle:nth-child(odd) {
+    animation: circle-1-animation .8s infinite;
+    animation-timing-function: linear;
+    transform-origin: 50% 50%;
+  }
+  .circle:nth-child(even) {
+    margin-left: 15px;
+    margin-right: 15px;
+    animation: circle-2-animation .8s infinite;
+    animation-timing-function: linear;
+    transform-origin: 50% 50%;
+  }
+}
+
+@keyframes circle-1-animation {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(.2);
+    opacity: .2;
+  }
+}
+
+@keyframes circle-2-animation {
+  0%,
+  100% {
+    transform: scale(.2);
+    opacity: .2;
+  }
+  50% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
 </style>
 
 ## Hole To Another Universe
@@ -725,6 +1228,81 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+# Normani_is_my_WiFE
+<!-- ressources
+https://www.w3.org/2010/05/video/mediaevents.html
+
+http://www.inwebson.com/html5/custom-html5-video-controls-with-jquery/#header
+
+possibilité d'ajouter des boutons autoplay, loop, partages 
+possibilté de créer un thème material design
+-->
+
+<!-- 
+style seulement pour la démo
+-->
+<style>
+  @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+  @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+  * {
+    box-sizing: border-box;
+  }
+  
+  html {
+    overflow-y: scroll;
+    font-size: 62.5%;
+  }
+  
+  html,
+  body {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+  }
+  
+  body {
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    font-size: 1.6rem;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 20px auto;
+  }
+</style>
+
+<div class="container">
+
+  <!-- 
+Il suffit d'ajouter une div avec la classe "media-player" + la video
+puis créer une instance le MediaPlayer en passant la div.
+Les controls sont ajoutés dynamiquement.
+-->
+  <div class="media-player">
+    <video class="made-player-video" poster="https://www.billboard.com/wp-content/uploads/2021/12/Cardi-B-Normani-cr-Jora-Frantzis-2021-billboard-pro-1260.jpg">
+     <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
+    
+     <p>Your user agent does not support the HTML5 Video element.</p>
+   </video>
+  </div>
+  <!-- .media-player -->
+
+  <!-- 
+On peut un peu contrôler le player de manière externe (play, pause, son,...)
+-->
+  <div>
+    <h2>Media player functions tests</h2>
+    <button class="play">Play | Pause</button>
+    <button class="goto">Go to 30s</button>
+    <button class="stop">Stop</button>
+    <button class="mute">Mute</button>
+    <button class="volume">Volume max</button>
+  </div>
+
+</div>
+<!-- .container -->
 ## MUNi_aka_MUNA = [I_CAN_SEE_YOUR_TRACKS](https://www.youtube.com/watch?v=YVITux76S0U)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469196346&color=%23cbb5ab&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 ## SARTU = [JULY_FLAME](https://www.youtube.com/watch?v=iLilpPtY2JU)
