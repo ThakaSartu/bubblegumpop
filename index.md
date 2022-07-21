@@ -1206,7 +1206,40 @@ img {
     opacity: 1;
   }
 }
+	
+	
+	# Normani_is_my_WiFE
+<!-- ressources
+https://www.w3.org/2010/05/video/mediaevents.html
+
+http://www.inwebson.com/html5/custom-html5-video-controls-with-jquery/#header
+
+possibilité d'ajouter des boutons autoplay, loop, partages 
+possibilté de créer un thème material design
+-->
+
+<!-- 
+style seulement pour la démo
+-->
+<style>
+  @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+  @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
+  * {
+    box-sizing: border-box;
+  }
+  
+  html {
+   
+    overflow-y: auto;
+  }
+  
+  .container {
+    max-width: 100%;
+    margin: 20px auto;
+  }
 </style>
+
+
 
 ## Hole To Another Universe
 # DEAR_SArTU## (◕‿◕✿) ## 
@@ -1228,51 +1261,7 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-# Normani_is_my_WiFE
-<!-- ressources
-https://www.w3.org/2010/05/video/mediaevents.html
-
-http://www.inwebson.com/html5/custom-html5-video-controls-with-jquery/#header
-
-possibilité d'ajouter des boutons autoplay, loop, partages 
-possibilté de créer un thème material design
--->
-
-<!-- 
-style seulement pour la démo
--->
-<style>
-  @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
-  @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
-  * {
-    box-sizing: border-box;
-  }
-  
-  html {
-    overflow-y: scroll;
-    font-size: 62.5%;
-  }
-  
-  html,
-  body {
-    margin: 0;
-    height: 100%;
-    width: 100%;
-  }
-  
-  body {
-    font-family: "Roboto", sans-serif;
-    font-weight: normal;
-    font-size: 16px;
-    font-size: 1.6rem;
-  }
-  
-  .container {
-    max-width: 960px;
-    margin: 20px auto;
-  }
-</style>
-
+## Normani featuring my wife_Cardi_B::WiLDSiDE
 <div class="container">
 
   <!-- 
