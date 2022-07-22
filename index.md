@@ -1241,6 +1241,14 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://www.iconbooks.com/wp-content/blogs.dir/24/files/2022/07/getimage-182.jpeg" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+    <div class="item3">                        <img src="https://www.iconbooks.com/wp-content/blogs.dir/24/files/2022/07/getimage-182.jpeg" /></div>
+</div>
+
 ## OROMO_MOViES_4_HAYAT
 [ የFBI ቁጥር ሁለት የነፃነት ወርቅነህ ፊልም ከዲቦራ](https://youtu.be/E-BBWNQ3D9Q) 
 [Filmii Afaan Oromoo 'Kaayyoo' New Film 2021 HD](https://www.youtube.com/watch?v=8-5M2NVSzMQ)
@@ -1261,7 +1269,21 @@ img {
     </div>
   </div>
 </div>
-[THiS_iS_NOT_HOW_HEALTHY_AFRiCA##OPERATES](https://www.youtube.com/watch?v=EPoXBbigVeo)
+
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SARTU_BROWN_YELLA.gif" /></div>
+</div>
+
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://i.pinimg.com/750x/30/13/5b/30135bf01bdfabbb1e3bbaa88c83d817.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/750x/46/4e/50/464e5070a0373aea50ef425e527aa612.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/750x/67/ac/78/67ac78499dfbe78dc9d80dcf67a99dcd.jpg" /></div>
+</div>	
+[THiS_iS_NOT_HOW_HEALTHY_AFRiCA##OPERATES](https://www.youtube.com/watch?v=EPoXBbigVeo) [Sexuality: A Graphic Guide | Launch Event](https://youtu.be/jOIbOMWBHHM)
 [The Freeze Response and Sexual Assault: PTSD and Trauma Recovery](https://www.youtube.com/watch?v=pes7H4ECTdw) [6 Hidden Signs of Complex PTSD cPTSD](https://www.youtube.com/watch?v=44hqDT7NNHU) [What It’s Like to Break Up with a Narcissist](https://www.youtube.com/watch?v=CtllLbN1IAo) [Intimacy After Trauma | Kat Smith | TEDxMountainViewCollege](https://youtu.be/VB9-4kELT2k) [Relationships After Rape | Shelby St. Pierre | TEDxHamlineUniversity](https://www.youtube.com/watch?v=UC05PVN621k) [Men Need To Talk About Their Sexual Abuse | Seth Shelley | TEDxUNBC](https://www.youtube.com/watch?v=r4CIop1zlVM) [Men Can Be Sexually Assaulted, Too | CJ Krainock | TEDxRexburg](https://www.youtube.com/watch?v=PnoRVCqeM6U)
 <div class="flex-container-rounded">
    
