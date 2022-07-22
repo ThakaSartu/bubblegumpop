@@ -1241,6 +1241,13 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+# DEAR_ELDRiAN_iVY 
+### yo daddy said you can be my wife as well
+# REMEMBER_TRiSENX?
+[Savannah Company Brings Scents Online](https://www.wtoc.com/story/3771256/savannah-company-brings-scents-online/)
+[Smelly device would liven up web browsing](https://www.newscientist.com/article/dn4705-smelly-device-would-liven-up-web-browsing/)
+[The Effects of Computerized Smell of Memory::Nova Southeastern University::](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1855&context=gscis_etd)
+[New Invention Lets You Taste the TV](https://www.youtube.com/watch?v=LJD-uPTIgx8)
 <img src="https://i.discogs.com/z8uZhYOkkW4alNuip0Z8itLNAnH8jho-i5CwIew2bms/rs:fit/g:sm/q:90/h:83/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzgw/Ny00MzE4LmpwZWc.jpeg">
 <img src="https://i.discogs.com/73sbsdqIucXGI7T6JF5RnY-ql6fXCYGqEmR_-sphjOs/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc3/NS05MjUzLmpwZWc.jpeg">
 [Beastie Boys - Body Movin::HELLO_NASTY::](https://www.youtube.com/watch?v=4ItdKOXH3qA) [DEAR_JABDU - ENJOY_THiS_TRACK_WiTH_CORAL Björk::Enjoy::Post](https://www.youtube.com/watch?v=RYmyfksGA74)
@@ -1263,10 +1270,10 @@ img {
 <img src="https://i.discogs.com/fQLaoZHOHvtcC4bnerVoj7VKU4c8cDSzbnf0kEuNoNA/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc4/OC00MDQxLmpwZWc.jpeg">
 [Björk : Isobel::HD_ViDEO](https://www.youtube.com/watch?v=VGPYO0mzmBQ) ["I Miss You" - Björk](https://www.youtube.com/watch?v=8A7TqgbHT3k)
 ## DEAR_CYNTHiA WORKABLE_LIST_FOR_FATHER_DAUGHTER_BONDiNG
-[Björk::Human Behaviour](https://youtu.be/p0mRIhK9seg) [Björk : ARMY_OF_ME::video](https://www.youtube.com/watch?v=jPeheoBa2_Y) [Björk::Jóga](https://youtu.be/loB0kmz_0MM) [Dido - Thank You |Official Video|](https://youtu.be/1TO48Cnl66w) [Lorde - White Teeth Teens](https://www.youtube.com/watch?v=kNUWreGGxcc&list=PLvm6B0LWgqu-rHo4GAqYy5mC1O7pUxntS&index=9) [Dido – My Lover's Gone
+[Björk::Human Behaviour](https://youtu.be/p0mRIhK9seg) [Björk : ARMY_OF_ME::video](https://www.youtube.com/watch?v=jPeheoBa2_Y) [Björk::Jóga](https://youtu.be/loB0kmz_0MM) [Dido - Thank You |Official Video|](https://youtu.be/1TO48Cnl66w) [Beastie Boys - Three MC's And One DJ](https://youtu.be/XflfiylNNXY) [Lorde - White Teeth Teens](https://www.youtube.com/watch?v=kNUWreGGxcc&list=PLvm6B0LWgqu-rHo4GAqYy5mC1O7pUxntS&index=9) [Dido – My Lover's Gone
 Genre:	Pop
 Style:	
-Year:	2002](https://www.youtube.com/watch?v=Libbd7BCBHE) [Dido - Honestly Ok](https://youtu.be/mCcNGt_eliM) [Dido - I'm No Angel ](https://youtu.be/i5JyWpyYVx4) [Eminem - Stan ft. Dido](https://youtu.be/gOMhN-hfMtY)  [WHOSAMPLED::EXPLORE_THE_STAN_SAMPLES](https://www.whosampled.com/Eminem/Stan/)
+Year:	2002](https://www.youtube.com/watch?v=Libbd7BCBHE) [Beastie_Boys - Sure_Shot::iLL_COMMUNiCATiON](https://youtu.be/JhqyZeUlE8U) [Dido - Honestly Ok](https://youtu.be/mCcNGt_eliM) [Dido - I'm No Angel ](https://youtu.be/i5JyWpyYVx4) [Eminem - Stan ft. Dido](https://youtu.be/gOMhN-hfMtY)  [WHOSAMPLED::EXPLORE_THE_STAN_SAMPLES](https://www.whosampled.com/Eminem/Stan/)
 
 <div class="panel4-container">
    
