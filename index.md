@@ -1206,39 +1206,16 @@ img {
     opacity: 1;
   }
 }
-	
-	
-	# Normani_is_my_WiFE
-<!-- ressources
-https://www.w3.org/2010/05/video/mediaevents.html
+  .panel4-container {
 
-http://www.inwebson.com/html5/custom-html5-video-controls-with-jquery/#header
+    display: flex;
+    justify-content: space-evenly;     
+    height: 100%;
+    padding: 0px;
+    gap: 5px;
 
-possibilité d'ajouter des boutons autoplay, loop, partages 
-possibilté de créer un thème material design
--->
+  }	
 
-<!-- 
-style seulement pour la démo
--->
-<style>
-  @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
-  @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
-  * {
-    box-sizing: border-box;
-  }
-  
-  html {
-   
-    overflow-y: auto;
-  }
-  
-  .container {
-    max-width: 100%;
-    margin: 20px auto;
-  }
-	/* Collage */
-	
 	
 </style>
 
@@ -1264,6 +1241,41 @@ style seulement pour la démo
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<img src="https://i.discogs.com/z8uZhYOkkW4alNuip0Z8itLNAnH8jho-i5CwIew2bms/rs:fit/g:sm/q:90/h:83/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzgw/Ny00MzE4LmpwZWc.jpeg">
+<img src="https://i.discogs.com/73sbsdqIucXGI7T6JF5RnY-ql6fXCYGqEmR_-sphjOs/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc3/NS05MjUzLmpwZWc.jpeg">
+[Beastie Boys - Body Movin::HELLO_NASTY::](https://www.youtube.com/watch?v=4ItdKOXH3qA) [DEAR_JABDU - ENJOY_THiS_TRACK_WiTH_CORAL Björk::Enjoy::Post](https://www.youtube.com/watch?v=RYmyfksGA74)
+## DEAR_SARTU ::PLEASE_LiSTEN_iLOVEYOU
+[Björk::Possibly_Maybe](https://youtu.be/iyqKy5P1Y0Q) 
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/K8TEuYIn6rPxmta1-cqoh6njopvZXgZbqfBkTCKr4xY/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU5/NTMtMTI3ODAxMTI3/Ni5qcGVn.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/K8TEuYIn6rPxmta1-cqoh6njopvZXgZbqfBkTCKr4xY/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU5/NTMtMTI3ODAxMTI3/Ni5qcGVn.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://i.discogs.com/fQLaoZHOHvtcC4bnerVoj7VKU4c8cDSzbnf0kEuNoNA/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc4/OC00MDQxLmpwZWc.jpeg">
+[Björk : Isobel::HD_ViDEO](https://www.youtube.com/watch?v=VGPYO0mzmBQ) ["I Miss You" - Björk](https://www.youtube.com/watch?v=8A7TqgbHT3k)
+## DEAR_CYNTHiA WORKABLE_LIST_FOR_FATHER_DAUGHTER_BONDiNG
+[Björk::Human Behaviour](https://youtu.be/p0mRIhK9seg) [Björk : ARMY_OF_ME::video](https://www.youtube.com/watch?v=jPeheoBa2_Y) [Björk::Jóga](https://youtu.be/loB0kmz_0MM) [Dido - Thank You |Official Video|](https://youtu.be/1TO48Cnl66w) [Lorde - White Teeth Teens](https://www.youtube.com/watch?v=kNUWreGGxcc&list=PLvm6B0LWgqu-rHo4GAqYy5mC1O7pUxntS&index=9) [Dido – My Lover's Gone
+Genre:	Pop
+Style:	
+Year:	2002](https://www.youtube.com/watch?v=Libbd7BCBHE) [Dido - Honestly Ok](https://youtu.be/mCcNGt_eliM) [Dido - I'm No Angel ](https://youtu.be/i5JyWpyYVx4) [Eminem - Stan ft. Dido](https://youtu.be/gOMhN-hfMtY)  [WHOSAMPLED::EXPLORE_THE_STAN_SAMPLES](https://www.whosampled.com/Eminem/Stan/)
+
+<div class="panel4-container">
+   
+    <div class="item1"><img src="https://i.discogs.com/JFxfqMfIi2HtQ9UXGXcyxkl5c9Ixo9F5OZ_UgiHhzhM/rs:fit/g:sm/q:90/h:600/w:340/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTcz/LTMwNDcuanBlZw.jpeg"></div>
+    <div class="item2"><img src="https://i.discogs.com/vMGmfyZ3CtUby7qGCY0V1x_HLl0XqY2fB73d4oml8LM/rs:fit/g:sm/q:90/h:600/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTcx/LTk0NjUuanBlZw.jpeg"></div>
+    <div class="item3"><img src="https://i.discogs.com/JjH9G9ZO3Re8b882n4jclEKFOG25Bz9FdILc5hwE_e0/rs:fit/g:sm/q:90/h:600/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTc0/LTM5NTEuanBlZw.jpeg"></div>
+    <div class="item4"><img src="https://i.discogs.com/FrUTO0694SpNhl6W2siCmbqRQUe2ycnSHyKQ0dJTJ6o/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTc0/LTM0NDEuanBlZw.jpeg"></div>
+
+</div>
 ## GOOD_L_A_P_L_FiNDS ::GOODREADiNG::
 <iframe src="https://app.box.com/embed/s/5offd8aji0f4ohd959gnx4ac2bxcmue8?sortColumn=date&view=list" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 <img src="https://www.6speedonline.com/wp-content/uploads/2015/03/Pennzoil_Airlift_Drift_-_YouTube1.jpg" >
