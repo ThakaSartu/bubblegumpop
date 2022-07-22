@@ -1241,8 +1241,43 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+## OROMO_MOViES_4_HAYAT
+[ የFBI ቁጥር ሁለት የነፃነት ወርቅነህ ፊልም ከዲቦራ](https://youtu.be/E-BBWNQ3D9Q) 
+[Filmii Afaan Oromoo 'Kaayyoo' New Film 2021 HD](https://www.youtube.com/watch?v=8-5M2NVSzMQ)
+[Milki New Afaan Oromo Film/Ethiopian Oromo Movie 2022](https://youtu.be/RD7uznXqsjA)
+[Gaadii Hiree|Full Afaan Oromoo Movie ](https://www.youtube.com/watch?v=HnS9CstXhXY)
+[comedy afaan oromo wayyoo fias jb art new oromoo comedy wayyoo fias](https://www.youtube.com/watch?v=tKS2CMUTwAo)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.graffiti.org/sfb/refa2002oakland04.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.graffiti.org/sfb/refa2002oakland04.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+[THiS_iS_NOT_HOW_HEALTHY_AFRiCA##OPERATES](https://www.youtube.com/watch?v=EPoXBbigVeo)
+[The Freeze Response and Sexual Assault: PTSD and Trauma Recovery](https://www.youtube.com/watch?v=pes7H4ECTdw) [6 Hidden Signs of Complex PTSD cPTSD](https://www.youtube.com/watch?v=44hqDT7NNHU) [What It’s Like to Break Up with a Narcissist](https://www.youtube.com/watch?v=CtllLbN1IAo) [Intimacy After Trauma | Kat Smith | TEDxMountainViewCollege](https://youtu.be/VB9-4kELT2k) [Relationships After Rape | Shelby St. Pierre | TEDxHamlineUniversity](https://www.youtube.com/watch?v=UC05PVN621k) [Men Need To Talk About Their Sexual Abuse | Seth Shelley | TEDxUNBC](https://www.youtube.com/watch?v=r4CIop1zlVM) [Men Can Be Sexually Assaulted, Too | CJ Krainock | TEDxRexburg](https://www.youtube.com/watch?v=PnoRVCqeM6U)
+<div class="flex-container-rounded">
+   
+    <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/NO_SO_CHOOSY_SAUTUZEE.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/NO_SO_CHOOSY_SAUTUZEE.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/NO_SO_CHOOSY_SAUTUZEE.gif" /></div>
+</div>
+# SCRAMBLED_YOUTUBE_ViDEOS 
+It has been happening for a while
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/audio/YOUTUBE_ViDS_RANDOMLY_BROKEN_HiPHOP_MOSTLY.PNG">
 ## ROY AYERS        __________      SEARCHiNG
-	<div class='twoPanelSpread'>
+[Poverty in the USA: Being Poor in the World's Richest Country | ENDEVR Documentary](https://www.youtube.com/watch?v=f78ZVLVdO0A)
+[Renters In America Are Running Out Of Options](https://www.youtube.com/watch?v=KgTxzCe490Q)
+[Stolen Identity | FULL EPISODE | The FBI Files](https://www.youtube.com/watch?v=MtLohVzqZE8)
+[Best Of Ransom Cases | FULL EPISODE | The FBI Files](https://www.youtube.com/watch?v=rum8JtljU3o)
+<div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
