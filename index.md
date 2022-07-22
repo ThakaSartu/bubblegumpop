@@ -1265,7 +1265,7 @@ style seulement pour la démo
 4 # UNiVERSE##############################################
 ```
 ## GOOD_L_A_P_L_FiNDS ::GOODREADiNG::
-<iframe src="https://app.box.com/embed/s/5offd8aji0f4ohd959gnx4ac2bxcmue8?sortColumn=date&view=list" width="800" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://app.box.com/embed/s/5offd8aji0f4ohd959gnx4ac2bxcmue8?sortColumn=date&view=list" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 <img src="https://www.6speedonline.com/wp-content/uploads/2015/03/Pennzoil_Airlift_Drift_-_YouTube1.jpg" >
 <iframe src="https://app.box.com/embed/s/0lhathv15em7gu9se4uda4zshevhueaz?sortColumn=date&view=list" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 ## DEAR_CORAL ##JUS_LiSTN
