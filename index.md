@@ -1241,6 +1241,23 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+## ROY AYERS        __________      SEARCHiNG
+	<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/bd/be/f6/bdbef66a-e107-e3d9-71bf-fb9fe9351827/00602517654334.rgb.jpg/1200x1200bf-60.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/bd/be/f6/bdbef66a-e107-e3d9-71bf-fb9fe9351827/00602517654334.rgb.jpg/1200x1200bf-60.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+## EVERYTHiNG_REMAiNS_RAW
+	[EVERYTHiNG_REMAiNS_RAW](https://youtu.be/fd_HkV9zz84) [BUSTA_RHYMES_RAMPAGE_FREESTYLE](https://www.youtube.com/watch?v=5CivybE0slA) [Notorious B.I.G. - Brooklyn Freestyle at the age of 17 (1989)](https://youtu.be/zSx03q1-1KA) [Wang Dang Doodle - Koko Taylor w Little Walter 1967](https://youtu.be/qyUHkY0K8HE) [Fugees murder the Apollo live 1996 ](https://youtu.be/LpA8qvLWF1Q) [Nas & Large Pro - Live at the Barbeque ](https://youtu.be/ta3srWr4sJQ) [MiNNiE_RiPERTON::Inside My Love](https://www.youtube.com/watch?v=jlgp-jjHzC0) [HiFi_SHiT = ROY_AYERS::Everybody Loves The Sunshine](https://www.youtube.com/watch?v=SSBWiFGzsyU) 
 # DEAR_ELDRiAN_iVY 
 ### yo daddy said you can be my wife as well
 # REMEMBER_TRiSENX?
@@ -1248,14 +1265,12 @@ img {
 [Smelly device would liven up web browsing](https://www.newscientist.com/article/dn4705-smelly-device-would-liven-up-web-browsing/)
 [The Effects of Computerized Smell of Memory::Nova Southeastern University::](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1855&context=gscis_etd)
 [New Invention Lets You Taste the TV](https://www.youtube.com/watch?v=LJD-uPTIgx8)
-[Beastie Boys - Alive](https://youtu.be/JkeE2O15RFs)
-[Beastie Boys - Body Movin::HELLO_NASTY::](https://www.youtube.com/watch?v=4ItdKOXH3qA) [DEAR_JABDU - ENJOY_THiS_TRACK_WiTH_CORAL Björk::Enjoy::Post](https://www.youtube.com/watch?v=RYmyfksGA74)
+[Beastie Boys - Alive](https://youtu.be/JkeE2O15RFs) [Beastie Boys - Root Down](https://youtu.be/Xf1YF_MH1xc) [Beastie Boys - Shake Your Rump](https://youtu.be/BptQHAW2T5M) [Busta Rhymes ‎- Woo-Hah!! Got You All In Check from the album "The Coming" (1996) ](https://youtu.be/EQzvQO2LcA4)
+[Beastie Boys - Body Movin::HELLO_NASTY::](https://www.youtube.com/watch?v=4ItdKOXH3qA) [Beastie Boys - So What'Cha Want](https://youtu.be/ru3gH27Fn6E) [DEAR_JABDU - ENJOY_THiS_TRACK_WiTH_CORAL Björk::Enjoy::Post](https://www.youtube.com/watch?v=RYmyfksGA74)
 ## DEAR_SARTU ::PLEASE_LiSTEN_iLOVEYOU
 [Björk::Possibly_Maybe](https://youtu.be/iyqKy5P1Y0Q)
 <img src="https://i.discogs.com/fQLaoZHOHvtcC4bnerVoj7VKU4c8cDSzbnf0kEuNoNA/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc4/OC00MDQxLmpwZWc.jpeg">
-<img src="https://i.discogs.com/z8uZhYOkkW4alNuip0Z8itLNAnH8jho-i5CwIew2bms/rs:fit/g:sm/q:90/h:83/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzgw/Ny00MzE4LmpwZWc.jpeg">
-<img src="https://i.discogs.com/73sbsdqIucXGI7T6JF5RnY-ql6fXCYGqEmR_-sphjOs/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc3/NS05MjUzLmpwZWc.jpeg">
-<div class='twoPanelSpread'>
+	<div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
@@ -1269,6 +1284,9 @@ img {
     </div>
   </div>
 </div>
+<img src="https://i.discogs.com/z8uZhYOkkW4alNuip0Z8itLNAnH8jho-i5CwIew2bms/rs:fit/g:sm/q:90/h:83/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzgw/Ny00MzE4LmpwZWc.jpeg">
+<img src="https://i.discogs.com/73sbsdqIucXGI7T6JF5RnY-ql6fXCYGqEmR_-sphjOs/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc3/NS05MjUzLmpwZWc.jpeg">
+
 
 [Björk : Isobel::HD_ViDEO](https://www.youtube.com/watch?v=VGPYO0mzmBQ) ["I Miss You" - Björk](https://www.youtube.com/watch?v=8A7TqgbHT3k)
 ## DEAR_CYNTHiA WORKABLE_LIST_FOR_FATHER_DAUGHTER_BONDiNG
