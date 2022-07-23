@@ -1241,8 +1241,23 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0202/users/e133493dd0fc97a3600891981d79de9cf9682a48/i-img1200x1200-1613830878fefzjp81351.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://auctions.c.yimg.jp/images.auctions.yahoo.co.jp/image/dr000/auc0202/users/e133493dd0fc97a3600891981d79de9cf9682a48/i-img1200x1200-1613830878fefzjp81351.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
 
-	
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -1259,6 +1274,7 @@ img {
     </div>
   </div>
 </div>
+
 
 [Mo Money Mo Problems by The Notorious B.I.G. feat. Puff Daddy, Mase and Faith_Evans](https://www.whosampled.com/The-Notorious-B.I.G./Mo-Money-Mo-Problems/)
 [Crush on You by Lil' Kim feat. Lil' Cease and The Notorious B.I.G.](https://www.whosampled.com/Lil%27-Kim/Crush-on-You/)	
