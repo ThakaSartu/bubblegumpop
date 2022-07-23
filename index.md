@@ -1242,6 +1242,32 @@ img {
 4 # UNiVERSE##############################################
 ```
 <img src="https://gayleague.com/wp-content/uploads/2021/10/december2021feature.jpg">
+
+## DEAR_SARTU ::PLEASE_LiSTEN_iLOVEYOU
+[Björk::Possibly_Maybe](https://youtu.be/iyqKy5P1Y0Q)
+	
+<img src="https://i.discogs.com/fQLaoZHOHvtcC4bnerVoj7VKU4c8cDSzbnf0kEuNoNA/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc4/OC00MDQxLmpwZWc.jpeg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/K8TEuYIn6rPxmta1-cqoh6njopvZXgZbqfBkTCKr4xY/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU5/NTMtMTI3ODAxMTI3/Ni5qcGVn.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/K8TEuYIn6rPxmta1-cqoh6njopvZXgZbqfBkTCKr4xY/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU5/NTMtMTI3ODAxMTI3/Ni5qcGVn.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://i.discogs.com/z8uZhYOkkW4alNuip0Z8itLNAnH8jho-i5CwIew2bms/rs:fit/g:sm/q:90/h:83/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzgw/Ny00MzE4LmpwZWc.jpeg">
+<img src="https://i.discogs.com/73sbsdqIucXGI7T6JF5RnY-ql6fXCYGqEmR_-sphjOs/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc3/NS05MjUzLmpwZWc.jpeg">
+
+
+[Björk : Isobel::HD_ViDEO](https://www.youtube.com/watch?v=VGPYO0mzmBQ) 
+["I Miss You" - Björk](https://www.youtube.com/watch?v=8A7TqgbHT3k)
+	
 <div class="flex-container">
    
     <div class="item1">                        <img src="https://www.iconbooks.com/wp-content/blogs.dir/24/files/2022/07/getimage-182.jpeg" /></div>
@@ -1329,30 +1355,6 @@ It has been happening for a while
 [Beastie Boys - Alive](https://youtu.be/JkeE2O15RFs) [Beastie Boys - Root Down](https://youtu.be/Xf1YF_MH1xc) [Beastie Boys - Shake Your Rump](https://youtu.be/BptQHAW2T5M) [Busta Rhymes ‎- Woo-Hah!! Got You All In Check from the album "The Coming" (1996) ](https://youtu.be/EQzvQO2LcA4)
 [Beastie Boys - Body Movin::HELLO_NASTY::](https://www.youtube.com/watch?v=4ItdKOXH3qA) [Beastie Boys - So What'Cha Want](https://youtu.be/ru3gH27Fn6E) [DEAR_JABDU - ENJOY_THiS_TRACK_WiTH_CORAL Björk::Enjoy::Post](https://www.youtube.com/watch?v=RYmyfksGA74)
 	
-## DEAR_SARTU ::PLEASE_LiSTEN_iLOVEYOU
-[Björk::Possibly_Maybe](https://youtu.be/iyqKy5P1Y0Q)
-	
-<img src="https://i.discogs.com/fQLaoZHOHvtcC4bnerVoj7VKU4c8cDSzbnf0kEuNoNA/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc4/OC00MDQxLmpwZWc.jpeg">
-	<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://i.discogs.com/K8TEuYIn6rPxmta1-cqoh6njopvZXgZbqfBkTCKr4xY/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU5/NTMtMTI3ODAxMTI3/Ni5qcGVn.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://i.discogs.com/K8TEuYIn6rPxmta1-cqoh6njopvZXgZbqfBkTCKr4xY/rs:fit/g:sm/q:90/h:521/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTU5/NTMtMTI3ODAxMTI3/Ni5qcGVn.jpeg" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
-</div>
-<img src="https://i.discogs.com/z8uZhYOkkW4alNuip0Z8itLNAnH8jho-i5CwIew2bms/rs:fit/g:sm/q:90/h:83/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzgw/Ny00MzE4LmpwZWc.jpeg">
-<img src="https://i.discogs.com/73sbsdqIucXGI7T6JF5RnY-ql6fXCYGqEmR_-sphjOs/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc3/NS05MjUzLmpwZWc.jpeg">
-
-
-[Björk : Isobel::HD_ViDEO](https://www.youtube.com/watch?v=VGPYO0mzmBQ) 
-["I Miss You" - Björk](https://www.youtube.com/watch?v=8A7TqgbHT3k)
 ## DEAR_CYNTHiA WORKABLE_LIST_FOR_FATHER_DAUGHTER_BONDiNG
 [Björk::Human Behaviour](https://youtu.be/p0mRIhK9seg) [Björk : ARMY_OF_ME::video](https://www.youtube.com/watch?v=jPeheoBa2_Y) [Björk::Jóga](https://youtu.be/loB0kmz_0MM) [Dido - Thank You |Official Video|](https://youtu.be/1TO48Cnl66w) [Beastie Boys - Three MC's And One DJ](https://youtu.be/XflfiylNNXY) [Lorde - White Teeth Teens](https://www.youtube.com/watch?v=kNUWreGGxcc&list=PLvm6B0LWgqu-rHo4GAqYy5mC1O7pUxntS&index=9) [Dido – My Lover's Gone
 Genre:	Pop
@@ -1361,12 +1363,13 @@ Year:	2002](https://www.youtube.com/watch?v=Libbd7BCBHE) [Beastie_Boys - Sure_Sh
 
 <div class="panel4-container">
    
-    <div class="item1"><img src="https://i.discogs.com/JFxfqMfIi2HtQ9UXGXcyxkl5c9Ixo9F5OZ_UgiHhzhM/rs:fit/g:sm/q:90/h:600/w:340/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTcz/LTMwNDcuanBlZw.jpeg"></div>
-    <div class="item2"><img src="https://i.discogs.com/vMGmfyZ3CtUby7qGCY0V1x_HLl0XqY2fB73d4oml8LM/rs:fit/g:sm/q:90/h:600/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTcx/LTk0NjUuanBlZw.jpeg"></div>
-    <div class="item3"><img src="https://i.discogs.com/JjH9G9ZO3Re8b882n4jclEKFOG25Bz9FdILc5hwE_e0/rs:fit/g:sm/q:90/h:600/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTc0/LTM5NTEuanBlZw.jpeg"></div>
-    <div class="item4"><img src="https://i.discogs.com/FrUTO0694SpNhl6W2siCmbqRQUe2ycnSHyKQ0dJTJ6o/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTc0/LTM0NDEuanBlZw.jpeg"></div>
-
+<div class="item1"><img src="https://i.discogs.com/JFxfqMfIi2HtQ9UXGXcyxkl5c9Ixo9F5OZ_UgiHhzhM/rs:fit/g:sm/q:90/h:600/w:340/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTcz/LTMwNDcuanBlZw.jpeg"></div>
+<div class="item2"><img src="https://i.discogs.com/vMGmfyZ3CtUby7qGCY0V1x_HLl0XqY2fB73d4oml8LM/rs:fit/g:sm/q:90/h:600/w:336/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTcx/LTk0NjUuanBlZw.jpeg"></div>
+<div class="item3"><img src="https://i.discogs.com/JjH9G9ZO3Re8b882n4jclEKFOG25Bz9FdILc5hwE_e0/rs:fit/g:sm/q:90/h:600/w:343/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTc0/LTM5NTEuanBlZw.jpeg"></div>
+<div class="item4"><img src="https://i.discogs.com/FrUTO0694SpNhl6W2siCmbqRQUe2ycnSHyKQ0dJTJ6o/rs:fit/g:sm/q:90/h:600/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NTcw/MC0xNTE1MjA5MTc0/LTM0NDEuanBlZw.jpeg"></div>
 </div>
+	
+	
 ## GOOD_L_A_P_L_FiNDS ::GOODREADiNG::
 <iframe src="https://app.box.com/embed/s/5offd8aji0f4ohd959gnx4ac2bxcmue8?sortColumn=date&view=list" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 <img src="https://www.6speedonline.com/wp-content/uploads/2015/03/Pennzoil_Airlift_Drift_-_YouTube1.jpg" >
