@@ -1242,9 +1242,27 @@ img {
 4 # UNiVERSE##############################################
 ```
 <img src="https://gayleague.com/wp-content/uploads/2021/10/december2021feature.jpg">
+### Dear_Sartu_and_Erika
+I am looking for ways our podcast can showcase us working together. "Active Window" principles make it challenging for me to present to the group but maybe Heather and Kelela can do some research with SuburbanAdventure.
 [Is there yet a solution that affords collaboration with two users, two cursors, one monitor?](https://superuser.com/questions/1145348/is-there-yet-a-solution-that-affords-collaboration-with-two-users-two-cursors)
-
+[Arcade Controllers – Multiple Keyboards](https://www.linux.org/threads/arcade-controllers-%E2%80%93-multiple-keyboards.4472/)
+[The Best Multi-Device Mice and Keyboards for Power Users](https://www.reviewgeek.com/26119/the-best-multi-device-mice-and-keyboards-for-power-users/)
 [Can I run two keyboards and mice in different apps?](https://askubuntu.com/questions/334296/can-i-run-two-keyboards-and-mice-in-different-apps)
+[Weekend project: Zap Your Coworkers’ Minds with Multi-Pointer X](https://www.linux.com/training-tutorials/weekend-project-zap-your-coworkers-minds-multi-pointer-x/)
+### xinput list
+```
+⎡ Virtual core pointer          	id=2	[master pointer (3)]
+⎜  ↳ Virtual core XTEST pointer       	id=4	[slave pointer (2)]
+⎜  ↳ Microsoft Microsoft Trackball Explorer®	id=9	[slave pointer (2)]
+⎣ Virtual core keyboard          	id=3	[master keyboard (2)]
+  ↳ Virtual core XTEST keyboard       	id=5	[slave keyboard (3)]
+  ↳ Power Button              	id=6	[slave keyboard (3)]
+  ↳ Power Button              	id=7	[slave keyboard (3)]
+  ↳ Mitsumi Electric Goldtouch USB Keyboard 	id=8	[slave keyboard (3)]	
+```
+### REMOTE_DESKTOP_SOLUTION_FOR_MANAGiNG_SERVERS
+![VNC_KDE](https://upload.wikimedia.org/wikipedia/commons/7/7f/VNC_in_KDE.png)	
+![RDC_4_MAC](https://docs.microsoft.com/en-us/azure/lab-services/media/connect-virtual-machine-mac-remote-desktop/install-remote-desktop.png)
 	
 ## DEAR_SARTU ::PLEASE_LiSTEN_iLOVEYOU
 [Björk::Possibly_Maybe](https://youtu.be/iyqKy5P1Y0Q)
