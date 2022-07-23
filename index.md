@@ -1242,6 +1242,7 @@ img {
 4 # UNiVERSE##############################################
 ```
 <img src="https://assets.catawiki.nl/assets/2018/12/3/9/a/2/9a263ccf-3c79-49e7-a7fb-cf9bb0fb350e.jpg" >
+<img src="https://i0.wp.com/wemissmusic.com/wp-content/uploads/2018/07/dexdlmwxuaawpod1.jpg?fit=864%2C393&ssl=1">	
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
