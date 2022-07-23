@@ -1241,6 +1241,26 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.ebayimg.com/images/g/xKIAAOSwiYFXFpyJ/s-l500.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://i.ebayimg.com/images/g/xKIAAOSwiYFXFpyJ/s-l500.jpg" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+[Mo Money Mo Problems by The Notorious B.I.G. feat. Puff Daddy, Mase and Faith_Evans](https://www.whosampled.com/The-Notorious-B.I.G./Mo-Money-Mo-Problems/)
 [Crush on You by Lil' Kim feat. Lil' Cease and The Notorious B.I.G.](https://www.whosampled.com/Lil%27-Kim/Crush-on-You/)	
 [Gettin' Money::The Get Money Remix](https://www.whosampled.com/Junior-M.A.F.I.A./Gettin%27-Money-(The-Get-Money-Remix)/)	
 [Jay-Z feat. Foxy Brown and Babyface(Always Be My) Sunshine](https://www.whosampled.com/sample/2209/Jay-Z-Foxy-Brown-Babyface-(Always-Be-My)-Sunshine-The-Fearless-Four-Rockin%27-It/)	
