@@ -1242,6 +1242,7 @@ img {
 4 # UNiVERSE##############################################
 ```
 <img src="https://gayleague.com/wp-content/uploads/2021/10/december2021feature.jpg">
+[Is there yet a solution that affords collaboration with two users, two cursors, one monitor?](https://superuser.com/questions/1145348/is-there-yet-a-solution-that-affords-collaboration-with-two-users-two-cursors)
 
 [Can I run two keyboards and mice in different apps?](https://askubuntu.com/questions/334296/can-i-run-two-keyboards-and-mice-in-different-apps)
 	
