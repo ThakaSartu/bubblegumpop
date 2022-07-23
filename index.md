@@ -1243,6 +1243,8 @@ img {
 ```
 <img src="https://gayleague.com/wp-content/uploads/2021/10/december2021feature.jpg">
 
+[Can I run two keyboards and mice in different apps?](https://askubuntu.com/questions/334296/can-i-run-two-keyboards-and-mice-in-different-apps)
+	
 ## DEAR_SARTU ::PLEASE_LiSTEN_iLOVEYOU
 [Björk::Possibly_Maybe](https://youtu.be/iyqKy5P1Y0Q)
 	
