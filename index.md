@@ -1241,6 +1241,13 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://upload.wikimedia.org/wikipedia/en/f/fb/SprungMoviePoster.jpg" /></div>
+    <div class="item2">                        <img src="https://www.iconbooks.com/wp-content/blogs.dir/24/files/2022/07/getimage-182.jpeg" /></div>
+    <div class="item3">                        <img src="https://upload.wikimedia.org/wikipedia/en/f/fb/SprungMoviePoster.jpg" /></div>
+</div>
+
 <img src="https://gayleague.com/wp-content/uploads/2021/10/december2021feature.jpg">
 ### Dear_Sartu_and_Erika
 I am looking for ways our podcast can showcase us working together. "Active Window" principles make it challenging for me to present to the group but maybe Heather and Kelela can do some research with SuburbanAdventure.
