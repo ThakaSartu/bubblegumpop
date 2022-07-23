@@ -1241,6 +1241,9 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+[Crush on You by Lil' Kim feat. Lil' Cease and The Notorious B.I.G.](https://www.whosampled.com/Lil%27-Kim/Crush-on-You/)	
+[Gettin' Money::The Get Money Remix](https://www.whosampled.com/Junior-M.A.F.I.A./Gettin%27-Money-(The-Get-Money-Remix)/)	
+[Jay-Z feat. Foxy Brown and Babyface(Always Be My) Sunshine](https://www.whosampled.com/sample/2209/Jay-Z-Foxy-Brown-Babyface-(Always-Be-My)-Sunshine-The-Fearless-Four-Rockin%27-It/)	
 <div class="flex-container">
    
     <div class="item1">                        <img src="https://upload.wikimedia.org/wikipedia/en/f/fb/SprungMoviePoster.jpg" /></div>
