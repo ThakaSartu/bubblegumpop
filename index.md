@@ -1299,6 +1299,7 @@ It has been happening for a while
 [Renters In America Are Running Out Of Options](https://www.youtube.com/watch?v=KgTxzCe490Q)
 [Stolen Identity | FULL EPISODE | The FBI Files](https://www.youtube.com/watch?v=MtLohVzqZE8)
 [Best Of Ransom Cases | FULL EPISODE | The FBI Files](https://www.youtube.com/watch?v=rum8JtljU3o)
+	
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -1314,7 +1315,9 @@ It has been happening for a while
   </div>
 </div>
 ## EVERYTHiNG_REMAiNS_RAW
-	[EVERYTHiNG_REMAiNS_RAW](https://youtu.be/fd_HkV9zz84) [BUSTA_RHYMES_RAMPAGE_FREESTYLE](https://www.youtube.com/watch?v=5CivybE0slA) [Notorious B.I.G. - Brooklyn Freestyle at the age of 17 (1989)](https://youtu.be/zSx03q1-1KA) [Wang Dang Doodle - Koko Taylor w Little Walter 1967](https://youtu.be/qyUHkY0K8HE) [Fugees murder the Apollo live 1996 ](https://youtu.be/LpA8qvLWF1Q) [Nas & Large Pro - Live at the Barbeque ](https://youtu.be/ta3srWr4sJQ) [MiNNiE_RiPERTON::Inside My Love](https://www.youtube.com/watch?v=jlgp-jjHzC0) [HiFi_SHiT = ROY_AYERS::Everybody Loves The Sunshine](https://www.youtube.com/watch?v=SSBWiFGzsyU) 
+
+[EVERYTHiNG_REMAiNS_RAW](https://youtu.be/fd_HkV9zz84) [BUSTA_RHYMES_RAMPAGE_FREESTYLE](https://www.youtube.com/watch?v=5CivybE0slA) [Notorious B.I.G. - Brooklyn Freestyle at the age of 17 (1989)](https://youtu.be/zSx03q1-1KA) [Wang Dang Doodle::Koko Taylor w Little Walter 1967](https://youtu.be/qyUHkY0K8HE) [Fugees murder the Apollo live 1996 ](https://youtu.be/LpA8qvLWF1Q) [Nas & Large Pro - Live at the Barbeque ](https://youtu.be/ta3srWr4sJQ) [MiNNiE_RiPERTON::Inside My Love](https://www.youtube.com/watch?v=jlgp-jjHzC0) [HiFi_SHiT = ROY_AYERS::Everybody Loves The Sunshine](https://www.youtube.com/watch?v=SSBWiFGzsyU) 
+	
 # DEAR_ELDRiAN_iVY 
 ### yo daddy said you can be my wife as well
 # REMEMBER_TRiSENX?
