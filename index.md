@@ -1299,7 +1299,7 @@ It has been happening for a while
 [Renters In America Are Running Out Of Options](https://www.youtube.com/watch?v=KgTxzCe490Q)
 [Stolen Identity | FULL EPISODE | The FBI Files](https://www.youtube.com/watch?v=MtLohVzqZE8)
 [Best Of Ransom Cases | FULL EPISODE | The FBI Files](https://www.youtube.com/watch?v=rum8JtljU3o)
-	
+-	
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -1314,6 +1314,7 @@ It has been happening for a while
     </div>
   </div>
 </div>
+-	
 ## EVERYTHiNG_REMAiNS_RAW
 
 [EVERYTHiNG_REMAiNS_RAW](https://youtu.be/fd_HkV9zz84) [BUSTA_RHYMES_RAMPAGE_FREESTYLE](https://www.youtube.com/watch?v=5CivybE0slA) [Notorious B.I.G. - Brooklyn Freestyle at the age of 17 (1989)](https://youtu.be/zSx03q1-1KA) [Wang Dang Doodle::Koko Taylor w Little Walter 1967](https://youtu.be/qyUHkY0K8HE) [Fugees murder the Apollo live 1996 ](https://youtu.be/LpA8qvLWF1Q) [Nas & Large Pro - Live at the Barbeque ](https://youtu.be/ta3srWr4sJQ) [MiNNiE_RiPERTON::Inside My Love](https://www.youtube.com/watch?v=jlgp-jjHzC0) [HiFi_SHiT = ROY_AYERS::Everybody Loves The Sunshine](https://www.youtube.com/watch?v=SSBWiFGzsyU) 
@@ -1327,8 +1328,10 @@ It has been happening for a while
 [New Invention Lets You Taste the TV](https://www.youtube.com/watch?v=LJD-uPTIgx8)
 [Beastie Boys - Alive](https://youtu.be/JkeE2O15RFs) [Beastie Boys - Root Down](https://youtu.be/Xf1YF_MH1xc) [Beastie Boys - Shake Your Rump](https://youtu.be/BptQHAW2T5M) [Busta Rhymes ‎- Woo-Hah!! Got You All In Check from the album "The Coming" (1996) ](https://youtu.be/EQzvQO2LcA4)
 [Beastie Boys - Body Movin::HELLO_NASTY::](https://www.youtube.com/watch?v=4ItdKOXH3qA) [Beastie Boys - So What'Cha Want](https://youtu.be/ru3gH27Fn6E) [DEAR_JABDU - ENJOY_THiS_TRACK_WiTH_CORAL Björk::Enjoy::Post](https://www.youtube.com/watch?v=RYmyfksGA74)
+	
 ## DEAR_SARTU ::PLEASE_LiSTEN_iLOVEYOU
 [Björk::Possibly_Maybe](https://youtu.be/iyqKy5P1Y0Q)
+	
 <img src="https://i.discogs.com/fQLaoZHOHvtcC4bnerVoj7VKU4c8cDSzbnf0kEuNoNA/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc4/OC00MDQxLmpwZWc.jpeg">
 	<div class='twoPanelSpread'>
   <div class='row'>
@@ -1348,7 +1351,8 @@ It has been happening for a while
 <img src="https://i.discogs.com/73sbsdqIucXGI7T6JF5RnY-ql6fXCYGqEmR_-sphjOs/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc3/NS05MjUzLmpwZWc.jpeg">
 
 
-[Björk : Isobel::HD_ViDEO](https://www.youtube.com/watch?v=VGPYO0mzmBQ) ["I Miss You" - Björk](https://www.youtube.com/watch?v=8A7TqgbHT3k)
+[Björk : Isobel::HD_ViDEO](https://www.youtube.com/watch?v=VGPYO0mzmBQ) 
+["I Miss You" - Björk](https://www.youtube.com/watch?v=8A7TqgbHT3k)
 ## DEAR_CYNTHiA WORKABLE_LIST_FOR_FATHER_DAUGHTER_BONDiNG
 [Björk::Human Behaviour](https://youtu.be/p0mRIhK9seg) [Björk : ARMY_OF_ME::video](https://www.youtube.com/watch?v=jPeheoBa2_Y) [Björk::Jóga](https://youtu.be/loB0kmz_0MM) [Dido - Thank You |Official Video|](https://youtu.be/1TO48Cnl66w) [Beastie Boys - Three MC's And One DJ](https://youtu.be/XflfiylNNXY) [Lorde - White Teeth Teens](https://www.youtube.com/watch?v=kNUWreGGxcc&list=PLvm6B0LWgqu-rHo4GAqYy5mC1O7pUxntS&index=9) [Dido – My Lover's Gone
 Genre:	Pop
