@@ -1241,6 +1241,45 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+## ELLA_MAI_IS_MY_WIFE_AS_WELL
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
+    <div class="item2">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
+    <div class="item3">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
+</div>
+	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/RvprrEaPbYRm6r2n_P031TfFk3iJ1rl0aCz3zlGAOCI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTcy/LmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/RvprrEaPbYRm6r2n_P031TfFk3iJ1rl0aCz3zlGAOCI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTcy/LmpwZWc.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://i.discogs.com/D5HjBnlC5j9bc12MywjKsVr7tm_UCz_UT7iqZo0XYLM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTE2/MC0xMzE0NzAzOTky/LmpwZWc.jpeg" >
+<h2>Here’s How Polyamory, Polygamy, and Polyandry Differ — and What to Expect</h2>
+<a href="https://www.healthline.com/health/relationships/polyamory-vs-polygamy"> Many people confuse polyamory, polygamy, polygyny, and polyandry... ReadMore </a>
+<img src="https://post.healthline.com/wp-content/uploads/2021/01/Group_Partnership_1296x728-header-1296x729.jpg">	
+<h2>Is it legal to marry multiple partners?</h2>
+<p>Polygamy is illegal and criminalized in every country in North and South America, including all 50 U.S. states. However, in February 2020, the Utah House and Senate reduced the punishment for consensual polygamy, which had previously been classified as a felony, to roughly equivalent to a traffic ticket.</p>
+<a href="https://www.moshtaellaw.com/blog/2020/january/the-legal-consequences-of-polygamy/#:~:text=Under%20California%20law%2C%20the%20act,married%20or%20enters%20into%20a">ReadMore </a>
+<h2>Bigamy</h2>
+<p>
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+For other uses, see Bigamy (disambiguation).
+
+In cultures where monogamy is mandated, bigamy is the act of entering into a marriage with one person while still legally married to another.[1] A legal or de facto separation of the couple does not alter their marital status as married persons. In the case of a person in the process of divorcing their spouse, that person is taken to be legally married until such time as the divorce becomes final or absolute under the law of the relevant jurisdiction. Bigamy laws do not apply to couples in a de facto or cohabitation relationship, or that enter such relationships when one is legally married. If the prior marriage is for any reason void, the couple is not married, and hence each party is free to marry another without falling foul of the bigamy laws.
+
+Bigamy is a crime in most countries that recognise only monogamous marriages. When it occurs in this context often neither the first nor second spouse is aware of the other. In countries that have bigamy laws, with a few exceptions (such as Egypt and Iran), consent from a prior spouse makes no difference to the legality of the second marriage, which is usually considered void.
+</p>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
