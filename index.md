@@ -1241,6 +1241,20 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/OVr4kl4u3jj0AT9f37sr9mVWYYQ_wgjFWZT5evQKKfI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY0/NC0xNDc2MjUzNjI5/LTk1NzEuanBlZw.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/5n7JtROk8V3nX0naL4kKY2ZFKAyPJrp7NIAJGiOI5jA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY0/NC0xNDc2MjUzNjI5/LTIxMDAuanBlZw.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 <img src="https://assets.catawiki.nl/assets/2018/12/3/9/a/2/9a263ccf-3c79-49e7-a7fb-cf9bb0fb350e.jpg" >
 <img src="https://i0.wp.com/wemissmusic.com/wp-content/uploads/2018/07/dexdlmwxuaawpod1.jpg?fit=864%2C393&ssl=1">	
 <div class='twoPanelSpread'>
