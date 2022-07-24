@@ -1241,7 +1241,35 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/NWQU2cXVNXqwZPpCYN5mW5YFuUmucGfWobGpajjf33k/rs:fit/g:sm/q:90/h:539/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjEw/MjYtMTM5OTIyNDUw/Mi0xNzcyLmpwZWc.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY##THANKS_PUFFY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/NWQU2cXVNXqwZPpCYN5mW5YFuUmucGfWobGpajjf33k/rs:fit/g:sm/q:90/h:539/w:440/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU2NjEw/MjYtMTM5OTIyNDUw/Mi0xNzcyLmpwZWc.jpeg" alt="##THANKS_PUFFY" >
+      </div>
+    </div>
+  </div>
+</div>	
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<img src="https://pbs.twimg.com/media/DkDUjOeUYAEbikR.jpg" alt="thanks_MASE">
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -1469,9 +1497,9 @@ Year:	2002](https://www.youtube.com/watch?v=Libbd7BCBHE) [Beastie_Boys - Sure_Sh
 	
 	
 ## GOOD_L_A_P_L_FiNDS ::GOODREADiNG::
-<iframe src="https://app.box.com/embed/s/5offd8aji0f4ohd959gnx4ac2bxcmue8?sortColumn=date&view=list" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://app.box.com/embed/s/5offd8aji0f4ohd959gnx4ac2bxcmue8?sortColumn=date&view=list" width="60%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 <img src="https://www.6speedonline.com/wp-content/uploads/2015/03/Pennzoil_Airlift_Drift_-_YouTube1.jpg" >
-<iframe src="https://app.box.com/embed/s/0lhathv15em7gu9se4uda4zshevhueaz?sortColumn=date&view=list" width="100%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://app.box.com/embed/s/0lhathv15em7gu9se4uda4zshevhueaz?sortColumn=date&view=list" width="60%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 ## DEAR_CORAL ##JUS_LiSTN
 [Tears For Fears - Sowing The Seeds Of Love](https://www.youtube.com/watch?v=VAtGOESO7W8) [Mr. Mister - Broken Wings](https://www.youtube.com/watch?v=nKhN1t_7PEY)[Nija - Not One Of Them](https://www.youtube.com/watch?v=1Xc4ZAWj06g) [Men At Work - Who Can It Be Now?](https://www.youtube.com/watch?v=SECVGN4Bsgg) [Artifacts - Wrong Side Of Da Tracks](https://www.youtube.com/watch?v=GM92f-BUoow) [M.I.A. - Go Off](https://www.youtube.com/watch?v=kGDhHxgY6uo) [Lorde - Team](https://www.youtube.com/watch?v=f2JuxM-snGc) [Grimes - World Princess Part II](https://www.youtube.com/watch?v=EOwhuTlxE54) [Lorde - Tennis Court](https://www.youtube.com/watch?v=D8Ymd-OCucs) [Lorde - Royals](https://www.youtube.com/watch?v=nlcIKh6sBtc) [a-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914) [Michael Jackson - Smooth Criminal](https://www.youtube.com/watch?v=h_D3VFfhvs4) [Janet Jackson - Empty / Full](https://www.youtube.com/watch?v=q37CHEMiXi4) &#128293; [M.I.A. - Matahdatah Scroll 01 "Broader Than A Border"](https://www.youtube.com/watch?v=SJuFdkMOP20) &#128293; [Disclosure - Magnets ft. Lorde](https://www.youtube.com/watch?v=b_KfnGBtVeA) [GRiMES - Realiti](https://www.youtube.com/watch?v=BOxFvfjlnno)
 ## GHOST_iN_THE_SHELL 1995 
