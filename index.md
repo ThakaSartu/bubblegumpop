@@ -1241,6 +1241,21 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/Y1pzcWA-kPrMw9NLQV6R4-dYsnZVQPGi2j_fBfCgQPk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODQ0/Ni0xNTU5OTgwNDc2/LTYwODUuanBlZw.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/T-L2xTARIsrx8rzvUEDDrYD098FtRE0NE7ht7eKJMdc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODQ0/Ni0xNTU5OTgwNDY5/LTkzMDYuanBlZw.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
