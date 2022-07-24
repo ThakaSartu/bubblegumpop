@@ -1241,8 +1241,14 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-
-[ELLA MAI_on_HYPEBAE](https://hypebae.com/tags/ella-mai) [LETS_DO_THIS_ELLA](https://www.youtube.com/watch?v=9Fxd70t4MIg)
+<h1>TWiTTER_LiKE_PiNTEREST_AND_FACEBOOK & LiNKEDiN
+ ##SUPRESSED_SARTU's
+##MiSSiNG_PERSONS_CASE </h1>
+[TWiTTER_SUPPRESSED_US_AND_SARTU_GOT_RAPED](https://thakarashard.github.io/bubblegumpop/noodles.html) We
+[ELLA MAI_on_HYPEBAE](https://hypebae.com/tags/ella-mai) [LETS_DO_THIS_ELLA](https://www.youtube.com/watch?v=9Fxd70t4MIg) [Street Life - The Crusaders_FT_RANDY_CRAWFORD::1979](https://youtu.be/-iVR7WLsvAg)
+[Don't Disturb This Groove::Vocal Remix](https://www.youtube.com/watch?v=Chlk761MQK8) [Love Has Come Around::Donald Byrd & 125th Street, N.Y.C.
+Profile:
+Soul - disco - funk collectivE](https://youtu.be/pEONuPt-0eg) [Wand Curls Quick Tutorial Melisza Mcfierce](https://youtube.com/shorts/gAL5X-rKQC0?feature=share) [4C Hair To 3C ? | Bantu Knot Tutorial On 4C Hair](https://www.youtube.com/watch?v=_d5E7iJYedg) [To my Dear Friend Muna Ahmed](https://www.youtube.com/watch?v=yiI0y89mp_8) [I_AM_HERE_DJiNG_SCRATCH_DJ_STYLE_TRANSiTiONS PRACTiCE_SESSiON IN_MY_OLD_HOUSE OVER-KMD_What a Niggy Know? Freestyle -](https://www.youtube.com/watch?v=7JvwCXVFUto) 
 <div class="flex-container">
    
     <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
