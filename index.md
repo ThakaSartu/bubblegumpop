@@ -1241,8 +1241,16 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+[ELLA MAI_on_HYPEBAE](https://hypebae.com/tags/ella-mai) [LETS_DO_THIS_ELLA](https://www.youtube.com/watch?v=9Fxd70t4MIg)
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+</div>
 ## ELLA_MAI_IS_MY_WIFE_AS_WELL
-<a href="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2022%2F07%2Flacoste-ella-mai-brand-ambassador-announcement-0.jpg">
+<img src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fwp-content%2Fblogs.dir%2F6%2Ffiles%2F2022%2F07%2Flacoste-ella-mai-brand-ambassador-announcement-0.jpg">
 <div class="flex-container">
    
     <div class="item1">                        <img src="https://i.guim.co.uk/img/media/ac62baf92b4e03d8da532a8ab4f4456fe344d053/396_137_982_589/master/982.png?width=1200&height=1200&quality=85&auto=format&fit=crop&s=debf6306a52ddf48a1da432565f26ac1" /></div>
