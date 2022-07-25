@@ -1242,55 +1242,54 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+<h2>Since i couldn’t remove all my tattoos I’m getting them covered,</h2>
+[https://twitter.com/kashdoll/status/1129563640259121153/photo/1](https://twitter.com/kashdoll/status/1129563640259121153/photo/1)
+<div class="sixpanel">
+  <div class="item1"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+<center><iframe width="70%" height="315" src="https://www.youtube.com/embed/I1aoRQhqM1k" title="Elive Linux 3.0 Stable Designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</center>
+<img src="https://lastfm.freetls.fastly.net/i/u/770x0/18db0c622371cacc1d60a57e90f642da.jpg#18db0c622371cacc1d60a57e90f642da">
+[Top 5 Best Lightweight Linux distros for Speed and Performance](https://www.youtube.com/watch?v=CnFPCTi5h5c)
+[::RESEARCH_PAPER::Audience's behavior and attitudes
+towards lifestyle video blogs on Youtube
+Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf)	
+[::RESEARCH_PAPER::Information superhighways
+Research Paper 94/133
+22 December 1994](https://ntouk.files.wordpress.com/2015/06/1994-information-superhighway.pdf)
 <h2>
-UK_PARLiMENT
-Responds to Home Affairs Committee report
-on the investigation and prosecution of RAPE 
+## UK_PARLiMENT
+## Responds to Home Affairs Committee report
+## on the investigation and prosecution of RAPE 
 </h2>
  <article>
                 
-
-<div class="block block-page">
-    
-
-<div class="article article-news article-reduced-spacing">
     <h1>Government responds to Home Affairs Committee report on investigation and prosecution of rape</h1>
-    <p class="sub-heading">25 July 2022</p>
-    <div class="reading-width">
+    <h3>25 July 2022</h3>
+    
             <img aria-hidden="true"
                  alt="Image representing news article"
                  class="width-70 with-reflection-effect"
                  src="https://www.parliament.uk/contentassets/1d8be4299eb24cb593f59647b14ad8fb/pc-pch-committee-room-1-standard-1.jpg" />
-        <div class="reduced-spacing">
-                    <div class="intro">
-                        <p class="paragraph" style="margin: 0cm; vertical-align: baseline;"><span class="normaltextrun">The Home Affairs Committee publishes the Government&rsquo;s response to its report into the investigation and prosecution of rape.</span></p>
-                    </div>
-                    <div class="body">
-                        <ul>
-<li><a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmhaff/507/report.html">Read the full report (HTML)</a></li>
-<li><a href="https://committees.parliament.uk/publications/23242/documents/169628/default/">Read the full report (PDF)</a></li>
-<li><a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/publications/">Find all publications related to this inquiry, including oral and written evidence</a></li>
-</ul>
-<p class="paragraph" style="margin: 0cm; vertical-align: baseline;"><span class="normaltextrun">The report found that the collapse in prosecutions for rape and sexual offences over the last five years could not be reversed without strong reforms to the criminal justice system. While it welcomed efforts to initiate change in the CPS, policing and the court system, it warned that such reforms were localised or in development and would require significant funding and effective leadership to make an impact at national level. It also warned that the current target of returning the volumes of rape cases being dealt with to 2016 levels lacked ambition, given that, even in 2016, criminal justice outcomes for rape were viewed as poor. The Committee expressed concern that confidence in the system&rsquo;s ability to even reach 2016 levels in the timeframe the Government has set out is low. </span><span class="eop">&nbsp;</span></p>
-<p class="paragraph" style="margin: 0cm; vertical-align: baseline; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; white-space: pre-wrap; font-kerning: none;"><span class="eop">&nbsp;</span></p>
-<p class="paragraph" style="margin: 0cm; vertical-align: baseline; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; white-space: pre-wrap; font-kerning: none;"><span class="normaltextrun">The report called for a focus on the experience of victims attempting to navigate the justice system. Lengthy delays in cases reaching court, difficulties in accessing support services and seemingly unnecessary and excessive requests for victims&rsquo; personal data from the police and the CPS needed to be addressed. It also found that dedicated rape teams and specialist training for officers made a real impact but such teams were yet to be set up in many forces.</span></p>
-<p class="paragraph" style="margin: 0cm; vertical-align: baseline; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; white-space: pre-wrap; font-kerning: none;">&nbsp;</p>
-<p class="paragraph" style="margin: 0cm; vertical-align: baseline; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; white-space: pre-wrap; font-kerning: none;"><span class="normaltextrun">The Government has now responded to these recommendations</span></p>
-<h2>Further information</h2>
-<ul>
-<li><a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/">Inquiry: Investigation and prosecution of rape</a></li>
-<li><a href="https://committees.parliament.uk/committee/83/home-affairs-committee/">Home Affairs Committee</a></li>
-<li><a href="https://www.parliament.uk/about/how/committees/select/">About Parliament: Select committees</a></li>
-<li><a href="https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/committees/">Visiting Parliament: Watch committees</a></li>
-</ul>
-<p>Image: Parliamentary copyright</p>
-                    </div>
-        </div>
-    </div>
-</div>
+        <h2>The Home Affairs Committee publishes the Government&rsquo;s response to its report into the investigation and prosecution of RAPE</h2>
+                   
+<a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmhaff/507/report.html">Read the full report (HTML)</a></li>
+<a href="https://committees.parliament.uk/publications/23242/documents/169628/default/">Read the full report (PDF)</a></li>
+<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/publications/">Find all publications related to this inquiry, including oral and written evidence</a>
 
-</div>
-            </article>	
+<p>]The report found that the collapse in prosecutions for rape and sexual offences over the last five years could not be reversed without strong reforms to the criminal justice system. While it welcomed efforts to initiate change in the CPS, policing and the court system, it warned that such reforms were localised or in development and would require significant funding and effective leadership to make an impact at national level. It also warned that the current target of returning the volumes of rape cases being dealt with to 2016 levels lacked ambition, given that, even in 2016, criminal justice outcomes for rape were viewed as poor. The Committee expressed concern that confidence in the system&rsquo;s ability to even reach 2016 levels in the timeframe the Government has set out is low.
+<p>The report called for a focus on the experience of victims attempting to navigate the justice system. Lengthy delays in cases reaching court, difficulties in accessing support services and seemingly unnecessary and excessive requests for victims&rsquo; personal data from the police and the CPS needed to be addressed. It also found that dedicated rape teams and specialist training for officers made a real impact but such teams were yet to be set up in many forces.</p>
+<p>The Government has now responded to these recommendations</p>
+<h2>Further information</h2>
+<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/">Inquiry: Investigation and prosecution of rape</a></li>
+<a href="https://committees.parliament.uk/committee/83/home-affairs-committee/">Home Affairs Committee</a></li>
+<a href="https://www.parliament.uk/about/how/committees/select/">About Parliament: Select committees</a></li>
+<a href="https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/committees/">Visiting Parliament: Watch committees</a></li>
+<em>Image: Parliamentary copyright</em>
+
+</article>	
 <h2> DEAR_SARTU::///////_I_AM_READY_FOR_MY_VOWS</h2>
 <div class="sixpanel">
 <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
