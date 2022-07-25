@@ -1302,21 +1302,21 @@ Research Paper 94/133
                  class="width-70 with-reflection-effect"
                  src="https://www.parliament.uk/contentassets/1d8be4299eb24cb593f59647b14ad8fb/pc-pch-committee-room-1-standard-1.jpg" />
         <h2>The Home Affairs Committee publishes the Government&rsquo;s response to its report into the investigation and prosecution of RAPE</h2>
-                   
+<p>                  
 <a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmhaff/507/report.html">Read the full report (HTML)</a></li>
 <a href="https://committees.parliament.uk/publications/23242/documents/169628/default/">Read the full report (PDF)</a></li>
 <a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/publications/">Find all publications related to this inquiry, including oral and written evidence</a>
 
-<p>]The report found that the collapse in prosecutions for rape and sexual offences over the last five years could not be reversed without strong reforms to the criminal justice system. While it welcomed efforts to initiate change in the CPS, policing and the court system, it warned that such reforms were localised or in development and would require significant funding and effective leadership to make an impact at national level. It also warned that the current target of returning the volumes of rape cases being dealt with to 2016 levels lacked ambition, given that, even in 2016, criminal justice outcomes for rape were viewed as poor. The Committee expressed concern that confidence in the system&rsquo;s ability to even reach 2016 levels in the timeframe the Government has set out is low.
+<p>The report found that the collapse in prosecutions for rape and sexual offences over the last five years could not be reversed without strong reforms to the criminal justice system. While it welcomed efforts to initiate change in the CPS, policing and the court system, it warned that such reforms were localised or in development and would require significant funding and effective leadership to make an impact at national level. It also warned that the current target of returning the volumes of rape cases being dealt with to 2016 levels lacked ambition, given that, even in 2016, criminal justice outcomes for rape were viewed as poor. The Committee expressed concern that confidence in the system&rsquo;s ability to even reach 2016 levels in the timeframe the Government has set out is low.
 <p>The report called for a focus on the experience of victims attempting to navigate the justice system. Lengthy delays in cases reaching court, difficulties in accessing support services and seemingly unnecessary and excessive requests for victims&rsquo; personal data from the police and the CPS needed to be addressed. It also found that dedicated rape teams and specialist training for officers made a real impact but such teams were yet to be set up in many forces.</p>
-<p>The Government has now responded to these recommendations</p>
+<p>The Government has now responded to these recommendations
 <h2>Further information</h2>
 <a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/">Inquiry: Investigation and prosecution of rape</a></li>
 <a href="https://committees.parliament.uk/committee/83/home-affairs-committee/">Home Affairs Committee</a></li>
 <a href="https://www.parliament.uk/about/how/committees/select/">About Parliament: Select committees</a></li>
 <a href="https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/committees/">Visiting Parliament: Watch committees</a></li>
 <em>Image: Parliamentary copyright</em>
-
+</p>
 </article>	
 <h2> DEAR_SARTU::///////_I_AM_READY_FOR_MY_VOWS</h2>
 <div class="sixpanel">
