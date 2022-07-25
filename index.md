@@ -1242,6 +1242,22 @@ Relative position for absolute caption
 4 # UNiVERSE##############################################
 ```
 <h1>Latest</h1>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://pbs.twimg.com/media/FN_BTKZXsAQRoHj?format=jpg&name=large" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://pbs.twimg.com/media/FN_BTKZXsAQRoHj?format=jpg&name=large" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="flex-container-rounded">
    
