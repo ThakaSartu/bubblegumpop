@@ -1242,6 +1242,23 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<h2>BOOMBOX_VOL1</h2>
+
+    <div class="item1">                        <img src="https://i.discogs.com/Dsk24e8GIPuc5dwhLmy_QMG4fJfUr1RGEdjZFJ8oxos/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ2NDAyNTYy/Ni0yMzY3LmpwZWc.jpeg" /></div>
+    <div class="item2">                        <img src="https://media2.giphy.com/media/3o6Zt8esE7mxFelmdG/giphy.gif?cid=ecf05e477pe98kmyaoxqb9029v0zhfgs0u5ix5c59xe07ux9&rid=giphy.gif&ct=g" /></div>
+    <div class="item3">                        <img src="https://i.discogs.com/Of600keNLtQPGnRCgnw3EitVFxy0k3oqlUJqfEa8x_Y/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ3MjMyNDI5/MS0xMjA2LmpwZWc.jpeg" /></div>
+</div>
+```
+Boombox 1 (Early Independent Hip Hop, Electro And Disco Rap 1979-82)
+Label:	Soul Jazz Records – SJR CD334
+Series:	Boombox (4) – 1
+Format:	
+2 x CD, Compilation
+Country:	UK
+Released:	May 20, 2016
+Genre:	Hip Hop, Funk / Soul
+Style:	Disco
+```	
 <h2>Since i couldn’t remove all my tattoos I’m getting them covered,</h2>
 [https://twitter.com/kashdoll/status/1129563640259121153/photo/1](https://twitter.com/kashdoll/status/1129563640259121153/photo/1)
 <div class="sixpanel">
@@ -1292,7 +1309,7 @@ Research Paper 94/133
 ## Responds to Home Affairs Committee report
 ## on the investigation and prosecution of RAPE 
 </h2>
- <article>
+
                 
     <h1>Government responds to Home Affairs Committee report on investigation and prosecution of rape</h1>
     <h3>25 July 2022</h3>
@@ -1311,13 +1328,13 @@ Research Paper 94/133
 <p>The report called for a focus on the experience of victims attempting to navigate the justice system. Lengthy delays in cases reaching court, difficulties in accessing support services and seemingly unnecessary and excessive requests for victims&rsquo; personal data from the police and the CPS needed to be addressed. It also found that dedicated rape teams and specialist training for officers made a real impact but such teams were yet to be set up in many forces.</p>
 <p>The Government has now responded to these recommendations
 <h2>Further information</h2>
-<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/">Inquiry: Investigation and prosecution of rape</a></li>
-<a href="https://committees.parliament.uk/committee/83/home-affairs-committee/">Home Affairs Committee</a></li>
-<a href="https://www.parliament.uk/about/how/committees/select/">About Parliament: Select committees</a></li>
-<a href="https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/committees/">Visiting Parliament: Watch committees</a></li>
+<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/">Inquiry:: Investigation and prosecution of rape</a>
+<a href="https://committees.parliament.uk/committee/83/home-affairs-committee/">Home Affairs Committee</a>
+<a href="https://www.parliament.uk/about/how/committees/select/">About Parliament: Select committees</a>
+<a href="https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/committees/">Visiting Parliament: Watch committees</a><
 <em>Image: Parliamentary copyright</em>
 </p>
-</article>	
+	
 <h2> DEAR_SARTU::///////_I_AM_READY_FOR_MY_VOWS</h2>
 <div class="sixpanel">
 <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
