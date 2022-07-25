@@ -1286,7 +1286,7 @@ Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.
 [::RESEARCH_PAPER::Information superhighways
 Research Paper 94/133
 22 December 1994](https://ntouk.files.wordpress.com/2015/06/1994-information-superhighway.pdf)
-<img src="https://github.com/ThakaRashard/bubblegumpop/blob/gh-pages/img/Screenshot%202022-07-24%208.23.07%20PM.png">
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-24%208.23.07%20PM.png" >
 <h2>
 ## UK_PARLiMENT
 ## Responds to Home Affairs Committee report
