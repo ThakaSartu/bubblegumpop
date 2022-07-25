@@ -1241,6 +1241,7 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
 <h1>Latest</h1>
 [Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0) 
 I want a Macintosh for a lot of SHIT!! BUT I think we will do better as 
@@ -1265,141 +1266,6 @@ I want a Macintosh for a lot of SHIT!! BUT I think we will do better as
     </div>
   </div>
 </div>
-
-<div class="flex-container-rounded">
-   
-    <div class="item1">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/5e5870bb74a869c07600542752b1b2ad.jpg#5e5870bb74a869c07600542752b1b2ad" /></div>
-    <div class="item2">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ebdd35113f4be57737d6946c0593a343.jpg#ebdd35113f4be57737d6946c0593a343" /></div>
-    <div class="item3">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ac7851d7e2670c57465e115936512a06.jpg#ac7851d7e2670c57465e115936512a06" /></div>
-</div>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My friend got married and i was a brides maid! <a href="https://t.co/vWMQ8OGNBK">pic.twitter.com/vWMQ8OGNBK</a></p>&mdash; 3:14 (@kashdoll) <a href="https://twitter.com/kashdoll/status/1547989813575331840?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/1NrDkE6sLZ">https://t.co/1NrDkE6sLZ</a> <a href="https://t.co/M6n5LV1kdq">pic.twitter.com/M6n5LV1kdq</a></p>&mdash; 3:14 (@kashdoll) <a href="https://twitter.com/kashdoll/status/1463400922684571653?ref_src=twsrc%5Etfw">November 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<img src="https://www.visitkingsland.com/index_htm_files/119934@2x.png" >	
-<h2>BOOMBOX_VOL1</h2>
-<div class="flex-container">
-    <div class="item1">                        <img src="https://i.discogs.com/Dsk24e8GIPuc5dwhLmy_QMG4fJfUr1RGEdjZFJ8oxos/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ2NDAyNTYy/Ni0yMzY3LmpwZWc.jpeg" /></div>
-    <div class="item2">                        <img src="https://media2.giphy.com/media/3o6Zt8esE7mxFelmdG/giphy.gif?cid=ecf05e477pe98kmyaoxqb9029v0zhfgs0u5ix5c59xe07ux9&rid=giphy.gif&ct=g" /></div>
-    <div class="item3">                        <img src="https://i.discogs.com/Of600keNLtQPGnRCgnw3EitVFxy0k3oqlUJqfEa8x_Y/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ3MjMyNDI5/MS0xMjA2LmpwZWc.jpeg" /></div>
-</div>
-
-```
-Boombox 1 (Early Independent Hip Hop, Electro And Disco Rap 1979-82)
-Label:	Soul Jazz Records – SJR CD334
-Series:	Boombox (4) – 1
-Format:	
-2 x CD, Compilation
-Country:	UK
-Released:	May 20, 2016
-Genre:	Hip Hop, Funk / Soul
-Style:	Disco
-```
-<h2>Since i couldn’t remove all my tattoos I’m getting them covered</h2>
-[https://twitter.com/kashdoll/status/1129563640259121153/photo/1](https://twitter.com/kashdoll/status/1129563640259121153/photo/1)
-<div class="sixpanel">
-  <div class="item1"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item2"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item3"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-</div>
-
-<h2>TRYiNG_SOME_BOX_POST_LAYOUTS_OWT</h2>
-
-<div class="flex-container">
-
-    <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
-    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
-    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
-</div>
-
-<div class="flex-container">
-
-    <div class="item1">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
-    <div class="item2">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
-    <div class="item3">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
-</div>
-
-
-<div class="panel4-container">
- 
-    <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
-    <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
-    <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
-    <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
-
-</div>
-
-
-<center><iframe width="80%" height="315" src="https://www.youtube.com/embed/I1aoRQhqM1k" title="Elive Linux 3.0 Stable Designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</center>
-<img src="https://lastfm.freetls.fastly.net/i/u/770x0/18db0c622371cacc1d60a57e90f642da.jpg#18db0c622371cacc1d60a57e90f642da">
-[Top 5 Best Lightweight Linux distros for Speed and Performance](https://www.youtube.com/watch?v=CnFPCTi5h5c)
-[::RESEARCH_PAPER::Audience's behavior and attitudes
-towards lifestyle video blogs on Youtube
-Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf)	
-[::RESEARCH_PAPER::Information superhighways
-Research Paper 94/133
-22 December 1994](https://ntouk.files.wordpress.com/2015/06/1994-information-superhighway.pdf)
-<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-24%208.23.07%20PM.png" >
-<h2>
-## UK_PARLiMENT
-## Responds to Home Affairs Committee report
-## on the investigation and prosecution of RAPE 
-</h2>
-
-    <h1>Government responds to Home Affairs Committee report on investigation and prosecution of rape</h1>
-    <h3>25 July 2022</h3>
-    
-            <img aria-hidden="true"
-                 alt="Image representing news article"
-                 class="width-70 with-reflection-effect"
-                 src="https://www.parliament.uk/contentassets/1d8be4299eb24cb593f59647b14ad8fb/pc-pch-committee-room-1-standard-1.jpg" />
-        <h2>The Home Affairs Committee publishes the Government&rsquo;s response to its report into the investigation and prosecution of RAPE</h2>
-<p>                  
-<a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmhaff/507/report.html">Read the full report (HTML)</a></li>
-<a href="https://committees.parliament.uk/publications/23242/documents/169628/default/">Read the full report (PDF)</a></li>
-<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/publications/">Find all publications related to this inquiry, including oral and written evidence</a>
-
-<p>The report found that the collapse in prosecutions for rape and sexual offences over the last five years could not be reversed without strong reforms to the criminal justice system. While it welcomed efforts to initiate change in the CPS, policing and the court system, it warned that such reforms were localised or in development and would require significant funding and effective leadership to make an impact at national level. It also warned that the current target of returning the volumes of rape cases being dealt with to 2016 levels lacked ambition, given that, even in 2016, criminal justice outcomes for rape were viewed as poor. The Committee expressed concern that confidence in the system&rsquo;s ability to even reach 2016 levels in the timeframe the Government has set out is low.
-<p>The report called for a focus on the experience of victims attempting to navigate the justice system. Lengthy delays in cases reaching court, difficulties in accessing support services and seemingly unnecessary and excessive requests for victims&rsquo; personal data from the police and the CPS needed to be addressed. It also found that dedicated rape teams and specialist training for officers made a real impact but such teams were yet to be set up in many forces.</p>
-<p>The Government has now responded to these recommendations
-<h2>Further information</h2>
-<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/">Inquiry:: Investigation and prosecution of rape</a>
-<a href="https://committees.parliament.uk/committee/83/home-affairs-committee/">Home Affairs Committee</a>
-<a href="https://www.parliament.uk/about/how/committees/select/">About Parliament: Select committees</a>
-<a href="https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/committees/">Visiting Parliament: Watch committees</a><
-<em>Image: Parliamentary copyright</em>
-</p>
-	
-<h2> DEAR_SARTU::///////_I_AM_READY_FOR_MY_VOWS</h2>
-<div class="sixpanel">
-<div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-</div>
-	
-<div class="sixpanel">
- <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item2"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item3"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-</div>
-
-<div class="sixpanel">
-  <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" /></div>
-  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-  <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-</div>
-
-<h2> CSS SECRETS  REMiND_ME_TO_READ</h2>
-
-[CLOUD_COMPUTiNG_LAW](https://www.pbookshop.com/media/filetype/s/p/1381907047.pdf) [HTML5_HACKS](https://pepa.holla.cz/wp-content/uploads/2016/03/HTML5-Hacks.pdf) [Learning Responsive Web Design by Clarissa Peterson](https://www.chinhnghia.com/144936294XDesign.pdf)	 [Audience's behavior and attitudes
-towards lifestyle video blogs on Youtube
-Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf) [BLOGGiNG_FOR_DUMMiES](https://oiipdf.com/blogging-for-dummies-isbn-0470230177) [RESPONSIVE
-WEB DESIGN::Ethan Marcotte](http://nadin.miem.edu.ru/images_2015/responsive-web-design-2nd-edition.pdf) [Responsive Web Design Techniques
-September 2016International Journal of Computer Applications 150(2):18-27
-DOI:10.5120/ijca2016911463](https://www.researchgate.net/publication/308182637_Responsive_Web_Design_Techniques) [ WEB_TYPOGRAPHY](https://www.perlego.com/book/1571880/the-new-web-typography-create-a-visual-hierarchy-with-responsive-web-design-pdf)
-[Delhi University Computer Centre::COMPUTER_BASiCS_PRESENTATiON](https://www.vfu.bg/en/e-Learning/Computer-Basics--computer_basics2.pdf) 
-[The Internet of Things: How Smart TVs, Smart Cars, Smart Homes, and Smart Cities Are Changing the World](http://uru.ac.in/uruonlinelibrary/Internet_of_Things/IOT%20How%20and%20Why.pdf)	
-<h2>DEAR_SARTU here are some OS_OPTiONS, I like enlightement E17</h2> [Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0) I want a Macintosh for a lot of SHIT!! BUT I think we will do better as [PODCASTERS_USiNG_LiNUX](https://rss.com/podcasts/bubblegumpop/). Download [UBUNTU_STUDiO](https://ubuntustudio.org/) if you have [access_to_a_computer](https://www.openglobalrights.org/covid-19-exposes-why-access-to-internet-is-human-right/) and [INSTALL_TO_USB_SO_YOU_CAN_KEEP_YOUR_DATA_AND_THE_BUSiNESS_PORTABLE](https://help.ubuntu.com/community/Ubuntu%20Studio%20Installation):: I_PRAY_YOUR_PiMP_DOES_NOT_CHECK your orfices for [USB_STiCKS](https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/78cc6b05-96fb-5cb0-b97c-1517ec410e89/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4). When I can save up enough change Im gonna get a thinkpad replacement and run [ENLiGHTENMENT](https://www.elivecd.org/). I cant make a clear argument here but I want you to keep your head productive [,WATCH_THiS there are not many videos on this platform](https://www.youtube.com/watch?v=aCH18F4OtXQ). Those pimps are not smart and I pray they dont kill you. The rapes are bade enough. Remember the Chair rapes in VENiCE, and those sidewalk rapes. THIS_PLACE... We going to be ok, I will wait for you forever ok. You are not alone. I am still your husband, and only my penis can heal you. I miss our old webseries on iNSTAGRAM that moved to Facebook, then LiNKEDiN, then Facebook... They all hid your prostitution fueled [gangrapes](https://www.hindustantimes.com/videos/world-news/us-influencer-gangraped-in-pakistan-by-3-men-netizens-condemn-shameful-act-101658467051066.html) since their employees were buying you from sex traffickers. Its happening in a lot of places, I remember the johns of Venice laughed at you not remembering that they hit it as they menaced me on the boardwalk [U.O.E.N.O TYPESHiT](https://www.youtube.com/watch?v=cMJrfSTI0Xg). 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/90060745&color=%23120d0d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/norega" title="Nym | Norega" target="_blank" style="color: #cccccc; text-decoration: none;">Nym | Norega</a> · <a href="https://soundcloud.com/norega/rocko-ft-2-chainz-wiz-khalifa" title="Rocko ft. 2 Chainz, Wiz Khalifa, A$AP Rocky, Rick Ross &amp; Future - U.O.E.N.O. (Remix) (Dirty) DL" target="_blank" style="color: #cccccc; text-decoration: none;">Rocko ft. 2 Chainz, Wiz Khalifa, A$AP Rocky, Rick Ross &amp; Future - U.O.E.N.O. (Remix) (Dirty) DL</a></div>
-
 [DEAR_ERiKA__LOOK_WHAT_I_CAN_DO_WITH_YOUR_OLD_SHITTY_ACER_RODRiCK_BROKE](https://www.youtube.com/watch?v=cH9WLrcsrx8) 
 [KOOL & THE GANG - SUMMER MADNESS Relaxing Jazz Music Sunset Views](https://www.youtube.com/watch?v=xk8Vn0fjFdg)
 [::COMPiZ_FUSiON_ON_UBuNTu_LiNUX:: DEAR_MAMA_IMAN__THiS_iS_HOW_MY_DESKTOP_LOOK_12years_AGO_ASK_HEATHER](https://www.youtube.com/watch?v=USedxVrU2Ko) [3D Rotating and Wobbly Window Effects in Kali | How to Install Compiz Fusion in Kali 2020.4 | Ethica](https://youtu.be/IwcwIAsqEgU)
@@ -1411,6 +1277,17 @@ DOI:10.5120/ijca2016911463](https://www.researchgate.net/publication/308182637_R
 [Don't Disturb This Groove::Vocal Remix](https://www.youtube.com/watch?v=Chlk761MQK8) [Love Has Come Around::Donald Byrd & 125th Street, N.Y.C.
 Profile:
 Soul - disco - funk collectivE](https://youtu.be/pEONuPt-0eg) [Wand Curls Quick Tutorial Melisza Mcfierce](https://youtube.com/shorts/gAL5X-rKQC0?feature=share) [4C Hair To 3C ? | Bantu Knot Tutorial On 4C Hair](https://www.youtube.com/watch?v=_d5E7iJYedg) [To my Dear Friend Muna Ahmed](https://www.youtube.com/watch?v=yiI0y89mp_8) [I_AM_HERE_DJiNG_SCRATCH_DJ_STYLE_TRANSiTiONS PRACTiCE_SESSiON IN_MY_OLD_HOUSE OVER-KMD_What a Niggy Know? Freestyle -](https://www.youtube.com/watch?v=7JvwCXVFUto) [Repairing a Space Invaders Arcade](https://www.youtube.com/watch?v=5HaJq-gY6Xk)
+[CLOUD_COMPUTiNG_LAW](https://www.pbookshop.com/media/filetype/s/p/1381907047.pdf) [HTML5_HACKS](https://pepa.holla.cz/wp-content/uploads/2016/03/HTML5-Hacks.pdf) [Learning Responsive Web Design by Clarissa Peterson](https://www.chinhnghia.com/144936294XDesign.pdf)	 [Audience's behavior and attitudes
+towards lifestyle video blogs on Youtube
+Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf) [BLOGGiNG_FOR_DUMMiES](https://oiipdf.com/blogging-for-dummies-isbn-0470230177) [RESPONSIVE
+WEB DESIGN::Ethan Marcotte](http://nadin.miem.edu.ru/images_2015/responsive-web-design-2nd-edition.pdf) [Responsive Web Design Techniques
+September 2016International Journal of Computer Applications 150(2):18-27
+DOI:10.5120/ijca2016911463](https://www.researchgate.net/publication/308182637_Responsive_Web_Design_Techniques) [ WEB_TYPOGRAPHY](https://www.perlego.com/book/1571880/the-new-web-typography-create-a-visual-hierarchy-with-responsive-web-design-pdf)
+[Delhi University Computer Centre::COMPUTER_BASiCS_PRESENTATiON](https://www.vfu.bg/en/e-Learning/Computer-Basics--computer_basics2.pdf) 
+[The Internet of Things: How Smart TVs, Smart Cars, Smart Homes, and Smart Cities Are Changing the World](http://uru.ac.in/uruonlinelibrary/Internet_of_Things/IOT%20How%20and%20Why.pdf)	
+<h2>DEAR_SARTU here are some OS_OPTiONS, I like enlightement E17</h2> [Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0) I want a Macintosh for a lot of SHIT!! BUT I think we will do better as [PODCASTERS_USiNG_LiNUX](https://rss.com/podcasts/bubblegumpop/). Download [UBUNTU_STUDiO](https://ubuntustudio.org/) if you have [access_to_a_computer](https://www.openglobalrights.org/covid-19-exposes-why-access-to-internet-is-human-right/) and [INSTALL_TO_USB_SO_YOU_CAN_KEEP_YOUR_DATA_AND_THE_BUSiNESS_PORTABLE](https://help.ubuntu.com/community/Ubuntu%20Studio%20Installation):: I_PRAY_YOUR_PiMP_DOES_NOT_CHECK your orfices for [USB_STiCKS](https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/78cc6b05-96fb-5cb0-b97c-1517ec410e89/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4). When I can save up enough change Im gonna get a thinkpad replacement and run [ENLiGHTENMENT](https://www.elivecd.org/). I cant make a clear argument here but I want you to keep your head productive [,WATCH_THiS there are not many videos on this platform](https://www.youtube.com/watch?v=aCH18F4OtXQ). Those pimps are not smart and I pray they dont kill you. The rapes are bade enough. Remember the Chair rapes in VENiCE, and those sidewalk rapes. THIS_PLACE... We going to be ok, I will wait for you forever ok. You are not alone. I am still your husband, and only my penis can heal you. I miss our old webseries on iNSTAGRAM that moved to Facebook, then LiNKEDiN, then Facebook... They all hid your prostitution fueled [gangrapes](https://www.hindustantimes.com/videos/world-news/us-influencer-gangraped-in-pakistan-by-3-men-netizens-condemn-shameful-act-101658467051066.html) since their employees were buying you from sex traffickers. Its happening in a lot of places, I remember the johns of Venice laughed at you not remembering that they hit it as they menaced me on the boardwalk [U.O.E.N.O TYPESHiT](https://www.youtube.com/watch?v=cMJrfSTI0Xg). 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/90060745&color=%23120d0d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/norega" title="Nym | Norega" target="_blank" style="color: #cccccc; text-decoration: none;">Nym | Norega</a> · <a href="https://soundcloud.com/norega/rocko-ft-2-chainz-wiz-khalifa" title="Rocko ft. 2 Chainz, Wiz Khalifa, A$AP Rocky, Rick Ross &amp; Future - U.O.E.N.O. (Remix) (Dirty) DL" target="_blank" style="color: #cccccc; text-decoration: none;">Rocko ft. 2 Chainz, Wiz Khalifa, A$AP Rocky, Rick Ross &amp; Future - U.O.E.N.O. (Remix) (Dirty) DL</a></div>
+
 
 <div class="flex-container">
    
@@ -1515,6 +1392,130 @@ Bigamy is a crime in most countries that recognise only monogamous marriages. Wh
     </div>
   </div>
 </div>
+
+
+<div class="flex-container-rounded">
+   
+    <div class="item1">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/5e5870bb74a869c07600542752b1b2ad.jpg#5e5870bb74a869c07600542752b1b2ad" /></div>
+    <div class="item2">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ebdd35113f4be57737d6946c0593a343.jpg#ebdd35113f4be57737d6946c0593a343" /></div>
+    <div class="item3">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ac7851d7e2670c57465e115936512a06.jpg#ac7851d7e2670c57465e115936512a06" /></div>
+</div>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My friend got married and i was a brides maid! <a href="https://t.co/vWMQ8OGNBK">pic.twitter.com/vWMQ8OGNBK</a></p>&mdash; 3:14 (@kashdoll) <a href="https://twitter.com/kashdoll/status/1547989813575331840?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/1NrDkE6sLZ">https://t.co/1NrDkE6sLZ</a> <a href="https://t.co/M6n5LV1kdq">pic.twitter.com/M6n5LV1kdq</a></p>&mdash; 3:14 (@kashdoll) <a href="https://twitter.com/kashdoll/status/1463400922684571653?ref_src=twsrc%5Etfw">November 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="https://www.visitkingsland.com/index_htm_files/119934@2x.png" >	
+<h2>BOOMBOX_VOL1</h2>
+<div class="flex-container">
+    <div class="item1">                        <img src="https://i.discogs.com/Dsk24e8GIPuc5dwhLmy_QMG4fJfUr1RGEdjZFJ8oxos/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ2NDAyNTYy/Ni0yMzY3LmpwZWc.jpeg" /></div>
+    <div class="item2">                        <img src="https://media2.giphy.com/media/3o6Zt8esE7mxFelmdG/giphy.gif?cid=ecf05e477pe98kmyaoxqb9029v0zhfgs0u5ix5c59xe07ux9&rid=giphy.gif&ct=g" /></div>
+    <div class="item3">                        <img src="https://i.discogs.com/Of600keNLtQPGnRCgnw3EitVFxy0k3oqlUJqfEa8x_Y/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ3MjMyNDI5/MS0xMjA2LmpwZWc.jpeg" /></div>
+</div>
+
+```
+Boombox 1 (Early Independent Hip Hop, Electro And Disco Rap 1979-82)
+Label:	Soul Jazz Records – SJR CD334
+Series:	Boombox (4) – 1
+Format:	
+2 x CD, Compilation
+Country:	UK
+Released:	May 20, 2016
+Genre:	Hip Hop, Funk / Soul
+Style:	Disco
+```
+<h2>Since i couldn’t remove all my tattoos I’m getting them covered</h2>
+[https://twitter.com/kashdoll/status/1129563640259121153/photo/1](https://twitter.com/kashdoll/status/1129563640259121153/photo/1)
+<div class="sixpanel">
+  <div class="item1"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
+<h2>TRYiNG_SOME_BOX_POST_LAYOUTS_OWT</h2>
+
+<div class="flex-container">
+
+    <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+</div>
+
+<div class="flex-container">
+
+    <div class="item1">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+    <div class="item2">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+    <div class="item3">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+</div>
+
+
+<div class="panel4-container">
+ 
+    <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+
+</div>
+
+
+<center><iframe width="80%" height="315" src="https://www.youtube.com/embed/I1aoRQhqM1k" title="Elive Linux 3.0 Stable Designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</center>
+<img src="https://lastfm.freetls.fastly.net/i/u/770x0/18db0c622371cacc1d60a57e90f642da.jpg#18db0c622371cacc1d60a57e90f642da">
+[Top 5 Best Lightweight Linux distros for Speed and Performance](https://www.youtube.com/watch?v=CnFPCTi5h5c)
+[::RESEARCH_PAPER::Audience's behavior and attitudes
+towards lifestyle video blogs on Youtube
+Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf)	
+[::RESEARCH_PAPER::Information superhighways
+Research Paper 94/133
+22 December 1994](https://ntouk.files.wordpress.com/2015/06/1994-information-superhighway.pdf)
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-24%208.23.07%20PM.png" >
+
+<h2>
+## UK_PARLiMENT
+## Responds to Home Affairs Committee report
+## on the investigation and prosecution of RAPE 
+</h2>
+
+    <h1>Government responds to Home Affairs Committee report on investigation and prosecution of rape</h1>
+    <h3>25 July 2022</h3>
+    
+            <img aria-hidden="true"
+                 alt="Image representing news article"
+                 class="width-70 with-reflection-effect"
+                 src="https://www.parliament.uk/contentassets/1d8be4299eb24cb593f59647b14ad8fb/pc-pch-committee-room-1-standard-1.jpg" />
+        <h2>The Home Affairs Committee publishes the Government&rsquo;s response to its report into the investigation and prosecution of RAPE</h2>
+<p>                  
+<a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmhaff/507/report.html">Read the full report (HTML)</a></li>
+<a href="https://committees.parliament.uk/publications/23242/documents/169628/default/">Read the full report (PDF)</a></li>
+<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/publications/">Find all publications related to this inquiry, including oral and written evidence</a>
+
+<p>The report found that the collapse in prosecutions for rape and sexual offences over the last five years could not be reversed without strong reforms to the criminal justice system. While it welcomed efforts to initiate change in the CPS, policing and the court system, it warned that such reforms were localised or in development and would require significant funding and effective leadership to make an impact at national level. It also warned that the current target of returning the volumes of rape cases being dealt with to 2016 levels lacked ambition, given that, even in 2016, criminal justice outcomes for rape were viewed as poor. The Committee expressed concern that confidence in the system&rsquo;s ability to even reach 2016 levels in the timeframe the Government has set out is low.
+<p>The report called for a focus on the experience of victims attempting to navigate the justice system. Lengthy delays in cases reaching court, difficulties in accessing support services and seemingly unnecessary and excessive requests for victims&rsquo; personal data from the police and the CPS needed to be addressed. It also found that dedicated rape teams and specialist training for officers made a real impact but such teams were yet to be set up in many forces.</p>
+<p>The Government has now responded to these recommendations
+<h2>Further information</h2>
+<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/">Inquiry:: Investigation and prosecution of rape</a>
+<a href="https://committees.parliament.uk/committee/83/home-affairs-committee/">Home Affairs Committee</a>
+<a href="https://www.parliament.uk/about/how/committees/select/">About Parliament: Select committees</a>
+<a href="https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/committees/">Visiting Parliament: Watch committees</a><
+<em>Image: Parliamentary copyright</em>
+</p>
+	
+<h2> DEAR_SARTU::///////_I_AM_READY_FOR_MY_VOWS</h2>
+<div class="sixpanel">
+<div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+	
+<div class="sixpanel">
+ <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
+<div class="sixpanel">
+  <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" /></div>
+  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
 <img src="https://assets.catawiki.nl/assets/2018/12/3/9/a/2/9a263ccf-3c79-49e7-a7fb-cf9bb0fb350e.jpg" >
 <img src="https://i0.wp.com/wemissmusic.com/wp-content/uploads/2018/07/dexdlmwxuaawpod1.jpg?fit=864%2C393&ssl=1">	
 <div class='twoPanelSpread'>
