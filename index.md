@@ -1241,7 +1241,7 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-## DEAR_SARTU::////////////////##_I_AM_READY_FOR_MY_VOWS
+	<h2> DEAR_SARTU::_I_AM_READY_FOR_MY_VOWS</h2>
 <div class="sixpanel">
 
 
@@ -1281,7 +1281,8 @@ img {
 </div>
 <div class="flex-container-rounded">
    
-    <div class="item1">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/5e5870bb74a869c07600542752b1b<div class="sixpanel">
+    <div class="item1">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/5e5870bb74a869c07600542752b1b
+<div class="sixpanel">
 
   <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/f9048d7ff97aae5673eef9ab3ba9e839.jpg#f9048d7ff97aae5673eef9ab3ba9e839" /></div>
   <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/919d34bd730daca38a00e8406184c018.jpg#919d34bd730daca38a00e8406184c018" /></div>
@@ -1294,7 +1295,7 @@ img {
   <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/18db0c622371cacc1d60a57e90f642da.jpg#18db0c622371cacc1d60a57e90f642da" /></div>
   <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/967387254fd3833b1f7c0c94c4dbdf6a.jpg#967387254fd3833b1f7c0c94c4dbdf6a" /></div>
   <div class="item3"> <img src="https://i1.sndcdn.com/artworks-000015475330-q3eqgx-t500x500.jpg" /></div> 
-</div>2ad.jpg#5e5870bb74a869c07600542752b1b2ad" /></div>
+</div> </div>
     <div class="item2">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ebdd35113f4be57737d6946c0593a343.jpg#ebdd35113f4be57737d6946c0593a343" /></div>
     <div class="item3">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ac7851d7e2670c57465e115936512a06.jpg#ac7851d7e2670c57465e115936512a06" /></div>
 </div>
