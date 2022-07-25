@@ -1242,6 +1242,13 @@ Relative position for absolute caption
 4 # UNiVERSE##############################################
 ```
 <h1>Latest</h1>
+[Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0) 
+I want a Macintosh for a lot of SHIT!! BUT I think we will do better as 
+[PODCASTERS_USiNG_LiNUX](https://rss.com/podcasts/bubblegumpop/)
+. Download [UBUNTU_STUDiO](https://ubuntustudio.org/)
+ if you have [access_to_a_computer](https://www.openglobalrights.org/covid-19-exposes-why-access-to-internet-is-human-right/)
+ and
+ [INSTALL_TO_USB_SO_YOU_CAN_KEEP_YOUR_DATA_AND_THE_BUSiNESS_PORTABLE](https://help.ubuntu.com/community/Ubuntu%20Studio%20Installation)  I_PRAY_YOUR_PiMP_DOES_NOT_CHECK your orfices for [USB_STiCKS](https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/78cc6b05-96fb-5cb0-b97c-1517ec410e89/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4). When I can save up enough change Im gonna get a thinkpad replacement and run [ENLiGHTENMENT](https://www.elivecd.org/). I cant make a clear argument here but I want you to keep your head productive [,WATCH_THiS there are not many videos on this platform](https://www.youtube.com/watch?v=aCH18F4OtXQ). Those pimps are not smart and I pray they dont kill you. The rapes are bade enough. Remember the Chair rapes in VENiCE, and those sidewalk rapes. THIS_PLACE... We going to be ok, I will wait for you forever ok. You are not alone. I am still your husband, and only my penis can heal you. I miss our old webseries on iNSTAGRAM that moved to Facebook, then LiNKEDiN, then Facebook... They all hid your prostitution fueled [gangrapes](https://www.hindustantimes.com/videos/world-news/us-influencer-gangraped-in-pakistan-by-3-men-netizens-condemn-shameful-act-101658467051066.html) since their employees were buying you from sex traffickers. Its happening in a lot of places, I remember the johns of Venice laughed at you not remembering that they hit it as they menaced me on the boardwalk [U.O.E.N.O TYPESHiT](https://www.youtube.com/watch?v=cMJrfSTI0Xg).
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
