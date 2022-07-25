@@ -1242,6 +1242,8 @@ Relative position for absolute caption
 4 # UNiVERSE##############################################
 ```
 <h1>Latest</h1>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My friend got married and i was a brides maid! <a href="https://t.co/vWMQ8OGNBK">pic.twitter.com/vWMQ8OGNBK</a></p>&mdash; 3:14 (@kashdoll) <a href="https://twitter.com/kashdoll/status/1547989813575331840?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/1NrDkE6sLZ">https://t.co/1NrDkE6sLZ</a> <a href="https://t.co/M6n5LV1kdq">pic.twitter.com/M6n5LV1kdq</a></p>&mdash; 3:14 (@kashdoll) <a href="https://twitter.com/kashdoll/status/1463400922684571653?ref_src=twsrc%5Etfw">November 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <img src="https://www.visitkingsland.com/index_htm_files/119934@2x.png" >	
 <h2>BOOMBOX_VOL1</h2>
 <div class="flex-container">
