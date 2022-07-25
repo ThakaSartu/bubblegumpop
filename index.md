@@ -1243,6 +1243,19 @@ Relative position for absolute caption
 ```
 
 <h1>Latest</h1>
+
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/wildstyle-downbythe-7inch-1_1000x1000.jpg?v=1651068862">
+<a href="https://www.kickstarter.com/projects/1400947701/drumpants-an-entire-band-in-your-pocket/description">DrumPants: An Entire Band in your Pocket :: KiCKSTARTER </a>
+<video width="80%" controls>
+  <source src="https://v2.kickstarter.com/1658743300-%2B92NQeoHk4ENUm6ih6yt%2BjOoDifb6I%2BJax2SUZOGei8%3D/projects/765297/video-320064-h264_high.mp4" type="video/mp4">
+  
+  Your browser does not support HTML video.
+</video>
+
+<p>
+Video courtesy of 
+<a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.
+</p>
 [Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0) 
 I want a Macintosh for a lot of SHIT!! BUT I think we will do better as 
 [PODCASTERS_USiNG_LiNUX](https://rss.com/podcasts/bubblegumpop/)
