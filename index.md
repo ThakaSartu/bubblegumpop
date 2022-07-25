@@ -1243,7 +1243,7 @@ Relative position for absolute caption
 4 # UNiVERSE##############################################
 ```
 <h2>BOOMBOX_VOL1</h2>
-
+<div class="flex-container">
     <div class="item1">                        <img src="https://i.discogs.com/Dsk24e8GIPuc5dwhLmy_QMG4fJfUr1RGEdjZFJ8oxos/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ2NDAyNTYy/Ni0yMzY3LmpwZWc.jpeg" /></div>
     <div class="item2">                        <img src="https://media2.giphy.com/media/3o6Zt8esE7mxFelmdG/giphy.gif?cid=ecf05e477pe98kmyaoxqb9029v0zhfgs0u5ix5c59xe07ux9&rid=giphy.gif&ct=g" /></div>
     <div class="item3">                        <img src="https://i.discogs.com/Of600keNLtQPGnRCgnw3EitVFxy0k3oqlUJqfEa8x_Y/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ3MjMyNDI5/MS0xMjA2LmpwZWc.jpeg" /></div>
@@ -1259,7 +1259,7 @@ Released:	May 20, 2016
 Genre:	Hip Hop, Funk / Soul
 Style:	Disco
 ```	
-<h2>Since i couldn’t remove all my tattoos I’m getting them covered,</h2>
+<h2>Since i couldn’t remove all my tattoos I’m getting them covered</h2>
 [https://twitter.com/kashdoll/status/1129563640259121153/photo/1](https://twitter.com/kashdoll/status/1129563640259121153/photo/1)
 <div class="sixpanel">
   <div class="item1"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
