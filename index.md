@@ -1241,65 +1241,27 @@ img {
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-	<h2> DEAR_SARTU::_I_AM_READY_FOR_MY_VOWS</h2>
+
+<h2> DEAR_SARTU::///////_I_AM_READY_FOR_MY_VOWS</h2>
 <div class="sixpanel">
-
-
-  <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+<div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
 </div>
-	<div class="sixpanel">
-
-
-  <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+	
+<div class="sixpanel">
+ <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item2"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item3"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
 </div>
 
-
 <div class="sixpanel">
-
   <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" /></div>
   <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
-
 </div>
-<div class="sixpanel">
 
-  <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/f9048d7ff97aae5673eef9ab3ba9e839.jpg#f9048d7ff97aae5673eef9ab3ba9e839" /></div>
-  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/919d34bd730daca38a00e8406184c018.jpg#919d34bd730daca38a00e8406184c018" /></div>
-  <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/a26aecd206758d8c0bb67ba6ac441f6f.jpg#a26aecd206758d8c0bb67ba6ac441f6f" /></div>
-
-  <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/6e3e93a0d888447dc40c0bb1cbdde072.jpg#6e3e93a0d888447dc40c0bb1cbdde072" /></div>
-  <div class="item2"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/e7/6e/8a/e76e8a76-ff4e-b3e0-e9a2-df65319daea6/634457845466.jpg/1200x1200bf-60.jpg" /></div>
-  <div class="item3"> <img src="https://i1.sndcdn.com/artworks-000015475330-q3eqgx-t500x500.jpg" /></div>
- 
-  <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/18db0c622371cacc1d60a57e90f642da.jpg#18db0c622371cacc1d60a57e90f642da" /></div>
-  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/967387254fd3833b1f7c0c94c4dbdf6a.jpg#967387254fd3833b1f7c0c94c4dbdf6a" /></div>
-  <div class="item3"> <img src="https://i1.sndcdn.com/artworks-000015475330-q3eqgx-t500x500.jpg" /></div> 
-</div>
-<div class="flex-container-rounded">
-   
-    <div class="item1">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/5e5870bb74a869c07600542752b1b
-<div class="sixpanel">
-
-  <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/f9048d7ff97aae5673eef9ab3ba9e839.jpg#f9048d7ff97aae5673eef9ab3ba9e839" /></div>
-  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/919d34bd730daca38a00e8406184c018.jpg#919d34bd730daca38a00e8406184c018" /></div>
-  <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/a26aecd206758d8c0bb67ba6ac441f6f.jpg#a26aecd206758d8c0bb67ba6ac441f6f" /></div>
-
-  <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/6e3e93a0d888447dc40c0bb1cbdde072.jpg#6e3e93a0d888447dc40c0bb1cbdde072" /></div>
-  <div class="item2"> <img src="https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/e7/6e/8a/e76e8a76-ff4e-b3e0-e9a2-df65319daea6/634457845466.jpg/1200x1200bf-60.jpg" /></div>
-  <div class="item3"> <img src="https://i1.sndcdn.com/artworks-000015475330-q3eqgx-t500x500.jpg" /></div>
- 
-  <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/18db0c622371cacc1d60a57e90f642da.jpg#18db0c622371cacc1d60a57e90f642da" /></div>
-  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/967387254fd3833b1f7c0c94c4dbdf6a.jpg#967387254fd3833b1f7c0c94c4dbdf6a" /></div>
-  <div class="item3"> <img src="https://i1.sndcdn.com/artworks-000015475330-q3eqgx-t500x500.jpg" /></div> 
-</div> </div>
-    <div class="item2">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ebdd35113f4be57737d6946c0593a343.jpg#ebdd35113f4be57737d6946c0593a343" /></div>
-    <div class="item3">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ac7851d7e2670c57465e115936512a06.jpg#ac7851d7e2670c57465e115936512a06" /></div>
-</div>
-## CSS SECRETS - REMiND_ME_TO_READ
+	## CSS SECRETS - REMiND_ME_TO_READ
 [CLOUD_COMPUTiNG_LAW](https://www.pbookshop.com/media/filetype/s/p/1381907047.pdf) [HTML5_HACKS](https://pepa.holla.cz/wp-content/uploads/2016/03/HTML5-Hacks.pdf) [Learning Responsive Web Design by Clarissa Peterson](https://www.chinhnghia.com/144936294XDesign.pdf)	 [Audience's behavior and attitudes
 towards lifestyle video blogs on Youtube
 Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf) [BLOGGiNG_FOR_DUMMiES](https://oiipdf.com/blogging-for-dummies-isbn-0470230177) [RESPONSIVE
