@@ -993,6 +993,7 @@ Relative position for absolute caption
   /* flex-flow: row nowrap; */
   flex-direction: row;
   flex-wrap: nowrap;
+  line-height: 0;
   justify-content: center;
   align-content: stretch;
   height: 100%;
@@ -1001,14 +1002,14 @@ Relative position for absolute caption
 }
 
 .sixpanel > div {
-  border: 1px solid #c9ff23;
-  
+  border: 1px solid #b4e853;
 }
 
-img {
- 
-   object-fit: contain;
+.sixpanel > img {
+  display: block;
+  object-fit: contain;
   max-width: 100%;
+  border: 0px solid #b4e853;
 }
 
 
