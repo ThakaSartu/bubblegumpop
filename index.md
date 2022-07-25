@@ -1250,6 +1250,16 @@ Relative position for absolute caption
   <div class="item2"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
   <div class="item3"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
 </div>
+
+<div class="panel4-container">
+   
+    <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+
+</div>
+<img src="https://i.ytimg.com/vi/s8kc2mvB-NM/sddefault.jpg">	
 <center><iframe width="70%" height="315" src="https://www.youtube.com/embed/I1aoRQhqM1k" title="Elive Linux 3.0 Stable Designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</center>
 <img src="https://lastfm.freetls.fastly.net/i/u/770x0/18db0c622371cacc1d60a57e90f642da.jpg#18db0c622371cacc1d60a57e90f642da">
 [Top 5 Best Lightweight Linux distros for Speed and Performance](https://www.youtube.com/watch?v=CnFPCTi5h5c)
@@ -1259,6 +1269,7 @@ Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.
 [::RESEARCH_PAPER::Information superhighways
 Research Paper 94/133
 22 December 1994](https://ntouk.files.wordpress.com/2015/06/1994-information-superhighway.pdf)
+<img src="https://github.com/ThakaRashard/bubblegumpop/blob/gh-pages/img/Screenshot%202022-07-24%208.23.07%20PM.png">
 <h2>
 ## UK_PARLiMENT
 ## Responds to Home Affairs Committee report
