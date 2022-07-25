@@ -1387,7 +1387,7 @@ Research Paper 94/133
   <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
 </div>
 
-<h2> CSS SECRETS - REMiND_ME_TO_READ</h2>
+<h2> CSS SECRETS  REMiND_ME_TO_READ</h2>
 
 [CLOUD_COMPUTiNG_LAW](https://www.pbookshop.com/media/filetype/s/p/1381907047.pdf) [HTML5_HACKS](https://pepa.holla.cz/wp-content/uploads/2016/03/HTML5-Hacks.pdf) [Learning Responsive Web Design by Clarissa Peterson](https://www.chinhnghia.com/144936294XDesign.pdf)	 [Audience's behavior and attitudes
 towards lifestyle video blogs on Youtube
@@ -1411,6 +1411,7 @@ DOI:10.5120/ijca2016911463](https://www.researchgate.net/publication/308182637_R
 [Don't Disturb This Groove::Vocal Remix](https://www.youtube.com/watch?v=Chlk761MQK8) [Love Has Come Around::Donald Byrd & 125th Street, N.Y.C.
 Profile:
 Soul - disco - funk collectivE](https://youtu.be/pEONuPt-0eg) [Wand Curls Quick Tutorial Melisza Mcfierce](https://youtube.com/shorts/gAL5X-rKQC0?feature=share) [4C Hair To 3C ? | Bantu Knot Tutorial On 4C Hair](https://www.youtube.com/watch?v=_d5E7iJYedg) [To my Dear Friend Muna Ahmed](https://www.youtube.com/watch?v=yiI0y89mp_8) [I_AM_HERE_DJiNG_SCRATCH_DJ_STYLE_TRANSiTiONS PRACTiCE_SESSiON IN_MY_OLD_HOUSE OVER-KMD_What a Niggy Know? Freestyle -](https://www.youtube.com/watch?v=7JvwCXVFUto) [Repairing a Space Invaders Arcade](https://www.youtube.com/watch?v=5HaJq-gY6Xk)
+
 <div class="flex-container">
    
     <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
@@ -1551,10 +1552,6 @@ Bigamy is a crime in most countries that recognise only monogamous marriages. Wh
 </div>
 
 
-[Mo Money Mo Problems by The Notorious B.I.G. feat. Puff Daddy, Mase and Faith_Evans](https://www.whosampled.com/The-Notorious-B.I.G./Mo-Money-Mo-Problems/)
-[Crush on You by Lil' Kim feat. Lil' Cease and The Notorious B.I.G.](https://www.whosampled.com/Lil%27-Kim/Crush-on-You/)	
-[Gettin' Money::The Get Money Remix](https://www.whosampled.com/Junior-M.A.F.I.A./Gettin%27-Money-(The-Get-Money-Remix)/)	
-[Jay-Z feat. Foxy Brown and Babyface(Always Be My) Sunshine](https://www.whosampled.com/sample/2209/Jay-Z-Foxy-Brown-Babyface-(Always-Be-My)-Sunshine-The-Fearless-Four-Rockin%27-It/)	
 <div class="flex-container">
    
     <div class="item1">                        <img src="https://upload.wikimedia.org/wikipedia/en/f/fb/SprungMoviePoster.jpg" /></div>
@@ -1585,8 +1582,7 @@ I am looking for ways our podcast can showcase us working together. "Active Wind
 ![VNC_KDE](https://upload.wikimedia.org/wikipedia/commons/7/7f/VNC_in_KDE.png)	
 ![RDC_4_MAC](https://docs.microsoft.com/en-us/azure/lab-services/media/connect-virtual-machine-mac-remote-desktop/install-remote-desktop.png)
 	
-## DEAR_SARTU ::PLEASE_LiSTEN_iLOVEYOU
-[Björk::Possibly_Maybe](https://youtu.be/iyqKy5P1Y0Q)
+
 	
 <img src="https://i.discogs.com/fQLaoZHOHvtcC4bnerVoj7VKU4c8cDSzbnf0kEuNoNA/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc4/OC00MDQxLmpwZWc.jpeg">
 <div class='twoPanelSpread'>
@@ -1607,8 +1603,6 @@ I am looking for ways our podcast can showcase us working together. "Active Wind
 <img src="https://i.discogs.com/73sbsdqIucXGI7T6JF5RnY-ql6fXCYGqEmR_-sphjOs/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MTg0/NzktMTQ2OTQyNzc3/NS05MjUzLmpwZWc.jpeg">
 
 
-[Björk : Isobel::HD_ViDEO](https://www.youtube.com/watch?v=VGPYO0mzmBQ) 
-["I Miss You" - Björk](https://www.youtube.com/watch?v=8A7TqgbHT3k)
 	
 <div class="flex-container">
    
@@ -1683,9 +1677,7 @@ It has been happening for a while
   </div>
 </div>
 -	
-## EVERYTHiNG_REMAiNS_RAW
 
-[EVERYTHiNG_REMAiNS_RAW](https://youtu.be/fd_HkV9zz84) [BUSTA_RHYMES_RAMPAGE_FREESTYLE](https://www.youtube.com/watch?v=5CivybE0slA) [Notorious B.I.G. - Brooklyn Freestyle at the age of 17 (1989)](https://youtu.be/zSx03q1-1KA) [Wang Dang Doodle::Koko Taylor w Little Walter 1967](https://youtu.be/qyUHkY0K8HE) [Fugees murder the Apollo live 1996 ](https://youtu.be/LpA8qvLWF1Q) [Nas & Large Pro - Live at the Barbeque ](https://youtu.be/ta3srWr4sJQ) [MiNNiE_RiPERTON::Inside My Love](https://www.youtube.com/watch?v=jlgp-jjHzC0) [HiFi_SHiT = ROY_AYERS::Everybody Loves The Sunshine](https://www.youtube.com/watch?v=SSBWiFGzsyU) 
 	
 # DEAR_ELDRiAN_iVY 
 ### yo daddy said you can be my wife as well
@@ -1694,14 +1686,8 @@ It has been happening for a while
 [Smelly device would liven up web browsing](https://www.newscientist.com/article/dn4705-smelly-device-would-liven-up-web-browsing/)
 [The Effects of Computerized Smell of Memory::Nova Southeastern University::](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1855&context=gscis_etd)
 [New Invention Lets You Taste the TV](https://www.youtube.com/watch?v=LJD-uPTIgx8)
-[Beastie Boys - Alive](https://youtu.be/JkeE2O15RFs) [Beastie Boys - Root Down](https://youtu.be/Xf1YF_MH1xc) [Beastie Boys - Shake Your Rump](https://youtu.be/BptQHAW2T5M) [Busta Rhymes ‎- Woo-Hah!! Got You All In Check from the album "The Coming" (1996) ](https://youtu.be/EQzvQO2LcA4)
-[Beastie Boys - Body Movin::HELLO_NASTY::](https://www.youtube.com/watch?v=4ItdKOXH3qA) [Beastie Boys - So What'Cha Want](https://youtu.be/ru3gH27Fn6E) [DEAR_JABDU - ENJOY_THiS_TRACK_WiTH_CORAL Björk::Enjoy::Post](https://www.youtube.com/watch?v=RYmyfksGA74)
 	
-## DEAR_CYNTHiA WORKABLE_LIST_FOR_FATHER_DAUGHTER_BONDiNG
-[Björk::Human Behaviour](https://youtu.be/p0mRIhK9seg) [Björk : ARMY_OF_ME::video](https://www.youtube.com/watch?v=jPeheoBa2_Y) [Björk::Jóga](https://youtu.be/loB0kmz_0MM) [Dido - Thank You |Official Video|](https://youtu.be/1TO48Cnl66w) [Beastie Boys - Three MC's And One DJ](https://youtu.be/XflfiylNNXY) [Lorde - White Teeth Teens](https://www.youtube.com/watch?v=kNUWreGGxcc&list=PLvm6B0LWgqu-rHo4GAqYy5mC1O7pUxntS&index=9) [Dido – My Lover's Gone
-Genre:	Pop
-Style:	
-Year:	2002](https://www.youtube.com/watch?v=Libbd7BCBHE) [Beastie_Boys - Sure_Shot::iLL_COMMUNiCATiON](https://youtu.be/JhqyZeUlE8U) [Dido - Honestly Ok](https://youtu.be/mCcNGt_eliM) [Dido - I'm No Angel ](https://youtu.be/i5JyWpyYVx4) [Eminem - Stan ft. Dido](https://youtu.be/gOMhN-hfMtY)  [WHOSAMPLED::EXPLORE_THE_STAN_SAMPLES](https://www.whosampled.com/Eminem/Stan/)
+
 
 <div class="panel4-container">
    
@@ -1716,8 +1702,7 @@ Year:	2002](https://www.youtube.com/watch?v=Libbd7BCBHE) [Beastie_Boys - Sure_Sh
 <iframe src="https://app.box.com/embed/s/5offd8aji0f4ohd959gnx4ac2bxcmue8?sortColumn=date&view=list" width="60%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
 <img src="https://www.6speedonline.com/wp-content/uploads/2015/03/Pennzoil_Airlift_Drift_-_YouTube1.jpg" >
 <iframe src="https://app.box.com/embed/s/0lhathv15em7gu9se4uda4zshevhueaz?sortColumn=date&view=list" width="60%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
-## DEAR_CORAL ##JUS_LiSTN
-[Tears For Fears - Sowing The Seeds Of Love](https://www.youtube.com/watch?v=VAtGOESO7W8) [Mr. Mister - Broken Wings](https://www.youtube.com/watch?v=nKhN1t_7PEY)[Nija - Not One Of Them](https://www.youtube.com/watch?v=1Xc4ZAWj06g) [Men At Work - Who Can It Be Now?](https://www.youtube.com/watch?v=SECVGN4Bsgg) [Artifacts - Wrong Side Of Da Tracks](https://www.youtube.com/watch?v=GM92f-BUoow) [M.I.A. - Go Off](https://www.youtube.com/watch?v=kGDhHxgY6uo) [Lorde - Team](https://www.youtube.com/watch?v=f2JuxM-snGc) [Grimes - World Princess Part II](https://www.youtube.com/watch?v=EOwhuTlxE54) [Lorde - Tennis Court](https://www.youtube.com/watch?v=D8Ymd-OCucs) [Lorde - Royals](https://www.youtube.com/watch?v=nlcIKh6sBtc) [a-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914) [Michael Jackson - Smooth Criminal](https://www.youtube.com/watch?v=h_D3VFfhvs4) [Janet Jackson - Empty / Full](https://www.youtube.com/watch?v=q37CHEMiXi4) &#128293; [M.I.A. - Matahdatah Scroll 01 "Broader Than A Border"](https://www.youtube.com/watch?v=SJuFdkMOP20) &#128293; [Disclosure - Magnets ft. Lorde](https://www.youtube.com/watch?v=b_KfnGBtVeA) [GRiMES - Realiti](https://www.youtube.com/watch?v=BOxFvfjlnno)
+
 ## GHOST_iN_THE_SHELL 1995 
 Since my family got kidnapped I have had to cope with messages and threats from of the prostitution crews of LOS_ANGELES_and_ATLANTA they all operate here ya know... ##GLOBAL_SEX_SLAVE_TRADE_and_TOURiSM hint hint. The thing now that 2 years nearly have passed... No one talks to me, Im destitute and I get random glimpses of my wives and our chldren on the street. The Main 3 I have spotted in prostitution aka SexSlavery. Ive lived with them SARTU_ERiKA_and_MUNA_aka_MUNi and I know their sexuality they are not prostitutes. I hate getting notices from random creepy people that you are not going to get your family back and may lose your penis. The agression is awful and now that I have lived here a while and know what my wives orgasm patterns look like in the real world... I know whos raping them
 <div class='twoPanelSpread'>
@@ -1839,14 +1824,7 @@ CD, Single](https://www.youtube.com/watch?v=cQzMHhRCTYw)
     </div>
   </div>
 </div> 
-## CRUiSiN_CALi_SOUNDS_4_PCH_US1::DATE_IDEAS
-[The Jones Girls - Nights Over Egypt ](https://www.youtube.com/watch?v=pzxwZ6wjDAM) [Remind Me · Patrice Rushen ·Straight From The Heart](https://www.youtube.com/watch?v=SOPp6EgpDrg)
-[Yearning For Your Love::By::THE_GAP_BAND](https://www.youtube.com/watch?v=afqzUbvi7D8) [The Jones Girls::Who Can I Run To?::1979](https://www.youtube.com/watch?v=JRpKQb9J-nU) [Keke Wyatt::NOTHiNG_iN_THiS_WORLD](https://www.youtube.com/watch?v=diEV1qC34Og) [Stephanie Mills-Two Hearts Featuring Teddy Pendergrass](https://www.youtube.com/watch?v=uJ7HN1nNdbc)
-[NEW_EDiTiON::Cool It Now (Official Video)](https://www.youtube.com/watch?v=RZUq6N7Gx1c) [NEW_EDiTiON::Mr. Telephone Man](https://www.youtube.com/watch?v=GsWrlzjxbPY) [BOBBY_BROWN::Every Little Step](https://www.youtube.com/watch?v=muDCggSpqpE) &#128293; [A1 Warm It Up (LP Version)
-Producer – Jermaine Dupri](https://www.youtube.com/watch?v=fwXfhQaBRZI) &#128293; [TLC - What About Your Friends (Official Video)](https://www.youtube.com/watch?v=92gHq1s6G-c) [Another Bad Creation - Iesha (Official Music Video)](https://www.youtube.com/watch?v=ZDPIK7Fz_g4) [SWV – You're The One
-Genre:	Funk / Soul
-Style:	RnB/Swing, Hip Hop
-Year:	1996](https://www.youtube.com/watch?v=Ua4fg2FQ6w8) [BRANDY::Sittin' Up In My Room from Waiting to Exhale - Original SoundtracK](https://www.youtube.com/watch?v=DGgANpSjoas) [702 - Steelo feat. Missy Elliott::1996](https://www.youtube.com/watch?v=LdvRwHhla6Q)
+
 
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -3815,8 +3793,7 @@ https://i.pinimg.com/originals/b1/a5/31/b1a531387792bd946642e80ac2a1487d.jpg
 <span class="neonText">
  ##SAATUZEE_WILL_YOU_MARRY_ME?!
 </span>
-[DELiRiUM:BY::##ELLiE_GOULDING## ##FAV_TRACK## ## ](https://youtu.be/cLWv0f2Tt8E) 
-[DiSCOGS:##ENTRY](https://www.discogs.com/release/8118343-Ellie-Goulding-Delirium)
+
 </div>
 <div class='twoPanelSpread'>
   <div class='row'>
