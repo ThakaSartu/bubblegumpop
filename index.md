@@ -1244,11 +1244,20 @@ Relative position for absolute caption
 ```
 
 <h1>Latest</h1>
-<span class="neonText"> Dear Danielle MAshonga, DFACS, DPSS
+<span class="neonText"> Dear Danielle_MAshonga, DFACS, DPSS
 	WHERE_IS_CORAL?!?!?</span>	
- 
+<p>
 <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-0281-1513267146.jpeg?crop=1xw:1xh;center,top&resize=768:*">	
-
+<code>THANK_YOU_COSMOPOLiTAN for this article that highlights this device as one used in sports medicine</code>
+Sex educator and artist Betty Dodson had been teaching her famous Bodysex workshops in New York City since the late 60s. These women-only workshops focused on teaching women how to masturbate. Dodson was a pioneer and advocate for the use of vibrators, ever since her lover in the late 1960s introduced her to an electric vibrator originally used for scalp massages. While Dodson <a href="http://www.dodsonandross.com/blogs/betty-dodson/2010/06/having-sex-machines-return-electric-vibrator" href="http://www.dodsonandross.com/blogs/betty-dodson/2010/06/having-sex-machines-return-electric-vibrator" target="_blank" data-vars-ga-outbound-link="http://www.dodsonandross.com/blogs/betty-dodson/2010/06/having-sex-machines-return-electric-vibrator">originally</a> While Dodson is widely credited with popularizing the Magic Wand, she received no compensation for her endorsement of the toy. Dodson added, "it's really shitty of [Hitachi] to not acknowledge my efforts and give me a percentage." || WRiTTEN_BY :: CARiNA_HSiEH<</p> 
+	<a href="https://twitter.com/carinahsieh"> Carina's TWiTTER</a>
+	<a href="https://www.linkedin.com/in/carina-hsieh-a8802458"> CARiNA_HSiEH's LiNKEDiN</a>
+	<h3>THAKAS_THOUGHTS</h3>
+	<a href="https://www.linkedin.com/in/danielle-mushonga-msw-26262132">DANiELLE_MUSHONGA's LiNKEDiN_PROFiLE (KiDNAPPiNG_SPECiALiST) </a>
+	<center>
+<iframe width="500" height="315" src="https://www.youtube.com/embed/UmGMZLs5NCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</center>
+	
 [THiS_iS_NOT_HOW_HEALTHY_AFRiCA##OPERATES](https://www.youtube.com/watch?v=EPoXBbigVeo) [Sexuality: A Graphic Guide | Launch Event](https://youtu.be/jOIbOMWBHHM) [The Freeze Response and Sexual Assault: PTSD and Trauma Recovery](https://www.youtube.com/watch?v=pes7H4ECTdw) [6 Hidden Signs of Complex PTSD cPTSD](https://www.youtube.com/watch?v=44hqDT7NNHU) [What It’s Like to Break Up with a Narcissist](https://www.youtube.com/watch?v=CtllLbN1IAo) [Intimacy After Trauma | Kat Smith | TEDxMountainViewCollege](https://youtu.be/VB9-4kELT2k) [Relationships After Rape | Shelby St. Pierre | TEDxHamlineUniversity](https://www.youtube.com/watch?v=UC05PVN621k) [Men Need To Talk About Their Sexual Abuse | Seth Shelley | TEDxUNBC](https://www.youtube.com/watch?v=r4CIop1zlVM) [Men Can Be Sexually Assaulted, Too | CJ Krainock | TEDxRexburg](https://www.youtube.com/watch?v=PnoRVCqeM6U)
 	
 <video style="max-width: 100%;" poster="/wordpress/wp-content/uploads/2022/01/unparalleled-extensibility-anim-opening2.jpg" autoplay="autoplay" loop="loop" muted="muted" width="1280" height="100%"><source src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2022/01/unparalleled_extensibility-v3-60FPS-compressed-v2.mp4" type="video/mp4"></video>
