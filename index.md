@@ -1235,7 +1235,7 @@ Relative position for absolute caption
               </select>
               <input type="button" name="Button1" value="Go" onclick="P7_JumpMenuGo('menu1',0)" class="jumpmenu">
             </form>
-<center>	
+	
 ```
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
 2 # TO####################################################
@@ -4625,4 +4625,4 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 <span class="neonText">
  #somalisong #Oromogirl #quxubesero
 </span>
-	</center>
+	
