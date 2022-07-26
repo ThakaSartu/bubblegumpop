@@ -1095,6 +1095,7 @@ Relative position for absolute caption
   display: inline-block;
   white-space: nowrap;
   background: transparent;
+max-width: 80%;
 }
 
 .media-player-controls {
