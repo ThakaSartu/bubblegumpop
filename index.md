@@ -1244,6 +1244,11 @@ Relative position for absolute caption
 ```
 
 <h1>Latest</h1>
+ <video width="100%" controls>
+  <source src="https://videos.ctfassets.net/8cd2csgvqd3m/2lJPxUH5XqdTxFjyQi5peI/c9c2125c9aa081cd5ac7be7e4d5ec03e/Sound_And_Vision_For_Your_Home_Beolab_28___Beovision_Harmony_0003_Loop.mp4" type="video/mp4">
+  
+  Your browser does not support HTML video.
+</video>
 <span class="neonText"> Dear Danielle_MAshonga, DFACS, DPSS
 	WHERE_IS_CORAL?!?!?</span>	
 <p>
