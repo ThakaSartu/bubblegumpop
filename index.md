@@ -1245,6 +1245,38 @@ Relative position for absolute caption
 <h1>(づ˶•༝•˶)づ♡DEAR_Sartu👰🏾##I_DO_TAKE_YOU_AS</h1>
 <h1>💒MY_LAWFULLY_WEDDED_BRIDE💑</h1>
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/KASHDOLL.PNG">
+
+<h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
+<div class="container">
+
+  <!-- 
+Il suffit d'ajouter une div avec la classe "media-player" + la video
+puis créer une instance le MediaPlayer en passant la div.
+Les controls sont ajoutés dynamiquement.
+-->
+  <div class="media-player">
+    <video class="made-player-video" poster="https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/cardi_b_normani_slam_trolls_for_suggesting_wild_side_shouldve_been_a_solo.jpg">
+     <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
+    
+     <p>Your user agent does not support the HTML5 Video element.</p>
+   </video>
+  </div>
+  <!-- .media-player -->
+
+  <!-- 
+On peut un peu contrôler le player de manière externe (play, pause, son,...)
+-->
+  <div>
+    <h2>Media player functions tests</h2>
+    <button class="play">Play | Pause</button>
+    <button class="goto">Go to 30s</button>
+    <button class="stop">Stop</button>
+    <button class="mute">Mute</button>
+    <button class="volume">Volume max</button>
+  </div>
+
+</div>
+<!-- .container -->
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/WiLDSiDE_BEHiND_THE_SCENES.PNG" > 
 <a href="https://www.youtube.com/watch?v=FOm8LqH5lz8&t=205s" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">Cardi B x Megan Thee Stallion - Inside the WAP (BTS) [Part 1] </a>
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/DEAR_KASH_DOLL_MAYBE_WE_SHOULD_LET_OLD_PEOPLE_WITHOUT_GENITAL_CONTACT_DJ.PNG" >
@@ -1878,10 +1910,13 @@ Here you can create, resize, crop, reverse, optimize, and apply some effects to 
     <div class="item2">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
     <div class="item3">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
 </div>
-## DEAR HAYAT and MUNA_aka_Muni
-I found a profile for Sartu on pinterst. Its like one of those modeling fan guys who download pics of young women he dont know. [Jb Smith ::GiRLY_PiC_REPO](https://www.pinterest.com/jbsmith374/melisza-mcpherson/)
-I also found her here, [Kash Doll & Tracy T Talk Their Relationship, Parenthood, Toxic Traits, The Grind & More | Big Facts](https://www.youtube.com/watch?v=c7k_OK4qJaA) . Wale made her sing "Single and Happy and she claims me outdoors all day long... They are controlling her image online and molesting her behind closed doors The prostitution community phrasing things like she is not married to me via the internet and as we all know the social media companies have all blocked me and many of my women and children have lost their user accounts mysteriously recently on pinterest. Those IT_DEV_GUYS_WITH_CATS have secrets sometimes, and prostitution affects that population in a different way than other office populations... There is little to no accountability for your websurfing if you work in engineering and they get seduced by prostitution and pedophillia. 
-
+<p>
+<h2>## DEAR HAYAT and MUNA_aka_Muni </h2>
+I found a profile for Sartu on pinterst. Its like one of those modeling fan guys who download pics of young women he dont know.
+[Jb Smith ::GiRLY_PiC_REPO](https://www.pinterest.com/jbsmith374/melisza-mcpherson/)
+I also found her here,
+[Kash Doll & Tracy T Talk Their Relationship, Parenthood, Toxic Traits, The Grind & More | Big Facts](https://www.youtube.com/watch?v=c7k_OK4qJaA) . Wale made her sing "Single and Happy and she claims me outdoors all day long... They are controlling her image online and molesting her behind closed doors The prostitution community phrasing things like she is not married to me via the internet and as we all know the social media companies have all blocked me and many of my women and children have lost their user accounts mysteriously recently on pinterest. Those IT_DEV_GUYS_WITH_CATS have secrets sometimes, and prostitution affects that population in a different way than other office populations... There is little to no accountability for your websurfing if you work in engineering and they get seduced by prostitution and pedophillia. 
+</p>
 [For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -1898,38 +1933,7 @@ I also found her here, [Kash Doll & Tracy T Talk Their Relationship, Parenthood,
   </div>
 </div>
 [For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
-<iframe src="https://app.box.com/embed/s/dv3uzry52bg11r35lz20vlj9lx8th1yc?sortColumn=date&view=list" width="800" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
-## Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE
-<div class="container">
 
-  <!-- 
-Il suffit d'ajouter une div avec la classe "media-player" + la video
-puis créer une instance le MediaPlayer en passant la div.
-Les controls sont ajoutés dynamiquement.
--->
-  <div class="media-player">
-    <video class="made-player-video" poster="https://www.okayplayer.com/wp-content/uploads/2021/07/normani-and-cardi-b-link-up-in-sensual-video-for-wild-side.jpg">
-     <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
-    
-     <p>Your user agent does not support the HTML5 Video element.</p>
-   </video>
-  </div>
-  <!-- .media-player -->
-
-  <!-- 
-On peut un peu contrôler le player de manière externe (play, pause, son,...)
--->
-  <div>
-    <h2>Media player functions tests</h2>
-    <button class="play">Play | Pause</button>
-    <button class="goto">Go to 30s</button>
-    <button class="stop">Stop</button>
-    <button class="mute">Mute</button>
-    <button class="volume">Volume max</button>
-  </div>
-
-</div>
-<!-- .container -->
 ## MUNi_aka_MUNA = [I_CAN_SEE_YOUR_TRACKS](https://www.youtube.com/watch?v=YVITux76S0U)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/469196346&color=%23cbb5ab&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 ## SARTU = [JULY_FLAME](https://www.youtube.com/watch?v=iLilpPtY2JU)
