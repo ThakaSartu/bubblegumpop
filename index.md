@@ -1244,7 +1244,13 @@ Relative position for absolute caption
 ```
 
 <h1>Latest</h1>
+<span class="neonText"> Dear Danielle MAshonga, DFACS, DPSS
+	WHERE_IS_CORAL?!?!?</span>	
+ 
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-0281-1513267146.jpeg?crop=1xw:1xh;center,top&resize=768:*">	
 
+[THiS_iS_NOT_HOW_HEALTHY_AFRiCA##OPERATES](https://www.youtube.com/watch?v=EPoXBbigVeo) [Sexuality: A Graphic Guide | Launch Event](https://youtu.be/jOIbOMWBHHM) [The Freeze Response and Sexual Assault: PTSD and Trauma Recovery](https://www.youtube.com/watch?v=pes7H4ECTdw) [6 Hidden Signs of Complex PTSD cPTSD](https://www.youtube.com/watch?v=44hqDT7NNHU) [What It’s Like to Break Up with a Narcissist](https://www.youtube.com/watch?v=CtllLbN1IAo) [Intimacy After Trauma | Kat Smith | TEDxMountainViewCollege](https://youtu.be/VB9-4kELT2k) [Relationships After Rape | Shelby St. Pierre | TEDxHamlineUniversity](https://www.youtube.com/watch?v=UC05PVN621k) [Men Need To Talk About Their Sexual Abuse | Seth Shelley | TEDxUNBC](https://www.youtube.com/watch?v=r4CIop1zlVM) [Men Can Be Sexually Assaulted, Too | CJ Krainock | TEDxRexburg](https://www.youtube.com/watch?v=PnoRVCqeM6U)
+	
 <video style="max-width: 100%;" poster="/wordpress/wp-content/uploads/2022/01/unparalleled-extensibility-anim-opening2.jpg" autoplay="autoplay" loop="loop" muted="muted" width="1280" height="100%"><source src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2022/01/unparalleled_extensibility-v3-60FPS-compressed-v2.mp4" type="video/mp4"></video>
 
 <img src="https://cdn.shopify.com/s/files/1/0105/4542/products/wildstyle-downbythe-7inch-1_1000x1000.jpg?v=1651068862">
