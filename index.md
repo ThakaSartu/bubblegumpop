@@ -1887,36 +1887,6 @@ It has been happening for a while
     </div>
   </div>
 </div>	
-<iframe width="600" height="700" src="https://pdfroom.com/embed/books/blogging-for-creatives-how-designers-artists-crafters-and-writers-can-blog-to-make-contacts-win-business-and-build-success/zydD800Xd14" frameborder="0" allowfullscreen></iframe>
-## GHOST_iN_THE_SHELL 1995 ^^^	
-[Toto - Rosanna (Official HD Video)](https://www.youtube.com/watch?v=qmOLtTGvsbM) [Men At Work - Down Under](https://www.youtube.com/watch?v=XfR9iY5y94s) [Toto - Africa (Official HD Video)](https://www.youtube.com/watch?v=FTQbiNvZqaY) &#128293; [Tears For Fears - Shout (Official Music Video)](https://www.youtube.com/watch?v=Ye7FKc1JQe4) &#128293;
-[Ghost in the Shell - English Trailer](https://www.youtube.com/watch?v=2uMNtOQOaLU)
-## ONLiNE_TOOLS::ezGiF
-```ruby
-	I stumbled onto this making graphics for Me and Sartus family blog. I have learned some more video editing and a lot of techniques meme makers use to communicate. Go try it, that how I make Sartu's animated gifs 
-##FROM_SiTE ~> Ezgif.com is a simple online GIF maker and toolset for basic animated GIF editing.
-Here you can create, resize, crop, reverse, optimize, and apply some effects to GIFs.	
-```
-[EZGiF_ONLiNE_GiF_SUiTE](https://ezgif.com/)
-## DEAR_SARTU::WOODSTOCK_OVER_I_WANNA_MAKE_LOVE_AGAIN :(
-<div class="sixpanel">
-   
-    <div class="item1">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
-    <div class="item2">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
-    <div class="item3">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
-  
-     
-    <div class="item1">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
-    <div class="item2">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
-    <div class="item3">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
-</div>
-<p>
-<h2>## DEAR HAYAT and MUNA_aka_Muni </h2>
-I found a profile for Sartu on pinterst. Its like one of those modeling fan guys who download pics of young women he dont know.
-[Jb Smith ::GiRLY_PiC_REPO](https://www.pinterest.com/jbsmith374/melisza-mcpherson/)
-I also found her here,
-[Kash Doll & Tracy T Talk Their Relationship, Parenthood, Toxic Traits, The Grind & More | Big Facts](https://www.youtube.com/watch?v=c7k_OK4qJaA) . Wale made her sing "Single and Happy and she claims me outdoors all day long... They are controlling her image online and molesting her behind closed doors The prostitution community phrasing things like she is not married to me via the internet and as we all know the social media companies have all blocked me and many of my women and children have lost their user accounts mysteriously recently on pinterest. Those IT_DEV_GUYS_WITH_CATS have secrets sometimes, and prostitution affects that population in a different way than other office populations... There is little to no accountability for your websurfing if you work in engineering and they get seduced by prostitution and pedophillia. 
-</p>
 [For Broken Ears::Tems::FULL_ALBUM::2020](https://soundcloud.com/temsbaby/sets/for-broken-ears)
 <div class='twoPanelSpread'>
   <div class='row'>
@@ -1964,6 +1934,41 @@ CD, Single](https://www.youtube.com/watch?v=cQzMHhRCTYw)
     </div>
   </div>
 </div> 
+
+
+[Toto - Rosanna (Official HD Video)](https://www.youtube.com/watch?v=qmOLtTGvsbM)
+[Men At Work - Down Under](https://www.youtube.com/watch?v=XfR9iY5y94s)
+[Toto - Africa (Official HD Video)](https://www.youtube.com/watch?v=FTQbiNvZqaY) &#128293; 
+[Tears For Fears - Shout (Official Music Video)](https://www.youtube.com/watch?v=Ye7FKc1JQe4) &#128293;
+[Ghost in the Shell - English Trailer](https://www.youtube.com/watch?v=2uMNtOQOaLU)
+## ONLiNE_TOOLS::ezGiF
+
+```ruby
+	I stumbled onto this making graphics for Me and Sartus family blog. I have learned some more video editing and a lot of techniques meme makers use to communicate. Go try it, that how I make Sartu's animated gifs 
+##FROM_SiTE ~> Ezgif.com is a simple online GIF maker and toolset for basic animated GIF editing.
+Here you can create, resize, crop, reverse, optimize, and apply some effects to GIFs.	
+```
+
+[EZGiF_ONLiNE_GiF_SUiTE](https://ezgif.com/)
+## DEAR_SARTU::WOODSTOCK_OVER_I_WANNA_MAKE_LOVE_AGAIN :(
+<div class="sixpanel">
+   
+    <div class="item1">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+  
+     
+    <div class="item1">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+    <div class="item2">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+    <div class="item3">                        <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" /></div>
+</div>
+<p>
+<h2>## DEAR HAYAT and MUNA_aka_Muni </h2>
+I found a profile for Sartu on pinterst. Its like one of those modeling fan guys who download pics of young women he dont know.
+[Jb Smith ::GiRLY_PiC_REPO](https://www.pinterest.com/jbsmith374/melisza-mcpherson/)
+I also found her here,
+[Kash Doll & Tracy T Talk Their Relationship, Parenthood, Toxic Traits, The Grind & More | Big Facts](https://www.youtube.com/watch?v=c7k_OK4qJaA) . Wale made her sing "Single and Happy and she claims me outdoors all day long... They are controlling her image online and molesting her behind closed doors The prostitution community phrasing things like she is not married to me via the internet and as we all know the social media companies have all blocked me and many of my women and children have lost their user accounts mysteriously recently on pinterest. Those IT_DEV_GUYS_WITH_CATS have secrets sometimes, and prostitution affects that population in a different way than other office populations... There is little to no accountability for your websurfing if you work in engineering and they get seduced by prostitution and pedophillia. 
+</p>
 
 
 <div class='twoPanelSpread'>
