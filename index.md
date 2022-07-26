@@ -1244,15 +1244,55 @@ Relative position for absolute caption
 ```
 
 <h1>Latest</h1>
+<h1>DEAR_Sartu##I_DO_TAKE_YOU_AS_MY_LAWFULLY_WEDDED_BRIDE(づ˶•༝•˶)づ♡ </h1>
+[The Original HTAU_BLOG](https://thakarashard.github.io/holetoanotheruniverse/)
+[News about Akihabara Mass Murderer Execution](https://www.bing.com/search?q=Akihabara+mass+murderer+execution&efirst=0&ecount=50&filters=tnTID%3a%226D9DC016-9522-461b-A44D-BA47553D22AB%22+tnVersion%3a%224680267%22+Segment%3a%22popularnow.carousel%22+tnCol%3a%221%22+tnOrder%3a%229fd365cb-dcf8-4241-8eab-ca8d94400258%22&form=HPNN01)
+[THE_CROWN_PROSECUTION_SERVICE](https://www.cps.gov.uk/)	
+[THE LAND OF NO MEN: Kenya's Women-Only Village](https://www.youtube.com/watch?v=-QY8FALExGA)
+<span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+<p> Dear Sartu, since California has a climate very similar to ##ETHiOPiA_as_WE_KNOWiT. Coffee might be a good crop in addition to cannabis. Tobacco maybe? I spent time with our family in 
+[REiDsViLLE](https://en.wikipedia.org/wiki/Reidsville,_Georgia) where my family friend Coalas and Fred jr grew at an eary pre-Watchtower point Tobacco, and later to sqaush, melons, and leafygreens. I did not know that tobacco bit, however Vickye used to always spout off details about the family members of their Georgia settlement as it was described to me. So anyway after getting aquainted with "Brother" Benny Willams I always looked forward to a trip to hear on of his sermons. After the Kingdom hall there was a dinner at a local familys house to give the speaker of the "talk" as we called them some <span class="neonText">HOSPiTALiTY</span>. One one occasion they took Vickye and I to pick some squash from their still attatched to the vine squash farm lushilusly grown on thier small southern family commercial farm near Claxton where Colas worked. There wwas a cake factory that made mostly holiday fruitcake year around for the winter christian holiday Christmas. Them things dont tast that good but they last a long ass time. In this time of need Muna will not even bring me fruitcake... Just another Erika... But, since technology has ousted me at the money earning level from child molestation allegations, I think pursuing farming is an option I want to explore for my slice of caring for this family's needs
+	</p>
+[SEEDS OF GOLD: A faster way to grow coffee and earn from it](https://www.youtube.com/watch?v=PfGXrOuOeMU)
+[African Village Life, Visiting Cows On A Farm, Drinking Raw Milk.](https://www.youtube.com/watch?v=VjXpM3A-lhY)
+[FARM CLINIC: The 19th edition of Seeds of Gold](https://www.youtube.com/watch?v=y1anIIH2eUU)
+[DEAR_MUWAH_HERE_iS_MY_AGRiCULTURE_AUNTiE_TALK_TO_IMAN for DETAiL](https://www.youtube.com/watch?v=caNk4U6rO70)	
 [DEAR_MUNi__aaaaHem_MUNA if i could find your make up vids id like to make some gifs... I made some for Sartu](https://codepen.io/thakarashard/pen/JjLJOzZ)
 [Most practical method for a secret demographic to get its news?](https://worldbuilding.stackexchange.com/questions/233206/most-practical-method-for-a-secret-demographic-to-get-its-news) 
 [Census 2021 Prosecutions22 July 2021|Legal Guidance](https://www.cps.gov.uk/legal-guidance/census-2021-prosecutions)
+[THE UK's CROWN_PROSECUTION_SERVICE SEXUAL_OFFENSE GUiDE](https://www.cps.gov.uk/crime-info/sexual-offences)
+[DEAR_LOS_ANGELES_HOW_DO_WE_PROSECUTE CYBER_BULLYiNG?!?!?](https://www.cps.gov.uk/crime-info/cyber-online-crime)
 
  <video width="100%" controls>
   <source src="https://videos.ctfassets.net/8cd2csgvqd3m/2lJPxUH5XqdTxFjyQi5peI/c9c2125c9aa081cd5ac7be7e4d5ec03e/Sound_And_Vision_For_Your_Home_Beolab_28___Beovision_Harmony_0003_Loop.mp4" type="video/mp4">
   
   Your browser does not support HTML video.
 </video>
+
+<h2>I need to get my daughter out of a molesters hands (・о・) </h2>
+<h2 class="neonText"> Its been 757 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h2> 
+Her mother mother Erika Renee Kelly was kidnapped on Feb 2,2020. A local Atlanta Matt Field bragged about it on Facebook stating "I_SOLD_HER. I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as 
+[ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with 
+[Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the 
+[Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at 
+[Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us/) and worked hard to get a new 9-5. Constancia did not like me or Coral living with her and Akeeva so they undercut me with accusations of erratic behavior and started thier own dfacs case accusing me of schizophrenia. I had no income and was repeatedly denied foodstamps and welfare by a woman named ##DANIELLE_MASHONGA_and_her_colleage##MANESSA_WARNER... ##Coral would ask <h2> Where_is_mommy?!?</h2> I told her that Matt stole and raped her and she needs our help, so we have to keep looking. Constancia and Akeeva constantly defended Matt. He is a known pedophile and child and adult rapist in the Atlanta art community. I did not know this. We shopped at the same record store and he often offered me work. I loath rapist. I loath pedophilia. Once I learned of his ways I distanced myself. So ##Erikas_mother_and_sisters_DEFENDING_HIM, struck me as bizarre. "##Its_just_a_white_boy_joke##He_didnt_sell_her". 
+[DFACS](https://dfcs.georgia.gov/) stalked me on Facebook and indirectly accused me of ##CHILD_MOLESTATION for a video where we were playing with a wand style muscle massager, it was innocent. They 
+[forcibly removed Coral](https://www.youtube.com/watch?v=AmYdIZhahrQ) saying that I was saying 
+["inappropriate things"](https://www.youtube.com/watch?v=9sCE3HhjSbY) and violating her by saying that her mom had been raped and kidnapped. I learned that telling Coral the ugly truth was the best way to keep a solid trust filled relationship with her. In the DFACS meeting, puzzled I told Mashonga the truth, I cant find work, my reputation was being sabotaged and I could not even get a job at ##Kroger the local grocery store. I told Mashonga I needed money for food, Constancia would not feed niether me or Coral. I asked Mashonga in 
+[This_Family_Meeting](https://www.youtube.com/watch?v=Q8NXhT6_Tx8) if she cared about me dying on the street and she shook her head, no. I was never interviewed with Coral at all, I never got a psych eval until I got to a ##UCLA_Recoup_Center_in_PalmDale_California. In early October I saw Coral, in Pasadena, ##California, with a grown man wearing fishnet stockings... Shes 9. I was shot with a poison dart one day later, my skateboard stolen and my foot began to swell larger that a shoe could fit... I was rushed to the emergency room and ##UCLA ##Cut_my_foot_to_the_bone_to_drain_the_infection... I cant run as well any more and am now handicapped 
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Q8NXhT6_Tx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9sCE3HhjSbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/AmYdIZhahrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2>Her_Former_Life_With_Me</h2>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/-oZuyrU764s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CsM4jNSAm4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ydGxlS8l7Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <span class="neonText"> Dear Danielle_MAshonga, DFACS, DPSS
 	WHERE_IS_CORAL?!?!?</span>	
 <p>
@@ -1267,7 +1307,31 @@ Sex educator and artist Betty Dodson had been teaching her famous Bodysex worksh
 	</p>
 <p align="center"><iframe width="500" height="315" src="https://www.youtube.com/embed/UmGMZLs5NCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 	
-	
+![NELLY_FOLKLORE](http://1.bp.blogspot.com/_UXXtJmb1kNs/Swsc7CGXUDI/AAAAAAAAEfw/e8t3BTnTl_M/s1600/FolkloreCassetteIndonesia2003.jpg)
+<span class="neonText">
+<a href="https://www.youtube.com/watch?v=Hj2mA1ZNPFA">Luther Vandross, Gregory Hines - There's Nothing Better Than Love</a> <a href="https://www.youtube.com/watch?v=m3-hY-hlhBg">Whitney Houston - How Will I Know (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=hmHWiUv4wyM">Yolanda Adams - I'm Gonna Be Ready
+</a> 
+<a href="https://www.youtube.com/watch?v=Ptiz0KtR16E">Monica - Before You Walk Out Of My Life (Official HD Video)</a> 
+<a href="https://www.youtube.com/watch?v=wa3tfVjGCQ8">Whitney Houston - Where Do Broken Hearts Go (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=5ixh1csw2Mk">Count On Me (from "Waiting to Exhale" - Original Soundtrack)</a> 
+<a href="https://www.youtube.com/watch?v=RSP-9SebVpY"> Tamia - Stranger in My House</a> 
+<a href="https://www.youtube.com/watch?v=Xkj1An6Wnec"> Brandy - Have You Ever (Official Video) </a> 
+<a href="https://www.youtube.com/watch?v=lSd1ll37xQU">Missing You - Brandy, Tamia, Gladys Knight and Chaka Khan [Set It Off Soundtrack] (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=H947PtHmh0Y">Deborah Cox - Nobody's Supposed To Be Here (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=Y36aBTuRr1o">Gladys Knight & The Pips - Save the Overtime (For Me)</a> 
+<a href="https://www.youtube.com/watch?v=XYclWyC4qQo">Tom Browne - Funkin' for Jamaica</a> 
+<a href="https://www.youtube.com/watch?v=pNj9bXKGOiI">Luther Vandross - Never Too Much (Official HD Video)</a> 
+<a href="https://www.youtube.com/watch?v=XYclWyC4qQo">Tom Browne - Funkin' for Jamaica</a>
+<a href="https://www.youtube.com/watch?v=Hj2mA1ZNPFA">Luther Vandross, Gregory Hines - There's Nothing Better Than Love</a>
+አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+<img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg?format=750w">
+<p><a href="https://www.brightfunds.org/funds/diversity-in-tech"> Dear Diversity in Tech</a> I am currently serving as a federal volunteer to get my family out of sex trafficking and I am robbed of opportunities to use the internet. The library system in Los Angeles has been very unsupportive, hovever Long Beach has givin me tools to maintain my webpresence here on ##GiTHUB but I am restricted to time limits and hand out computers with custom excluded search results. The social media companies locked me out so the could help the prostitution community molest my family. The prostitution community of Los Angeles is verified telepathic, and if you are a family member of a kidnapped sex slave used on <a href="https://exoduscry.com/watch/#traffickinghub-video"> ThePornoWeb</a> the mob steals your electronics and bans you from the library in little ways, like I got put out for "body odor" by a guy who purchased my wife at a brothel in ##LiTTLE_TOKYO... They call it blackballing, its highly illegal</p>
+
+<a href="https://www.w3.org/Style/LieBos3e/em.en.html"> How To Style Text Elements with Font, Size, and Color in CSS </a>
+<a href="https://www.w3.org/Style/LieBos3e/em.en.html">The amazing em unit and other best practices </a>
+<a href="https://clagnut.com/blog/348/"> How to size text using ems </a>
+<span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>	
 [THiS_iS_NOT_HOW_HEALTHY_AFRiCA##OPERATES](https://www.youtube.com/watch?v=EPoXBbigVeo) 
 [Sexuality: A Graphic Guide | Launch Event](https://youtu.be/jOIbOMWBHHM) 
 [The Freeze Response and Sexual Assault: PTSD and Trauma Recovery](https://www.youtube.com/watch?v=pes7H4ECTdw) 
@@ -2370,10 +2434,23 @@ Year:	1977 </a>
 </div>
 <img src="https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&w=1039&h=520&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F13%2F2015%2F12%2F16%2Fbrandy.jpg" >
 <img src="https://www.flashlyrics.com/image/tw/brandy/the-boy-is-mine-63">
-
-<a href="https://www.youtube.com/watch?v=Hj2mA1ZNPFA">Luther Vandross, Gregory Hines - There's Nothing Better Than Love</a> <a href="https://www.youtube.com/watch?v=m3-hY-hlhBg">Whitney Houston - How Will I Know (Official Video)</a> <a href="https://www.youtube.com/watch?v=hmHWiUv4wyM">Yolanda Adams - I'm Gonna Be Ready
-</a> <a href="https://www.youtube.com/watch?v=Ptiz0KtR16E">Monica - Before You Walk Out Of My Life (Official HD Video)</a> <a href="https://www.youtube.com/watch?v=wa3tfVjGCQ8">Whitney Houston - Where Do Broken Hearts Go (Official Video)</a> <a href="https://www.youtube.com/watch?v=5ixh1csw2Mk">Count On Me (from "Waiting to Exhale" - Original Soundtrack)</a> <a href="https://www.youtube.com/watch?v=RSP-9SebVpY"> Tamia - Stranger in My House</a> <a href="https://www.youtube.com/watch?v=Xkj1An6Wnec"> Brandy - Have You Ever (Official Video) </a> <a href="https://www.youtube.com/watch?v=lSd1ll37xQU">Missing You - Brandy, Tamia, Gladys Knight and Chaka Khan [Set It Off Soundtrack] (Official Video)</a> <a href="https://www.youtube.com/watch?v=H947PtHmh0Y">Deborah Cox - Nobody's Supposed To Be Here (Official Video)</a> <a href="https://www.youtube.com/watch?v=Y36aBTuRr1o">Gladys Knight & The Pips - Save the Overtime (For Me)</a> <a href="https://www.youtube.com/watch?v=XYclWyC4qQo">Tom Browne - Funkin' for Jamaica</a> <a href="https://www.youtube.com/watch?v=pNj9bXKGOiI">Luther Vandross - Never Too Much (Official HD Video)</a> <a href="https://www.youtube.com/watch?v=XYclWyC4qQo">Tom Browne - Funkin' for Jamaica</a> <a href="https://www.youtube.com/watch?v=Hj2mA1ZNPFA">Luther Vandross, Gregory Hines - There's Nothing Better Than Love</a>
-
+<span class="neonText">
+<a href="https://www.youtube.com/watch?v=Hj2mA1ZNPFA">Luther Vandross, Gregory Hines - There's Nothing Better Than Love</a> <a href="https://www.youtube.com/watch?v=m3-hY-hlhBg">Whitney Houston - How Will I Know (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=hmHWiUv4wyM">Yolanda Adams - I'm Gonna Be Ready
+</a> 
+<a href="https://www.youtube.com/watch?v=Ptiz0KtR16E">Monica - Before You Walk Out Of My Life (Official HD Video)</a> 
+<a href="https://www.youtube.com/watch?v=wa3tfVjGCQ8">Whitney Houston - Where Do Broken Hearts Go (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=5ixh1csw2Mk">Count On Me (from "Waiting to Exhale" - Original Soundtrack)</a> 
+<a href="https://www.youtube.com/watch?v=RSP-9SebVpY"> Tamia - Stranger in My House</a> 
+<a href="https://www.youtube.com/watch?v=Xkj1An6Wnec"> Brandy - Have You Ever (Official Video) </a> 
+<a href="https://www.youtube.com/watch?v=lSd1ll37xQU">Missing You - Brandy, Tamia, Gladys Knight and Chaka Khan [Set It Off Soundtrack] (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=H947PtHmh0Y">Deborah Cox - Nobody's Supposed To Be Here (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=Y36aBTuRr1o">Gladys Knight & The Pips - Save the Overtime (For Me)</a> 
+<a href="https://www.youtube.com/watch?v=XYclWyC4qQo">Tom Browne - Funkin' for Jamaica</a> 
+<a href="https://www.youtube.com/watch?v=pNj9bXKGOiI">Luther Vandross - Never Too Much (Official HD Video)</a> 
+<a href="https://www.youtube.com/watch?v=XYclWyC4qQo">Tom Browne - Funkin' for Jamaica</a>
+<a href="https://www.youtube.com/watch?v=Hj2mA1ZNPFA">Luther Vandross, Gregory Hines - There's Nothing Better Than Love</a>
+አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
 <img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg?format=750w">
 <p><a href="https://www.brightfunds.org/funds/diversity-in-tech"> Dear Diversity in Tech</a> I am currently serving as a federal volunteer to get my family out of sex trafficking and I am robbed of opportunities to use the internet. The library system in Los Angeles has been very unsupportive, hovever Long Beach has givin me tools to maintain my webpresence here on ##GiTHUB but I am restricted to time limits and hand out computers with custom excluded search results. The social media companies locked me out so the could help the prostitution community molest my family. The prostitution community of Los Angeles is verified telepathic, and if you are a family member of a kidnapped sex slave used on <a href="https://exoduscry.com/watch/#traffickinghub-video"> ThePornoWeb</a> the mob steals your electronics and bans you from the library in little ways, like I got put out for "body odor" by a guy who purchased my wife at a brothel in ##LiTTLE_TOKYO... They call it blackballing, its highly illegal</p>
 
