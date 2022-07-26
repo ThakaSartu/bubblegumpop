@@ -1244,16 +1244,16 @@ Relative position for absolute caption
 ```
 <h1>(づ˶•༝•˶)づ♡DEAR_Sartu👰🏾##I_DO_TAKE_YOU_AS</h1>
 <h1>💒MY_LAWFULLY_WEDDED_BRIDE💑</h1>
-
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/KASHDOLL.PNG">
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/WiLDSiDE_BEHiND_THE_SCENES.PNG" > 
 <a href="https://www.youtube.com/watch?v=FOm8LqH5lz8&t=205s" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">Cardi B x Megan Thee Stallion - Inside the WAP (BTS) [Part 1] </a>
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/DEAR_KASH_DOLL_MAYBE_WE_SHOULD_LET_OLD_PEOPLE_WITHOUT_GENITAL_CONTACT_DJ.PNG" >
 <a href="https://youtu.be/DAc1MXEOLgY" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">DEAR_KASH_DOLL_MAYBE_WE_SHOULD_LET_OLD_PEOPLE_WITHOUT_GENITAL_CONTACT_DJ,HOUR_WEDDiNG </a>
 <a href="https://youtu.be/DAc1MXEOLgY" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">SarTu, like Kool DJ Red Alert check him out on<span class="neonText"> 98.7 Kiss-FM </span> (12-4-88) </a>
 
-[Dear Jacobson Firm](https://www.thejacobsonfirmpc.com/) 
-<p>My wife Sartu was kidnapped from Alpharetta Georgia January of 2021 and was prostituted across country by a child molestation ring/regime led by Matt Field of the prostitution crews GNK/REM_aka_GRAB_NEW_KNiCKERS&amp;RED_EYE_MOB_aka_RABBiT_EYE_MOVEMENT. Sever of MSK is also involved and from my understanding Swiss beats. Whom by the way I saw Alicia Keys in prostitution in Hollywood on the walk of fame... they have a flamboyant characature look that the people from Atlanta know from 
-[Halle_Berry's B*A*P*S](https://www.imdb.com/title/tt0118663/?ref_=fn_al_tt_1)
+
+<a href="https://www.thejacobsonfirmpc.com/" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST"><span class="neonText"> Dear Jacobson Firm </span> </a>
+<p>My wife Sartu was kidnapped from Alpharetta Georgia January of 2021 and was prostituted across country by a child molestation ring/regime led by Matt Field of the prostitution crews GNK/REM_aka_GRAB_NEW_KNiCKERS&amp;RED_EYE_MOB_aka_RABBiT_EYE_MOVEMENT. Sever of MSK is also involved and from my understanding Swiss beats. Whom by the way I saw Alicia Keys in prostitution in Hollywood on the walk of fame... they have a flamboyant characature look that the people from Atlanta know from <a href="https://www.imdb.com/title/tt0118663/?ref_=nm_flmg_act_43" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST"><span class="neonText">Halle_Berry's B*A*P*S</span> </a>
 You know prostitution clans often send the sex slaves out with themes like maids, police etc... Villiage People type shit. You are in the recording industry, she was a fellow instructor at Dance411 on moreland ave. You got a lot of LaFace records on your wall I know you know someone that can get me to my family. Muna was supposed to be dead but she Erika, and my 10 year old Coral are in prostitution. You may have heard about the RnB_Molestors of yester year calling her LaRoc. I just know you know something that can reunite us, because Muna singing as Muni Long on Jimmy Kimmel and her friends who sold her into prostitution took me to a staged funeral where they had duped the whole family into attending, That was my last free conversation with Sartu, now shes some hairy bastards prostitute and I have had to defend myself from Organ Harvesting, particularly the penis choppers. Riad and Travis Scott would menace me about Organ harvesting both of us in front of our clan, children and all AM57, that what we call ourselves. You guys never skate or paint graffiti so you dont get that we are the continuation of a legendary Atlanta Art Collective AM7 and we need protection to create art and now we are into Web Development. I am a polygamist, ask Ella Mai, verify me and help us stop their sex trafficking... HUMAN_TRAFFiCKiNG_iS_HiGHLY_iLLEGAL
 </p>
 <img src="https://www.thejacobsonfirmpc.com/wp-content/uploads/2016/12/kash-logo-reg.jpg">
