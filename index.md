@@ -1244,6 +1244,10 @@ Relative position for absolute caption
 ```
 
 <h1>Latest</h1>
+[DEAR_MUNi__aaaaHem_MUNA if i could find your make up vids id like to make some gifs... I made some for Sartu](https://codepen.io/thakarashard/pen/JjLJOzZ)
+[Most practical method for a secret demographic to get its news?](https://worldbuilding.stackexchange.com/questions/233206/most-practical-method-for-a-secret-demographic-to-get-its-news) 
+[Census 2021 Prosecutions22 July 2021|Legal Guidance](https://www.cps.gov.uk/legal-guidance/census-2021-prosecutions)
+
  <video width="100%" controls>
   <source src="https://videos.ctfassets.net/8cd2csgvqd3m/2lJPxUH5XqdTxFjyQi5peI/c9c2125c9aa081cd5ac7be7e4d5ec03e/Sound_And_Vision_For_Your_Home_Beolab_28___Beovision_Harmony_0003_Loop.mp4" type="video/mp4">
   
@@ -1332,8 +1336,12 @@ DOI:10.5120/ijca2016911463](https://www.researchgate.net/publication/308182637_R
 [The Internet of Things: How Smart TVs, Smart Cars, Smart Homes, and Smart Cities Are Changing the World](http://uru.ac.in/uruonlinelibrary/Internet_of_Things/IOT%20How%20and%20Why.pdf)	
 <h2>DEAR_SARTU here are some OS_OPTiONS, I like enlightement E17</h2> [Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0) I want a Macintosh for a lot of SHIT!! BUT I think we will do better as [PODCASTERS_USiNG_LiNUX](https://rss.com/podcasts/bubblegumpop/). Download [UBUNTU_STUDiO](https://ubuntustudio.org/) if you have [access_to_a_computer](https://www.openglobalrights.org/covid-19-exposes-why-access-to-internet-is-human-right/) and [INSTALL_TO_USB_SO_YOU_CAN_KEEP_YOUR_DATA_AND_THE_BUSiNESS_PORTABLE](https://help.ubuntu.com/community/Ubuntu%20Studio%20Installation):: I_PRAY_YOUR_PiMP_DOES_NOT_CHECK your orfices for [USB_STiCKS](https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/78cc6b05-96fb-5cb0-b97c-1517ec410e89/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4). When I can save up enough change Im gonna get a thinkpad replacement and run [ENLiGHTENMENT](https://www.elivecd.org/). I cant make a clear argument here but I want you to keep your head productive [,WATCH_THiS there are not many videos on this platform](https://www.youtube.com/watch?v=aCH18F4OtXQ). Those pimps are not smart and I pray they dont kill you. The rapes are bade enough. Remember the Chair rapes in VENiCE, and those sidewalk rapes. THIS_PLACE... We going to be ok, I will wait for you forever ok. You are not alone. I am still your husband, and only my penis can heal you. I miss our old webseries on iNSTAGRAM that moved to Facebook, then LiNKEDiN, then Facebook... They all hid your prostitution fueled [gangrapes](https://www.hindustantimes.com/videos/world-news/us-influencer-gangraped-in-pakistan-by-3-men-netizens-condemn-shameful-act-101658467051066.html) since their employees were buying you from sex traffickers. Its happening in a lot of places, I remember the johns of Venice laughed at you not remembering that they hit it as they menaced me on the boardwalk [U.O.E.N.O TYPESHiT](https://www.youtube.com/watch?v=cMJrfSTI0Xg). 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/90060745&color=%23120d0d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/norega" title="Nym | Norega" target="_blank" style="color: #cccccc; text-decoration: none;">Nym | Norega</a> · <a href="https://soundcloud.com/norega/rocko-ft-2-chainz-wiz-khalifa" title="Rocko ft. 2 Chainz, Wiz Khalifa, A$AP Rocky, Rick Ross &amp; Future - U.O.E.N.O. (Remix) (Dirty) DL" target="_blank" style="color: #cccccc; text-decoration: none;">Rocko ft. 2 Chainz, Wiz Khalifa, A$AP Rocky, Rick Ross &amp; Future - U.O.E.N.O. (Remix) (Dirty) DL</a></div>
+[Most practical method for a secret demographic to get its news?](https://worldbuilding.stackexchange.com/questions/233206/most-practical-method-for-a-secret-demographic-to-get-its-news)
 
-
+	
+	
+	
+	
 <div class="flex-container">
    
     <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
