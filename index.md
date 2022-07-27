@@ -1217,7 +1217,59 @@ max-width: 80%;
 
   }	
 
-	
+* {
+   transition:all 250ms ease;
+}
+
+body {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+#allphotos {
+  top:30%;
+  left:60%;
+  position:absolute;
+  width: 700px;
+  transform :translateX(-50%) translateY(-50%);
+}
+
+.polaroid {
+  padding:10px 10px 40px;
+  background:white;
+  box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.25);
+  position: absolute;
+  width:150px;
+  height:150px;
+  z-index:0;
+  top:0;
+  
+  &:hover,
+  &:active {
+    top:-10px;
+    z-index:99;
+  }
+}
+
+#one {
+
+  left:15%;
+  transform:rotate(11deg);
+}
+
+#two {
+margin-top:-10px;
+}
+
+#three {
+  left:-15%;
+  transform:rotate(-13deg);
+}
 </style>
 
 
@@ -1245,6 +1297,12 @@ max-width: 80%;
 ```
 <h1>(づ˶•༝•˶)づ♡DEAR_Sartu👰🏾##I_DO_TAKE_YOU_AS</h1>
 <h1>💒MY_LAWFULLY_WEDDED_BRIDE💑</h1>
+<div id="allphotos">
+  <img id="one" class="polaroid" src="https://www.tribalgear.com/global/wp-content/uploads/Z-CAN_PRPL.jpg">
+  <img id="two" class="polaroid" src="https://www.tribalgear.com/global/wp-content/uploads/Z-CAN_MAIN.jpg">
+<img id="three" class="polaroid" src="https://www.tribalgear.com/global/wp-content/uploads/Z-CAN_WHT.jpg">
+</div>
+
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5cf66bae52aad8210f45cbaf/vsco5cf66bafc30a6.jpg">
 <a href="https://www.youtube.com/watch?v=q_tGbTn7kPM" alt="##ELLA_SUPPORTS_THAKA_and_MYSELF_MARRYING_SARTU">
 <img src"https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/screenshots/Screenshot%202022-07-27%205.47.07%20AM.png"></a>
