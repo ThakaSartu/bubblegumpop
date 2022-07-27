@@ -1234,7 +1234,7 @@ max-width: 80%;
   padding:10px 10px 40px;
   background:white;
   box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.25);
-  position: absolute;
+  
   width:150px;
   height:150px;
   z-index:0;
@@ -1323,15 +1323,11 @@ margin-top:-10px;
     <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
 
 </div>
-<div id="allphotos">
-  <img id="one" class="polaroid" src="https://www.tribalgear.com/global/wp-content/uploads/Z-CAN_PRPL.jpg">
-  <img id="two" class="polaroid" src="https://www.tribalgear.com/global/wp-content/uploads/Z-CAN_MAIN.jpg">
-<img id="three" class="polaroid" src="https://www.tribalgear.com/global/wp-content/uploads/Z-CAN_WHT.jpg">
-</div>
+
 
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5cf66bae52aad8210f45cbaf/vsco5cf66bafc30a6.jpg">
 <a href="https://www.youtube.com/watch?v=q_tGbTn7kPM" alt="##ELLA_SUPPORTS_THAKA_and_MYSELF_MARRYING_SARTU">
-<img src"https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/screenshots/Screenshot%202022-07-27%205.47.07%20AM.png"></a>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/screenshots/Screenshot%202022-07-27%205.47.07%20AM.png"></a>
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/LATTOH_SCREEN_BiKiNi2.PNG">
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/KASHDOLL.PNG">
 
