@@ -1245,6 +1245,7 @@ max-width: 80%;
 ```
 <h1>(づ˶•༝•˶)づ♡DEAR_Sartu👰🏾##I_DO_TAKE_YOU_AS</h1>
 <h1>💒MY_LAWFULLY_WEDDED_BRIDE💑</h1>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/LATTOH_SCREEN_BiKiNi2.PNG">
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/KASHDOLL.PNG">
 
 <h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
