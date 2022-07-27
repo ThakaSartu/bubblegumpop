@@ -1246,7 +1246,8 @@ max-width: 80%;
 <h1>(づ˶•༝•˶)づ♡DEAR_Sartu👰🏾##I_DO_TAKE_YOU_AS</h1>
 <h1>💒MY_LAWFULLY_WEDDED_BRIDE💑</h1>
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5cf66bae52aad8210f45cbaf/vsco5cf66bafc30a6.jpg">
-<a href="https://www.youtube.com/watch?v=q_tGbTn7kPM" alt="##ELLA_SUPPORTS_THAKA_and_MYSELF_MARRYING_SARTU"><img src"https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/screenshots/Screenshot%202022-07-27%205.47.07%20AM.png"></a>
+<a href="https://www.youtube.com/watch?v=q_tGbTn7kPM" alt="##ELLA_SUPPORTS_THAKA_and_MYSELF_MARRYING_SARTU">
+<img src"https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/screenshots/Screenshot%202022-07-27%205.47.07%20AM.png"></a>
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/LATTOH_SCREEN_BiKiNi2.PNG">
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/KASHDOLL.PNG">
 
