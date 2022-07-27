@@ -1221,20 +1221,11 @@ max-width: 80%;
    transition:all 250ms ease;
 }
 
-body {
-  position: relative;
-  width: 100%;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
-}
+
 
 #allphotos {
   top:30%;
   left:60%;
-  position:absolute;
   width: 700px;
   transform :translateX(-50%) translateY(-50%);
 }
@@ -1298,12 +1289,38 @@ margin-top:-10px;
 <h1>(づ˶•༝•˶)づ♡DEAR_Sartu👰🏾##I_DO_TAKE_YOU_AS</h1>
 <h1>💒MY_LAWFULLY_WEDDED_BRIDE💑</h1>
 
+
+<div class="panel4-container">
+   
+    <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+
+</div>	
+<div class="panel4-container">
+   
+    <div class="item1"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
+    <div class="item2"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
+    <div class="item3"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
+    <div class="item4"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
+
+</div>
 <div class="panel4-container">
    
 <div class="item1"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
 <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
 <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
 <div class="item4"><img src="https://www.tribalgear.com/global/wp-content/uploads/JOKER_FLAG_MAIN.jpg"></div>
+
+</div>
+
+<div class="panel4-container">
+   
+    <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
 
 </div>
 <div id="allphotos">
