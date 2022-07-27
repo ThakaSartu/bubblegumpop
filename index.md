@@ -1217,50 +1217,6 @@ max-width: 80%;
 
   }	
 
-* {
-   transition:all 250ms ease;
-}
-
-
-
-#allphotos {
-  top:30%;
-  left:60%;
-  width: 700px;
-  transform :translateX(-50%) translateY(-50%);
-}
-
-.polaroid {
-  padding:10px 10px 40px;
-  background:white;
-  box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.25);
-  
-  width:150px;
-  height:150px;
-  z-index:0;
-  top:0;
-  
-  &:hover,
-  &:active {
-    top:-10px;
-    z-index:99;
-  }
-}
-
-#one {
-
-  left:15%;
-  transform:rotate(11deg);
-}
-
-#two {
-margin-top:-10px;
-}
-
-#three {
-  left:-15%;
-  transform:rotate(-13deg);
-}
 </style>
 
 
@@ -1289,7 +1245,7 @@ margin-top:-10px;
 <h1>(づ˶•༝•˶)づ♡DEAR_Sartu👰🏾##I_DO_TAKE_YOU_AS</h1>
 <h1>💒MY_LAWFULLY_WEDDED_BRIDE💑</h1>
 
-
+<img src="https://typedifferent.com/fonts/bd_destination/bd_destination_example1.jpg" >
 <div class="panel4-container">
    
     <div class="item1"><img src="https://www.tribalgear.com/global/wp-content/uploads/angel_main.jpg"></div>
@@ -1298,6 +1254,10 @@ margin-top:-10px;
     <div class="item4"><img src="https://www.tribalgear.com/global/wp-content/uploads/angel_main.jpg"></div>
 
 </div>
+
+<img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example3.jpg" >
+<img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example2.jpg" >
+<img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example1.jpg" >
 
 <div class="panel4-container">
    
