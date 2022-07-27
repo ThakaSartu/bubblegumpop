@@ -1292,6 +1292,15 @@ margin-top:-10px;
 
 <div class="panel4-container">
    
+    <div class="item1"><img src="https://www.tribalgear.com/global/wp-content/uploads/angel_main.jpg"></div>
+    <div class="item2"><img src="https://www.tribalgear.com/global/wp-content/uploads/angel_main.jpg"></div>
+    <div class="item3"><img src="https://www.tribalgear.com/global/wp-content/uploads/angel_main.jpg"></div>
+    <div class="item4"><img src="https://www.tribalgear.com/global/wp-content/uploads/angel_main.jpg"></div>
+
+</div>
+
+<div class="panel4-container">
+   
     <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
     <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
     <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
