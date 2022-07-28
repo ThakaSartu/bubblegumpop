@@ -1785,6 +1785,7 @@ I am looking for ways our podcast can showcase us working together. "Active Wind
 [The Best Multi-Device Mice and Keyboards for Power Users](https://www.reviewgeek.com/26119/the-best-multi-device-mice-and-keyboards-for-power-users/)
 [Can I run two keyboards and mice in different apps?](https://askubuntu.com/questions/334296/can-i-run-two-keyboards-and-mice-in-different-apps)
 [Weekend project: Zap Your Coworkers’ Minds with Multi-Pointer X](https://www.linux.com/training-tutorials/weekend-project-zap-your-coworkers-minds-multi-pointer-x/)
+
 ### xinput list
 ```
 ⎡ Virtual core pointer          	id=2	[master pointer (3)]
@@ -1879,7 +1880,7 @@ It has been happening for a while
 [Renters In America Are Running Out Of Options](https://www.youtube.com/watch?v=KgTxzCe490Q)
 [Stolen Identity | FULL EPISODE | The FBI Files](https://www.youtube.com/watch?v=MtLohVzqZE8)
 [Best Of Ransom Cases | FULL EPISODE | The FBI Files](https://www.youtube.com/watch?v=rum8JtljU3o)
--	
+	
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -1894,9 +1895,9 @@ It has been happening for a while
     </div>
   </div>
 </div>
--	
-
 	
+
+
 # DEAR_ELDRiAN_iVY 
 ### yo daddy said you can be my wife as well
 # REMEMBER_TRiSENX?
@@ -1904,7 +1905,6 @@ It has been happening for a while
 [Smelly device would liven up web browsing](https://www.newscientist.com/article/dn4705-smelly-device-would-liven-up-web-browsing/)
 [The Effects of Computerized Smell of Memory::Nova Southeastern University::](https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1855&context=gscis_etd)
 [New Invention Lets You Taste the TV](https://www.youtube.com/watch?v=LJD-uPTIgx8)
-	
 
 
 <div class="panel4-container">
@@ -1916,10 +1916,9 @@ It has been happening for a while
 </div>
 	
 	
-## GOOD_L_A_P_L_FiNDS ::GOODREADiNG::
-<iframe src="https://app.box.com/embed/s/5offd8aji0f4ohd959gnx4ac2bxcmue8?sortColumn=date&view=list" width="60%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
 <img src="https://www.6speedonline.com/wp-content/uploads/2015/03/Pennzoil_Airlift_Drift_-_YouTube1.jpg" >
-<iframe src="https://app.box.com/embed/s/0lhathv15em7gu9se4uda4zshevhueaz?sortColumn=date&view=list" width="60%" height="550" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+
 
 <h2> GHOST_iN_THE_SHELL 1995 </h2>
 <p>Since my family got kidnapped I have had to cope with messages and threats from of the prostitution crews of LOS_ANGELES_and_ATLANTA they all operate here ya know... ##GLOBAL_SEX_SLAVE_TRADE_and_TOURiSM hint hint. The thing now that 2 years nearly have passed... No one talks to me, Im destitute and I get random glimpses of my wives and our chldren on the street. The Main 3 I have spotted in prostitution aka SexSlavery. Ive lived with them SARTU_ERiKA_and_MUNA_aka_MUNi and I know their sexuality they are not prostitutes. I hate getting notices from random creepy people that you are not going to get your family back and may lose your penis. The agression is awful and now that I have lived here a while and know what my wives orgasm patterns look like in the real world... I know whos raping them</p>
