@@ -1248,8 +1248,8 @@ max-width: 80%;
 <p> Listen, the shit Travis, Riad and the PornoPiMpS_and_JonZ did to you for maintaining and seeking to complete our cohabitation plan as man and wife is sadly common during <span class="neonText">CORONA_aka_COViD_QUARANTiNE</span>. That someone walking into my bathroom feeling is natural and there is a huge healthy population nationwide who see you as a victim...
 <h3> <a href="https://youtu.be/ihhgZlD5Uuo">##YOU_WERE_ViCTiMiZED## </a></h3>
 
-[The Smashing Pumpkins - Today](https://youtu.be/EGDatsy_Hgk)
-
+<a href="https://youtu.be/EGDatsy_Hgk">The Smashing Pumpkins - Today</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tQ0yjYUFKAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <div class="panel4-container">
     <div class="item1"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
     <div class="item2"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
