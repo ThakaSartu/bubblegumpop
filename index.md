@@ -1246,8 +1246,10 @@ max-width: 80%;
 <h1>💒MY_LAWFULLY_WEDDED_BRIDE##YOU_AiNT_DiD_SHiT💑</h1>
 <a href="https://youtu.be/ihhgZlD5Uuo"><span class="neonText">Actual Crimes Streamed on Twitch</span></a>
 <p> Listen, the shit Travis, Riad and the PornoPiMpS_and_JonZ did to you for maintaining and seeking to complete our cohabitation plan as man and wife is sadly common during <span class="neonText">CORONA_aka_COViD_QUARANTiNE</span>. That someone walking into my bathroom feeling is natural and there is a huge healthy population nationwide who see you as a victim...
-<h3> <a href="https://youtu.be/ihhgZlD5Uuo">##YOU_WERE_ViCTiMiZED## </a></h3> 
+<h3> <a href="https://youtu.be/ihhgZlD5Uuo">##YOU_WERE_ViCTiMiZED## </a></h3>
+
 [The Smashing Pumpkins - Today](https://youtu.be/EGDatsy_Hgk)
+
 <div class="panel4-container">
     <div class="item1"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
     <div class="item2"><img src="//im.vsco.co/aws-us-west-2/12f8b0/56497/5c9d3b13e58b91563424b6ca/vsco5c9d3b14e05d4.jpg"></div>
@@ -1267,43 +1269,7 @@ max-width: 80%;
 <img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example3.jpg" >
 <img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example2.jpg" >
 <img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example1.jpg" >
-[TWiTTER_SUPPRESSED_US_AND_SARTU_GOT_RAPED](https://thakarashard.github.io/bubblegumpop/noodles.html)
-<h1>Sartu I LOVE U</h1>
-[ELLA MAI_on_HYPEBAE](https://hypebae.com/tags/ella-mai)
-[LETS_DO_THIS_ELLA](https://www.youtube.com/watch?v=9Fxd70t4MIg) [Street Life - The Crusaders_FT_RANDY_CRAWFORD::1979](https://youtu.be/-iVR7WLsvAg)
-[Don't Disturb This Groove::Vocal Remix](https://www.youtube.com/watch?v=Chlk761MQK8)
-[Love Has Come Around::Donald Byrd & 125th Street_NYC ProfileSouldiscofunkcollectivE](https://youtu.be/pEONuPt-0eg) 
-[Wand Curls Quick Tutorial Melisza Mcfierce](https://youtube.com/shorts/gAL5X-rKQC0?feature=share) 
-[4C Hair To 3C ? | Bantu Knot Tutorial On 4C Hair](https://www.youtube.com/watch?v=_d5E7iJYedg) 
-[To my Dear Friend Muna Ahmed](https://www.youtube.com/watch?v=yiI0y89mp_8) 
-[I_AM_HERE_DJiNG_SCRATCH_DJ_STYLE_TRANSiTiONS PRACTiCE_SESSiON IN_MY_OLD_HOUSE OVER-KMD_What a Niggy Know? Freestyle -](https://www.youtube.com/watch?v=7JvwCXVFUto) [Repairing a Space Invaders Arcade](https://www.youtube.com/watch?v=5HaJq-gY6Xk)
-[CLOUD_COMPUTiNG_LAW](https://www.pbookshop.com/media/filetype/s/p/1381907047.pdf) 
-[HTML5_HACKS](https://pepa.holla.cz/wp-content/uploads/2016/03/HTML5-Hacks.pdf) 
-[Learning Responsive Web Design by Clarissa Peterson](https://www.chinhnghia.com/144936294XDesign.pdf)
-[Audience's behavior and attitudes towards lifestyle video blogs on Youtube
-Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf) 
-[BLOGGiNG_FOR_DUMMiES](https://oiipdf.com/blogging-for-dummies-isbn-0470230177) 
-[RESPONSIVE WEB DESIGN::Ethan Marcotte](http://nadin.miem.edu.ru/images_2015/responsive-web-design-2nd-edition.pdf)
-[Responsive Web Design Techniques September 2016International Journal of Computer Applications 150(2):18-27
-DOI:10.5120/ijca2016911463](https://www.researchgate.net/publication/308182637_Responsive_Web_Design_Techniques) 
-[ WEB_TYPOGRAPHY](https://www.perlego.com/book/1571880/the-new-web-typography-create-a-visual-hierarchy-with-responsive-web-design-pdf)
-[Delhi University Computer Centre::COMPUTER_BASiCS_PRESENTATiON](https://www.vfu.bg/en/e-Learning/Computer-Basics--computer_basics2.pdf)
-[The Internet of Things: How Smart TVs, Smart Cars, Smart Homes, and Smart Cities Are Changing the World](http://uru.ac.in/uruonlinelibrary/Internet_of_Things/IOT%20How%20and%20Why.pdf)
-	
-<h2>DEAR_SARTU here are some OS_OPTiONS, I like enlightement E17</h2> 
-[Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0)
-I want a Macintosh for a lot of SHIT!! BUT I think we will do better as
-[PODCASTERS_USiNG_LiNUX](https://rss.com/podcasts/bubblegumpop/). 
-Download [UBUNTU_STUDiO](https://ubuntustudio.org/)
-if you have 
-[access_to_a_computer](https://www.openglobalrights.org/covid-19-exposes-why-access-to-internet-is-human-right/) and [INSTALL_TO_USB_SO_YOU_CAN_KEEP_YOUR_DATA_AND_THE_BUSiNESS_PORTABLE](https://help.ubuntu.com/community/Ubuntu%20Studio%20Installation)  I_PRAY_YOUR_PiMP_DOES_NOT_CHECK your orfices for 
-[USB_STiCKS](https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/78cc6b05-96fb-5cb0-b97c-1517ec410e89/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4). When I can save up enough change Im gonna get a thinkpad replacement and run
-[ENLiGHTENMENT](https://www.elivecd.org/). I cant make a clear argument here but I want you to keep your head productive 
-[,WATCH_THiS there are not many videos on this platform](https://www.youtube.com/watch?v=aCH18F4OtXQ). Those pimps are not smart and I pray they dont kill you. The rapes are bade enough. Remember the Chair rapes in VENiCE, and those sidewalk rapes. THIS_PLACE... We going to be ok, I will wait for you forever ok. You are not alone. I am still your husband, and only my penis can heal you. I miss our old webseries on iNSTAGRAM that moved to Facebook, then LiNKEDiN, then Facebook... They all hid your prostitution fueled 
-[gangrapes](https://www.hindustantimes.com/videos/world-news/us-influencer-gangraped-in-pakistan-by-3-men-netizens-condemn-shameful-act-101658467051066.html) since their employees were buying you from sex traffickers. Its happening in a lot of places, I remember the johns of Venice laughed at you not remembering that they hit it as they menaced me on the boardwalk 
-[U.O.E.N.O TYPESHiT](https://www.youtube.com/watch?v=cMJrfSTI0Xg). 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/90060745&color=%23120d0d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/norega" title="Nym | Norega" target="_blank" style="color: #cccccc; text-decoration: none;">Nym | Norega</a> · <a href="https://soundcloud.com/norega/rocko-ft-2-chainz-wiz-khalifa" title="Rocko ft. 2 Chainz, Wiz Khalifa, A$AP Rocky, Rick Ross &amp; Future - U.O.E.N.O. (Remix) (Dirty) DL" target="_blank" style="color: #cccccc; text-decoration: none;">Rocko ft. 2 Chainz, Wiz Khalifa, A$AP Rocky, Rick Ross &amp; Future - U.O.E.N.O. (Remix) (Dirty) DL</a></div>
-[Most practical method for a secret demographic to get its news?](https://worldbuilding.stackexchange.com/questions/233206/most-practical-method-for-a-secret-demographic-to-get-its-news)
+
 <div class="panel4-container">
    
     <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
@@ -3161,6 +3127,43 @@ Its conditionality is the death of one’s wife. The younger sister or relative 
   </div>
 </div>	
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/596188557&color=%236c5c34&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+[TWiTTER_SUPPRESSED_US_AND_SARTU_GOT_RAPED](https://thakarashard.github.io/bubblegumpop/noodles.html)
+<h1>Sartu I LOVE U</h1>
+[ELLA MAI_on_HYPEBAE](https://hypebae.com/tags/ella-mai)
+[LETS_DO_THIS_ELLA](https://www.youtube.com/watch?v=9Fxd70t4MIg) [Street Life - The Crusaders_FT_RANDY_CRAWFORD::1979](https://youtu.be/-iVR7WLsvAg)
+[Don't Disturb This Groove::Vocal Remix](https://www.youtube.com/watch?v=Chlk761MQK8)
+[Love Has Come Around::Donald Byrd & 125th Street_NYC ProfileSouldiscofunkcollectivE](https://youtu.be/pEONuPt-0eg) 
+[Wand Curls Quick Tutorial Melisza Mcfierce](https://youtube.com/shorts/gAL5X-rKQC0?feature=share) 
+[4C Hair To 3C ? | Bantu Knot Tutorial On 4C Hair](https://www.youtube.com/watch?v=_d5E7iJYedg) 
+[To my Dear Friend Muna Ahmed](https://www.youtube.com/watch?v=yiI0y89mp_8) 
+[I_AM_HERE_DJiNG_SCRATCH_DJ_STYLE_TRANSiTiONS PRACTiCE_SESSiON IN_MY_OLD_HOUSE OVER-KMD_What a Niggy Know? Freestyle -](https://www.youtube.com/watch?v=7JvwCXVFUto) [Repairing a Space Invaders Arcade](https://www.youtube.com/watch?v=5HaJq-gY6Xk)
+[CLOUD_COMPUTiNG_LAW](https://www.pbookshop.com/media/filetype/s/p/1381907047.pdf) 
+[HTML5_HACKS](https://pepa.holla.cz/wp-content/uploads/2016/03/HTML5-Hacks.pdf) 
+[Learning Responsive Web Design by Clarissa Peterson](https://www.chinhnghia.com/144936294XDesign.pdf)
+[Audience's behavior and attitudes towards lifestyle video blogs on Youtube
+Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf) 
+[BLOGGiNG_FOR_DUMMiES](https://oiipdf.com/blogging-for-dummies-isbn-0470230177) 
+[RESPONSIVE WEB DESIGN::Ethan Marcotte](http://nadin.miem.edu.ru/images_2015/responsive-web-design-2nd-edition.pdf)
+[Responsive Web Design Techniques September 2016International Journal of Computer Applications 150(2):18-27
+DOI:10.5120/ijca2016911463](https://www.researchgate.net/publication/308182637_Responsive_Web_Design_Techniques) 
+[ WEB_TYPOGRAPHY](https://www.perlego.com/book/1571880/the-new-web-typography-create-a-visual-hierarchy-with-responsive-web-design-pdf)
+[Delhi University Computer Centre::COMPUTER_BASiCS_PRESENTATiON](https://www.vfu.bg/en/e-Learning/Computer-Basics--computer_basics2.pdf)
+[The Internet of Things: How Smart TVs, Smart Cars, Smart Homes, and Smart Cities Are Changing the World](http://uru.ac.in/uruonlinelibrary/Internet_of_Things/IOT%20How%20and%20Why.pdf)
+	
+<h2>DEAR_SARTU here are some OS_OPTiONS, I like enlightement E17</h2> 
+[Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0)
+I want a Macintosh for a lot of SHIT!! BUT I think we will do better as
+[PODCASTERS_USiNG_LiNUX](https://rss.com/podcasts/bubblegumpop/). 
+Download [UBUNTU_STUDiO](https://ubuntustudio.org/)
+if you have 
+[access_to_a_computer](https://www.openglobalrights.org/covid-19-exposes-why-access-to-internet-is-human-right/) and [INSTALL_TO_USB_SO_YOU_CAN_KEEP_YOUR_DATA_AND_THE_BUSiNESS_PORTABLE](https://help.ubuntu.com/community/Ubuntu%20Studio%20Installation)  I_PRAY_YOUR_PiMP_DOES_NOT_CHECK your orfices for 
+[USB_STiCKS](https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/78cc6b05-96fb-5cb0-b97c-1517ec410e89/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4). When I can save up enough change Im gonna get a thinkpad replacement and run
+[ENLiGHTENMENT](https://www.elivecd.org/). I cant make a clear argument here but I want you to keep your head productive 
+[,WATCH_THiS there are not many videos on this platform](https://www.youtube.com/watch?v=aCH18F4OtXQ). Those pimps are not smart and I pray they dont kill you. The rapes are bade enough. Remember the Chair rapes in VENiCE, and those sidewalk rapes. THIS_PLACE... We going to be ok, I will wait for you forever ok. You are not alone. I am still your husband, and only my penis can heal you. I miss our old webseries on iNSTAGRAM that moved to Facebook, then LiNKEDiN, then Facebook... They all hid your prostitution fueled 
+[gangrapes](https://www.hindustantimes.com/videos/world-news/us-influencer-gangraped-in-pakistan-by-3-men-netizens-condemn-shameful-act-101658467051066.html) since their employees were buying you from sex traffickers. Its happening in a lot of places, I remember the johns of Venice laughed at you not remembering that they hit it as they menaced me on the boardwalk 
+[U.O.E.N.O TYPESHiT](https://www.youtube.com/watch?v=cMJrfSTI0Xg). 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/90060745&color=%23120d0d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/norega" title="Nym | Norega" target="_blank" style="color: #cccccc; text-decoration: none;">Nym | Norega</a> · <a href="https://soundcloud.com/norega/rocko-ft-2-chainz-wiz-khalifa" title="Rocko ft. 2 Chainz, Wiz Khalifa, A$AP Rocky, Rick Ross &amp; Future - U.O.E.N.O. (Remix) (Dirty) DL" target="_blank" style="color: #cccccc; text-decoration: none;">Rocko ft. 2 Chainz, Wiz Khalifa, A$AP Rocky, Rick Ross &amp; Future - U.O.E.N.O. (Remix) (Dirty) DL</a></div>
+[Most practical method for a secret demographic to get its news?](https://worldbuilding.stackexchange.com/questions/233206/most-practical-method-for-a-secret-demographic-to-get-its-news)
 [CSS performance optimization](https://developer.mozilla.org/en-US/docs/Learn/Performance/CSS)
 [HTML_CSS_RENDERiNG_PERFORMANCE_BASiCS](https://developer.mozilla.org/en-US/docs/Web/Performance/Fundamentals)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643348296&color=%2312bad0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
