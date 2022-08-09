@@ -1243,7 +1243,7 @@ max-width: 80%;
 4 # UNiVERSE##############################################
 ```
 <h1>(づ˶•༝•˶)づ♡DEAR_Sartu, CheckOut this video about REVENGE_PORN</h1>
-<h1>💒MY_LAWFULLY_WEDDED_BRIDE##YOU_AiNT_DiD_SHiT💑</h1>
+<h1>💒MY_LAWFULLY_WEDDED_BRIDE YOU_AiNT_DiD_SHiT💑</h1>
 <a href="https://youtu.be/zQDcJBrLcNQ" target="_blank" alt="WE_NEED_TO_MARRY_INFRONT_OF_PEOPLE_WITH_WITH_ALL_OUR_PEOPLEFRIENDS_FOREVER_WE_SURVIVED_THE_BOMBINGS_IN_GEORGIA!LETS_GET_MARRIED" ><img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg"> </a>
 [Yearning For Your Love](https://www.youtube.com/watch?v=afqzUbvi7D8)
 <a href="https://youtu.be/ihhgZlD5Uuo"><span class="neonText">Actual Crimes Streamed on Twitch</span></a>
