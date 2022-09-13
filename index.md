@@ -2925,7 +2925,7 @@ Then understand that commercial sex, in all its forms, is a deeply exploitative 
 ## The Abolition Model
 <p>We must adopt the Abolition Model of law (also called the Equality Model or Nordic Model) to reduce demand by punishing sex buyers—NOT those who are sold for sex. It offers protection and social services to those being sold, as well.
 This approach dramatically reduces demand for prostitution and puts pimps and traffickers out of business. Stopping the demand is the key to abolition. </p> 
-- <a href="https://exoduscry.com/abolitionist/success/">EXODUS&deg;CRY
+<a href="https://exoduscry.com/abolitionist/success/">EXODUS&deg;CRY
 <span class="firstcharacterDisplay">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
 
 
@@ -2935,10 +2935,11 @@ This approach dramatically reduces demand for prostitution and puts pimps and tr
   <img class="pinupImage" src="https://i.pinimg.com/originals/34/50/5b/34505b6cb0a31cc3159323f15f2fd221.jpg" alt="">
   <img class="pinupImage  featured-pinupImage" src="https://i.pinimg.com/originals/34/50/5b/34505b6cb0a31cc3159323f15f2fd221.jpg" alt="">
 </div>
+
 ## ሳቲዚ ጀብዱዚ ሙና ዐሪካ ላራ ከሊላ
-[Marriage Practices Among The Gidda Oromo,
-Northern Wollega, Ethiopia](http://www.njas.helsinki.fi/pdf-files/vol15num3/beyene.pdf)	by [Gemechu Beyene](https://www.researchgate.net/scientific-contributions/Gemechu-Beyene-36094326) & [Assefa Tolera](https://www.semanticscholar.org/author/Assefa-Tolera/114598861)
+[Marriage Practices Among The Gidda Oromo,Northern Wollega, Ethiopia](http://www.njas.helsinki.fi/pdf-files/vol15num3/beyene.pdf)	by [Gemechu Beyene](https://www.researchgate.net/scientific-contributions/Gemechu-Beyene-36094326) & [Assefa Tolera](https://www.semanticscholar.org/author/Assefa-Tolera/114598861)
 <img src="https://www.rct.uk/sites/default/files/styles/rctr-scale-1300-500/public/collection-online/e/5/1032675-1622115262.jpg?itok=gaFb1-Qp">
+
 ### Three Types of Oromo Marriage
 Marriage is one of the most important rituals in Oromo culture. The custom of marriage differs in various parts of the world and every civilization produces a marriage pattern appropriate to itself (Ludlow, 1965, cited in Gemechu & Assefa., 2006). Among the Oromo society also the type, name and ceremonies differ to some degree from place to place. Generally, there are three types of marriage among the Oormo.
 
@@ -2991,7 +2992,7 @@ Its conditionality is the death of one’s wife. The younger sister or relative 
 ————————-
 
 *Tigist Geme is formerly a lecturer at Addis Ababa University. This article is an excerpt from her thesis titled “Themes and Patterns of Traditional Oromo Marriage Counseling” </p>	
-	</div>
+
 
 
 <img src="https://ilr.law.uiowa.edu/print/volume-99-issue-3/how-to-lie-with-rape-statistics-americas-hidden-rape-crisis/">
